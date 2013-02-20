@@ -1,5 +1,8 @@
 package utils;
 
+import java.io.FileWriter;
+import java.io.IOException;
+
 public class IOOperator {
 	private static IOOperator singleton;
 	private FileWriter writer;
