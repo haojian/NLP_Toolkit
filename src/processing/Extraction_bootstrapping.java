@@ -36,9 +36,10 @@ public class Extraction_bootstrapping {
 	}
 	
 	public void InitSeedExtraction(){
-		curExtractions.add(new Extraction("tasty", "food", 1));
-		curExtractions.add(new Extraction("delicious", "food", 1));
-		curExtractions.add(new Extraction("disgusting", "food", 1));
+		curExtractions.add(new Extraction("tasty", "food", 0));
+		curExtractions.add(new Extraction("delicious", "food", 0));
+		curExtractions.add(new Extraction("disgusting", "food", 0));
+		curExtractions.add(new Extraction("disgusting", "food", 0));
 	}
 	
 	public void Process(){
