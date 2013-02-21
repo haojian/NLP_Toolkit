@@ -10,6 +10,14 @@ import data_structure.Template;
 import data_structure.Value;
 
 public class Extraction_bootstrapping {
+	public static Extraction_bootstrapping singleton;
+	public static Extraction_bootstrapping getInstance() {
+		if (singleton == null)
+			singleton = new Extraction_bootstrapping();
+		return singleton;
+	}
+	
+	
 	private ArrayList<Template> curTemplates;
 	private ArrayList<Extraction> curExtractions;
 	private int bootstrapping_cutoff = ParameterSetting.BOOTSTRAPPINGTHRESHOLD;
@@ -19,7 +27,11 @@ public class Extraction_bootstrapping {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		
+	}
+	
+	public void InitSeedExtraction(){
+		
 	}
 	
 	public void Process(){
