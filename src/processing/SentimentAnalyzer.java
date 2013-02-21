@@ -80,6 +80,7 @@ public class SentimentAnalyzer {
 				_dict.put(word, score);
 			}
 			System.out.println("SentiWordNet initialized!");
+			csv.close();
 		}
 		catch(Exception e){e.printStackTrace();}
 	}
