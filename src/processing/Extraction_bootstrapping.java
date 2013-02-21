@@ -30,6 +30,11 @@ public class Extraction_bootstrapping {
 		
 	}
 	
+	public Extraction_bootstrapping(){
+		curTemplates = new ArrayList<Template>();
+		curExtractions = new ArrayList<Extraction>();
+	}
+	
 	public void InitSeedExtraction(){
 		
 	}
