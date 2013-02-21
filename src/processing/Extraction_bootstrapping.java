@@ -39,7 +39,7 @@ public class Extraction_bootstrapping {
 		curExtractions.add(new Extraction("tasty", "food", 0));
 		curExtractions.add(new Extraction("delicious", "food", 0));
 		curExtractions.add(new Extraction("disgusting", "food", 0));
-		curExtractions.add(new Extraction("disgusting", "food", 0));
+		curExtractions.add(new Extraction("best", "food", 0));
 	}
 	
 	public void Process(){
