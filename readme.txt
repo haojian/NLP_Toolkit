@@ -9,6 +9,8 @@ From the paper: http://ufal.mff.cuni.cz/pbml/98/art-marsik-bojar.pdf,
 There is a comparison between different sentence splitting frameworks.
 I used the Apache OpenNLP in this project.
 
+execution speed: 10k sentences/second.
+
 sentence splitter DescriptiveStatistics:
 n: 1058041
 min: 1.0

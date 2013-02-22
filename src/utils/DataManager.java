@@ -22,27 +22,29 @@ public class DataManager {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		DataManager.getInstance().processFilesUnderFolder(ParameterSetting.PATHTOCRAWLEDDATA);
+		
+		for(File input : DataManager.getInstance().getFilesUnderFolder(ParameterSetting.PATHTOCRAWLEDDATA)){
+			long startTime = System.currentTimeMillis();
+			int size = DataManager.getInstance().getSentencesInFile(input).size();
+			long ellapse = System.currentTimeMillis() - startTime;
+			System.out.println(input.getName() + " \t " + size + " Execution time: " + ellapse);
+		}
 	}
 	
-	public void processFilesUnderFolder(String pathToDir){
+	public File[] getFilesUnderFolder(String pathToDir){
 		File dir = new File(pathToDir);
 		if(!dir.isDirectory()){
 			System.out.println("input path need to be a path to directory!");
-			return;
+			return null;
 		}
-		for(File fileEntry : dir.listFiles()){
-			System.out.println(fileEntry.getName());
-			processSingleFile(fileEntry);
-		}
-		TextUtil.OutputStats(SentenceSplitter.getInstance().stats, "sentence splitter ");
+		return dir.listFiles();
 	}
 	
-	public void processSingleFile(File inputFile){
+	public ArrayList<String> getSentencesInFile(File inputFile){
 		if(!inputFile.exists())
-			return;
-		
+			return null;
 		try{
+			ArrayList<String> res = new ArrayList<String>();
 			BufferedReader buReader = new BufferedReader(new FileReader(inputFile));
 			String tmp="";
 			int i = 0;
@@ -55,12 +57,12 @@ public class DataManager {
 						continue;
 					}
 					ArrayList<String> sentences = SentenceSplitter.getInstance().sentence_split(tmp);
+					res.addAll(sentences);
+					/*
 					for(String sent : sentences){
-
 							//ArrayList<String> noun_results =stanfordparser.getInstance().parse_noun(sent);
 							//IOOperator.getInstance().writeToFile(output_path, TextUtil.joinStringArrayList(noun_results) + "\n", true);
-
-					}
+					}*/
 					tmp = "";
 					i++;
 					//System.out.println(String.valueOf(i)+ "th paragraph");
@@ -73,16 +75,20 @@ public class DataManager {
 				// flush the last result to output file.
 				if(!tmp.isEmpty()){
 					ArrayList<String> sentences = SentenceSplitter.getInstance().sentence_split(tmp);
-					
+					res.addAll(sentences);
+					/*
 					for(String sent : sentences){
 						//ArrayList<String> noun_results =stanfordparser.getInstance().parse_noun(sent);
 						//IOOperator.getInstance().writeToFile(output_path, TextUtil.joinStringArrayList(noun_results) + "\n", true);
 					}
+					*/
 				}
 			}
+			return res;
 		}catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		return null;
 	}
 }
