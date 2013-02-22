@@ -3,6 +3,8 @@ package utils;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+import org.apache.commons.math3.stat.descriptive.DescriptiveStatistics;
+
 import data_structure.Attribute;
 import data_structure.Value;
 
@@ -40,5 +42,9 @@ public class TextUtil {
 			res.addAll(Arrays.asList(tmp));
 		}
 		return res;
+	}
+	
+	public static void OutputStats(DescriptiveStatistics stats, String desc){
+		System.out.println(desc + stats.toString());
 	}
 }
