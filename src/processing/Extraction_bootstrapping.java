@@ -42,7 +42,8 @@ public class Extraction_bootstrapping {
 		curExtractions.add(new Extraction("best", "food", 0));
 	}
 	
-	public void Process(){
+	public void Process(ArrayList<String> sent){
+		
 		return;
 	}
 	

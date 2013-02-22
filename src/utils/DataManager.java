@@ -22,7 +22,6 @@ public class DataManager {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
 		for(File input : DataManager.getInstance().getFilesUnderFolder(ParameterSetting.PATHTOCRAWLEDDATA)){
 			long startTime = System.currentTimeMillis();
 			int size = DataManager.getInstance().getSentencesInFile(input).size();
