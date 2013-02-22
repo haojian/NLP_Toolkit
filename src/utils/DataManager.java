@@ -24,10 +24,13 @@ public class DataManager {
 		// TODO Auto-generated method stub
 		for(File input : DataManager.getInstance().getFilesUnderFolder(ParameterSetting.PATHTOCRAWLEDDATA)){
 			long startTime = System.currentTimeMillis();
-			int size = DataManager.getInstance().getSentencesInFile(input).size();
+			ArrayList<String> tmp =  DataManager.getInstance().getSentencesInFile(input);
+			int size = tmp.size();
+			Extraction_bootstrapping.getInstance().UpdateCorpus(tmp);
 			long ellapse = System.currentTimeMillis() - startTime;
 			System.out.println(input.getName() + " \t " + size + " Execution time: " + ellapse);
 		}
+		Extraction_bootstrapping.getInstance().StartProcess();
 	}
 	
 	public File[] getFilesUnderFolder(String pathToDir){

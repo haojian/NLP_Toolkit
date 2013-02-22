@@ -22,6 +22,7 @@ public class Extraction_bootstrapping {
 	private ArrayList<Template> curTemplates;
 	private ArrayList<Extraction> curExtractions;
 	private int bootstrapping_cutoff = ParameterSetting.BOOTSTRAPPINGTHRESHOLD;
+	private ArrayList<String> corpus;
 	
 	/**
 	 * @param args
@@ -34,6 +35,7 @@ public class Extraction_bootstrapping {
 	public Extraction_bootstrapping(){
 		curTemplates = new ArrayList<Template>();
 		curExtractions = new ArrayList<Extraction>();
+		corpus = new ArrayList<String>();
 	}
 	
 	public void InitSeedExtraction(){
@@ -43,8 +45,23 @@ public class Extraction_bootstrapping {
 		curExtractions.add(new Extraction("best", "food", 0));
 	}
 	
-	public void Process(ArrayList<String> sent){
+	public void UpdateCorpus(ArrayList<String> sents){
+		corpus.addAll(sents);
+		System.out.println("Corpus updated at size: "  + corpus.size());
+	}
+	
+	public void StartProcess(){
 		//if((ArrayList<String> res = TextUtil.patternExtraction(val, attr, sent))
+		int lastIterationSize = -1;
+		int i = 0;
+		while(curExtractions.size() != lastIterationSize){
+			lastIterationSize = curExtractions.size();
+			TemplateInduction();
+			AttributeInduction();
+			ValueInduction();
+			i++;
+			System.out.println(i + "th iteration: "  + curExtractions.size());
+		}
 		return;
 	}
 	
@@ -57,6 +74,7 @@ public class Extraction_bootstrapping {
 	}
 	
 	public void TemplateInduction(){
+		
 		return;
 	}
 	
@@ -66,7 +84,7 @@ public class Extraction_bootstrapping {
 
 	
 	
-	private void TemplateLookingUp(){
+	private void OutputProcessingRes(){
 		
 	}
 }
