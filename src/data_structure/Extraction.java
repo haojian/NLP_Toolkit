@@ -22,27 +22,27 @@ public class Extraction {
 		this.setNumberofoccurances(occurance);
 	}
 	
-	private Value getVal() {
+	public Value getVal() {
 		return val;
 	}
 	
-	private void setVal(Value val) {
+	public void setVal(Value val) {
 		this.val = val;
 	}
 	
-	private Attribute getAttr() {
+	public Attribute getAttr() {
 		return attr;
 	}
 	
-	private void setAttr(Attribute attr) {
+	public void setAttr(Attribute attr) {
 		this.attr = attr;
 	}
 	
-	private int getNumberofoccurances() {
+	public int getNumberofoccurances() {
 		return numberofoccurances;
 	}
 	
-	private void setNumberofoccurances(int numberofoccurances) {
+	public void setNumberofoccurances(int numberofoccurances) {
 		this.numberofoccurances = numberofoccurances;
 	}
 }

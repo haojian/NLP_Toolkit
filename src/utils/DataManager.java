@@ -23,12 +23,15 @@ public class DataManager {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		for(File input : DataManager.getInstance().getFilesUnderFolder(ParameterSetting.PATHTOCRAWLEDDATA)){
+			if(input.getName().split("_").length != 3)
+				continue;
 			long startTime = System.currentTimeMillis();
 			ArrayList<String> tmp =  DataManager.getInstance().getSentencesInFile(input);
 			int size = tmp.size();
 			Extraction_bootstrapping.getInstance().UpdateCorpus(tmp);
 			long ellapse = System.currentTimeMillis() - startTime;
 			System.out.println(input.getName() + " \t " + size + " Execution time: " + ellapse);
+			break;
 		}
 		Extraction_bootstrapping.getInstance().StartProcess();
 	}

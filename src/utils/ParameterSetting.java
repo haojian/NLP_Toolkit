@@ -9,4 +9,5 @@ public class ParameterSetting {
 	
 	public static String PATHTOCRAWLEDDATA = "/Users/snz5pal/Documents/pastwork/RevTxt/crawleddata";
 	public static String PATHTOLOG = "./log.txt";
+	public static String PATHTODEBUG = "./debug.txt";
 }

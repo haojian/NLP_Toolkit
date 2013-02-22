@@ -36,6 +36,7 @@ public class Extraction_bootstrapping {
 		curTemplates = new ArrayList<Template>();
 		curExtractions = new ArrayList<Extraction>();
 		corpus = new ArrayList<String>();
+		InitSeedExtraction();
 	}
 	
 	public void InitSeedExtraction(){
@@ -59,6 +60,7 @@ public class Extraction_bootstrapping {
 			TemplateInduction();
 			AttributeInduction();
 			ValueInduction();
+			bootstrapping_cutoff += ParameterSetting.BOOTSTRAPPINGTHRESHOLD;
 			i++;
 			System.out.println(i + "th iteration: "  + curExtractions.size());
 		}
@@ -66,6 +68,7 @@ public class Extraction_bootstrapping {
 	}
 	
 	public void ValueInduction(){
+		
 		return;
 	}
 	
@@ -74,7 +77,15 @@ public class Extraction_bootstrapping {
 	}
 	
 	public void TemplateInduction(){
-		
+		for(String sent : corpus){
+			for(Extraction tmpExtract: curExtractions){
+				Template pattern = TextUtil.patternExtraction(tmpExtract.getVal(), tmpExtract.getAttr(), sent);
+				if(pattern != null){
+					System.out.println(pattern.toString());
+				}
+			}
+
+		}
 		return;
 	}
 	
