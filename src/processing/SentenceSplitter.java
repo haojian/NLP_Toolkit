@@ -54,7 +54,6 @@ public class SentenceSplitter {
 		String sentences[] = _sentenceDetector.sentDetect(paragraph);
 		for(String sent : sentences){
 			if(sent.split(" ").length > 50){
-				//IOOperator.getInstance().writeToFile(ParameterSetting.PATHTOLOG, sent.split(" ").length + "|"+ sent + "\n", true);
 				res.addAll(Arrays.asList(sent.split(".")));
 			}
 			else
@@ -62,9 +61,6 @@ public class SentenceSplitter {
 		}
 		for(String str : res){
 			stats.addValue(str.split(" ").length);
-			if(str.split(" ").length < 5){
-				IOOperator.getInstance().writeToFile(ParameterSetting.PATHTOLOG, str.split(" ").length + "|"+ str + "\n", true);
-			}
 		}
 		return res;
 	}

@@ -57,37 +57,22 @@ public class DataManager {
 				if(s.startsWith("###")){
 					if(tmp.length() == 0){
 						i++;
-						//System.out.println(String.valueOf(i)+ "th paragraph");
-						//IOOperator.getInstance().writeToFile(output_path, s + "\n", true);
 						continue;
 					}
 					ArrayList<String> sentences = SentenceSplitter.getInstance().sentence_split(tmp);
 					res.addAll(sentences);
-					/*
-					for(String sent : sentences){
-							//ArrayList<String> noun_results =stanfordparser.getInstance().parse_noun(sent);
-							//IOOperator.getInstance().writeToFile(output_path, TextUtil.joinStringArrayList(noun_results) + "\n", true);
-					}*/
 					tmp = "";
 					i++;
-					//System.out.println(String.valueOf(i)+ "th paragraph");
-
 				}
 				else{
 					tmp += s;
 				}
-				
-				// flush the last result to output file.
-				if(!tmp.isEmpty()){
-					ArrayList<String> sentences = SentenceSplitter.getInstance().sentence_split(tmp);
-					res.addAll(sentences);
-					/*
-					for(String sent : sentences){
-						//ArrayList<String> noun_results =stanfordparser.getInstance().parse_noun(sent);
-						//IOOperator.getInstance().writeToFile(output_path, TextUtil.joinStringArrayList(noun_results) + "\n", true);
-					}
-					*/
-				}
+			}
+			// flush the last result to output file.
+			if(!tmp.isEmpty()){
+				ArrayList<String> sentences = SentenceSplitter.getInstance().sentence_split(tmp);
+				res.addAll(sentences);
+				tmp = "";
 			}
 			return res;
 		}catch (Exception e) {
