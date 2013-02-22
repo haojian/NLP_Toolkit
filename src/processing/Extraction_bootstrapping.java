@@ -3,6 +3,7 @@ package processing;
 import java.util.ArrayList;
 
 import utils.ParameterSetting;
+import utils.TextUtil;
 
 import data_structure.Attribute;
 import data_structure.Extraction;
@@ -43,7 +44,7 @@ public class Extraction_bootstrapping {
 	}
 	
 	public void Process(ArrayList<String> sent){
-		
+		//if((ArrayList<String> res = TextUtil.patternExtraction(val, attr, sent))
 		return;
 	}
 	
@@ -63,4 +64,9 @@ public class Extraction_bootstrapping {
 		return;
 	}
 
+	
+	
+	private void TemplateLookingUp(){
+		
+	}
 }
