@@ -50,4 +50,18 @@ public class TextUtil {
 	public static void OutputStats(DescriptiveStatistics stats, String desc){
 		System.out.println(desc + stats.toString());
 	}
+	
+	public static String[] ExtractDependentPair(String input){
+		if(input.contains("(") && input.contains(")") && input.contains(",")){
+			String[] res = new String[3];
+			int leftBracketIndex = input.indexOf("(");
+			res[0] = input.substring(0, leftBracketIndex);
+			int commaIndex = input.indexOf(",");
+			res[1] = input.substring(leftBracketIndex, commaIndex);
+			int rightBracketIndex = input.indexOf(")");
+			res[2] = input.substring(commaIndex, rightBracketIndex);
+			return res;
+		} 
+		return null;
+	}
 }
