@@ -1,6 +1,11 @@
 package processing;
 
+import java.io.File;
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
+
+import utils.ParameterSetting;
 
 import data_structure.Extraction;
 
@@ -14,6 +19,7 @@ public class SeedGenerator {
 
 	}
 	
+	private Map<Extraction, Integer> extraction_dict;
 	public static SeedGenerator singleton;
 	public static SeedGenerator getInstance(){
 		if (singleton == null)
@@ -25,5 +31,15 @@ public class SeedGenerator {
 
 	public SeedGenerator(){
 		seedsList = new ArrayList<Extraction>();
+		extraction_dict = new HashMap<Extraction, Integer>();
+		File dir = new File(ParameterSetting.PATHTOPOSTAGGEDDATA);
+		for(File tmp : dir.listFiles()){
+			LoadRevTxtProccessedData(tmp);
+			return;
+		}
+	}
+	
+	private void LoadRevTxtProccessedData(File input){
+		
 	}
 }
