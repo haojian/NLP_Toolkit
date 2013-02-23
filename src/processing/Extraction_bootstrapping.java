@@ -77,15 +77,17 @@ public class Extraction_bootstrapping {
 	}
 	
 	public void TemplateInduction(){
+		int i = 0 ;
 		for(String sent : corpus){
 			for(Extraction tmpExtract: curExtractions){
 				Template pattern = TextUtil.patternExtraction(tmpExtract.getVal(), tmpExtract.getAttr(), sent);
 				if(pattern != null){
 					System.out.println(pattern.toString());
+					i++;
 				}
 			}
-
 		}
+		System.out.println(i + " templates were found.");
 		return;
 	}
 	
