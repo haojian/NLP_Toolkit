@@ -1,5 +1,8 @@
 package processing;
 
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
 import java.util.ArrayList;
 
 import utils.ParameterSetting;
@@ -29,7 +32,7 @@ public class Extraction_bootstrapping {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		Extraction_bootstrapping.getInstance();
 	}
 	
 	public Extraction_bootstrapping(){
@@ -40,10 +43,28 @@ public class Extraction_bootstrapping {
 	}
 	
 	public void InitSeedExtraction(){
+		try {
+			BufferedReader seedReader = new BufferedReader(new FileReader(ParameterSetting.PATHTOSEEDFILE));
+			String line = "";
+			while((line = seedReader.readLine()) != null){
+				String[] res = line.split("\t");
+				if(res.length != (ParameterSetting.MAXSEEDSADJ + 1))
+					continue;
+				for(int i=1; i<ParameterSetting.MAXSEEDSADJ; i++){
+					curExtractions.add(new Extraction(res[i], res[0], 0));
+				}
+			}
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		System.out.print("Seed dict size: " + curExtractions.size());
+		/*
 		curExtractions.add(new Extraction("tasty", "food", 0));
 		curExtractions.add(new Extraction("delicious", "food", 0));
 		curExtractions.add(new Extraction("disgusting", "food", 0));
 		curExtractions.add(new Extraction("best", "food", 0));
+		*/
 	}
 	
 	public void UpdateCorpus(ArrayList<String> sents){

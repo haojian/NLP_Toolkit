@@ -120,14 +120,14 @@ public class SeedGenerator {
 			int nounCounter = 0;
 			
 			for(Map.Entry<String, Map<String, Integer>> entry : ((Map<String, Map<String, Integer>>)getNounbased_seedsdict()).entrySet()) {
-	        	if(nounCounter >= ParameterSetting.SEEDSNOUNCOUNTER)
+	        	if(nounCounter >= ParameterSetting.MAXSEEDSNOUN)
 	        		break;
 	        	IOOperator.getInstance().writeToFile(ParameterSetting.PATHTOSEEDFILE, "\n" + entry.getKey(), true);
 	        	nounCounter++;
 	        	
 	        	int adjCounter =0;
 	        	for(Map.Entry<String, Integer> adjEntry : entry.getValue().entrySet()){
-	        		if(adjCounter >= ParameterSetting.SEEDSANDCOUNTER)
+	        		if(adjCounter >= ParameterSetting.MAXSEEDSADJ)
 	        			break;
 	        		IOOperator.getInstance().writeToFile(ParameterSetting.PATHTOSEEDFILE, "\t" + adjEntry.getKey(), true);
 	        		adjCounter++;
