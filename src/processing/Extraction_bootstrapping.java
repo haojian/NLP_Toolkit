@@ -58,13 +58,7 @@ public class Extraction_bootstrapping {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		System.out.print("Seed dict size: " + curExtractions.size());
-		/*
-		curExtractions.add(new Extraction("tasty", "food", 0));
-		curExtractions.add(new Extraction("delicious", "food", 0));
-		curExtractions.add(new Extraction("disgusting", "food", 0));
-		curExtractions.add(new Extraction("best", "food", 0));
-		*/
+		System.err.print("Init seed dict.....  Size : " + curExtractions.size());
 	}
 	
 	public void UpdateCorpus(ArrayList<String> sents){
