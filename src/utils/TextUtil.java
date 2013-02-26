@@ -51,17 +51,32 @@ public class TextUtil {
 		System.out.println(desc + stats.toString());
 	}
 	
+	// Extract the relationship from data format: amod(iron-3, flat-2)
+	// no index check done in this function. should be added in the further.
 	public static String[] ExtractDependentPair(String input){
 		if(input.contains("(") && input.contains(")") && input.contains(",")){
 			String[] res = new String[3];
 			int leftBracketIndex = input.indexOf("(");
-			res[0] = input.substring(0, leftBracketIndex);
+			res[0] =  TextPreProcessing(input.substring(0, leftBracketIndex));
+			int firsthyphenIndex = input.indexOf('-', leftBracketIndex);
+			res[1] = TextPreProcessing(input.substring(leftBracketIndex+1 , firsthyphenIndex));
+			
 			int commaIndex = input.indexOf(",");
-			res[1] = input.substring(leftBracketIndex, commaIndex);
-			int rightBracketIndex = input.indexOf(")");
-			res[2] = input.substring(commaIndex, rightBracketIndex);
+			int righthyphenIndex = input.indexOf('-', commaIndex);
+			res[2] = TextPreProcessing(input.substring(commaIndex+1, righthyphenIndex));
 			return res;
 		} 
 		return null;
+	}
+	
+	
+	public static boolean IfHighQualitySpelling(String input){
+		if(!input.matches("[a-zA-Z]+"))
+			return false;
+		return true;
+	}
+	
+	public static String TextPreProcessing(String input){
+		return input.toLowerCase().trim();
 	}
 }

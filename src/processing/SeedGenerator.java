@@ -5,13 +5,19 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.TreeMap;
 
+import utils.IOOperator;
 import utils.ParameterSetting;
 import utils.TextUtil;
 
+import data_structure.Attribute;
 import data_structure.Extraction;
+import data_structure.Value;
 
 public class SeedGenerator {
 	
@@ -21,9 +27,15 @@ public class SeedGenerator {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+		SeedGenerator.getInstance();
 	}
 	
-	private Map<Extraction, Integer> extraction_dict;
+	//hashmap to ensure the performance
+	private Map<String, Map<String, Integer>> raw_nounbased_seedsdict;
+	//treemap to do the sorting stuffs.
+	private TreeMap nounbased_seedsdict;
+
+	
 	public static SeedGenerator singleton;
 	public static SeedGenerator getInstance(){
 		if (singleton == null)
@@ -31,16 +43,27 @@ public class SeedGenerator {
 		return singleton;
 	} 
 	
-	public ArrayList<Extraction> seedsList;
 
 	public SeedGenerator(){
-		seedsList = new ArrayList<Extraction>();
-		extraction_dict = new HashMap<Extraction, Integer>();
+		//seedsList = new ArrayList<Extraction>();
+		//extraction_dict = new HashMap<Extraction, Integer>();
+		IOOperator.getInstance().clearOldLogFiles();
+		nounbased_seedsdict = new TreeMap<String, Map<String, Integer>>();
+		raw_nounbased_seedsdict = new HashMap<String, Map<String, Integer>>();
+		System.err.println("Loading data files.....");
 		File dir = new File(ParameterSetting.PATHTOPOSTAGGEDDATA);
 		for(File tmp : dir.listFiles()){
+			if(tmp.getName().split("_").length != 3)
+				continue;
 			LoadRevTxtProccessedData(tmp);
-			return;
+			//break;
 		}
+		System.err.println("Processing loaded files.....");
+		SortSeedsDict();
+		System.err.println("Output seedsdict.....");
+		OutputSeedsDict();
+		System.err.println("Seed generation done!");
+
 	}
 	
 	private void LoadRevTxtProccessedData(File input){
@@ -58,8 +81,13 @@ public class SeedGenerator {
 					//do nothing.
 				}else{
 					String[] parsed = TextUtil.ExtractDependentPair(line);
-					if(parsed[3].equals("amod")){
-						
+					if(parsed != null && parsed.length == 3 && parsed[0].equals("amod")){
+						//System.out.println(parsed[2] + "\t" + parsed[1]);
+						if(TextUtil.IfHighQualitySpelling(parsed[1]) && TextUtil.IfHighQualitySpelling(parsed[2])){
+							if(!StopwordsFilter.getInstance().isStopWords(parsed[1]) && !StopwordsFilter.getInstance().isStopWords(parsed[2])){
+								SeedsDictExtraction(parsed[2], parsed[1]);
+							}
+						}
 					}
 				}
 			}
@@ -68,4 +96,87 @@ public class SeedGenerator {
 			e.printStackTrace();
 		}
 	}
+
+	
+	private void SeedsDictExtraction(String adj, String noun){
+		if(raw_nounbased_seedsdict.containsKey(noun)){
+			if(raw_nounbased_seedsdict.get(noun).containsKey(adj)){
+				raw_nounbased_seedsdict.get(noun).put(adj, raw_nounbased_seedsdict.get(noun).get(adj) + 1);
+			}
+			else{
+				raw_nounbased_seedsdict.get(noun).put(adj, 1);
+			}
+		}
+		else{
+			raw_nounbased_seedsdict.put(noun, new HashMap<String, Integer>());
+			raw_nounbased_seedsdict.get(noun).put(adj, 1);
+		}
+	}
+	
+	private void OutputSeedsDict(){
+        for(Map.Entry<String, Map<String, Integer>> entry : ((Map<String, Map<String, Integer>>)nounbased_seedsdict).entrySet()) {
+//        	/System.out.println(entry.getKey() + "\t" + entry.getValue());
+        	IOOperator.getInstance().writeToFile(ParameterSetting.PATHTOSEEDFILE, entry.getKey() + "\t" + entry.getValue() + "\n", true);
+        }
+
+	}
+	
+	private void SortSeedsDict(){
+        NounCounterComparator nouncomp = new NounCounterComparator(raw_nounbased_seedsdict);
+		nounbased_seedsdict = new TreeMap(nouncomp);
+
+        for(Map.Entry<String, Map<String, Integer>> entry : raw_nounbased_seedsdict.entrySet()) {
+            Map<String, Integer> value = entry.getValue();
+    		AdjCounterComparator adjcomp = new AdjCounterComparator(value);
+    		TreeMap adjtreeMap = new TreeMap(adjcomp);
+    		adjtreeMap.putAll(value);
+    		nounbased_seedsdict.put(entry.getKey(), adjtreeMap);
+        }
+	}
+}
+
+class NounCounterComparator implements Comparator<Object> {
+
+    Map theMapToSort;
+
+    public NounCounterComparator(Map theMapToSort) {
+        this.theMapToSort = theMapToSort;
+    }
+
+    public int compare(Object key1, Object key2) {
+    	Map<String, Integer> val1 = (Map<String, Integer>)theMapToSort.get(key1);
+    	Map<String, Integer> val2 = (Map<String, Integer>) theMapToSort.get(key2);
+    	int sumA = 0;
+    	for(Integer i: val1.values())
+    		sumA += i;
+    	int sumB = 0;
+    	for(Integer i:val2.values())
+    		sumB += i;
+    	
+        if (sumA < sumB) {
+            return 1;
+        } else {
+            return -1;
+        }
+    }
+}
+
+class AdjCounterComparator implements Comparator<Object> {
+
+    Map theMapToSort;
+
+    public AdjCounterComparator(Map theMapToSort) {
+        this.theMapToSort = theMapToSort;
+    }
+
+    public int compare(Object key1, Object key2) {
+    	Integer val1 = (Integer)theMapToSort.get(key1);
+    	Integer val2 = (Integer) theMapToSort.get(key2);
+    	
+        if (val1 < val2) {
+            return 1;
+        } else {
+            return -1;
+        }
+    }
 }

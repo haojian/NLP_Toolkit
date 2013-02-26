@@ -37,4 +37,9 @@ public class IOOperator {
 			e.printStackTrace();
 		}
 	}
+	
+	public void clearOldLogFiles(){
+		writeToFile(ParameterSetting.PATHTODEBUG, "", false);
+		writeToFile(ParameterSetting.PATHTOSEEDFILE, "", false);
+	}
 }
