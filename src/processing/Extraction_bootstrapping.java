@@ -4,6 +4,11 @@ import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Map;
+import java.util.TreeMap;
 
 import utils.ParameterSetting;
 import utils.TextUtil;
@@ -94,16 +99,33 @@ public class Extraction_bootstrapping {
 	
 	public void TemplateInduction(){
 		int i = 0 ;
+		
+		 Map<Template, Integer> templateMap = new HashMap<Template, Integer>();
+		 /* sortingMap is used to debug the template extractions.
+		 HashMapValueComparator sortingcomp = new HashMapValueComparator(templateMap);
+		 TreeMap sortingMap = new TreeMap(sortingcomp);
+		*/
 		for(String sent : corpus){
 			for(Extraction tmpExtract: curExtractions){
 				Template pattern = TextUtil.patternExtraction(tmpExtract.getVal(), tmpExtract.getAttr(), sent);
 				if(pattern != null){
-					System.out.println(pattern.toString());
+					//System.out.println(pattern.toString());
+					if(templateMap.containsKey(pattern))
+						templateMap.put(pattern, templateMap.get(pattern) + 1);
+					else
+						templateMap.put(pattern, 1);
 					i++;
 				}
 			}
 		}
-		System.out.println(i + " templates were found.");
+		//sortingMap.putAll(templateMap);
+		for (Iterator<Map.Entry<Template,Integer>> it = templateMap.entrySet().iterator(); it.hasNext();) {
+			 Map.Entry<Template,Integer> e = it.next();
+			 if (e.getValue() < bootstrapping_cutoff) {
+				 it.remove();
+			 }
+			}
+		System.out.println( i+ " templates were found. " + templateMap.size() + " templates were kept");
 		return;
 	}
 	
@@ -116,4 +138,22 @@ public class Extraction_bootstrapping {
 	private void OutputProcessingRes(){
 		
 	}
+}
+
+class HashMapValueComparator implements Comparator<Object> {
+    Map theMapToSort;
+    public HashMapValueComparator(Map theMapToSort) {
+        this.theMapToSort = theMapToSort;
+    }
+
+    public int compare(Object key1, Object key2) {
+    	Integer val1 = (Integer)theMapToSort.get(key1);
+    	Integer val2 = (Integer) theMapToSort.get(key2);
+    	
+        if (val1 < val2) {
+            return 1;
+        } else {
+            return -1;
+        }
+    }
 }
