@@ -24,9 +24,21 @@ kurtosis: 1.1811509404259999
 /********************/
 BootStrapping:
 
-Pattern Extraction:
-Step 1:
-Some people find the food overrated and I personally just find it delicious.
+Template Extraction:
+
+Sample Template:
+Everything was  [VALUE] , from the  [ATTRIBUTE]  to the wine to the service. 
+Everything was  [VALUE] , from the food to the wine to the  [ATTRIBUTE] . 
+
+Pseudo code:
+
+dist = closest distance between [VALUE] & [ATTRIBUTE] (most compact template).
+if(dist < threshold){
+	the whole sentence would be template.
+}else{
+	the template would be the words that occur between this pair.
+}
+
 /********************/
 
 

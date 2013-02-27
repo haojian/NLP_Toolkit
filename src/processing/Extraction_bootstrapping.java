@@ -32,7 +32,7 @@ public class Extraction_bootstrapping {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Extraction_bootstrapping.getInstance();
+		Extraction_bootstrapping.getInstance().StartProcess();
 	}
 	
 	public Extraction_bootstrapping(){
@@ -58,7 +58,7 @@ public class Extraction_bootstrapping {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		System.err.print("Init seed dict.....  Size : " + curExtractions.size());
+		System.err.println("Init seed dict.....  Size : " + curExtractions.size());
 	}
 	
 	public void UpdateCorpus(ArrayList<String> sents){
@@ -71,13 +71,14 @@ public class Extraction_bootstrapping {
 		int lastIterationSize = -1;
 		int i = 0;
 		while(curExtractions.size() != lastIterationSize){
+			System.err.println(i + "th iteration......" );
 			lastIterationSize = curExtractions.size();
 			TemplateInduction();
 			AttributeInduction();
 			ValueInduction();
 			bootstrapping_cutoff += ParameterSetting.BOOTSTRAPPINGTHRESHOLD;
 			i++;
-			System.out.println(i + "th iteration: "  + curExtractions.size());
+			break;
 		}
 		return;
 	}
