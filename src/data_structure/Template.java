@@ -1,11 +1,13 @@
 package data_structure;
 
+import java.awt.List;
 import java.util.ArrayList;
 
 import utils.TextUtil;
 
 public class Template {
 	private ArrayList<String> _patternTxts;
+	private ArrayList<String> _fulllpatternTxts;
 	
 	public Template(){
 		_patternTxts = new ArrayList<String>();
@@ -16,7 +18,17 @@ public class Template {
 	}
 	
 	public String toString(){
-		return TextUtil.joinStringArrayList(_patternTxts, " ");
+		return TextUtil.joinStringArrayList(_patternTxts, "");
+	}
+	
+	public String toValueTemplateString(Attribute attr){
+		return TextUtil.joinStringArrayList(_patternTxts, "").replace("[ATTRIBUTE]", attr.get_txt());
+	}
+	
+	public String toAttrTemplateString(Value val){
+		//return TextUtil.joinStringArrayList(_patternTxts, "");
+		return TextUtil.joinStringArrayList(_patternTxts, "").replace("[VALUE]", val.get_txt());
+
 	}
 
 	public ArrayList<String> get_patternTxts() {
@@ -45,5 +57,11 @@ public class Template {
 		return true;
 	}
 
+	public ArrayList<String> get_fulllpatternTxts() {
+		return _fulllpatternTxts;
+	}
 
+	public void set_fulllpatternTxts(ArrayList<String> _fulllpatternTxts) {
+		this._fulllpatternTxts = _fulllpatternTxts;
+	}
 }

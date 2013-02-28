@@ -26,9 +26,9 @@ public class Extraction_bootstrapping {
 		return singleton;
 	}
 	
+	private Map<Template, Integer> templateMap;
+	private Map<Extraction, Integer> extractionMap;
 	
-	private ArrayList<Template> curTemplates;
-	private ArrayList<Extraction> curExtractions;
 	private int bootstrapping_cutoff = ParameterSetting.BOOTSTRAPPINGTHRESHOLD;
 	private ArrayList<String> corpus;
 	
@@ -41,8 +41,8 @@ public class Extraction_bootstrapping {
 	}
 	
 	public Extraction_bootstrapping(){
-		curTemplates = new ArrayList<Template>();
-		curExtractions = new ArrayList<Extraction>();
+		extractionMap = new HashMap<Extraction, Integer>();
+		templateMap = new HashMap<Template, Integer>();
 		corpus = new ArrayList<String>();
 		InitSeedExtraction();
 	}
@@ -56,18 +56,21 @@ public class Extraction_bootstrapping {
 				if(res.length != (ParameterSetting.MAXSEEDSADJ + 1))
 					continue;
 				for(int i=1; i<ParameterSetting.MAXSEEDSADJ; i++){
-					curExtractions.add(new Extraction(res[i], res[0], 0));
+					extractionMap.put(new Extraction(res[i], res[0], 0), 0);
 				}
 			}
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		System.err.println("Init seed dict.....  Size : " + curExtractions.size());
+		System.err.println("Init seed dict.....  Size : " + extractionMap.size());
 	}
 	
 	public void UpdateCorpus(ArrayList<String> sents){
-		corpus.addAll(sents);
+		for(String sent: sents){
+			String tmp = TextUtil.TextPreProcessing(sent);
+			corpus.add(tmp);
+		}
 		System.out.println("Corpus updated at size: "  + corpus.size());
 	}
 	
@@ -75,9 +78,9 @@ public class Extraction_bootstrapping {
 		//if((ArrayList<String> res = TextUtil.patternExtraction(val, attr, sent))
 		int lastIterationSize = -1;
 		int i = 0;
-		while(curExtractions.size() != lastIterationSize){
+		while(extractionMap.size() != lastIterationSize){
 			System.err.println(i + "th iteration......" );
-			lastIterationSize = curExtractions.size();
+			lastIterationSize = extractionMap.size();
 			TemplateInduction();
 			AttributeInduction();
 			ValueInduction();
@@ -94,19 +97,26 @@ public class Extraction_bootstrapping {
 	}
 	
 	public void AttributeInduction(){
+		for(String sent: corpus){
+			for(Template pattern: templateMap.keySet()){
+				for(Extraction extrac : extractionMap.keySet()){
+					String attribute = TextUtil.attributeExtraction(pattern, extrac.getVal(), sent);
+					if(attribute!= null && !attribute.equals(extrac.getAttr()))
+						System.out.println(attribute);
+				}
+			}
+		}
 		return;
 	}
 	
 	public void TemplateInduction(){
 		int i = 0 ;
-		
-		 Map<Template, Integer> templateMap = new HashMap<Template, Integer>();
 		 /* sortingMap is used to debug the template extractions.
 		 HashMapValueComparator sortingcomp = new HashMapValueComparator(templateMap);
 		 TreeMap sortingMap = new TreeMap(sortingcomp);
 		*/
 		for(String sent : corpus){
-			for(Extraction tmpExtract: curExtractions){
+			for(Extraction tmpExtract: extractionMap.keySet()){
 				Template pattern = TextUtil.patternExtraction(tmpExtract.getVal(), tmpExtract.getAttr(), sent);
 				if(pattern != null){
 					//System.out.println(pattern.toString());
@@ -123,6 +133,8 @@ public class Extraction_bootstrapping {
 			 Map.Entry<Template,Integer> e = it.next();
 			 if (e.getValue() < bootstrapping_cutoff) {
 				 it.remove();
+			 }else{
+				 templateMap.put(e.getKey(), e.getValue()+ParameterSetting.BOOTSTRAPPINGTHRESHOLD);
 			 }
 			}
 		System.out.println( i+ " templates were found. " + templateMap.size() + " templates were kept");

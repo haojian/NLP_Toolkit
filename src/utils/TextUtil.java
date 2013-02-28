@@ -6,10 +6,16 @@ import java.util.Arrays;
 import org.apache.commons.math3.stat.descriptive.DescriptiveStatistics;
 
 import data_structure.Attribute;
+import data_structure.Extraction;
 import data_structure.Template;
 import data_structure.Value;
 
 public class TextUtil {
+	
+	public static void main(String[] args){
+		stringsplit("|ATTRIBUTE| is a");
+	}
+	
 	public static String joinStringArrayList(ArrayList<String> list){
 		StringBuilder sb = new StringBuilder();
 		for (String s : list)
@@ -32,26 +38,67 @@ public class TextUtil {
 		return sb.toString();
 	}
 	
+	public static String ValueExtraction(Template temp, Attribute attr, String sent){
+		if(!sent.contains(attr.get_txt()))
+			return null;
+		for(String tmp : temp.get_patternTxts()){
+			if(tmp.equals("[VALUE]") || tmp.equals("|ATTRIBUTE|"))
+				continue;
+			if(!sent.contains(tmp))
+				return null;
+			sent = sent.replace(tmp, "");
+		}
+		sent = sent.replace(attr.get_txt(), "").trim();
+		return sent;
+	}
+	
+	public static String attributeExtraction(Template temp, Value val, String sent){
+		if(!sent.contains(val.get_txt()))
+			return null;
+		// to chcek if the template & value match
+		for(String tmp : temp.get_patternTxts()){
+			if(tmp.equals("[VALUE]") || tmp.equals("|ATTRIBUTE|"))
+				continue;
+			if(!sent.contains(tmp))
+				return null;
+		}
+		String tempAttrStr = temp.toAttrTemplateString(val);
+		int attributeIndex = tempAttrStr.indexOf("|ATTRIBUTE|");
+		String[] tempAttr =  tempAttrStr.split("ATTRIBUTE");
+		for(String temstr : tempAttr){
+			System.out.println(temstr);
+		}
+
+		return null;
+	}
+	
+	public static void stringsplit(String sent){
+		String[] tempAttr =  sent.split("|ATTRIBUTE|");
+		System.out.println(tempAttr.length);
+		for(String temstr : tempAttr){
+			System.out.println(temstr);
+		}
+	}
 	
 	public static Template patternExtraction(Value val, Attribute attr, String sent){
 		ArrayList<String> res = new ArrayList<String>();
 		if(sent.contains(val.get_txt()) && sent.contains(attr.get_txt())){
 			sent = sent.replace(val.get_txt(), "-~-[VALUE]-~-");
-			sent = sent.replace(attr.get_txt(), "-~-[ATTRIBUTE]-~-");
+			sent = sent.replace(attr.get_txt(), "-~-|ATTRIBUTE|-~-");
 			String[] tmp = sent.split("-~-");
 			int minDistIndex = -1;
 			
 			for(int i= 0 ; i<tmp.length; i++){
 				if(tmp[i].equals("[VALUE]")){
 					for(int j = (i+1); j<tmp.length; j++){
-						if(tmp[j].equals("[ATTRIBUTE]")){
+						if(tmp[j].equals("|ATTRIBUTE|")){
 							if(j == (i+2)){
 								if(minDistIndex == -1 || tmp[minDistIndex].split(" ").length > tmp[i+1].split(" ").length)
 									minDistIndex = i+1;
 							}
 						}
 					}
-				}else if(tmp[i].equals("[ATTRIBUTE]")){
+				}else if(tmp[i].equals("|ATTRIBUTE|")){
 					for(int j = (i+1); j<tmp.length; j++){
 						if(tmp[j].equals("[VALUE]")){
 							if(j == (i+2))
