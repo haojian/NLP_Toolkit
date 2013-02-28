@@ -18,6 +18,27 @@ public class TextUtil {
 		regexTest();
 	}
 	
+	public static String joinStringArrayList(ArrayList<String> list){
+		StringBuilder sb = new StringBuilder();
+		for (String s : list)
+		{
+		    sb.append(s);
+		    sb.append("\t");
+		}
+		return sb.toString();
+	}
+	
+	public static String joinStringArrayList(ArrayList<String> list, String jointStr){
+		if(list == null)
+			return "";
+		StringBuilder sb = new StringBuilder();
+		for (String s : list)
+		{
+		    sb.append(s);
+		    sb.append(jointStr);
+		}
+		return sb.toString();
+	}
 	
 	public static void regexTest(){
 		//For three possible case, the target could be in middle, start, end of the string.
@@ -53,61 +74,22 @@ public class TextUtil {
 		return null;
 	}
 	
-	
-	public static String joinStringArrayList(ArrayList<String> list){
-		StringBuilder sb = new StringBuilder();
-		for (String s : list)
-		{
-		    sb.append(s);
-		    sb.append("\t");
-		}
-		return sb.toString();
-	}
-	
-	public static String joinStringArrayList(ArrayList<String> list, String jointStr){
-		if(list == null)
-			return "";
-		StringBuilder sb = new StringBuilder();
-		for (String s : list)
-		{
-		    sb.append(s);
-		    sb.append(jointStr);
-		}
-		return sb.toString();
-	}
-	
 	public static String ValueExtraction(Template temp, Attribute attr, String sent){
-		if(!sent.contains(attr.get_txt()))
+		if(sent == null || sent.length() == 0){
 			return null;
-		for(String tmp : temp.get_patternTxts()){
-			if(tmp.equals("#VALUE#") || tmp.equals("#ATTRIBUTE#"))
-				continue;
-			if(!sent.contains(tmp))
-				return null;
-			sent = sent.replace(tmp, "");
 		}
-		sent = sent.replace(attr.get_txt(), "").trim();
-		return sent;
+		String pattern = temp.toValueTemplateString(attr).replaceAll("#VALUE#", "(.*)");
+		String res = RegexExtraction(pattern, sent);
+		return res;
 	}
 	
 	public static String attributeExtraction(Template temp, Value val, String sent){
-		if(!sent.contains(val.get_txt()))
+		if(sent == null || sent.length() == 0){
 			return null;
-		// to chcek if the template & value match
-		for(String tmp : temp.get_patternTxts()){
-			if(tmp.equals("#VALUE#") || tmp.equals("#ATTRIBUTE#"))
-				continue;
-			if(!sent.contains(tmp))
-				return null;
 		}
-		String tempAttrStr = temp.toAttrTemplateString(val);
-		int attributeIndex = tempAttrStr.indexOf("#ATTRIBUTE#");
-		String[] tempAttr =  tempAttrStr.split("#ATTRIBUTE#");
-		for(String temstr : tempAttr){
-			System.out.println(temstr);
-		}
-
-		return null;
+		String pattern = temp.toAttrTemplateString(val).replaceAll("#VALUE#", "(.*)");
+		String res = RegexExtraction(pattern, sent);
+		return res;
 	}
 	
 	public static Template patternExtraction(Value val, Attribute attr, String sent){
