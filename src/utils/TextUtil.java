@@ -2,6 +2,8 @@ package utils;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 import org.apache.commons.math3.stat.descriptive.DescriptiveStatistics;
 
@@ -13,8 +15,44 @@ import data_structure.Value;
 public class TextUtil {
 	
 	public static void main(String[] args){
-		stringsplit("|ATTRIBUTE| is a");
+		regexTest();
 	}
+	
+	
+	public static void regexTest(){
+		//For three possible case, the target could be in middle, start, end of the string.
+		String[] originalpattern = {"here #ATTRIBUTE#",
+		"here #ATTRIBUTE# is bad",
+		"#ATTRIBUTE# is bad"};
+		for(String tmp: originalpattern){
+			String pattern = tmp.replaceAll("#ATTRIBUTE#", "(.*)");
+			System.out.println(pattern);
+			//String pattern = "here (.*) is bad.";
+			String data = "here parking is bad.";
+			RegexExtraction(pattern, data);
+		}
+	}
+	
+	public static String RegexExtraction(String patternStr, String data){
+		Pattern pattern = Pattern.compile(patternStr);
+		Matcher matcher = pattern.matcher(data);
+		if (matcher.find()) {   
+			if(patternStr.startsWith("(.*)")){
+				String[] array = matcher.group(1).split(" ");
+				System.out.println(array[array.length-1]);
+				return array[array.length-1];
+			}else if(patternStr.endsWith("(.*)")){
+				String[] array = matcher.group(1).split(" ");
+				System.out.println(array[0]);
+				return array[0];
+			}else{
+				System.out.println(matcher.group(1));
+				return matcher.group(1);
+			}
+		}
+		return null;
+	}
+	
 	
 	public static String joinStringArrayList(ArrayList<String> list){
 		StringBuilder sb = new StringBuilder();
@@ -42,7 +80,7 @@ public class TextUtil {
 		if(!sent.contains(attr.get_txt()))
 			return null;
 		for(String tmp : temp.get_patternTxts()){
-			if(tmp.equals("[VALUE]") || tmp.equals("|ATTRIBUTE|"))
+			if(tmp.equals("#VALUE#") || tmp.equals("#ATTRIBUTE#"))
 				continue;
 			if(!sent.contains(tmp))
 				return null;
@@ -57,14 +95,14 @@ public class TextUtil {
 			return null;
 		// to chcek if the template & value match
 		for(String tmp : temp.get_patternTxts()){
-			if(tmp.equals("[VALUE]") || tmp.equals("|ATTRIBUTE|"))
+			if(tmp.equals("#VALUE#") || tmp.equals("#ATTRIBUTE#"))
 				continue;
 			if(!sent.contains(tmp))
 				return null;
 		}
 		String tempAttrStr = temp.toAttrTemplateString(val);
-		int attributeIndex = tempAttrStr.indexOf("|ATTRIBUTE|");
-		String[] tempAttr =  tempAttrStr.split("ATTRIBUTE");
+		int attributeIndex = tempAttrStr.indexOf("#ATTRIBUTE#");
+		String[] tempAttr =  tempAttrStr.split("#ATTRIBUTE#");
 		for(String temstr : tempAttr){
 			System.out.println(temstr);
 		}
@@ -72,35 +110,27 @@ public class TextUtil {
 		return null;
 	}
 	
-	public static void stringsplit(String sent){
-		String[] tempAttr =  sent.split("|ATTRIBUTE|");
-		System.out.println(tempAttr.length);
-		for(String temstr : tempAttr){
-			System.out.println(temstr);
-		}
-	}
-	
 	public static Template patternExtraction(Value val, Attribute attr, String sent){
 		ArrayList<String> res = new ArrayList<String>();
 		if(sent.contains(val.get_txt()) && sent.contains(attr.get_txt())){
-			sent = sent.replace(val.get_txt(), "-~-[VALUE]-~-");
-			sent = sent.replace(attr.get_txt(), "-~-|ATTRIBUTE|-~-");
+			sent = sent.replace(val.get_txt(), "-~-#VALUE#-~-");
+			sent = sent.replace(attr.get_txt(), "-~-#ATTRIBUTE#-~-");
 			String[] tmp = sent.split("-~-");
 			int minDistIndex = -1;
 			
 			for(int i= 0 ; i<tmp.length; i++){
-				if(tmp[i].equals("[VALUE]")){
+				if(tmp[i].equals("#VALUE#")){
 					for(int j = (i+1); j<tmp.length; j++){
-						if(tmp[j].equals("|ATTRIBUTE|")){
+						if(tmp[j].equals("#ATTRIBUTE#")){
 							if(j == (i+2)){
 								if(minDistIndex == -1 || tmp[minDistIndex].split(" ").length > tmp[i+1].split(" ").length)
 									minDistIndex = i+1;
 							}
 						}
 					}
-				}else if(tmp[i].equals("|ATTRIBUTE|")){
+				}else if(tmp[i].equals("#ATTRIBUTE#")){
 					for(int j = (i+1); j<tmp.length; j++){
-						if(tmp[j].equals("[VALUE]")){
+						if(tmp[j].equals("#VALUE#")){
 							if(j == (i+2))
 								if(minDistIndex == -1 ||  tmp[minDistIndex].split(" ").length > tmp[i+1].split(" ").length)
 									minDistIndex = i+1;
