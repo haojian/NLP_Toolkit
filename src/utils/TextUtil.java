@@ -60,16 +60,19 @@ public class TextUtil {
 		if (matcher.find()) {   
 			if(patternStr.startsWith("(.*)")){
 				String[] array = matcher.group(1).split(" ");
-				System.out.println(array[array.length-1]);
-				return array[array.length-1];
-			}else if(patternStr.endsWith("(.*)")){
+				return array[array.length-1].trim().replace(",", "");
+			}else{
+				String[] array = matcher.group(1).split(" ");
+				return array[0].trim().replace(",", "");
+			}
+			/*else if(patternStr.endsWith("(.*)")){
 				String[] array = matcher.group(1).split(" ");
 				System.out.println(array[0]);
-				return array[0];
+				return array[0].trim();
 			}else{
 				System.out.println(matcher.group(1));
-				return matcher.group(1);
-			}
+				return matcher.group(1).trim();
+			}*/
 		}
 		return null;
 	}
@@ -87,7 +90,7 @@ public class TextUtil {
 		if(sent == null || sent.length() == 0){
 			return null;
 		}
-		String pattern = temp.toAttrTemplateString(val).replaceAll("#VALUE#", "(.*)");
+		String pattern = temp.toAttrTemplateString(val).replaceAll("#ATTRIBUTE#", "(.*)");
 		String res = RegexExtraction(pattern, sent);
 		return res;
 	}

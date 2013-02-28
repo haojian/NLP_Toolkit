@@ -92,7 +92,16 @@ public class Extraction_bootstrapping {
 	}
 	
 	public void ValueInduction(){
-		
+		for(String sent: corpus){
+			//add a map to make sure each extraction be extracted for once.
+			for(Template pattern: templateMap.keySet()){
+				for(Extraction extrac : extractionMap.keySet()){
+					String value = TextUtil.ValueExtraction(pattern, extrac.getAttr(), sent);
+					if(value!= null && !value.equals(extrac.getAttr()))
+						System.out.println( value + " " + extrac.getAttr().get_txt());
+				}
+			}
+		}
 		return;
 	}
 	
@@ -101,8 +110,10 @@ public class Extraction_bootstrapping {
 			for(Template pattern: templateMap.keySet()){
 				for(Extraction extrac : extractionMap.keySet()){
 					String attribute = TextUtil.attributeExtraction(pattern, extrac.getVal(), sent);
+					/*
 					if(attribute!= null && !attribute.equals(extrac.getAttr()))
-						System.out.println(attribute);
+						System.out.println(extrac.getVal().get_txt() + " " + attribute);
+						*/
 				}
 			}
 		}
