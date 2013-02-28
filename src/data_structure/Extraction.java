@@ -1,5 +1,7 @@
 package data_structure;
 
+import utils.TextUtil;
+
 public class Extraction {
 	private Value val;
 	private Attribute attr;
@@ -44,5 +46,20 @@ public class Extraction {
 	
 	public void setNumberofoccurances(int numberofoccurances) {
 		this.numberofoccurances = numberofoccurances;
+	}
+	
+	public int hashCode()
+	{
+		String tmp = val.get_txt() + "|" + attr.get_txt();
+		return tmp.hashCode();
+	}
+	
+	public boolean equals(Object obj){
+		if(obj == null) return false;
+		if(!this.getClass().equals(obj.getClass())) return false;
+		Extraction target = (Extraction) obj;
+		if(target.getAttr().get_txt().equals(this.getAttr().get_txt()) && target.getVal().get_txt().equals(this.getVal().get_txt()))
+			return true;
+		return false;
 	}
 }

@@ -83,7 +83,7 @@ public class Extraction_bootstrapping {
 			lastIterationSize = extractionMap.size();
 			TemplateInduction();
 			AttributeInduction();
-			ValueInduction();
+			//ValueInduction();
 			bootstrapping_cutoff += ParameterSetting.BOOTSTRAPPINGTHRESHOLD;
 			i++;
 			break;
@@ -106,22 +106,51 @@ public class Extraction_bootstrapping {
 	}
 	
 	public void AttributeInduction(){
+		int i =0;
+		int presize = extractionMap.size();
 		for(String sent: corpus){
+			ArrayList<Extraction> extractionsInSent = new ArrayList<Extraction>();
 			for(Template pattern: templateMap.keySet()){
-				for(Extraction extrac : extractionMap.keySet()){
+				
+				
+				for(Iterator<Map.Entry<Extraction,Integer>> it = extractionMap.entrySet().iterator(); it.hasNext();){
+					Map.Entry<Extraction,Integer> e = it.next();
+					Extraction extrac = e.getKey();
 					String attribute = TextUtil.attributeExtraction(pattern, extrac.getVal(), sent);
-					/*
-					if(attribute!= null && !attribute.equals(extrac.getAttr()))
-						System.out.println(extrac.getVal().get_txt() + " " + attribute);
-						*/
+					if(attribute!= null && !attribute.equals(extrac.getAttr())){
+						Extraction newExtraction = new Extraction(extrac.getVal().get_txt(), attribute, 1);
+						if(!extractionsInSent.contains(newExtraction)){
+							i++;
+							extractionsInSent.add(newExtraction);
+							//update in the gloabl map
+							/*
+							if(extractionMap.containsKey(newExtraction))
+								extractionMap.put(newExtraction, extractionMap.get(newExtraction) + 1);
+							else
+								extractionMap.put(newExtraction, 1);
+								*/
+						}
+					}
+					
 				}
 			}
 		}
+		
+		for(Iterator<Map.Entry<Extraction,Integer>> it = extractionMap.entrySet().iterator(); it.hasNext();){
+			Map.Entry<Extraction,Integer> e = it.next();
+			if(e.getValue() < bootstrapping_cutoff){
+				it.remove();
+			}else{
+				extractionMap.put(e.getKey(), e.getValue()+ParameterSetting.BOOTSTRAPPINGTHRESHOLD);
+			}
+		}
+		System.out.println( i+ " attribute based exttractions were found. " + (extractionMap.size() - presize) + " exttractions were kept");
+
 		return;
 	}
 	
 	public void TemplateInduction(){
-		int i = 0 ;
+		int i = 0;
 		 /* sortingMap is used to debug the template extractions.
 		 HashMapValueComparator sortingcomp = new HashMapValueComparator(templateMap);
 		 TreeMap sortingMap = new TreeMap(sortingcomp);
