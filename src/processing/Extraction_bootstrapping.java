@@ -93,7 +93,7 @@ public class Extraction_bootstrapping {
 			lastIterationSize = extractionMap.size();
 			
 			TemplateInduction();
-			//AttributeInduction();
+			AttributeInduction();
 			ValueInduction();
 			UpdateToNewIteration();
 			i++;
