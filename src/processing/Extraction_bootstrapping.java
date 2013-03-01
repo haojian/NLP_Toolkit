@@ -28,6 +28,8 @@ public class Extraction_bootstrapping {
 	
 	private Map<Template, Integer> templateMap;
 	private Map<Extraction, Integer> extractionMap;
+	private ArrayList<String> attrList;
+	private ArrayList<String> valList;
 	
 	private int bootstrapping_cutoff = ParameterSetting.BOOTSTRAPPINGTHRESHOLD;
 	private ArrayList<String> corpus;
@@ -44,9 +46,13 @@ public class Extraction_bootstrapping {
 		extractionMap = new HashMap<Extraction, Integer>();
 		templateMap = new HashMap<Template, Integer>();
 		corpus = new ArrayList<String>();
+		attrList = new ArrayList<String>();
+		valList = new ArrayList<String>();
 		InitSeedExtraction();
 	}
 	
+	//Init an Extraction Map which would be used in the first Template Induction.
+	//Init the ValueList & AttrList would be used in the first Value Induction & Attribute Induction.
 	public void InitSeedExtraction(){
 		try {
 			BufferedReader seedReader = new BufferedReader(new FileReader(ParameterSetting.PATHTOSEEDFILE));
@@ -57,7 +63,11 @@ public class Extraction_bootstrapping {
 					continue;
 				for(int i=1; i<ParameterSetting.MAXSEEDSADJ; i++){
 					extractionMap.put(new Extraction(res[i], res[0], 0), 0);
+					if(!valList.contains(res[i]))
+						valList.add(res[i]);
 				}
+				if(!attrList.contains(res[0]))
+					attrList.add(res[0]);
 			}
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
@@ -79,12 +89,13 @@ public class Extraction_bootstrapping {
 		int lastIterationSize = -1;
 		int i = 0;
 		while(extractionMap.size() != lastIterationSize){
-			System.err.println(i + "th iteration......" );
+			System.out.println(i + "th iteration......" );
 			lastIterationSize = extractionMap.size();
+			
 			TemplateInduction();
-			AttributeInduction();
-			//ValueInduction();
-			bootstrapping_cutoff += ParameterSetting.BOOTSTRAPPINGTHRESHOLD;
+			//AttributeInduction();
+			ValueInduction();
+			UpdateToNewIteration();
 			i++;
 			break;
 		}
@@ -92,100 +103,154 @@ public class Extraction_bootstrapping {
 	}
 	
 	public void ValueInduction(){
-		for(String sent: corpus){
-			//add a map to make sure each extraction be extracted for once.
-			for(Template pattern: templateMap.keySet()){
-				for(Extraction extrac : extractionMap.keySet()){
-					String value = TextUtil.ValueExtraction(pattern, extrac.getAttr(), sent);
-					if(value!= null && !value.equals(extrac.getAttr()))
-						System.out.println( value + " " + extrac.getAttr().get_txt());
-				}
-			}
-		}
-		return;
-	}
-	
-	public void AttributeInduction(){
-		int i =0;
+		int i = 0;
 		int presize = extractionMap.size();
+		Map<Extraction, Integer> cacheMap = new HashMap<Extraction, Integer>();
 		for(String sent: corpus){
 			ArrayList<Extraction> extractionsInSent = new ArrayList<Extraction>();
 			for(Template pattern: templateMap.keySet()){
-				
-				
-				for(Iterator<Map.Entry<Extraction,Integer>> it = extractionMap.entrySet().iterator(); it.hasNext();){
-					Map.Entry<Extraction,Integer> e = it.next();
-					Extraction extrac = e.getKey();
-					String attribute = TextUtil.attributeExtraction(pattern, extrac.getVal(), sent);
-					if(attribute!= null && !attribute.equals(extrac.getAttr())){
-						Extraction newExtraction = new Extraction(extrac.getVal().get_txt(), attribute, 1);
-						if(!extractionsInSent.contains(newExtraction)){
-							i++;
-							extractionsInSent.add(newExtraction);
-							//update in the gloabl map
-							/*
-							if(extractionMap.containsKey(newExtraction))
-								extractionMap.put(newExtraction, extractionMap.get(newExtraction) + 1);
-							else
-								extractionMap.put(newExtraction, 1);
-								*/
+				for(String attr : attrList){
+					Attribute _attrObj = new Attribute(attr);
+					String value = TextUtil.ValueExtraction(pattern, _attrObj, sent);
+					if(value != null){
+						Extraction curExtraction = new Extraction(value, attr, 0);
+						if(!extractionsInSent.contains(curExtraction)){
+							extractionsInSent.add(curExtraction);
 						}
 					}
-					
 				}
+			}
+			for(Extraction extraction : extractionsInSent){
+				i++;
+				if(cacheMap.containsKey(extraction))
+					cacheMap.put(extraction, cacheMap.get(extraction) + 1);
+				else
+					cacheMap.put(extraction, 1);
 			}
 		}
 		
-		for(Iterator<Map.Entry<Extraction,Integer>> it = extractionMap.entrySet().iterator(); it.hasNext();){
+		for(Iterator<Map.Entry<Extraction,Integer>> it = cacheMap.entrySet().iterator(); it.hasNext();){
 			Map.Entry<Extraction,Integer> e = it.next();
-			if(e.getValue() < bootstrapping_cutoff){
+			if(e.getValue() < bootstrapping_cutoff)
 				it.remove();
-			}else{
-				extractionMap.put(e.getKey(), e.getValue()+ParameterSetting.BOOTSTRAPPINGTHRESHOLD);
-			}
 		}
-		System.out.println( i+ " attribute based exttractions were found. " + (extractionMap.size() - presize) + " exttractions were kept");
-
+		
+		for(Map.Entry<Extraction, Integer> entry : cacheMap.entrySet()){
+			if(extractionMap.containsKey(entry.getKey()))
+				extractionMap.put(entry.getKey(), entry.getValue() + extractionMap.get(entry.getKey()));
+			else
+				extractionMap.put(entry.getKey(), entry.getValue());
+		}
+		System.out.println( i+ " value based exttractions were found. " + (extractionMap.size() - presize) + " new exttractions were added. " + extractionMap.size() + " extractions in total. ");
 		return;
 	}
 	
+	
+	public void AttributeInduction(){
+		int i = 0;
+		int presize = extractionMap.size();
+		Map<Extraction, Integer> cacheMap = new HashMap<Extraction, Integer>();
+		for(String sent: corpus){
+			ArrayList<Extraction> extractionsInSent = new ArrayList<Extraction>();
+			for(Template pattern: templateMap.keySet()){
+				for(String val : valList){
+					Value _valObj = new Value(val);
+					String attribute = TextUtil.attributeExtraction(pattern, _valObj, sent);
+					if(attribute != null){
+						Extraction curExtraction = new Extraction(val, attribute, 0);
+						if(!extractionsInSent.contains(curExtraction)){
+							extractionsInSent.add(curExtraction);
+						}
+					}
+				}
+			}
+			for(Extraction extraction : extractionsInSent){
+				i++;
+				if(cacheMap.containsKey(extraction))
+					cacheMap.put(extraction, cacheMap.get(extraction) + 1);
+				else
+					cacheMap.put(extraction, 1);
+			}
+		}
+		for(Iterator<Map.Entry<Extraction,Integer>> it = cacheMap.entrySet().iterator(); it.hasNext();){
+			Map.Entry<Extraction,Integer> e = it.next();
+			if(e.getValue() < bootstrapping_cutoff)
+				it.remove();
+		}
+		
+		for(Map.Entry<Extraction, Integer> entry : cacheMap.entrySet()){
+			if(extractionMap.containsKey(entry.getKey()))
+				extractionMap.put(entry.getKey(), entry.getValue() + extractionMap.get(entry.getKey()));
+			else
+				extractionMap.put(entry.getKey(), entry.getValue());
+		}
+		
+		System.out.println( i+ " attribute based exttractions were found. " + (extractionMap.size() - presize) + " new exttractions were added. " + extractionMap.size() + " extractions in total. ");
+		return;
+	}
+	
+	//Extract the template based on the extraction already have.
 	public void TemplateInduction(){
 		int i = 0;
+		int presize = templateMap.size();
+		Map<Template, Integer> cacheMap = new HashMap<Template, Integer>();
 		 /* sortingMap is used to debug the template extractions.
 		 HashMapValueComparator sortingcomp = new HashMapValueComparator(templateMap);
 		 TreeMap sortingMap = new TreeMap(sortingcomp);
 		*/
-		for(String sent : corpus){
-			for(Extraction tmpExtract: extractionMap.keySet()){
-				Template pattern = TextUtil.patternExtraction(tmpExtract.getVal(), tmpExtract.getAttr(), sent);
+		for(String sent: corpus){
+			for(Extraction curExtract: extractionMap.keySet()){
+				Template pattern = TextUtil.patternExtraction(curExtract.getVal(), curExtract.getAttr(), sent);
 				if(pattern != null){
-					//System.out.println(pattern.toString());
-					if(templateMap.containsKey(pattern))
-						templateMap.put(pattern, templateMap.get(pattern) + 1);
-					else
-						templateMap.put(pattern, 1);
+					if(cacheMap.containsKey(pattern)){
+						cacheMap.put(pattern, cacheMap.get(pattern) + 1);
+					}else{
+						cacheMap.put(pattern, 1);
+					}
 					i++;
 				}
 			}
 		}
+		for(Iterator<Map.Entry<Template,Integer>> it = cacheMap.entrySet().iterator(); it.hasNext();){
+			Map.Entry<Template,Integer> e = it.next();
+			if(e.getValue() < bootstrapping_cutoff)
+				it.remove();
+		}
+		for(Map.Entry<Template, Integer> entry : cacheMap.entrySet()){
+			if(templateMap.containsKey(entry.getKey()))
+				templateMap.put(entry.getKey(), entry.getValue() + templateMap.get(entry.getKey()));
+			else
+				templateMap.put(entry.getKey(), entry.getValue());
+		}
 		//sortingMap.putAll(templateMap);
-		for (Iterator<Map.Entry<Template,Integer>> it = templateMap.entrySet().iterator(); it.hasNext();) {
-			 Map.Entry<Template,Integer> e = it.next();
-			 if (e.getValue() < bootstrapping_cutoff) {
-				 it.remove();
-			 }else{
-				 templateMap.put(e.getKey(), e.getValue()+ParameterSetting.BOOTSTRAPPINGTHRESHOLD);
-			 }
+		System.out.println( i+ " templates were found. " + (templateMap.size()-presize) + " templates added. " + templateMap.size() + " templates in total. ");
+		return;
+	}
+	
+	//update Attribute List & Value List.
+	//update bootstrapping_cutoff
+	public void UpdateToNewIteration(){
+		attrList.clear();
+		valList.clear();
+		for(Iterator<Map.Entry<Extraction, Integer>> it = extractionMap.entrySet().iterator(); it.hasNext();){
+			Map.Entry<Extraction, Integer> e = it.next();
+			if(e.getValue()<bootstrapping_cutoff){
+				it.remove();
+				continue;
 			}
-		System.out.println( i+ " templates were found. " + templateMap.size() + " templates were kept");
-		return;
-	}
-	
-	public void UpdateProcess(){
-		return;
-	}
+			if(e.getKey() != null){
+				if(!attrList.contains(e.getKey().getAttr().get_txt()))
+					attrList.add(e.getKey().getAttr().get_txt());
+				if(!valList.contains(e.getKey().getVal().get_txt()))
+					valList.add(e.getKey().getAttr().get_txt());
+			}
+		}
+		bootstrapping_cutoff += ParameterSetting.BOOTSTRAPPINGTHRESHOLD;
+		
+		System.out.println( attrList.size() + "attributes in total. " + valList.size() + "values in total. "  + extractionMap.size() + " extractions in total. ");
 
-	
+		return;
+	}
 	
 	private void OutputProcessingRes(){
 		
