@@ -19,6 +19,8 @@ public class SentimentAnalyzer {
 		// TODO Auto-generated method stub
 		Double output = SentimentAnalyzer.getInstance().extract("happy", "a");
 		System.out.println(output);
+		Double output1 = SentimentAnalyzer.getInstance().extract("disgusting", "a");
+		System.out.println(output1);
 	}
 
 	

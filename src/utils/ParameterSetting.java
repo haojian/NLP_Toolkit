@@ -17,4 +17,8 @@ public class ParameterSetting {
 	public static String PATHTOLOG = "./log.txt";
 	public static String PATHTODEBUG = "./debug.txt";
 	public static String PATHTOSEEDFILE = "./seed.txt";
+	
+	//REGX String variables
+	public static String REGXWORDPATTERN_V1 = "(.*)";
+	public static String REGXWORDPATTERN_V2 = "([a-z]{3,15}?)";
 }

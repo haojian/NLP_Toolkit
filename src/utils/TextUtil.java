@@ -42,11 +42,11 @@ public class TextUtil {
 	
 	public static void regexTest(){
 		//For three possible case, the target could be in middle, start, end of the string.
-		String[] originalpattern = {"here #ATTRIBUTE#",
+		String[] originalpattern = {
 		"here #ATTRIBUTE# is bad",
 		"#ATTRIBUTE# is bad"};
 		for(String tmp: originalpattern){
-			String pattern = tmp.replaceAll("#ATTRIBUTE#", "(.*)");
+			String pattern = tmp.replaceAll("#ATTRIBUTE#", ParameterSetting.REGXWORDPATTERN_V2);
 			System.out.println(pattern);
 			//String pattern = "here (.*) is bad.";
 			String data = "here parking is bad.";
@@ -60,9 +60,11 @@ public class TextUtil {
 		if (matcher.find()) {   
 			if(patternStr.startsWith("(.*)")){
 				String[] array = matcher.group(1).split(" ");
+				//System.out.println(array[array.length-1].trim().replace(",", ""));
 				return array[array.length-1].trim().replace(",", "");
 			}else{
 				String[] array = matcher.group(1).split(" ");
+				//System.out.println(array[0].trim().replace(",", ""));
 				return array[0].trim().replace(",", "");
 			}
 			/*else if(patternStr.endsWith("(.*)")){
@@ -81,7 +83,7 @@ public class TextUtil {
 		if(sent == null || sent.length() == 0){
 			return null;
 		}
-		String pattern = temp.toValueTemplateString(attr).replaceAll("#VALUE#", "(.*)");
+		String pattern = temp.toValueTemplateString(attr).replace("#VALUE#", ParameterSetting.REGXWORDPATTERN_V2);
 		String res = RegexExtraction(pattern, sent);
 		return res;
 	}
@@ -90,7 +92,8 @@ public class TextUtil {
 		if(sent == null || sent.length() == 0){
 			return null;
 		}
-		String pattern = temp.toAttrTemplateString(val).replaceAll("#ATTRIBUTE#", "(.*)");
+		
+		String pattern = temp.toAttrTemplateString(val).replace("#ATTRIBUTE#", ParameterSetting.REGXWORDPATTERN_V2);
 		String res = RegexExtraction(pattern, sent);
 		return res;
 	}

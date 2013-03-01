@@ -8,6 +8,7 @@ import utils.TextUtil;
 public class Template {
 	private ArrayList<String> _patternTxts;
 	private ArrayList<String> _fulllpatternTxts;
+	private String fullpaternTxt = "";
 	
 	public Template(){
 		_patternTxts = new ArrayList<String>();
@@ -15,6 +16,7 @@ public class Template {
 	
 	public Template(ArrayList<String> patternTxt){
 		_patternTxts = patternTxt;
+		fullpaternTxt = TextUtil.joinStringArrayList(_patternTxts, "");
 	}
 	
 	public String toString(){
@@ -22,12 +24,12 @@ public class Template {
 	}
 	
 	public String toValueTemplateString(Attribute attr){
-		return TextUtil.joinStringArrayList(_patternTxts, "").replace("#ATTRIBUTE#", attr.get_txt());
+		return fullpaternTxt.replace("#ATTRIBUTE#", attr.get_txt());
 	}
 	
 	public String toAttrTemplateString(Value val){
 		//return TextUtil.joinStringArrayList(_patternTxts, "");
-		return TextUtil.joinStringArrayList(_patternTxts, "").replace("#VALUE#", val.get_txt());
+		return fullpaternTxt.replace("#VALUE#", val.get_txt());
 
 	}
 
@@ -63,5 +65,13 @@ public class Template {
 
 	public void set_fulllpatternTxts(ArrayList<String> _fulllpatternTxts) {
 		this._fulllpatternTxts = _fulllpatternTxts;
+	}
+
+	public String getFullpaternTxt() {
+		return fullpaternTxt;
+	}
+
+	public void setFullpaternTxt(String fullpaternTxt) {
+		this.fullpaternTxt = fullpaternTxt;
 	}
 }

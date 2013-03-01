@@ -217,6 +217,7 @@ public class Extraction_bootstrapping {
 				it.remove();
 		}
 		for(Map.Entry<Template, Integer> entry : cacheMap.entrySet()){
+			System.out.println(entry.getKey().toString());
 			if(templateMap.containsKey(entry.getKey()))
 				templateMap.put(entry.getKey(), entry.getValue() + templateMap.get(entry.getKey()));
 			else
