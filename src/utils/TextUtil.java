@@ -67,14 +67,6 @@ public class TextUtil {
 				//System.out.println(array[0].trim().replace(",", ""));
 				return array[0].trim().replace(",", "");
 			}
-			/*else if(patternStr.endsWith("(.*)")){
-				String[] array = matcher.group(1).split(" ");
-				System.out.println(array[0]);
-				return array[0].trim();
-			}else{
-				System.out.println(matcher.group(1));
-				return matcher.group(1).trim();
-			}*/
 		}
 		return null;
 	}
