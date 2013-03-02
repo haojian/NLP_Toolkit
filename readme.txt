@@ -45,5 +45,12 @@ Template statistic in the first iteration:
 
 /********************/
 
+/********************/
+Performance Profiling:
+
+The biggest cost in this extraction is the regex matching. I revised the pattern regex for better performance for multiple time. You can check the details in the profiling directory.
+
+/********************/
+
 
 

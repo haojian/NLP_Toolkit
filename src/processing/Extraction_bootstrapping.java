@@ -97,7 +97,6 @@ public class Extraction_bootstrapping {
 			ValueInduction();
 			UpdateToNewIteration();
 			i++;
-			break;
 		}
 		return;
 	}
