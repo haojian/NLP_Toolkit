@@ -1,1 +1,4 @@
-Trust me, when it comes to food, my mouth knows best - and it has possessed the fingers in my hands to type this truth.
+================To do list =========================
+1. Add output function. Output the results from different iteration.
+2. Replace the word based on word unit rather than the string pattern match.
+3. Avoid the repetitive work in extraction.
