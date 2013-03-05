@@ -50,6 +50,8 @@ Performance Profiling:
 
 The biggest cost in this extraction is the regex matching. I revised the pattern regex for better performance for multiple time. You can check the details in the profiling directory.
 
+To improve the performance, I updated two design in this implementation: 1. String => Stringbuilder. 2. 
+
 /********************/
 
 

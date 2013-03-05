@@ -10,6 +10,8 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.TreeMap;
 
+import org.apache.commons.collections.map.MultiKeyMap;
+
 import utils.ParameterSetting;
 import utils.TextUtil;
 
@@ -34,6 +36,9 @@ public class Extraction_bootstrapping {
 	private int bootstrapping_cutoff = ParameterSetting.BOOTSTRAPPINGTHRESHOLD;
 	private ArrayList<String> corpus;
 	
+	private MultiKeyMap attributeExtractionHisotry;
+	private MultiKeyMap valueExtractionHistory;
+	
 	/**
 	 * @param args
 	 */
@@ -48,6 +53,10 @@ public class Extraction_bootstrapping {
 		corpus = new ArrayList<String>();
 		attrList = new ArrayList<String>();
 		valList = new ArrayList<String>();
+		
+		attributeExtractionHisotry = new MultiKeyMap();
+		valueExtractionHistory = new MultiKeyMap();
+		
 		InitSeedExtraction();
 	}
 	
@@ -110,7 +119,13 @@ public class Extraction_bootstrapping {
 			for(Template pattern: templateMap.keySet()){
 				for(String attr : attrList){
 					Attribute _attrObj = new Attribute(attr);
-					String value = TextUtil.ValueExtraction(pattern, _attrObj, sent);
+					String value;
+					if(valueExtractionHistory.containsKey(pattern, _attrObj, sent)){
+						value = (String) valueExtractionHistory.get(pattern, _attrObj, sent);
+					}else{
+						value = TextUtil.ValueExtraction(pattern, _attrObj, sent);
+						valueExtractionHistory.put(pattern, _attrObj, sent, value);
+					}
 					if(value != null){
 						Extraction curExtraction = new Extraction(value, attr, 0);
 						if(!extractionsInSent.contains(curExtraction)){
@@ -154,7 +169,15 @@ public class Extraction_bootstrapping {
 			for(Template pattern: templateMap.keySet()){
 				for(String val : valList){
 					Value _valObj = new Value(val);
-					String attribute = TextUtil.attributeExtraction(pattern, _valObj, sent);
+					
+					String attribute;
+					if(valueExtractionHistory.containsKey(pattern, _valObj, sent)){
+						attribute = (String) valueExtractionHistory.get(pattern, _valObj, sent);
+					}else{
+						attribute = TextUtil.attributeExtraction(pattern, _valObj, sent);
+						valueExtractionHistory.put(pattern, _valObj, sent, attribute);
+					}
+										
 					if(attribute != null){
 						Extraction curExtraction = new Extraction(val, attribute, 0);
 						if(!extractionsInSent.contains(curExtraction)){
