@@ -31,7 +31,7 @@ public class TextUtil {
 	public static String joinStringArrayList(ArrayList<String> list, String jointStr){
 		if(list == null)
 			return "";
-		StringBuilder sb = new StringBuilder();
+		StringBuffer sb = new StringBuffer(1000);
 		for (String s : list)
 		{
 		    sb.append(s);
@@ -60,12 +60,10 @@ public class TextUtil {
 		if (matcher.find()) {   
 			if(patternStr.startsWith("(.*)")){
 				String[] array = matcher.group(1).split(" ");
-				//System.out.println(array[array.length-1].trim().replace(",", ""));
-				return array[array.length-1].trim().replace(",", "");
+				return array[array.length-1].replace(',', ' ').trim();
 			}else{
 				String[] array = matcher.group(1).split(" ");
-				//System.out.println(array[0].trim().replace(",", ""));
-				return array[0].trim().replace(",", "");
+				return array[0].replace(',', ' ').trim();
 			}
 		}
 		return null;
@@ -85,7 +83,8 @@ public class TextUtil {
 			return null;
 		}
 		
-		String pattern = temp.toAttrTemplateString(val).replace("#ATTRIBUTE#", ParameterSetting.REGXWORDPATTERN_V2);
+		//String pattern = temp.toAttrTemplateString(val).replace("#ATTRIBUTE#", ParameterSetting.REGXWORDPATTERN_V2);
+		String pattern = TextUtil.HighPerformanceStringReplace(temp.toAttrTemplateString(val), "#ATTRIBUTE#", ParameterSetting.REGXWORDPATTERN_V2);
 		String res = RegexExtraction(pattern, sent);
 		return res;
 	}
@@ -164,5 +163,16 @@ public class TextUtil {
 	
 	public static String TextPreProcessing(String input){
 		return input.toLowerCase().trim();
+	}
+	
+	
+	public static String HighPerformanceStringReplace(String str, String target, String replacement){
+		int index = str.indexOf(target);
+		if(index != -1){
+			String res = str.substring(0, index) + replacement + str.substring(index + target.length());
+			//System.out.println(res);
+			return res;
+		}
+		return null;
 	}
 }

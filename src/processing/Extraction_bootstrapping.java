@@ -12,6 +12,7 @@ import java.util.TreeMap;
 
 import org.apache.commons.collections.map.MultiKeyMap;
 
+import utils.IOOperator;
 import utils.ParameterSetting;
 import utils.TextUtil;
 
@@ -36,8 +37,8 @@ public class Extraction_bootstrapping {
 	private int bootstrapping_cutoff = ParameterSetting.BOOTSTRAPPINGTHRESHOLD;
 	private ArrayList<String> corpus;
 	
-	private MultiKeyMap attributeExtractionHisotry;
-	private MultiKeyMap valueExtractionHistory;
+	int iterationIndex = 0;
+
 	
 	/**
 	 * @param args
@@ -53,9 +54,6 @@ public class Extraction_bootstrapping {
 		corpus = new ArrayList<String>();
 		attrList = new ArrayList<String>();
 		valList = new ArrayList<String>();
-		
-		attributeExtractionHisotry = new MultiKeyMap();
-		valueExtractionHistory = new MultiKeyMap();
 		
 		InitSeedExtraction();
 	}
@@ -96,16 +94,18 @@ public class Extraction_bootstrapping {
 	public void StartProcess(){
 		//if((ArrayList<String> res = TextUtil.patternExtraction(val, attr, sent))
 		int lastIterationSize = -1;
-		int i = 0;
 		while(extractionMap.size() != lastIterationSize){
-			System.out.println(i + "th iteration......" );
+			System.out.println(iterationIndex + "th iteration......" );
 			lastIterationSize = extractionMap.size();
 			
 			TemplateInduction();
 			AttributeInduction();
 			ValueInduction();
+			
+			OutputProcessingRes();
+			
 			UpdateToNewIteration();
-			i++;
+			iterationIndex++;
 		}
 		return;
 	}
@@ -118,14 +118,7 @@ public class Extraction_bootstrapping {
 			ArrayList<Extraction> extractionsInSent = new ArrayList<Extraction>();
 			for(Template pattern: templateMap.keySet()){
 				for(String attr : attrList){
-					Attribute _attrObj = new Attribute(attr);
-					String value;
-					if(valueExtractionHistory.containsKey(pattern, _attrObj, sent)){
-						value = (String) valueExtractionHistory.get(pattern, _attrObj, sent);
-					}else{
-						value = TextUtil.ValueExtraction(pattern, _attrObj, sent);
-						valueExtractionHistory.put(pattern, _attrObj, sent, value);
-					}
+					String value = pattern.getValueExtraction(sent, attr);
 					if(value != null){
 						Extraction curExtraction = new Extraction(value, attr, 0);
 						if(!extractionsInSent.contains(curExtraction)){
@@ -168,16 +161,7 @@ public class Extraction_bootstrapping {
 			ArrayList<Extraction> extractionsInSent = new ArrayList<Extraction>();
 			for(Template pattern: templateMap.keySet()){
 				for(String val : valList){
-					Value _valObj = new Value(val);
-					
-					String attribute;
-					if(valueExtractionHistory.containsKey(pattern, _valObj, sent)){
-						attribute = (String) valueExtractionHistory.get(pattern, _valObj, sent);
-					}else{
-						attribute = TextUtil.attributeExtraction(pattern, _valObj, sent);
-						valueExtractionHistory.put(pattern, _valObj, sent, attribute);
-					}
-										
+					String attribute = pattern.getAttrExtraction(sent, val);		
 					if(attribute != null){
 						Extraction curExtraction = new Extraction(val, attribute, 0);
 						if(!extractionsInSent.contains(curExtraction)){
@@ -270,13 +254,28 @@ public class Extraction_bootstrapping {
 		}
 		bootstrapping_cutoff += ParameterSetting.BOOTSTRAPPINGTHRESHOLD;
 		
-		System.out.println( attrList.size() + "attributes in total. " + valList.size() + "values in total. "  + extractionMap.size() + " extractions in total. ");
+		System.out.println( attrList.size() + " attributes in total. " + valList.size() + "values in total. "  + extractionMap.size() + " extractions in total. ");
 
 		return;
 	}
 	
 	private void OutputProcessingRes(){
+		IOOperator.getInstance().writeToFile(iterationIndex + ".txt", "", false);
+		IOOperator.getInstance().writeToFile(iterationIndex + ".txt", "============Overall============\n", true);
+		IOOperator.getInstance().writeToFile(iterationIndex + ".txt", templateMap.size() + " templates in total. " + attrList.size() + "attributes in total. " + valList.size() + "values in total. "  + extractionMap.size() + " extractions in total. ", true);
+		IOOperator.getInstance().writeToFile(iterationIndex + ".txt", "============Template============\n", true);
 		
+		for(Map.Entry<Template, Integer> entry : templateMap.entrySet()){
+			//System.out.println(entry.getKey().toString());
+			IOOperator.getInstance().writeToFile(iterationIndex + ".txt", entry.getKey().toTemplateString() + "\t" + entry.getValue() + "\n", true);
+		}
+		
+		IOOperator.getInstance().writeToFile(iterationIndex + ".txt", "============Extraction============\n", true);
+		
+		for(Iterator<Map.Entry<Extraction, Integer>> it = extractionMap.entrySet().iterator(); it.hasNext();){
+			Map.Entry<Extraction, Integer> entry = it.next();
+			IOOperator.getInstance().writeToFile(iterationIndex + ".txt", entry.getKey().toString() + "\t" + entry.getValue() + "\n", true);
+		}
 	}
 }
 

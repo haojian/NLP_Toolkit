@@ -6,7 +6,8 @@ public class Extraction {
 	private Value val;
 	private Attribute attr;
 	private int numberofoccurances;
-	
+	private int customizedHashCode = -1;
+	private boolean ifHashed = false;
 	
 	public Extraction(){
 		
@@ -50,8 +51,14 @@ public class Extraction {
 	
 	public int hashCode()
 	{
-		String tmp = val.get_txt() + "|" + attr.get_txt();
-		return tmp.hashCode();
+		if(ifHashed){
+			return customizedHashCode;
+		}
+		else{
+			String tmp = val.get_txt() + "|" + attr.get_txt();
+			customizedHashCode = tmp.hashCode();
+			return customizedHashCode;
+		}		
 	}
 	
 	public boolean equals(Object obj){

@@ -1,7 +1,13 @@
 package data_structure;
 
 import java.awt.List;
+import java.io.UnsupportedEncodingException;
+import java.net.URLEncoder;
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
+
+import org.apache.commons.collections.map.MultiKeyMap;
 
 import utils.TextUtil;
 
@@ -9,18 +15,50 @@ public class Template {
 	private ArrayList<String> _patternTxts;
 	private ArrayList<String> _fulllpatternTxts;
 	private String fullpaternTxt = "";
+	private int customizedHashCode = -1;
+	private boolean ifHashed = false;
+	
+	private Map<String, String> attributeExtractionHisotry;
+	private Map<String, String> valueExtractionHistory;
 	
 	public Template(){
 		_patternTxts = new ArrayList<String>();
+		attributeExtractionHisotry = new HashMap<String, String>(10000000);
+		valueExtractionHistory = new HashMap<String, String>(10000000);
+	}
+	
+	public String getValueExtraction(String sent, String attribute){
+		String key = sent + "-" + attribute;
+		if(valueExtractionHistory.containsKey(key)){
+			return valueExtractionHistory.get(key);
+		}else{
+			String value = TextUtil.ValueExtraction(this, new Attribute(attribute), sent);
+			valueExtractionHistory.put(key, value);
+			return value;
+		}
+	}
+	
+	public String getAttrExtraction(String sent, String value){
+		String key = sent + "-" + value;
+		
+		if(attributeExtractionHisotry.containsKey(key)){
+			return attributeExtractionHisotry.get(key);
+		}else{
+			String attr = TextUtil.attributeExtraction(this, new Value(value), sent);
+			attributeExtractionHisotry.put(key, attr);
+			return attr;
+		}
 	}
 	
 	public Template(ArrayList<String> patternTxt){
 		_patternTxts = patternTxt;
 		fullpaternTxt = TextUtil.joinStringArrayList(_patternTxts, "");
+		attributeExtractionHisotry = new HashMap<String, String>();
+		valueExtractionHistory = new HashMap<String, String>();
 	}
 	
-	public String toString(){
-		return TextUtil.joinStringArrayList(_patternTxts, "");
+	public String toTemplateString(){
+		return fullpaternTxt;
 	}
 	
 	public String toValueTemplateString(Attribute attr){
@@ -28,9 +66,8 @@ public class Template {
 	}
 	
 	public String toAttrTemplateString(Value val){
-		//return TextUtil.joinStringArrayList(_patternTxts, "");
-		return fullpaternTxt.replace("#VALUE#", val.get_txt());
-
+		return TextUtil.HighPerformanceStringReplace(fullpaternTxt, "#VALUE#", val.get_txt());
+		//return fullpaternTxt.replace("#VALUE#", val.get_txt());
 	}
 
 	public ArrayList<String> get_patternTxts() {
@@ -43,7 +80,13 @@ public class Template {
 	
 	public int hashCode()
 	{
-		return TextUtil.joinStringArrayList(_patternTxts, "|").hashCode();
+		if(ifHashed){
+			return customizedHashCode;
+		}
+		else{
+			customizedHashCode = fullpaternTxt.hashCode();
+			return customizedHashCode;
+		}
 	}
 	
 	public boolean equals(Object obj){
