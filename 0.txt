@@ -1,760 +1,663 @@
 ============Overall============
-3 templates in total. 50attributes in total. 79values in total. 754 extractions in total. ============Template============
+3 templates in total. 160attributes in total. 573values in total. 657 extractions in total. ============Template============
 #VALUE# part of the #ATTRIBUTE#	6
 the #ATTRIBUTE# was #VALUE#.	6
 #VALUE# #ATTRIBUTE#.	7
 ============Extraction============
-data_structure.Extraction@38105cdd	9
-data_structure.Extraction@90744039	49
-data_structure.Extraction@a28b7dd4	10
-data_structure.Extraction@78ae0e5d	6
-data_structure.Extraction@7ed8786a	0
-data_structure.Extraction@1f657e2e	125
-data_structure.Extraction@3bb51fd0	15
-data_structure.Extraction@5eeeb448	12
-data_structure.Extraction@7d9adc5a	22
-data_structure.Extraction@1676f0e	22
-data_structure.Extraction@d5c35db6	0
-data_structure.Extraction@b4a96f67	14
-data_structure.Extraction@952ffc9d	18
-data_structure.Extraction@409b0bde	16
-data_structure.Extraction@cd4b46be	6
-data_structure.Extraction@db762c93	0
-data_structure.Extraction@240eb06d	44
-data_structure.Extraction@846d515f	6
-data_structure.Extraction@ced675f1	0
-data_structure.Extraction@5d735b7d	12
-data_structure.Extraction@7f8ce0ef	11
-data_structure.Extraction@6de26676	35
-data_structure.Extraction@6189ea38	24
-data_structure.Extraction@6de26671	9
-data_structure.Extraction@7b345178	0
-data_structure.Extraction@6de26673	0
-data_structure.Extraction@74c6aada	12
-data_structure.Extraction@431a575c	28
-data_structure.Extraction@83b357a9	16
-data_structure.Extraction@e097271b	11
-data_structure.Extraction@59605447	0
-data_structure.Extraction@544cdb30	11
-data_structure.Extraction@42f31e02	49
-data_structure.Extraction@85475a6e	0
-data_structure.Extraction@c7ffc3cf	9
-data_structure.Extraction@1d1777b1	18
-data_structure.Extraction@2411b7d2	15
-data_structure.Extraction@e02a9438	347
-data_structure.Extraction@c0525465	9
-data_structure.Extraction@7e91ea94	8
-data_structure.Extraction@74c6aad7	41
-data_structure.Extraction@490531f4	7
-data_structure.Extraction@c0525461	39
-data_structure.Extraction@851171ac	7
-data_structure.Extraction@f29b15fd	0
-data_structure.Extraction@630eae56	9
-data_structure.Extraction@d7b77639	16
-data_structure.Extraction@571db50a	85
-data_structure.Extraction@31866ab8	16
-data_structure.Extraction@a28b5f8f	16
-data_structure.Extraction@418ebfb8	11
-data_structure.Extraction@5a0ef6e8	6
-data_structure.Extraction@6de2a38f	6
-data_structure.Extraction@a28b5bc1	20
-data_structure.Extraction@342a1243	19
-data_structure.Extraction@5c578cde	7
-data_structure.Extraction@4f682e36	9
-data_structure.Extraction@fde87c9f	9
-data_structure.Extraction@7d9ac968	11
-data_structure.Extraction@8a2bf517	6
-data_structure.Extraction@3e88062	7
-data_structure.Extraction@3e88063	8
-data_structure.Extraction@466396be	0
-data_structure.Extraction@ccac9f6e	7
-data_structure.Extraction@e2c451fe	6
-data_structure.Extraction@2ce3e463	67
-data_structure.Extraction@30b32ed	0
-data_structure.Extraction@42f0546e	138
-data_structure.Extraction@4905754d	9
-data_structure.Extraction@e475255d	0
-data_structure.Extraction@4c02f7ed	0
-data_structure.Extraction@54cdffc2	8
-data_structure.Extraction@6de26ea8	8
-data_structure.Extraction@34be68b5	10
-data_structure.Extraction@b7ef3116	9
-data_structure.Extraction@42eff09f	9
-data_structure.Extraction@2d45c5c4	6
-data_structure.Extraction@a3977d6e	12
-data_structure.Extraction@865a9f5e	0
-data_structure.Extraction@6de26eae	9
-data_structure.Extraction@9d7379bd	6
-data_structure.Extraction@3e89da6	6
-data_structure.Extraction@a2588066	11
-data_structure.Extraction@6f8285fd	12
-data_structure.Extraction@cf74a6b9	6
-data_structure.Extraction@3aad92cf	14
-data_structure.Extraction@540a3026	6
-data_structure.Extraction@ffda35da	6
-data_structure.Extraction@431a1780	42
-data_structure.Extraction@7d9ad86c	8
-data_structure.Extraction@f9350c90	7
-data_structure.Extraction@1f65c489	21
-data_structure.Extraction@11e520b6	0
-data_structure.Extraction@4f681d26	6
-data_structure.Extraction@7d9ac954	17
-data_structure.Extraction@53a9e3a2	15
-data_structure.Extraction@4348fd8d	8
-data_structure.Extraction@202efa35	8
-data_structure.Extraction@1ca76490	16
-data_structure.Extraction@fc49572c	6
-data_structure.Extraction@76350ecb	72
-data_structure.Extraction@ce588b0b	6
-data_structure.Extraction@e090b91b	17
-data_structure.Extraction@ce0a7ceb	11
-data_structure.Extraction@ca7a9c90	9
-data_structure.Extraction@1f65aa41	9
-data_structure.Extraction@4ea5b533	37
-data_structure.Extraction@19487ccd	16
-data_structure.Extraction@3e880bb	7
-data_structure.Extraction@39244f15	59
-data_structure.Extraction@166704a	16
-data_structure.Extraction@7e91ea26	8
-data_structure.Extraction@607d2dd5	38
-data_structure.Extraction@d264a41d	12
-data_structure.Extraction@81773bfd	6
-data_structure.Extraction@6de2943b	12
-data_structure.Extraction@b7b1529e	10
-data_structure.Extraction@bf9d2212	14
-data_structure.Extraction@3e87aee	7
-data_structure.Extraction@409ae219	8
-data_structure.Extraction@7e91c49c	11
-data_structure.Extraction@9f51960c	15
-data_structure.Extraction@3e8c03b	17
-data_structure.Extraction@74c6aa6c	13
-data_structure.Extraction@bb0b232d	0
-data_structure.Extraction@e02b92fc	6
-data_structure.Extraction@459c1522	8
-data_structure.Extraction@cdd4ccdf	6
-data_structure.Extraction@512cbebd	0
-data_structure.Extraction@f8ccc145	0
-data_structure.Extraction@39245a5b	7
-data_structure.Extraction@76351309	37
-data_structure.Extraction@fbf11fa8	255
-data_structure.Extraction@c20d26ea	7
-data_structure.Extraction@f522f8c0	7
-data_structure.Extraction@afbe0fa3	8
-data_structure.Extraction@54c7e632	36
-data_structure.Extraction@3de7e6d1	16
-data_structure.Extraction@ee5164a9	7
-data_structure.Extraction@fcbca477	12
-data_structure.Extraction@38253bb1	17
-data_structure.Extraction@db4952f3	7
-data_structure.Extraction@38c0fec8	12
-data_structure.Extraction@5b136c00	12
-data_structure.Extraction@34be46e9	7
-data_structure.Extraction@49dfe82a	7
-data_structure.Extraction@2b4d533f	6
-data_structure.Extraction@cf5830ba	11
-data_structure.Extraction@ba0d0057	15
-data_structure.Extraction@109900c8	10
-data_structure.Extraction@7e91e6a7	6
-data_structure.Extraction@af9405fa	33
-data_structure.Extraction@185eb5db	44
-data_structure.Extraction@3d19064	0
-data_structure.Extraction@5ddab4ac	12
-data_structure.Extraction@75fe7824	17
-data_structure.Extraction@cf592f7e	10
-data_structure.Extraction@d09e0e80	7
-data_structure.Extraction@58b2019a	8
-data_structure.Extraction@696e3b4d	7
-data_structure.Extraction@494bf891	10
-data_structure.Extraction@7f841613	0
-data_structure.Extraction@4ae8b72c	0
-data_structure.Extraction@622fd4d8	18
-data_structure.Extraction@409b30fe	20
-data_structure.Extraction@3e880c7	9
-data_structure.Extraction@732b680c	12
-data_structure.Extraction@21e4c485	0
-data_structure.Extraction@53d1c293	11
-data_structure.Extraction@c7c7976	9
-data_structure.Extraction@2d4394a3	12
-data_structure.Extraction@af940908	7
-data_structure.Extraction@74c6a29f	26
-data_structure.Extraction@bf133ba5	9
-data_structure.Extraction@1b7b514c	57
-data_structure.Extraction@74c6a29a	15
-data_structure.Extraction@15c2edec	15
-data_structure.Extraction@c8ec0f7d	27
-data_structure.Extraction@7e920330	40
-data_structure.Extraction@a397798a	8
-data_structure.Extraction@7da23d35	9
-data_structure.Extraction@aa3bbb1d	6
-data_structure.Extraction@5af3f6ed	13
-data_structure.Extraction@85908c3e	7
-data_structure.Extraction@7e91b6c2	74
-data_structure.Extraction@5676f119	11
-data_structure.Extraction@5d9af5be	7
-data_structure.Extraction@b635c2c2	0
-data_structure.Extraction@7fc69e0f	0
-data_structure.Extraction@31acd7a7	6
-data_structure.Extraction@1f65a340	6
-data_structure.Extraction@18ddbe1a	10
-data_structure.Extraction@15063c35	8
-data_structure.Extraction@4e6e6edb	48
-data_structure.Extraction@3f069e82	15
-data_structure.Extraction@4ea5e9de	13
-data_structure.Extraction@409b1732	12
-data_structure.Extraction@7e91c50a	23
-data_structure.Extraction@120539d2	10
-data_structure.Extraction@1a852dad	48
-data_structure.Extraction@7e91c507	35
-data_structure.Extraction@a3d83e28	23
-data_structure.Extraction@163fa642	51
-data_structure.Extraction@7fda1ab3	13
-data_structure.Extraction@5765c8c1	6
-data_structure.Extraction@833eff3d	12
-data_structure.Extraction@611670e7	0
-data_structure.Extraction@34be4328	6
-data_structure.Extraction@418b9278	16
-data_structure.Extraction@18a8f716	0
-data_structure.Extraction@7d9b1a80	12
-data_structure.Extraction@7e91f661	12
-data_structure.Extraction@16ef425	118
-data_structure.Extraction@c706e1cc	11
-data_structure.Extraction@53dfda1d	44
-data_structure.Extraction@1f65b240	44
-data_structure.Extraction@a3a9faab	11
-data_structure.Extraction@7e91f675	7
-data_structure.Extraction@493f8529	6
-data_structure.Extraction@5eb3b6a1	268
-data_structure.Extraction@7e91c55e	7
-data_structure.Extraction@9ddaa097	13
-data_structure.Extraction@1d641de3	11
-data_structure.Extraction@3bb34b1a	13
-data_structure.Extraction@ba0d4501	13
-data_structure.Extraction@74c6dc31	13
-data_structure.Extraction@1f65ab85	7
-data_structure.Extraction@8348f82c	0
-data_structure.Extraction@9f51939e	6
-data_structure.Extraction@6c5a6158	12
-data_structure.Extraction@1ca7a4c5	14
-data_structure.Extraction@763521bd	19
-data_structure.Extraction@f934df04	6
-data_structure.Extraction@8d88a6b1	7
-data_structure.Extraction@e9457a68	0
-data_structure.Extraction@9f51a86f	7
-data_structure.Extraction@74c69c92	11
-data_structure.Extraction@ffab7162	76
-data_structure.Extraction@dca8eaa7	6
-data_structure.Extraction@f7fbcb66	15
-data_structure.Extraction@f211ae57	0
-data_structure.Extraction@69d17f60	8
-data_structure.Extraction@7e91c127	9
-data_structure.Extraction@409af2de	9
-data_structure.Extraction@fe904a09	38
-data_structure.Extraction@409b3179	6
-data_structure.Extraction@78ebd170	20
-data_structure.Extraction@a28b2d0b	16
-data_structure.Extraction@1d641dde	8
-data_structure.Extraction@409af2d5	26
-data_structure.Extraction@c4ed03c	6
-data_structure.Extraction@409b3173	9
-data_structure.Extraction@122aa94c	0
-data_structure.Extraction@a8397446	52
-data_structure.Extraction@1e9dd294	18
-data_structure.Extraction@b43c9fd1	124
-data_structure.Extraction@7e91b204	12
-data_structure.Extraction@91866981	0
-data_structure.Extraction@304d657	0
-data_structure.Extraction@3e9a5bb5	6
-data_structure.Extraction@852ad6a7	6
-data_structure.Extraction@bd368ab7	0
-data_structure.Extraction@5feba3f5	7
-data_structure.Extraction@827d4bb	9
-data_structure.Extraction@62654128	8
-data_structure.Extraction@21f3a898	0
-data_structure.Extraction@7d9ad112	14
-data_structure.Extraction@5ddaac48	7
-data_structure.Extraction@f70d9993	23
-data_structure.Extraction@b485f495	6
-data_structure.Extraction@7d9accec	6
-data_structure.Extraction@5fdac03f	16
-data_structure.Extraction@2d66415e	0
-data_structure.Extraction@af9448e4	71
-data_structure.Extraction@f7d671bd	7
-data_structure.Extraction@62156458	11
-data_structure.Extraction@a62fbfd8	0
-data_structure.Extraction@7e91b218	56
-data_structure.Extraction@4d51f47a	21
-data_structure.Extraction@1b6d1d36	29
-data_structure.Extraction@f618acef	8
-data_structure.Extraction@93cdaf5	6
-data_structure.Extraction@fd1a4986	13
-data_structure.Extraction@eefc9bdf	0
-data_structure.Extraction@fbcc422a	164
-data_structure.Extraction@3159cf05	44
-data_structure.Extraction@1cea3e34	64
-data_structure.Extraction@409aefe9	10
-data_structure.Extraction@c8ef087a	17
-data_structure.Extraction@93b17fd9	7
-data_structure.Extraction@c163e7bb	40
-data_structure.Extraction@1d0b4c39	17
-data_structure.Extraction@34b8bdcc	156
-data_structure.Extraction@c181c36a	6
-data_structure.Extraction@b1b7faa5	0
-data_structure.Extraction@8ee2be45	12
-data_structure.Extraction@a2fbe78e	11
-data_structure.Extraction@584488e	32
-data_structure.Extraction@f4380fc8	8
-data_structure.Extraction@42f339ad	18
-data_structure.Extraction@5165ce93	0
-data_structure.Extraction@56fe70a1	37
-data_structure.Extraction@e0bfa9af	7
-data_structure.Extraction@1b47adbc	209
-data_structure.Extraction@82e08858	9
-data_structure.Extraction@e4cf95af	7
-data_structure.Extraction@e98435c	6
-data_structure.Extraction@7e7d2434	31
-data_structure.Extraction@e2f83d9d	43
-data_structure.Extraction@409b2861	17
-data_structure.Extraction@630a223c	6
-data_structure.Extraction@1b6d3f3e	100
-data_structure.Extraction@374886c2	33
-data_structure.Extraction@1be29e02	12
-data_structure.Extraction@9ddaa45a	8
-data_structure.Extraction@48a7a71	16
-data_structure.Extraction@6f82aaeb	6
-data_structure.Extraction@3650ce60	9
-data_structure.Extraction@156becf6	7
-data_structure.Extraction@6da801e1	8
-data_structure.Extraction@5e52b6d8	40
-data_structure.Extraction@9d73b989	7
-data_structure.Extraction@f2eeeb18	0
-data_structure.Extraction@67fa1250	17
-data_structure.Extraction@50c3e3af	7
-data_structure.Extraction@34be3039	20
-data_structure.Extraction@9985480f	11
-data_structure.Extraction@6de26f05	11
-data_structure.Extraction@c5a4d2bb	11
-data_structure.Extraction@f0a7f651	22
-data_structure.Extraction@7287fa5d	0
-data_structure.Extraction@409b31f7	58
-data_structure.Extraction@b8fd3b26	19
-data_structure.Extraction@c7f50771	12
-data_structure.Extraction@c8911eed	8
-data_structure.Extraction@6de2a25d	55
-data_structure.Extraction@409b31f1	15
-data_structure.Extraction@f0d2e218	8
-data_structure.Extraction@1f65ba15	18
-data_structure.Extraction@3e8c9d0	18
-data_structure.Extraction@53a5dd79	8
-data_structure.Extraction@52578e1a	9
-data_structure.Extraction@7e7d57dc	11
-data_structure.Extraction@9bad61e2	11
-data_structure.Extraction@d6591195	6
-data_structure.Extraction@ba0d3d3d	44
-data_structure.Extraction@2dc0c98d	0
-data_structure.Extraction@e894c56d	9
-data_structure.Extraction@42f0560a	439
-data_structure.Extraction@1cdf6d64	10
-data_structure.Extraction@6138fcd2	8
-data_structure.Extraction@34b2629e	7
-data_structure.Extraction@6de287b1	50
-data_structure.Extraction@9f51c9de	22
-data_structure.Extraction@16a7673	63
-data_structure.Extraction@1a05d45d	6
-data_structure.Extraction@d19a7a92	6
-data_structure.Extraction@c18b9d38	7
-data_structure.Extraction@9eb3905	6
-data_structure.Extraction@5e4c1f2f	6
-data_structure.Extraction@409b275b	10
-data_structure.Extraction@6652fd87	12
-data_structure.Extraction@290685be	14
-data_structure.Extraction@be32a48b	0
-data_structure.Extraction@7385a1ac	7
-data_structure.Extraction@74c6b9ce	6
-data_structure.Extraction@f0a6f78d	9
-data_structure.Extraction@1c030eb9	0
-data_structure.Extraction@d8f45247	26
-data_structure.Extraction@90a72fcc	6
-data_structure.Extraction@411c8f61	16
-data_structure.Extraction@9ddab6b5	8
-data_structure.Extraction@53aac93a	7
-data_structure.Extraction@42ec4e45	385
-data_structure.Extraction@5520c31c	6
-data_structure.Extraction@64e84ac1	45
-data_structure.Extraction@71948e5e	9
-data_structure.Extraction@25d22629	586
-data_structure.Extraction@1b95c1b3	0
-data_structure.Extraction@39242b39	9
-data_structure.Extraction@879ab259	0
-data_structure.Extraction@b3fd05ad	6
-data_structure.Extraction@1f658666	6
-data_structure.Extraction@89508629	9
-data_structure.Extraction@7e91c25e	10
-data_structure.Extraction@97889ee4	6
-data_structure.Extraction@bf06a282	26
-data_structure.Extraction@f7e01f78	13
-data_structure.Extraction@9f519c19	13
-data_structure.Extraction@7e91f995	24
-data_structure.Extraction@6fb2f319	8
-data_structure.Extraction@d2de13a2	6
-data_structure.Extraction@5dda6e4b	13
-data_structure.Extraction@3147cd39	0
-data_structure.Extraction@318b151e	0
-data_structure.Extraction@1abd9b40	44
-data_structure.Extraction@76355504	0
-data_structure.Extraction@24149d11	0
-data_structure.Extraction@f0496f51	0
-data_structure.Extraction@572c264b	10
-data_structure.Extraction@1b9d7306	55
-data_structure.Extraction@82559f73	6
-data_structure.Extraction@64e442fc	19
-data_structure.Extraction@5306ebd	12
-data_structure.Extraction@6de29289	20
-data_structure.Extraction@7e7d634d	6
-data_structure.Extraction@beea17cc	7
-data_structure.Extraction@b0b39ea9	103
-data_structure.Extraction@529ccb04	6
-data_structure.Extraction@ae88e36	7
-data_structure.Extraction@64e9cdda	8
-data_structure.Extraction@caeb8023	0
-data_structure.Extraction@74c69f92	23
-data_structure.Extraction@21bf0889	0
-data_structure.Extraction@9f51d02b	13
-data_structure.Extraction@c20363f	33
-data_structure.Extraction@9a5958ce	8
-data_structure.Extraction@b928bb24	6
-data_structure.Extraction@c3484d59	10
-data_structure.Extraction@cd4e4e23	7
-data_structure.Extraction@7b457005	13
-data_structure.Extraction@7e91ceeb	7
-data_structure.Extraction@77b5aeca	6
-data_structure.Extraction@2d43b460	11
-data_structure.Extraction@8bc14ad0	8
-data_structure.Extraction@961bba37	22
-data_structure.Extraction@8d65cfdb	6
-data_structure.Extraction@56d77b6d	10
-data_structure.Extraction@ff9160c6	46
-data_structure.Extraction@54b9d424	12
-data_structure.Extraction@cc317563	163
-data_structure.Extraction@2605c9b9	7
-data_structure.Extraction@15060c30	16
-data_structure.Extraction@409b147b	12
-data_structure.Extraction@409ae496	7
-data_structure.Extraction@a397853b	9
-data_structure.Extraction@c3bb59c7	21
-data_structure.Extraction@4ff53697	9
-data_structure.Extraction@2b9c0f21	10
-data_structure.Extraction@2d7f80aa	12
-data_structure.Extraction@2a024aa	7
-data_structure.Extraction@c0e04497	9
-data_structure.Extraction@a3af1a4f	6
-data_structure.Extraction@dec373a2	16
-data_structure.Extraction@f8be1079	8
-data_structure.Extraction@bcdf80aa	19
-data_structure.Extraction@ba212afe	71
-data_structure.Extraction@4e6b6776	8
-data_structure.Extraction@abda78fa	8
-data_structure.Extraction@e318bc0e	0
-data_structure.Extraction@a68baf1c	15
-data_structure.Extraction@3b68e8d4	0
-data_structure.Extraction@8d526b5	37
-data_structure.Extraction@4a1ec503	14
-data_structure.Extraction@1430b005	10
-data_structure.Extraction@21c00508	6
-data_structure.Extraction@409b0d25	6
-data_structure.Extraction@409adfb7	6
-data_structure.Extraction@409adfb6	8
-data_structure.Extraction@15bfe687	9
-data_structure.Extraction@4fde2b03	6
-data_structure.Extraction@53a6dc3d	46
-data_structure.Extraction@1f659f69	8
-data_structure.Extraction@c3bb9cf8	9
-data_structure.Extraction@390fae5d	11
-data_structure.Extraction@7d9acb9e	11
-data_structure.Extraction@6de29af3	7
-data_structure.Extraction@409b23a6	8
-data_structure.Extraction@7e91d3fe	7
-data_structure.Extraction@beb293b1	256
-data_structure.Extraction@278e8e9c	21
-data_structure.Extraction@c278ce94	12
-data_structure.Extraction@5ab2018d	0
-data_structure.Extraction@41896322	17
-data_structure.Extraction@72a2f594	10
-data_structure.Extraction@79f579b4	24
-data_structure.Extraction@1a934537	26
-data_structure.Extraction@9f51c970	83
-data_structure.Extraction@9dda7b78	10
-data_structure.Extraction@b9fea3d0	10
-data_structure.Extraction@4e6ff390	8
-data_structure.Extraction@a8b24e7f	0
-data_structure.Extraction@7f8be470	0
-data_structure.Extraction@da3fd784	6
-data_structure.Extraction@56fe8158	12
-data_structure.Extraction@7e7d1066	35
-data_structure.Extraction@74c697e8	23
-data_structure.Extraction@5767f817	6
-data_structure.Extraction@4f6846e9	6
-data_structure.Extraction@50de4403	53
-data_structure.Extraction@d161dc37	15
-data_structure.Extraction@ffe747f	9
-data_structure.Extraction@a0936986	38
-data_structure.Extraction@9dda7f59	0
-data_structure.Extraction@409adfec	43
-data_structure.Extraction@b9eb9b11	11
-data_structure.Extraction@92f92010	0
-data_structure.Extraction@9f51c917	11
-data_structure.Extraction@7b45825f	7
-data_structure.Extraction@9c538609	11
-data_structure.Extraction@e02e9a61	13
-data_structure.Extraction@8773193c	0
-data_structure.Extraction@409adff7	10
-data_structure.Extraction@18d2e60f	11
-data_structure.Extraction@42f1d923	344
-data_structure.Extraction@c163df29	0
-data_structure.Extraction@6de29a88	11
-data_structure.Extraction@6f98a870	8
-data_structure.Extraction@9e07d0a3	9
-data_structure.Extraction@4df9ca9d	6
-data_structure.Extraction@2f6bad82	14
-data_structure.Extraction@ba0d0e85	297
-data_structure.Extraction@1d6425b0	6
-data_structure.Extraction@937f974	0
-data_structure.Extraction@a39785a6	10
-data_structure.Extraction@a3977761	14
-data_structure.Extraction@4f681f94	6
-data_structure.Extraction@d7bf8a5e	12
-data_structure.Extraction@aa95220e	8
-data_structure.Extraction@131b1cf5	10
-data_structure.Extraction@a39785a9	11
-data_structure.Extraction@7e91b9c2	18
-data_structure.Extraction@3e878b8	68
-data_structure.Extraction@3e8bd62	6
-data_structure.Extraction@3d3c0c8d	7
-data_structure.Extraction@fce7e108	9
-data_structure.Extraction@105bda1d	7
-data_structure.Extraction@c27914cd	0
-data_structure.Extraction@56fe3f84	12
-data_structure.Extraction@625e6d43	12
-data_structure.Extraction@290698b0	7
-data_structure.Extraction@446c2e69	80
-data_structure.Extraction@32e4032b	0
-data_structure.Extraction@74c6a82e	15
-data_structure.Extraction@d48fdb94	43
-data_structure.Extraction@846d4718	41
-data_structure.Extraction@7e91f8bc	7
-data_structure.Extraction@846d5262	37
-data_structure.Extraction@4cdcf1f4	14
-data_structure.Extraction@c279152a	8
-data_structure.Extraction@7e91f8b6	40
-data_structure.Extraction@9f51d52f	7
-data_structure.Extraction@c279152e	6
-data_structure.Extraction@7e91f8b2	8
-data_structure.Extraction@45b38653	10
-data_structure.Extraction@7e91f8ae	11
-data_structure.Extraction@cc12474c	10
-data_structure.Extraction@dbbdf188	7
-data_structure.Extraction@7fa43d2f	0
-data_structure.Extraction@6de293cd	14
-data_structure.Extraction@42f4d220	168
-data_structure.Extraction@6d7a3d4a	12
-data_structure.Extraction@5dda6394	6
-data_structure.Extraction@505b7435	19
-data_structure.Extraction@720f3d64	0
-data_structure.Extraction@409ae5d9	10
-data_structure.Extraction@311a4aaf	0
-data_structure.Extraction@9e70a38c	6
-data_structure.Extraction@5dda76e0	9
-data_structure.Extraction@496593ed	6
-data_structure.Extraction@c24c102a	20
-data_structure.Extraction@c20d254e	9
-data_structure.Extraction@c0525fd6	9
-data_structure.Extraction@bfa9908a	13
-data_structure.Extraction@7c0f7676	17
-data_structure.Extraction@3b17f9d1	19
-data_structure.Extraction@290695bb	6
-data_structure.Extraction@c04ad7d9	37
-data_structure.Extraction@76353a50	13
-data_structure.Extraction@95330402	11
-data_structure.Extraction@bdfb523f	11
-data_structure.Extraction@21d76148	0
-data_structure.Extraction@bfac8b27	17
-data_structure.Extraction@91259928	76
-data_structure.Extraction@42ed4d09	604
-data_structure.Extraction@f6033506	16
-data_structure.Extraction@74c6e900	36
-data_structure.Extraction@4e6a68b2	35
-data_structure.Extraction@e02e9bfd	7
-data_structure.Extraction@ccac908c	8
-data_structure.Extraction@14473590	18
-data_structure.Extraction@9d417983	0
-data_structure.Extraction@cd4a47fa	120
-data_structure.Extraction@952efdd9	11
-data_structure.Extraction@983a6451	6
-data_structure.Extraction@37f21327	7
-data_structure.Extraction@271f2be5	56
-data_structure.Extraction@f2b79dea	11
-data_structure.Extraction@7d9b0176	12
-data_structure.Extraction@3911ddb3	169
-data_structure.Extraction@b3fd15ee	7
-data_structure.Extraction@64e541c0	21
-data_structure.Extraction@42f2a973	73
-data_structure.Extraction@5dda888d	8
-data_structure.Extraction@e03944c7	0
-data_structure.Extraction@dff3b9bf	0
-data_structure.Extraction@8f1f9ee5	11
-data_structure.Extraction@7e7d33f3	6
-data_structure.Extraction@50c7e9d8	7
-data_structure.Extraction@409b2279	8
-data_structure.Extraction@7e91f8d9	12
-data_structure.Extraction@74c6de38	9
-data_structure.Extraction@1d520165	0
-data_structure.Extraction@74c6d6a1	8
-data_structure.Extraction@74c6c3da	16
-data_structure.Extraction@a15952ad	6
-data_structure.Extraction@c7186f90	10
-data_structure.Extraction@a39772b7	98
-data_structure.Extraction@409b1561	10
-data_structure.Extraction@53a9ca76	9
-data_structure.Extraction@74c6da71	24
-data_structure.Extraction@b1ffa92a	107
-data_structure.Extraction@7731e35b	119
-data_structure.Extraction@ba0d380e	28
-data_structure.Extraction@af93fa26	81
-data_structure.Extraction@458bf676	17
-data_structure.Extraction@1505fde8	8
-data_structure.Extraction@ccac9c60	10
-data_structure.Extraction@3c855cb0	6
-data_structure.Extraction@a28b5cf6	18
-data_structure.Extraction@74c6d6b1	11
-data_structure.Extraction@4f52d0fe	6
-data_structure.Extraction@409b1573	6
-data_structure.Extraction@deb1206a	0
-data_structure.Extraction@1e61b9d4	0
-data_structure.Extraction@74c6d6b4	7
-data_structure.Extraction@1d64132c	23
-data_structure.Extraction@e0317fa0	8
-data_structure.Extraction@799cdbfb	15
-data_structure.Extraction@5451828a	8
-data_structure.Extraction@418e7da8	7
-data_structure.Extraction@6de25e19	0
-data_structure.Extraction@7e7d1142	50
-data_structure.Extraction@b8d68330	0
-data_structure.Extraction@b4f986f5	7
-data_structure.Extraction@4ae115b7	0
-data_structure.Extraction@9bb5e4aa	0
-data_structure.Extraction@ca5daca0	8
-data_structure.Extraction@6de2acd7	22
-data_structure.Extraction@74c69a1e	7
-data_structure.Extraction@7e7d2a80	23
-data_structure.Extraction@4597633e	9
-data_structure.Extraction@1dc7357f	0
-data_structure.Extraction@79920b40	15
-data_structure.Extraction@9f519162	45
-data_structure.Extraction@c8e78363	12
-data_structure.Extraction@7e91de0a	18
-data_structure.Extraction@110130cc	0
-data_structure.Extraction@ddf8d17	10
-data_structure.Extraction@7e920423	14
-data_structure.Extraction@3219b9af	13
-data_structure.Extraction@312a54fb	15
-data_structure.Extraction@74c6cff6	41
-data_structure.Extraction@f934e617	68
-data_structure.Extraction@8730fd8b	12
-data_structure.Extraction@7e7d1157	7
-data_structure.Extraction@6edd932	0
-data_structure.Extraction@20763d0a	6
-data_structure.Extraction@f52b032b	13
-data_structure.Extraction@4ae1e76f	13
-data_structure.Extraction@d1967bc1	8
-data_structure.Extraction@aa3bacd5	7
-data_structure.Extraction@25f795a3	6
-data_structure.Extraction@bf55b152	13
-data_structure.Extraction@ffab40e3	21
-data_structure.Extraction@56fe7a3e	18
-data_structure.Extraction@5ddaaa2a	10
-data_structure.Extraction@7e91b472	0
-data_structure.Extraction@d72ffd3d	13
-data_structure.Extraction@da43ddad	8
-data_structure.Extraction@9da096ac	6
-data_structure.Extraction@5d7310e0	11
-data_structure.Extraction@7e91b44e	6
-data_structure.Extraction@7c84a899	8
-data_structure.Extraction@74c6e9ed	16
-data_structure.Extraction@9aa7659c	11
-data_structure.Extraction@6de265fa	9
-data_structure.Extraction@f6b4db06	64
-data_structure.Extraction@42f2a984	7
-data_structure.Extraction@7e92041d	9
-data_structure.Extraction@bd74ee7f	0
-data_structure.Extraction@74c6e532	7
-data_structure.Extraction@c7ffb7fb	6
-data_structure.Extraction@5fb39373	16
-data_structure.Extraction@f808f1a9	39
-data_structure.Extraction@e832978f	0
-data_structure.Extraction@409ade83	8
-data_structure.Extraction@f5e1568d	64
-data_structure.Extraction@4e7cca56	0
-data_structure.Extraction@78efd799	7
-data_structure.Extraction@3e88b3c	14
-data_structure.Extraction@2d43b5a4	8
-data_structure.Extraction@74c6e9f3	13
-data_structure.Extraction@7e91bccf	8
-data_structure.Extraction@4ea5a705	25
-data_structure.Extraction@99f1052f	0
-data_structure.Extraction@4a43a9da	6
-data_structure.Extraction@dd491b25	0
-data_structure.Extraction@4f681aea	10
-data_structure.Extraction@7e91f4a1	16
-data_structure.Extraction@8f2f71d	10
-data_structure.Extraction@b8746aac	0
-data_structure.Extraction@91266978	29
-data_structure.Extraction@bd3c80ec	37
-data_structure.Extraction@ba0d0724	20
-data_structure.Extraction@35334a3c	9
-data_structure.Extraction@ee234e73	23
-data_structure.Extraction@7b4575c7	14
-data_structure.Extraction@b928b67a	19
-data_structure.Extraction@d25a4cf	8
-data_structure.Extraction@ba0d1ac6	8
-data_structure.Extraction@b3fd4c42	7
-data_structure.Extraction@c20be2d	7
-data_structure.Extraction@4aa3ba20	0
-data_structure.Extraction@175ba78e	0
-data_structure.Extraction@7e91b8eb	6
-data_structure.Extraction@409b268a	22
-data_structure.Extraction@74c6de86	11
-data_structure.Extraction@b3fd4c46	8
-data_structure.Extraction@647e1f2b	7
-data_structure.Extraction@50de0d66	13
-data_structure.Extraction@409b2686	219
-data_structure.Extraction@5dda7618	8
-data_structure.Extraction@3c9ddc89	167
-data_structure.Extraction@cd513362	0
-data_structure.Extraction@6eb08475	6
-data_structure.Extraction@409b2682	12
-data_structure.Extraction@e24a93b2	0
-data_structure.Extraction@1505f93e	33
-data_structure.Extraction@1b816adc	36
-data_structure.Extraction@152fffd7	11
-data_structure.Extraction@50de454d	17
-data_structure.Extraction@240db1a9	25
-data_structure.Extraction@c09dbabd	0
-data_structure.Extraction@a28b2bf7	14
-data_structure.Extraction@4f682ddc	6
-data_structure.Extraction@2a86b0be	6
-data_structure.Extraction@5f9e9b45	6
-data_structure.Extraction@b82d976b	0
-data_structure.Extraction@1f52ac12	11
-data_structure.Extraction@39244c46	6
-data_structure.Extraction@b376ed1c	8
-data_structure.Extraction@afa04176	14
-data_structure.Extraction@38ae726	6
-data_structure.Extraction@5e865a68	0
-data_structure.Extraction@106111a4	7
-data_structure.Extraction@2870c6cc	11
-data_structure.Extraction@10d823dc	0
-data_structure.Extraction@56fe4196	47
-data_structure.Extraction@74c6dea9	6
-data_structure.Extraction@a28b2be3	24
-data_structure.Extraction@d8faf455	9
-data_structure.Extraction@8941411d	8
-data_structure.Extraction@7e91f49b	6
+popular	dish	9
+grilled	bread	49
+right	whe	10
+best	things	6
+favorite	dis	125
+some	dishes	15
+short	ribs	12
+perfect	for	22
+our	food	22
+apple	sauce	14
+amazing	food	18
+red	mea	16
+favorite	food	6
+great	food	44
+long	wai	6
+different	dish	12
+best	place	11
+best	dis	35
+right	amount	24
+best	din	9
+great	for	12
+was	way	28
+other	restaurant	16
+those	places	11
+the	things	11
+the	side	49
+with	egg	9
+for	food	18
+great	meal	15
+this	dish	347
+better	the	9
+good	por	8
+great	foo	41
+thin	and	7
+better	tha	39
+fave	dish	7
+fatty	pork	9
+great	experience	16
+the	flavors	85
+other	places	16
+right	off	16
+hot	sau	11
+rich	dishes	6
+best	tre	6
+right	nex	20
+the	amount	19
+these	things	7
+full	fro	9
+runny	egg	9
+perfect	and	11
+ver	food	6
+nice	com	7
+nice	con	8
+and	fan	7
+blue	che	6
+and	flavor	67
+the	meal	138
+thin	sli	9
+and	toast	8
+best	foi	8
+fatty	por	10
+more	people	9
+the	line	9
+wonderful	experience	6
+rich	dis	12
+best	foo	9
+white	fis	6
+nice	kic	6
+the	sandwich	11
+spicy	and	12
+many	restaurants	6
+that	dish	14
+and	fries	6
+marrow	dish	6
+was	fan	42
+perfect	end	8
+big	pie	7
+favorite	was	21
+full	bar	6
+perfect	amo	17
+good	meal	15
+butter	sauce	8
+was	spot	8
+rave	abo	16
+parmesan	cheese	6
+sweet	and	72
+belly	bbq	6
+other	place	17
+different	dishes	11
+and	chicken	9
+favorite	par	9
+soft	egg	37
+with	cheese	16
+nice	cri	7
+truffle	par	59
+our	dish	16
+good	pla	8
+the	experience	38
+nice	flavor	12
+truffle	sauce	6
+best	por	12
+interesting	dish	10
+caramel	sau	14
+nice	bal	7
+red	bac	8
+good	fla	11
+small	but	15
+nice	tou	17
+great	fla	13
+this	food	6
+for	people	8
+any	way	6
+truffle	sau	7
+sweet	bre	37
+the	restaurant	255
+entire	menu	7
+light	dish	7
+strong	flavor	8
+and	taste	36
+birthday	dinner	16
+other	flavors	7
+good	amount	12
+other	things	17
+another	dish	7
+savory	dish	12
+all	things	12
+fatty	goo	7
+gras	sauce	7
+smoked	pork	6
+rich	dish	11
+fried	and	15
+carrot	salad	10
+good	one	6
+the	egg	33
+every	dish	44
+different	way	12
+very	flavor	17
+rich	food	10
+ear	dish	7
+several	dish	8
+any	restaurant	7
+this	way	10
+goat	cheese	18
+red	was	20
+nice	cru	9
+great	restaurant	12
+and	bread	11
+savory	dishes	9
+large	gro	12
+the	fan	7
+great	dis	26
+favorite	things	9
+the	taste	57
+great	din	15
+your	meal	15
+and	pork	27
+good	way	40
+rich	cho	8
+both	dish	9
+pricey	for	6
+great	flavor	13
+bacon	taste	7
+good	but	74
+meat	dishes	11
+rich	flavor	7
+fan	food	6
+favorite	new	6
+hot	sauce	10
+salty	sid	8
+best	meal	48
+toasted	bread	15
+soft	she	13
+red	per	12
+good	for	23
+small	place	10
+the	bread	48
+good	foo	35
+favorite	dishes	23
+huge	fan	51
+goo	food	13
+great	dinner	6
+rave	reviews	12
+fatty	foo	6
+our	dishes	16
+perfect	way	12
+good	sta	12
+our	wait	118
+with	cream	11
+and	cream	44
+favorite	res	44
+crispy	egg	11
+good	stu	7
+unique	flavor	6
+belly	sandwich	268
+good	fri	7
+lamb	mea	13
+unique	dis	11
+that	way	13
+fried	swe	13
+great	sta	13
+favorite	pla	7
+small	bar	6
+boiled	egg	12
+rave	rev	14
+sweet	for	19
+big	dea	6
+whipped	cre	7
+small	gro	7
+great	but	11
+melted	pet	76
+favorite	place	6
+first	dish	15
+while	wait	8
+good	eno	9
+red	for	9
+fresh	and	38
+red	wer	6
+one	dish	20
+right	awa	16
+unique	din	8
+red	foi	26
+amazing	restaurant	6
+red	wel	9
+great	service	52
+with	flavor	18
+ice	cream	124
+good	amo	12
+dish	taste	6
+attentive	service	6
+bold	flavor	7
+first	place	9
+most	people	8
+perfect	com	14
+different	typ	7
+gre	service	23
+vegetable	dish	6
+perfect	ble	6
+pork	sandwich	16
+the	way	71
+like	pork	7
+those	place	11
+good	and	56
+the	people	21
+the	salad	29
+excellent	service	8
+long	wait	6
+basque	cheese	13
+the	service	164
+for	dinner	44
+other	dishes	64
+red	eve	10
+and	wait	17
+balsamic	sauce	7
+french	fri	40
+ever	taste	17
+pork	ribs	156
+complex	flavor	6
+ama	food	12
+your	taste	11
+comfort	food	32
+several	dishes	8
+the	spot	18
+grilled	oct	37
+yelp	reviews	7
+the	place	209
+perfect	place	9
+was	cream	7
+but	taste	6
+back	for	31
+favorite	restaurant	43
+red	two	17
+fatty	food	6
+the	sauce	100
+the	cheese	33
+that	taste	12
+lamb	nec	8
+with	caramel	16
+spicy	kic	6
+the	burger	9
+amazing	flavors	7
+more	dish	8
+great	place	40
+white	win	7
+like	chicken	17
+heavy	dish	7
+fatty	and	20
+poached	egg	11
+best	fri	11
+brown	but	11
+delicious	food	22
+red	wit	58
+cheese	fries	19
+with	toast	12
+much	food	8
+best	thi	55
+red	win	15
+were	fan	8
+favorite	thi	18
+nice	way	18
+good	dish	8
+barely	taste	9
+back	the	11
+cheddar	cheese	11
+trout	salad	6
+fried	qua	44
+much	flavor	9
+the	menu	439
+good	things	10
+different	flavors	8
+pork	dish	7
+best	mea	50
+small	por	22
+our	meal	63
+small	dishes	6
+crispy	pork	6
+three	dish	7
+style	dish	6
+other	reviews	6
+red	toa	10
+just	taste	12
+early	and	14
+great	reviews	7
+great	job	6
+delicious	dish	9
+gras	dishes	26
+interesting	dishes	6
+these	dishes	16
+lamb	sau	8
+new	food	7
+the	dish	385
+eating	experience	6
+their	menu	45
+anniversary	dinner	9
+this	place	586
+truffle	fon	9
+overall	ani	6
+favorite	foo	6
+few	things	9
+good	exp	10
+buttery	toast	6
+and	caramel	26
+two	dishes	13
+small	dis	13
+good	too	24
+new	restaurant	8
+lime	sauce	6
+different	dis	13
+the	fries	44
+tasty	dish	10
+friendly	and	55
+few	people	6
+their	dish	19
+good	flavor	12
+best	par	20
+back	wit	6
+more	things	7
+quail	egg	103
+texas	toast	6
+first	experience	7
+their	pork	8
+great	com	23
+small	res	13
+two	people	33
+single	dish	8
+flavorful	but	6
+garlic	toast	10
+favorite	meal	7
+green	bea	13
+good	ide	7
+exc	food	6
+large	par	11
+salty	side	8
+barbecue	pork	22
+teriyaki	sauce	6
+about	food	10
+main	cou	46
+and	sauce	12
+bbq	pork	163
+this	taste	7
+salty	for	16
+red	one	12
+red	but	7
+rich	fla	9
+garlic	bre	21
+some	people	9
+new	things	10
+barbecue	sauce	12
+mexican	cok	7
+customer	service	9
+more	dishes	6
+some	dish	16
+overall	experience	8
+their	dishes	19
+bbq	sauce	71
+best	food	8
+many	restaurant	8
+the	caramel	15
+each	dish	37
+next	dish	14
+many	dishes	10
+good	place	6
+red	mor	6
+red	alm	6
+red	all	8
+your	food	9
+had	dinner	6
+good	food	46
+favorite	mea	8
+garlic	toa	9
+the	dinner	11
+perfect	bal	11
+best	rib	7
+red	som	8
+good	job	7
+liver	toast	256
+and	cheese	21
+iced	and	12
+our	dinner	17
+great	things	10
+melted	cheese	24
+the	cream	26
+small	pla	83
+lamb	cho	10
+pulled	pork	10
+best	pork	8
+memorable	dish	6
+grilled	squ	12
+back	aga	35
+great	and	23
+great	dishes	6
+full	men	6
+worth	the	53
+beet	salad	15
+with	chicken	9
+chimichurri	sauce	38
+red	and	43
+was	flavor	11
+small	pie	11
+green	gar	7
+good	experience	11
+this	meal	13
+red	ano	10
+tomato	salad	11
+the	pork	344
+best	res	11
+and	flavors	8
+both	dishes	9
+whipped	cream	6
+many	things	14
+fried	egg	297
+unique	fla	6
+rich	foo	10
+rich	but	14
+full	but	6
+signature	dish	12
+everything	taste	8
+two	things	10
+rich	for	11
+good	com	18
+nice	and	68
+nice	swe	6
+hour	wait	7
+tangy	bbq	9
+culinary	experience	7
+grilled	bab	12
+still	taste	12
+early	for	7
+barbeque	pork	80
+great	exp	15
+kale	salad	43
+long	tim	41
+good	tho	7
+long	wit	37
+caramel	sauce	14
+iced	tha	8
+good	thi	40
+small	spa	7
+iced	the	6
+good	the	8
+unique	dishes	10
+good	tha	11
+special	occ	10
+this	experience	7
+best	pla	14
+the	wait	168
+two	dish	12
+different	and	6
+fried	chicken	19
+red	cab	10
+arugula	salad	6
+different	fro	9
+fava	beans	6
+garlic	bread	20
+entire	meal	9
+better	wit	9
+green	beans	13
+favorite	restaurants	17
+thai	bbq	19
+early	eve	6
+gras	dish	37
+sweet	map	13
+amazing	meal	11
+our	way	11
+perfect	amount	17
+balsamic	pork	76
+the	food	604
+really	taste	16
+great	way	36
+best	dish	35
+this	menu	7
+and	bbq	8
+and	service	18
+favorite	dish	120
+amazing	dish	11
+poutine	fries	6
+star	restaurant	7
+fish	sauce	56
+other	restaurants	11
+perfect	pla	12
+the	dishes	169
+overall	exp	7
+their	food	21
+the	ribs	73
+different	kin	8
+unique	dish	11
+back	jus	6
+heavy	meal	7
+red	sev	8
+good	tim	12
+great	tex	9
+great	rec	8
+great	mea	16
+three	people	6
+the	reviews	10
+rich	and	98
+red	our	10
+new	dish	9
+great	ser	24
+the	chicken	107
+this	restaurant	119
+fried	pig	28
+the	bbq	81
+good	service	17
+salty	but	8
+and	egg	10
+would	taste	6
+right	now	18
+great	res	11
+end	restaurant	6
+red	ove	6
+great	rev	7
+unique	and	23
+this	spot	8
+pulled	por	15
+buttered	toast	8
+hot	and	7
+back	and	50
+gold	rice	7
+tender	pork	8
+best	way	22
+great	bal	7
+back	her	23
+buffalo	sauce	9
+last	dish	15
+small	and	45
+and	food	12
+good	mea	18
+many	dish	10
+good	wit	14
+del	food	13
+other	people	15
+great	pla	41
+big	fan	68
+short	rib	12
+back	any	7
+other	flavor	6
+meat	dish	13
+small	dish	13
+different	flavor	8
+pricey	but	7
+this	salad	6
+small	restaurant	13
+melted	che	21
+grilled	qua	18
+different	tha	10
+animal	restaurant	13
+memorable	meal	8
+full	menu	6
+best	dishes	11
+good	bal	6
+american	restaurant	8
+great	win	16
+could	taste	11
+best	des	9
+other	dish	64
+the	rice	7
+good	win	9
+great	val	7
+with	bbq	6
+these	dish	16
+french	fries	39
+red	abo	8
+dining	experience	64
+one	meal	7
+nice	fla	14
+large	pla	8
+great	wit	13
+good	dis	8
+soft	and	25
+much	sauce	6
+full	and	10
+good	ser	16
+amazing	flavor	10
+balsamic	ribs	29
+sweet	bread	37
+fried	chi	20
+very	cream	9
+head	cheese	23
+green	cur	14
+flavorful	and	19
+whole	experience	8
+fried	hom	8
+overall	the	7
+bolognese	sauce	7
+good	cho	6
+red	thi	22
+great	thi	11
+overall	thi	8
+love	chicken	7
+worth	eve	13
+red	the	219
+different	fla	8
+the	flavor	167
+dessert	menu	6
+red	tha	12
+salty	and	33
+the	toast	36
+bacon	flavor	11
+worth	try	17
+great	dish	25
+right	and	14
+full	for	6
+fish	dish	6
+been	wait	6
+chili	cheese	11
+truffle	oil	6
+sunny	side	8
+mint	tea	14
+great	flavors	6
+new	dishes	7
+many	people	11
+grilled	bre	47
+great	tim	6
+right	amo	24
+best	restaurant	9
+pac	place	8
+good	sel	6

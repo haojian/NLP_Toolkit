@@ -28,6 +28,8 @@ public class Template {
 	}
 	
 	public String getValueExtraction(String sent, String attribute){
+		return TextUtil.ValueExtraction(this, new Attribute(attribute), sent);
+		/*
 		String key = sent + "-" + attribute;
 		if(valueExtractionHistory.containsKey(key)){
 			return valueExtractionHistory.get(key);
@@ -35,12 +37,14 @@ public class Template {
 			String value = TextUtil.ValueExtraction(this, new Attribute(attribute), sent);
 			valueExtractionHistory.put(key, value);
 			return value;
-		}
+		}*/
+		
 	}
 	
 	public String getAttrExtraction(String sent, String value){
-		//return TextUtil.attributeExtraction(this, new Value(value), sent);
+		return TextUtil.attributeExtraction(this, new Value(value), sent);
 		
+		/*
 		String key = sent + "-" + value;
 		
 		if(attributeExtractionHisotry.containsKey(key)){
@@ -49,7 +53,7 @@ public class Template {
 			String attr = TextUtil.attributeExtraction(this, new Value(value), sent);
 			attributeExtractionHisotry.put(key, attr);
 			return attr;
-		}
+		}*/
 		
 	}
 	

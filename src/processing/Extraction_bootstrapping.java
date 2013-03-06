@@ -15,6 +15,7 @@ import org.apache.commons.collections.map.MultiKeyMap;
 import utils.IOOperator;
 import utils.ParameterSetting;
 import utils.TextUtil;
+import utils.TimeLogger;
 
 import data_structure.Attribute;
 import data_structure.Extraction;
@@ -97,14 +98,15 @@ public class Extraction_bootstrapping {
 		while(extractionMap.size() != lastIterationSize){
 			System.out.println(iterationIndex + "th iteration......" );
 			lastIterationSize = extractionMap.size();
-			
+			TimeLogger.getInstance().getElapseTime();
 			TemplateInduction();
+			TimeLogger.getInstance().getElapseTime();
 			AttributeInduction();
+			TimeLogger.getInstance().getElapseTime();
 			ValueInduction();
-			
-			OutputProcessingRes();
-			
+			TimeLogger.getInstance().getElapseTime();
 			UpdateToNewIteration();
+			OutputProcessingRes();
 			iterationIndex++;
 		}
 		return;
@@ -223,7 +225,6 @@ public class Extraction_bootstrapping {
 				it.remove();
 		}
 		for(Map.Entry<Template, Integer> entry : cacheMap.entrySet()){
-			System.out.println(entry.getKey().toString());
 			if(templateMap.containsKey(entry.getKey()))
 				templateMap.put(entry.getKey(), entry.getValue() + templateMap.get(entry.getKey()));
 			else
@@ -241,7 +242,7 @@ public class Extraction_bootstrapping {
 		valList.clear();
 		for(Iterator<Map.Entry<Extraction, Integer>> it = extractionMap.entrySet().iterator(); it.hasNext();){
 			Map.Entry<Extraction, Integer> e = it.next();
-			if(e.getValue()<bootstrapping_cutoff){
+			if(e.getValue()< ParameterSetting.BOOTSTRAPPINGTHRESHOLD){
 				it.remove();
 				continue;
 			}

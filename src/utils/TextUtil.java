@@ -14,6 +14,10 @@ import data_structure.Value;
 
 public class TextUtil {
 	
+	private TextUtil(){
+		
+	}
+	
 	public static void main(String[] args){
 		regexTest();
 	}

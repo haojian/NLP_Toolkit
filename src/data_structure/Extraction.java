@@ -49,6 +49,11 @@ public class Extraction {
 		this.numberofoccurances = numberofoccurances;
 	}
 	
+	@Override 
+	public String toString(){
+		return this.val.get_txt() + "\t" + this.attr.get_txt();
+	}
+	
 	public int hashCode()
 	{
 		if(ifHashed){
