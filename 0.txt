@@ -1,8 +1,8 @@
 ============Overall============
 3 templates in total. 50attributes in total. 79values in total. 754 extractions in total. ============Template============
 #VALUE# part of the #ATTRIBUTE#	6
-#VALUE# #ATTRIBUTE#.	7
 the #ATTRIBUTE# was #VALUE#.	6
+#VALUE# #ATTRIBUTE#.	7
 ============Extraction============
 data_structure.Extraction@38105cdd	9
 data_structure.Extraction@90744039	49

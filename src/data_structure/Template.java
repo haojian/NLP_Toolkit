@@ -39,6 +39,8 @@ public class Template {
 	}
 	
 	public String getAttrExtraction(String sent, String value){
+		//return TextUtil.attributeExtraction(this, new Value(value), sent);
+		
 		String key = sent + "-" + value;
 		
 		if(attributeExtractionHisotry.containsKey(key)){
@@ -48,6 +50,7 @@ public class Template {
 			attributeExtractionHisotry.put(key, attr);
 			return attr;
 		}
+		
 	}
 	
 	public Template(ArrayList<String> patternTxt){

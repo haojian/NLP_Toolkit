@@ -55,9 +55,16 @@ public class TextUtil {
 	}
 	
 	public static String RegexExtraction(String patternStr, String data){
-		Pattern pattern = Pattern.compile(patternStr);
+		Pattern pattern;
+		if(RegexManager.getInstance().patternList.containsKey(patternStr)){
+			pattern = RegexManager.getInstance().patternList.get(patternStr);
+		}else{
+			pattern = Pattern.compile(patternStr);
+			RegexManager.getInstance().patternList.put(patternStr, pattern);
+		}
+		
 		Matcher matcher = pattern.matcher(data);
-		if (matcher.find()) {   
+		if (matcher.find()) {
 			if(patternStr.startsWith("(.*)")){
 				String[] array = matcher.group(1).split(" ");
 				return array[array.length-1].replace(',', ' ').trim();
