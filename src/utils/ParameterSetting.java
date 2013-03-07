@@ -21,5 +21,6 @@ public class ParameterSetting {
 	
 	//REGX String variables
 	public static String REGXWORDPATTERN_V1 = "(.*)";
-	public static String REGXWORDPATTERN_V2 = "([a-z]{3,15}?)";
+	public static String REGXWORDPATTERN_V2 = "([a-z]{3,15})";
+	public static String REGXWORDPATTERN_V3 = "([a-z]{3,15}?)";
 }

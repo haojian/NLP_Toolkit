@@ -70,30 +70,23 @@ public class TextUtil {
 		}
 		
 		Matcher matcher = pattern.matcher(data);
+		String res = "";
 		if (matcher.find()) {
 			if(patternStr.startsWith(ParameterSetting.REGXWORDPATTERN_V2)){
 				String[] array = matcher.group(1).split(" ");
-				String res = array[array.length-1].replace(',', ' ').trim();
-				if(res.equals("whe")){
-					System.out.println(patternStr + "\t" + data);
-				}
-				if(StopwordsFilter.getInstance().isStopWords(res))
-					return null;
-				else
-					return res;
+				res = array[array.length-1].replace(',', ' ').trim();
 			}else{
 				String[] array = matcher.group(1).split(" ");
- 				String res = array[0].replace(',', ' ').trim();
-				if(res.equals("whe")){
-					System.out.println(patternStr + "\t" + data);
-				}
-				if(StopwordsFilter.getInstance().isStopWords(res))
-					return null;
-				else
-					return res; 
+ 				res = array[0].replace(',', ' ').trim();
 			}
 		}
-		return null;
+		if(res.equals("dis") || res.equals("goo") ){
+			System.out.println(res + "\t"+ patternStr + "\t" + data);
+		}
+		if(StopwordsFilter.getInstance().isStopWords(res))
+			return null;
+		else
+			return res;
 	}
 	
 	public static String ValueExtraction(Template temp, Attribute attr, String sent){

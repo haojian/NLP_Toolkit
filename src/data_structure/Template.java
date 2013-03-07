@@ -33,7 +33,7 @@ public class Template {
 	public Template(ArrayList<String> patternTxt){
 		_patternTxts = patternTxt;
 		fullpaternTxt = TextUtil.joinStringArrayList(_patternTxts, "");
-		System.out.println(fullpaternTxt);
+		//System.out.println(fullpaternTxt);
 	}
 	
 	public String toTemplateString(){
