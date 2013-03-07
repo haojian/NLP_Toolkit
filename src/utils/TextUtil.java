@@ -143,6 +143,8 @@ public class TextUtil {
 									minDistIndex = i+1;
 						}
 					}
+				}else{
+					tmp[i] = Pattern.quote(tmp[i]);
 				}
 			}
 			if(minDistIndex != -1 && tmp[minDistIndex].split(" ").length > ParameterSetting.EXTRACTIONDISTANCETHRESHOLD){
