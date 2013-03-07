@@ -18,50 +18,21 @@ public class Template {
 	private int customizedHashCode = -1;
 	private boolean ifHashed = false;
 	
-	private Map<String, String> attributeExtractionHisotry;
-	private Map<String, String> valueExtractionHistory;
-	
 	public Template(){
 		_patternTxts = new ArrayList<String>();
-		attributeExtractionHisotry = new HashMap<String, String>(10000000);
-		valueExtractionHistory = new HashMap<String, String>(10000000);
 	}
 	
 	public String getValueExtraction(String sent, String attribute){
 		return TextUtil.ValueExtraction(this, new Attribute(attribute), sent);
-		/*
-		String key = sent + "-" + attribute;
-		if(valueExtractionHistory.containsKey(key)){
-			return valueExtractionHistory.get(key);
-		}else{
-			String value = TextUtil.ValueExtraction(this, new Attribute(attribute), sent);
-			valueExtractionHistory.put(key, value);
-			return value;
-		}*/
-		
 	}
 	
 	public String getAttrExtraction(String sent, String value){
 		return TextUtil.attributeExtraction(this, new Value(value), sent);
-		
-		/*
-		String key = sent + "-" + value;
-		
-		if(attributeExtractionHisotry.containsKey(key)){
-			return attributeExtractionHisotry.get(key);
-		}else{
-			String attr = TextUtil.attributeExtraction(this, new Value(value), sent);
-			attributeExtractionHisotry.put(key, attr);
-			return attr;
-		}*/
-		
 	}
 	
 	public Template(ArrayList<String> patternTxt){
 		_patternTxts = patternTxt;
 		fullpaternTxt = TextUtil.joinStringArrayList(_patternTxts, "");
-		attributeExtractionHisotry = new HashMap<String, String>();
-		valueExtractionHistory = new HashMap<String, String>();
 	}
 	
 	public String toTemplateString(){
@@ -69,12 +40,12 @@ public class Template {
 	}
 	
 	public String toValueTemplateString(Attribute attr){
-		return fullpaternTxt.replace("#ATTRIBUTE#", attr.get_txt()).replace(".", "/.");
+		return fullpaternTxt.replace("#ATTRIBUTE#", attr.get_txt());
 	}
 	
 	public String toAttrTemplateString(Value val){
 		//return TextUtil.HighPerformanceStringReplace(fullpaternTxt, "#VALUE#", val.get_txt());
-		return fullpaternTxt.replace("#VALUE#", val.get_txt()).replace(".", "/.");
+		return fullpaternTxt.replace("#VALUE#", val.get_txt());
 	}
 
 	public ArrayList<String> get_patternTxts() {
