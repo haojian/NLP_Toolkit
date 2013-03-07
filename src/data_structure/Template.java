@@ -69,12 +69,12 @@ public class Template {
 	}
 	
 	public String toValueTemplateString(Attribute attr){
-		return fullpaternTxt.replace("#ATTRIBUTE#", attr.get_txt());
+		return fullpaternTxt.replace("#ATTRIBUTE#", attr.get_txt()).replace(".", "/.");
 	}
 	
 	public String toAttrTemplateString(Value val){
 		//return TextUtil.HighPerformanceStringReplace(fullpaternTxt, "#VALUE#", val.get_txt());
-		return fullpaternTxt.replace("#VALUE#", val.get_txt());
+		return fullpaternTxt.replace("#VALUE#", val.get_txt()).replace(".", "/.");
 	}
 
 	public ArrayList<String> get_patternTxts() {

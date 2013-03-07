@@ -49,13 +49,12 @@ public class TextUtil {
 	public static void regexTest(){
 		//For three possible case, the target could be in middle, start, end of the string.
 		String[] originalpattern = {
-		"here #ATTRIBUTE# is bad.",
-		"#ATTRIBUTE# is bad"};
+		"right #ATTRIBUTE#."};
 		for(String tmp: originalpattern){
-			String pattern = tmp.replaceAll("#ATTRIBUTE#", ParameterSetting.REGXWORDPATTERN_V2);
+			String pattern = tmp.replaceAll("#ATTRIBUTE#", ParameterSetting.REGXWORDPATTERN_V2).replace(".", "/.");
 			System.out.println(pattern);
 			//String pattern = "here (.*) is bad.";
-			String data = "here parking is bad.";
+			String data = "we got there right when it opened and there was already a long list of people ahead of us.";
 			RegexExtraction(pattern, data);
 		}
 	}
@@ -72,7 +71,7 @@ public class TextUtil {
 		
 		Matcher matcher = pattern.matcher(data);
 		if (matcher.find()) {
-			if(patternStr.startsWith("(.*)")){
+			if(patternStr.startsWith(ParameterSetting.REGXWORDPATTERN_V2)){
 				String[] array = matcher.group(1).split(" ");
 				String res = array[array.length-1].replace(',', ' ').trim();
 				if(res.equals("whe")){
@@ -84,7 +83,7 @@ public class TextUtil {
 					return res;
 			}else{
 				String[] array = matcher.group(1).split(" ");
-				String res = array[0].replace(',', ' ').trim();
+ 				String res = array[0].replace(',', ' ').trim();
 				if(res.equals("whe")){
 					System.out.println(patternStr + "\t" + data);
 				}

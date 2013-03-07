@@ -263,7 +263,7 @@ public class Extraction_bootstrapping {
 	private void OutputProcessingRes(){
 		IOOperator.getInstance().writeToFile(iterationIndex + ".txt", "", false);
 		IOOperator.getInstance().writeToFile(iterationIndex + ".txt", "============Overall============\n", true);
-		IOOperator.getInstance().writeToFile(iterationIndex + ".txt", templateMap.size() + " templates in total. " + attrList.size() + "attributes in total. " + valList.size() + "values in total. "  + extractionMap.size() + " extractions in total. ", true);
+		IOOperator.getInstance().writeToFile(iterationIndex + ".txt", templateMap.size() + " templates in total. " + attrList.size() + " attributes in total. " + valList.size() + " values in total. "  + extractionMap.size() + " extractions in total. ", true);
 		IOOperator.getInstance().writeToFile(iterationIndex + ".txt", "============Template============\n", true);
 		
 		for(Map.Entry<Template, Integer> entry : templateMap.entrySet()){
