@@ -7,6 +7,8 @@ import java.util.regex.Pattern;
 
 import org.apache.commons.math3.stat.descriptive.DescriptiveStatistics;
 
+import processing.StopwordsFilter;
+
 import data_structure.Attribute;
 import data_structure.Extraction;
 import data_structure.Template;
@@ -58,6 +60,7 @@ public class TextUtil {
 		}
 	}
 	
+	//also remove the stopwords in the result.
 	public static String RegexExtraction(String patternStr, String data){
 		Pattern pattern;
 		if(RegexManager.getInstance().patternList.containsKey(patternStr)){
@@ -71,10 +74,24 @@ public class TextUtil {
 		if (matcher.find()) {
 			if(patternStr.startsWith("(.*)")){
 				String[] array = matcher.group(1).split(" ");
-				return array[array.length-1].replace(',', ' ').trim();
+				String res = array[array.length-1].replace(',', ' ').trim();
+				if(res.equals("whe")){
+					System.out.println(patternStr + "\t" + data);
+				}
+				if(StopwordsFilter.getInstance().isStopWords(res))
+					return null;
+				else
+					return res;
 			}else{
 				String[] array = matcher.group(1).split(" ");
-				return array[0].replace(',', ' ').trim();
+				String res = array[0].replace(',', ' ').trim();
+				if(res.equals("whe")){
+					System.out.println(patternStr + "\t" + data);
+				}
+				if(StopwordsFilter.getInstance().isStopWords(res))
+					return null;
+				else
+					return res; 
 			}
 		}
 		return null;
@@ -84,7 +101,8 @@ public class TextUtil {
 		if(sent == null || sent.length() == 0){
 			return null;
 		}
-		String pattern = temp.toValueTemplateString(attr).replace("#VALUE#", ParameterSetting.REGXWORDPATTERN_V2);
+		//String pattern = temp.toValueTemplateString(attr).replace("#VALUE#", ParameterSetting.REGXWORDPATTERN_V2);
+		String pattern = TextUtil.HighPerformanceStringReplace(temp.toValueTemplateString(attr), "#VALUE#", ParameterSetting.REGXWORDPATTERN_V2);
 		String res = RegexExtraction(pattern, sent);
 		return res;
 	}
@@ -177,6 +195,7 @@ public class TextUtil {
 	}
 	
 	
+	///300% performance of the original replace operation.
 	public static String HighPerformanceStringReplace(String str, String target, String replacement){
 		int index = str.indexOf(target);
 		if(index != -1){

@@ -34,6 +34,7 @@ public class DataManager {
 			break;
 		}
 		Extraction_bootstrapping.getInstance().StartProcess();
+		System.out.println("long wait.....it's finished!....");
 	}
 	
 	public File[] getFilesUnderFolder(String pathToDir){

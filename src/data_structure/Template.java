@@ -73,8 +73,8 @@ public class Template {
 	}
 	
 	public String toAttrTemplateString(Value val){
-		return TextUtil.HighPerformanceStringReplace(fullpaternTxt, "#VALUE#", val.get_txt());
-		//return fullpaternTxt.replace("#VALUE#", val.get_txt());
+		//return TextUtil.HighPerformanceStringReplace(fullpaternTxt, "#VALUE#", val.get_txt());
+		return fullpaternTxt.replace("#VALUE#", val.get_txt());
 	}
 
 	public ArrayList<String> get_patternTxts() {
