@@ -1,6 +1,5 @@
 ============Overall============
-3 templates in total. 140attributes in total. 401values in total. 419 extractions in total. ============Template============
-#VALUE# part of the #ATTRIBUTE#	6
+2 templates in total. 140attributes in total. 398values in total. 416 extractions in total. ============Template============
 the #ATTRIBUTE# was #VALUE#.	6
 #VALUE# #ATTRIBUTE#.	7
 ============Extraction============
@@ -18,7 +17,7 @@ long	wai	6
 great	food	44
 different	dish	12
 best	place	11
-best	dis	35
+best	dis	34
 right	amount	24
 best	din	9
 great	meal	15
@@ -26,7 +25,7 @@ good	por	8
 great	foo	41
 better	tha	39
 fave	dish	7
-fatty	pork	9
+fatty	pork	8
 great	experience	16
 hot	sau	11
 best	tre	6
@@ -40,7 +39,7 @@ nice	con	8
 blue	che	6
 thin	sli	9
 best	foi	8
-fatty	por	10
+fatty	por	9
 wonderful	experience	6
 rich	dis	12
 best	foo	9
@@ -106,7 +105,7 @@ fan	food	6
 favorite	new	6
 hot	sauce	10
 salty	sid	8
-best	meal	48
+best	meal	44
 toasted	bread	15
 good	foo	35
 small	place	10
@@ -195,7 +194,7 @@ fried	qua	44
 good	things	10
 different	flavors	8
 pork	dish	7
-best	mea	50
+best	mea	46
 small	por	22
 small	dishes	6
 crispy	pork	6
@@ -232,7 +231,6 @@ small	res	13
 two	people	33
 single	dish	8
 garlic	toast	10
-favorite	meal	7
 green	bea	13
 good	ide	7
 exc	food	6
@@ -255,7 +253,6 @@ good	place	6
 red	mor	6
 red	alm	6
 good	food	46
-favorite	mea	8
 garlic	toa	9
 perfect	bal	11
 good	job	7
@@ -268,7 +265,6 @@ small	pla	83
 lamb	cho	10
 pulled	pork	10
 best	pork	8
-memorable	dish	6
 grilled	squ	12
 back	aga	35
 great	dishes	6
@@ -326,7 +322,7 @@ amazing	meal	11
 perfect	amount	17
 balsamic	pork	76
 great	way	36
-best	dish	35
+best	dish	34
 favorite	dish	120
 amazing	dish	11
 poutine	fries	6
@@ -375,8 +371,8 @@ different	tha	10
 animal	restaurant	13
 memorable	meal	8
 best	dishes	11
-full	menu	6
 good	bal	6
+full	menu	6
 american	restaurant	8
 great	win	16
 best	des	9

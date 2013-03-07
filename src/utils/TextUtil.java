@@ -49,7 +49,7 @@ public class TextUtil {
 	public static void regexTest(){
 		//For three possible case, the target could be in middle, start, end of the string.
 		String[] originalpattern = {
-		"here #ATTRIBUTE# is bad",
+		"here #ATTRIBUTE# is bad.",
 		"#ATTRIBUTE# is bad"};
 		for(String tmp: originalpattern){
 			String pattern = tmp.replaceAll("#ATTRIBUTE#", ParameterSetting.REGXWORDPATTERN_V2);
