@@ -7,7 +7,7 @@ public class ParameterSetting {
 	public static int BOOTSTRAPPINGTHRESHOLD = 6;
 	public static int MAXSEEDSNOUN = 50;
 	public static int MAXSEEDSADJ = 4;
-	public static int EXTRACTIONDISTANCETHRESHOLD = 3;
+	public static int EXTRACTIONDISTANCETHRESHOLD = 5;
 	
 	//path parameters.
 	public static String PATHTOSWN = "resources" + File.separator + "SentiWordNet_3.0.0.txt";
