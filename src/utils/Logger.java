@@ -1,6 +1,6 @@
 package utils;
 
-public class TimeLogger {
+public class Logger {
 
 	/**
 	 * @param args
@@ -10,16 +10,16 @@ public class TimeLogger {
 
 	}
 	
-	public static TimeLogger singleton;
+	public static Logger singleton;
 	
-	public static TimeLogger getInstance(){
+	public static Logger getInstance(){
 		if(singleton == null)
-			singleton = new TimeLogger();
+			singleton = new Logger();
 		return singleton;
 	}
 
 	private long lasttime = -1;
-	public TimeLogger(){
+	public Logger(){
 		lasttime = System.currentTimeMillis();
 	}
 	

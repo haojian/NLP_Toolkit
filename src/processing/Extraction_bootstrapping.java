@@ -15,7 +15,7 @@ import org.apache.commons.collections.map.MultiKeyMap;
 import utils.IOOperator;
 import utils.ParameterSetting;
 import utils.TextUtil;
-import utils.TimeLogger;
+import utils.Logger;
 
 import data_structure.Attribute;
 import data_structure.Extraction;
@@ -98,13 +98,13 @@ public class Extraction_bootstrapping {
 		while(extractionMap.size() != lastIterationSize){
 			System.out.println(iterationIndex + "th iteration......" );
 			lastIterationSize = extractionMap.size();
-			TimeLogger.getInstance().getElapseTime();
+			Logger.getInstance().getElapseTime();
 			TemplateInduction();
-			TimeLogger.getInstance().getElapseTime();
+			Logger.getInstance().getElapseTime();
 			AttributeInduction();
-			TimeLogger.getInstance().getElapseTime();
+			Logger.getInstance().getElapseTime();
 			ValueInduction();
-			TimeLogger.getInstance().getElapseTime();
+			Logger.getInstance().getElapseTime();
 			UpdateToNewIteration();
 			OutputProcessingRes();
 			iterationIndex++;

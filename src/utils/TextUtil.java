@@ -111,7 +111,6 @@ public class TextUtil {
 	}
 	
 	public static Template patternExtraction(Value val, Attribute attr, String sent){
-		ArrayList<String> res = new ArrayList<String>();
 		if(sent.contains(val.get_txt()) && sent.contains(attr.get_txt())){
 			sent = sent.replace(val.get_txt(), "-~-#VALUE#-~-");
 			sent = sent.replace(attr.get_txt(), "-~-#ATTRIBUTE#-~-");
@@ -140,6 +139,7 @@ public class TextUtil {
 					tmp[i] = Pattern.quote(tmp[i]);
 				}
 			}
+			ArrayList<String> res = new ArrayList<String>();
 			if(minDistIndex != -1 && tmp[minDistIndex].split(" ").length > ParameterSetting.EXTRACTIONDISTANCETHRESHOLD){
 				res.add(tmp[minDistIndex-1]);
 				res.add(tmp[minDistIndex]);
