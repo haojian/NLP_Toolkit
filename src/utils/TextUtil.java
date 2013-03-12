@@ -136,7 +136,7 @@ public class TextUtil {
 						}
 					}
 				}else{
-					tmp[i] = Pattern.quote(tmp[i]);
+					//tmp[i] = Pattern.quote(tmp[i]);
 				}
 			}
 			ArrayList<String> res = new ArrayList<String>();

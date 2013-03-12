@@ -1,40 +1,91 @@
 ============Overall============
-2 templates in total. 22 attributes in total. 34 values in total. 35 extractions in total. ============Template============
-\Qthe \E#ATTRIBUTE#\Q was \E#VALUE#\Q.\E	6
-\Q\E#VALUE#\Q \E#ATTRIBUTE#\Q.\E	7
+88 templates in total. 0 attributes in total. 0 values in total. 0 extractions in total. ============Template============
+\Qthe \E#ATTRIBUTE#\Q is really \E#VALUE#\Q.\E	8
+\Q\E#VALUE#\Q \E#ATTRIBUTE#\Q i've ever had.\E	9
+\Qit was \E#VALUE#\Q the \E#ATTRIBUTE#\Q.\E	7
+\Qthe \E#ATTRIBUTE#\Q was \E#VALUE#\Q!\E	12
+\Qi had the \E#VALUE#\Q \E#ATTRIBUTE#\Q.\E	7
+\Qi got the \E#VALUE#\Q \E#ATTRIBUTE#\Q.\E	9
+\Qone of my \E#VALUE#\Q \E#ATTRIBUTE#\Q in the city.\E	6
+\Qthe \E#ATTRIBUTE#\Q is \E#VALUE#\Q!\E	9
+\Q\E#VALUE#\Q \E#ATTRIBUTE#\Q too.\E	9
+#ATTRIBUTE#\Q is some of the \E#VALUE#	9
+\Q\E#ATTRIBUTE#\Q is \E#VALUE#\Q.\E	25
+\Q\E#VALUE#\Q \E#ATTRIBUTE#\Qs.\E	8
+\Q\E#VALUE#\Q the \E#ATTRIBUTE#\Q!\E	18
+#ATTRIBUTE#\Q can be a bit \E#VALUE#	6
+\Q\E#VALUE#\Q \E#ATTRIBUTE#\Q.\E	243
+\Qvery \E#VALUE#\Q \E#ATTRIBUTE#\Q.\E	18
+\Qthis \E#ATTRIBUTE#\Q is \E#VALUE#\Q.\E	57
+\Qthis \E#ATTRIBUTE#\Q was \E#VALUE#\Q.\E	6
+\Q\E#VALUE#\Q the \E#ATTRIBUTE#\Q.\E	34
+\Qthe \E#ATTRIBUTE#\Q was \E#VALUE#\Q.\E	67
+\QÊThe \E#ATTRIBUTE#\Q is \E#VALUE#\Q.\E	7
+\Q\E#VALUE#\Q ice \E#ATTRIBUTE#\Q ever.\E	6
+#VALUE#\Q, i had a great \E#ATTRIBUTE#	6
+\Q?\E#VALUE#\Q \E#ATTRIBUTE#\Q.\E	7
+\Qwell \E#VALUE#\Q the \E#ATTRIBUTE#\Q.\E	8
+\Qthis \E#ATTRIBUTE#\Q is really \E#VALUE#\Q.\E	7
+\QÊDefinitely \E#VALUE#\Q the \E#ATTRIBUTE#\Q.\E	6
+\Qthe \E#ATTRIBUTE#\Q here is \E#VALUE#\Q.\E	8
+\Qtotally \E#VALUE#\Q the \E#ATTRIBUTE#\Q.\E	7
+#ATTRIBUTE#\Q is hands down the \E#VALUE#	6
+\Qi love \E#VALUE#\Q \E#ATTRIBUTE#\Q.\E	10
+\Q\E#ATTRIBUTE#\Q is \E#VALUE#\Q!\E	8
+#ATTRIBUTE#\Q has one of the \E#VALUE#	6
+\Q\E#ATTRIBUTE#\Q was \E#VALUE#\Q!\E	8
+#ATTRIBUTE#\Q and it was pretty \E#VALUE#	6
+\Qthe \E#ATTRIBUTE#\Q was pretty \E#VALUE#\Q.\E	8
+\Qoverall a \E#VALUE#\Q \E#ATTRIBUTE#\Q.\E	9
+\Qwas it \E#VALUE#\Q the \E#ATTRIBUTE#\Q?\E	6
+\Qthis \E#ATTRIBUTE#\Q is \E#VALUE#\Q!\E	25
+#VALUE#\Q way to end the \E#ATTRIBUTE#	12
+\Q\E#VALUE#\Q \E#ATTRIBUTE#\Q?\E	17
+#VALUE#\Q way to start the \E#ATTRIBUTE#	8
+\Qthe \E#ATTRIBUTE#\Q is \E#VALUE#\Q.\E	55
+#ATTRIBUTE#\Q has some of the \E#VALUE#	11
+\Qi ordered the \E#VALUE#\Q \E#ATTRIBUTE#\Q.\E	6
+\Qbest \E#VALUE#\Q \E#ATTRIBUTE#\Q i've ever had.\E	6
+\Qreally \E#VALUE#\Q \E#ATTRIBUTE#\Q.\E	9
+\Q\E#VALUE#\Q \E#ATTRIBUTE#\Q ever.\E	15
+#VALUE#\Q the trip and the \E#ATTRIBUTE#	10
+\Q\E#VALUE#\Q \E#ATTRIBUTE#\Q!\E	82
+#VALUE#\Q out of all the \E#ATTRIBUTE#	7
+\Q\E#VALUE#\Q \E#ATTRIBUTE#\Q in the city.\E	8
+\Qdefinitely \E#VALUE#\Q the \E#ATTRIBUTE#\Q.\E	9
+\Q\E#VALUE#\Q \E#ATTRIBUTE#	10
+\Qthe \E#VALUE#\Q \E#ATTRIBUTE#\Q was good.\E	6
+\Qthe \E#ATTRIBUTE#\Q is pretty \E#VALUE#\Q.\E	6
+\Qoverall, a \E#VALUE#\Q \E#ATTRIBUTE#\Q.\E	9
+\Qthe \E#ATTRIBUTE#\Q was very \E#VALUE#\Q.\E	17
+#ATTRIBUTE#\Q with ippudo's special sauce, miso paste and fragrant \E#VALUE#	6
+#ATTRIBUTE#\Q was good but not \E#VALUE#	7
+\Q\E#ATTRIBUTE#\Q was pretty \E#VALUE#\Q.\E	6
+\Qyes, the \E#ATTRIBUTE#\Q is \E#VALUE#\Q.\E	6
+\Q\E#VALUE#\Q \E#ATTRIBUTE#\Q in san diego.\E	6
+\Qit's \E#VALUE#\Q the \E#ATTRIBUTE#\Q.\E	10
+\Qnot \E#VALUE#\Q the \E#ATTRIBUTE#\Q.\E	8
+\Qthe \E#VALUE#\Q \E#ATTRIBUTE#\Q was amazing.\E	6
+\Qthe \E#ATTRIBUTE#\Q here is \E#VALUE#\Q!\E	6
+#VALUE#\Q for the amount of \E#ATTRIBUTE#	6
+#ATTRIBUTE#\Q is one of the \E#VALUE#	28
+\Qget the \E#VALUE#\Q \E#ATTRIBUTE#\Q.\E	7
+\Qthe \E#VALUE#\Q \E#ATTRIBUTE#\Q.\E	7
+#VALUE#\Q the drive and the \E#ATTRIBUTE#	7
+\Qdefinitely \E#VALUE#\Q the \E#ATTRIBUTE#\Q!\E	8
+#ATTRIBUTE#\Q can be a little \E#VALUE#	6
+\Q?the \E#ATTRIBUTE#\Q was \E#VALUE#\Q.\E	9
+#ATTRIBUTE#\Q is by far the \E#VALUE#	10
+\Q\E#ATTRIBUTE#\Q was \E#VALUE#\Q.\E	67
+\Q\E#ATTRIBUTE#\Q was very \E#VALUE#\Q.\E	7
+\Qbest \E#VALUE#\Q \E#ATTRIBUTE#\Q ever.\E	6
+\Q\E#VALUE#\Q \E#ATTRIBUTE#\Q ever!\E	14
+\Qthis \E#ATTRIBUTE#\Q is pretty \E#VALUE#\Q.\E	6
+\Qthe \E#ATTRIBUTE#\Q was so \E#VALUE#\Q.\E	7
+\QÊThe \E#ATTRIBUTE#\Q was \E#VALUE#\Q.\E	11
+\Qthe \E#ATTRIBUTE#\Q was \E#VALUE#\Q too.\E	10
+#VALUE#\Q, it was a good \E#ATTRIBUTE#	7
+#ATTRIBUTE#\Q in line for 45 \E#VALUE#	6
+\Qoverall it was a \E#VALUE#\Q \E#ATTRIBUTE#\Q.\E	7
+#ATTRIBUTE#\Q was one of the \E#VALUE#	10
 ============Extraction============
-grilled	bread	16
-red	perfectly	6
-caramel	sauce	14
-amazing	food	14
-great	food	24
-great	meal	12
-great	experience	16
-favorite	restaurants	12
-fried	quail	6
-belly	sandwich	6
-favorite	dish	42
-quail	egg	10
-two	people	14
-good	service	14
-bbq	sauce	17
-great	service	32
-good	meal	12
-ice	cream	31
-worth	trying	7
-good	food	32
-right	away	6
-liver	toast	18
-small	plates	9
-french	fries	20
-dining	experience	16
-pork	ribs	18
-comfort	food	7
-balsamic	ribs	6
-fried	egg	62
-great	dish	16
-nice	touch	9
-delicious	food	7
-cheese	fries	7
-good	dish	12
-good	way	22

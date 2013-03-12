@@ -119,6 +119,9 @@ public class Extraction_bootstrapping {
 		for(String sent: corpus){
 			ArrayList<Extraction> extractionsInSent = new ArrayList<Extraction>();
 			for(Template pattern: templateMap.keySet()){
+				if(pattern.preQualify(sent) == false){
+					continue;
+				}
 				for(String attr : attrList){
 					String value = pattern.getValueExtraction(sent, attr);
 					if(value != null){
@@ -162,6 +165,9 @@ public class Extraction_bootstrapping {
 		for(String sent: corpus){
 			ArrayList<Extraction> extractionsInSent = new ArrayList<Extraction>();
 			for(Template pattern: templateMap.keySet()){
+				if(pattern.preQualify(sent) == false){
+					continue;
+				}
 				for(String val : valList){
 					String attribute = pattern.getAttrExtraction(sent, val);		
 					if(attribute != null){
@@ -225,6 +231,7 @@ public class Extraction_bootstrapping {
 				it.remove();
 		}
 		for(Map.Entry<Template, Integer> entry : cacheMap.entrySet()){
+			IOOperator.getInstance().writeToFile(iterationIndex + ".txt", entry.getKey().toTemplateString() + "\t" + entry.getValue() + "\n", true);
 			if(templateMap.containsKey(entry.getKey()))
 				templateMap.put(entry.getKey(), entry.getValue() + templateMap.get(entry.getKey()));
 			else
