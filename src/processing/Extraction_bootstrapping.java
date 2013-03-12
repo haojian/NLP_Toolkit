@@ -118,10 +118,7 @@ public class Extraction_bootstrapping {
 		for(SentenceEntry sentEntry: corpus){
 			String sent = sentEntry.get_senttxt();
 			ArrayList<Extraction> extractionsInSent = new ArrayList<Extraction>();
-			for(Template pattern: templateMap.keySet()){
-				if(pattern.preQualify(sent) == false){
-					continue;
-				}
+			for(Template pattern: sentEntry.Extractionmap.keySet()){
 				for(String attr : attrList){
 					String value = pattern.getValueExtraction(sent, attr);
 					if(value != null){
@@ -132,6 +129,7 @@ public class Extraction_bootstrapping {
 					}
 				}
 			}
+
 			for(Extraction extraction : extractionsInSent){
 				i++;
 				if(cacheMap.containsKey(extraction))
@@ -165,10 +163,7 @@ public class Extraction_bootstrapping {
 		for(SentenceEntry sentEntry: corpus){
 			String sent = sentEntry.get_senttxt();
 			ArrayList<Extraction> extractionsInSent = new ArrayList<Extraction>();
-			for(Template pattern: templateMap.keySet()){
-				if(pattern.preQualify(sent) == false){
-					continue;
-				}
+			for(Template pattern: sentEntry.Extractionmap.keySet()){
 				for(String val : valList){
 					String attribute = pattern.getAttrExtraction(sent, val);		
 					if(attribute != null){
