@@ -10,8 +10,6 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.TreeMap;
 
-import org.apache.commons.collections.map.MultiKeyMap;
-
 import utils.IOOperator;
 import utils.ParameterSetting;
 import utils.TextUtil;
@@ -19,6 +17,7 @@ import utils.Logger;
 
 import data_structure.Attribute;
 import data_structure.Extraction;
+import data_structure.SentenceEntry;
 import data_structure.Template;
 import data_structure.Value;
 
@@ -36,7 +35,7 @@ public class Extraction_bootstrapping {
 	private ArrayList<String> valList;
 	
 	private int bootstrapping_cutoff = ParameterSetting.BOOTSTRAPPINGTHRESHOLD;
-	private ArrayList<String> corpus;
+	private ArrayList<SentenceEntry> corpus;
 	
 	int iterationIndex = 0;
 
@@ -52,7 +51,7 @@ public class Extraction_bootstrapping {
 	public Extraction_bootstrapping(){
 		extractionMap = new HashMap<Extraction, Integer>();
 		templateMap = new HashMap<Template, Integer>();
-		corpus = new ArrayList<String>();
+		corpus = new ArrayList<SentenceEntry>();
 		attrList = new ArrayList<String>();
 		valList = new ArrayList<String>();
 		
@@ -87,7 +86,7 @@ public class Extraction_bootstrapping {
 	public void UpdateCorpus(ArrayList<String> sents){
 		for(String sent: sents){
 			String tmp = TextUtil.TextPreProcessing(sent);
-			corpus.add(tmp);
+			corpus.add(new SentenceEntry(tmp));
 		}
 		System.out.println("Corpus updated at size: "  + corpus.size());
 	}
@@ -116,7 +115,8 @@ public class Extraction_bootstrapping {
 		int i = 0;
 		int presize = extractionMap.size();
 		Map<Extraction, Integer> cacheMap = new HashMap<Extraction, Integer>();
-		for(String sent: corpus){
+		for(SentenceEntry sentEntry: corpus){
+			String sent = sentEntry.get_senttxt();
 			ArrayList<Extraction> extractionsInSent = new ArrayList<Extraction>();
 			for(Template pattern: templateMap.keySet()){
 				if(pattern.preQualify(sent) == false){
@@ -162,7 +162,8 @@ public class Extraction_bootstrapping {
 		int i = 0;
 		int presize = extractionMap.size();
 		Map<Extraction, Integer> cacheMap = new HashMap<Extraction, Integer>();
-		for(String sent: corpus){
+		for(SentenceEntry sentEntry: corpus){
+			String sent = sentEntry.get_senttxt();
 			ArrayList<Extraction> extractionsInSent = new ArrayList<Extraction>();
 			for(Template pattern: templateMap.keySet()){
 				if(pattern.preQualify(sent) == false){
@@ -212,7 +213,8 @@ public class Extraction_bootstrapping {
 		 HashMapValueComparator sortingcomp = new HashMapValueComparator(templateMap);
 		 TreeMap sortingMap = new TreeMap(sortingcomp);
 		*/
-		for(String sent: corpus){
+		for(SentenceEntry sentEntry: corpus){
+			String sent = sentEntry.get_senttxt();
 			for(Extraction curExtract: extractionMap.keySet()){
 				Template pattern = TextUtil.patternExtraction(curExtract.getVal(), curExtract.getAttr(), sent);
 				if(pattern != null){
@@ -232,6 +234,14 @@ public class Extraction_bootstrapping {
 		}
 		for(Map.Entry<Template, Integer> entry : cacheMap.entrySet()){
 			IOOperator.getInstance().writeToFile(iterationIndex + ".txt", entry.getKey().toTemplateString() + "\t" + entry.getValue() + "\n", true);
+			//assign new templates to different sentences. this could avoid lots of repeated computation.
+			for(SentenceEntry sentEntry: corpus){
+				if(entry.getKey().preQualify(sentEntry.get_senttxt()))
+				{
+					sentEntry.CandidateTemplates.add(entry.getKey());
+				}
+			}
+			
 			if(templateMap.containsKey(entry.getKey()))
 				templateMap.put(entry.getKey(), entry.getValue() + templateMap.get(entry.getKey()));
 			else
