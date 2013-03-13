@@ -97,16 +97,18 @@ public class Extraction_bootstrapping {
 		while(extractionMap.size() != lastIterationSize){
 			System.out.println(iterationIndex + "th iteration......" );
 			lastIterationSize = extractionMap.size();
-			Logger.getInstance().getElapseTime();
+			Logger.getInstance().getElapseTime(true);
 			TemplateInduction();
-			Logger.getInstance().getElapseTime();
+			Logger.getInstance().getElapseTime(true);
 			AttributeInduction();
-			Logger.getInstance().getElapseTime();
+			Logger.getInstance().getElapseTime(true);
 			ValueInduction();
-			Logger.getInstance().getElapseTime();
+			Logger.getInstance().getElapseTime(true);
 			UpdateToNewIteration();
 			OutputProcessingRes();
 			iterationIndex++;
+			
+			System.err.println(counter);
 		}
 		return;
 	}
@@ -115,10 +117,17 @@ public class Extraction_bootstrapping {
 		int i = 0;
 		int presize = extractionMap.size();
 		Map<Extraction, Integer> cacheMap = new HashMap<Extraction, Integer>();
+		long progressReportor = 0;
 		for(SentenceEntry sentEntry: corpus){
+			progressReportor++;
+			if(progressReportor % 10000 == 0)
+				Logger.getInstance().reportProcess(progressReportor, corpus.size(), "Value Induction");
+			
 			String sent = sentEntry.get_senttxt();
 			ArrayList<Extraction> extractionsInSent = new ArrayList<Extraction>();
-			for(Template pattern: sentEntry.Extractionmap.keySet()){
+			for(Template pattern: sentEntry.CandidateTemplates){
+				//ArrayList<String> tmpset = sentEntry.CandidateAttribute.size() == 0? attrList: sentEntry.CandidateAttribute;
+				
 				for(String attr : attrList){
 					String value = pattern.getValueExtraction(sent, attr);
 					if(value != null){
@@ -160,10 +169,18 @@ public class Extraction_bootstrapping {
 		int i = 0;
 		int presize = extractionMap.size();
 		Map<Extraction, Integer> cacheMap = new HashMap<Extraction, Integer>();
+		
+		long progressReportor = 0;
 		for(SentenceEntry sentEntry: corpus){
+			progressReportor++;
+			if(progressReportor % 10000 == 0)
+				Logger.getInstance().reportProcess(progressReportor, corpus.size(), "Attribute Induction");
+			
 			String sent = sentEntry.get_senttxt();
 			ArrayList<Extraction> extractionsInSent = new ArrayList<Extraction>();
-			for(Template pattern: sentEntry.Extractionmap.keySet()){
+			for(Template pattern: sentEntry.CandidateTemplates){
+				//ArrayList<String> tmpset = sentEntry.CandidateValues.size() == 0? valList: sentEntry.CandidateValues;
+				
 				for(String val : valList){
 					String attribute = pattern.getAttrExtraction(sent, val);		
 					if(attribute != null){
@@ -198,7 +215,7 @@ public class Extraction_bootstrapping {
 		System.out.println( i+ " attribute based exttractions were found. " + (extractionMap.size() - presize) + " new exttractions were added. " + extractionMap.size() + " extractions in total. ");
 		return;
 	}
-	
+	public static int counter =0;
 	//Extract the template based on the extraction already have.
 	public void TemplateInduction(){
 		int i = 0;
@@ -228,12 +245,13 @@ public class Extraction_bootstrapping {
 				it.remove();
 		}
 		for(Map.Entry<Template, Integer> entry : cacheMap.entrySet()){
-			IOOperator.getInstance().writeToFile(iterationIndex + ".txt", entry.getKey().toTemplateString() + "\t" + entry.getValue() + "\n", true);
+			//IOOperator.getInstance().writeToFile(iterationIndex + ".txt", entry.getKey().toTemplateString() + "\t" + entry.getValue() + "\n", true);
 			//assign new templates to different sentences. this could avoid lots of repeated computation.
 			for(SentenceEntry sentEntry: corpus){
 				if(entry.getKey().preQualify(sentEntry.get_senttxt()))
 				{
 					sentEntry.CandidateTemplates.add(entry.getKey());
+					counter ++;
 				}
 			}
 			
@@ -259,10 +277,12 @@ public class Extraction_bootstrapping {
 				continue;
 			}
 			if(e.getKey() != null){
-				if(!attrList.contains(e.getKey().getAttr().get_txt()))
+				if(!attrList.contains(e.getKey().getAttr().get_txt())){
 					attrList.add(e.getKey().getAttr().get_txt());
-				if(!valList.contains(e.getKey().getVal().get_txt()))
-					valList.add(e.getKey().getAttr().get_txt());
+				}
+				if(!valList.contains(e.getKey().getVal().get_txt())){
+					valList.add(e.getKey().getVal().get_txt());
+				}
 			}
 		}
 		bootstrapping_cutoff += ParameterSetting.BOOTSTRAPPINGTHRESHOLD;

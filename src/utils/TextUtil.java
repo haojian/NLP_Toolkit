@@ -62,6 +62,8 @@ public class TextUtil {
 	//also remove the stopwords in the result.
 	public static String RegexExtraction(String patternStr, String data){
 		Pattern pattern;
+		if(patternStr == null || patternStr.length() == 0 || patternStr.isEmpty())
+			return null;
 		if(RegexManager.getInstance().patternList.containsKey(patternStr)){
 			pattern = RegexManager.getInstance().patternList.get(patternStr);
 		}else{
@@ -80,9 +82,7 @@ public class TextUtil {
  				res = array[0].replace(',', ' ').trim();
 			}
 		}
-		if(res.equals("dis") || res.equals("goo") ){
-			System.out.println(res + "\t"+ patternStr + "\t" + data);
-		}
+
 		if(StopwordsFilter.getInstance().isStopWords(res))
 			return null;
 		else
@@ -93,6 +93,8 @@ public class TextUtil {
 		if(sent == null || sent.length() == 0){
 			return null;
 		}
+		if(!sent.contains(attr.get_txt()))
+			return null;
 		//String pattern = temp.toValueTemplateString(attr).replace("#VALUE#", ParameterSetting.REGXWORDPATTERN_V2);
 		String pattern = TextUtil.HighPerformanceStringReplace(temp.toValueTemplateString(attr), "#VALUE#", ParameterSetting.REGXWORDPATTERN_V2);
 		String res = RegexExtraction(pattern, sent);
@@ -103,7 +105,8 @@ public class TextUtil {
 		if(sent == null || sent.length() == 0){
 			return null;
 		}
-		
+		if(!sent.contains(val.get_txt()))
+			return null;
 		//String pattern = temp.toAttrTemplateString(val).replace("#ATTRIBUTE#", ParameterSetting.REGXWORDPATTERN_V2);
 		String pattern = TextUtil.HighPerformanceStringReplace(temp.toAttrTemplateString(val), "#ATTRIBUTE#", ParameterSetting.REGXWORDPATTERN_V2);
 		String res = RegexExtraction(pattern, sent);

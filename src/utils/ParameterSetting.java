@@ -4,7 +4,7 @@ import java.io.File;
 
 public class ParameterSetting {
 	//extraction parameters
-	public static int BOOTSTRAPPINGTHRESHOLD = 6;
+	public static int BOOTSTRAPPINGTHRESHOLD = 10;
 	public static int MAXSEEDSNOUN = 50;
 	public static int MAXSEEDSADJ = 4;
 	public static int EXTRACTIONDISTANCETHRESHOLD = 5;

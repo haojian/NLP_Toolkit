@@ -23,10 +23,18 @@ public class Logger {
 		lasttime = System.currentTimeMillis();
 	}
 	
-	public void getElapseTime(){
+	public long getElapseTime(boolean ifoutput){
 		long tmp = System.currentTimeMillis();
 		long res = tmp - lasttime;
 		lasttime = tmp;
-		System.out.println("elapse time: " + res + "\n");
+		if(ifoutput)
+			System.out.println("elapse time: " + res + "\n");
+		return res;
+	}
+	
+	
+	public void reportProcess(long donepart, long all, String event){
+		float precess = donepart/all;
+		System.err.println(event + " current progress: " + (float)donepart/all + "\t time: " + getElapseTime(false));
 	}
 }
