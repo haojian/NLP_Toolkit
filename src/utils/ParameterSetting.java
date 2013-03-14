@@ -5,15 +5,15 @@ import java.io.File;
 public class ParameterSetting {
 	//extraction parameters
 	public static int BOOTSTRAPPINGTHRESHOLD = 6;
-	public static int MAXSEEDSNOUN = 10;
+	public static int MAXSEEDSNOUN = 50;
 	public static int MAXSEEDSADJ = 4;
 	public static int EXTRACTIONDISTANCETHRESHOLD = 5;
 	
 	//path parameters.
 	public static String PATHTOSWN = "resources" + File.separator + "SentiWordNet_3.0.0.txt";
 	public static String PATHTOSTOPWORDS = "resources" + File.separator + "stopwords.txt";
-	public static String PATHTOPOSTAGGEDDATA = "E:\\Work @ MSRA HCI\\DownloadedData\\RevTxt\\backup";
-	public static String PATHTOCRAWLEDDATA = "E:\\Work @ MSRA HCI\\DownloadedData\\RevTxt\\crawleddata";
+	public static String PATHTOPOSTAGGEDDATA = "resources" + File.separator + "RevTxt" + File.separator + "backup";
+	public static String PATHTOCRAWLEDDATA = "resources" + File.separator + "RevTxt" + File.separator + "crawleddata";
 	public static String PATHTOLOG = "./log.txt";
 	public static String PATHTODEBUG = "./debug.txt";
 	public static String PATHTOSEEDFILE = "./seed.txt";

@@ -1,6 +1,7 @@
 package processing;
 
 import java.io.BufferedReader;
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.util.ArrayList;
@@ -10,6 +11,7 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.TreeMap;
 
+import utils.DataManager;
 import utils.IOOperator;
 import utils.ParameterSetting;
 import utils.TextUtil;
@@ -31,8 +33,10 @@ public class Extraction_bootstrapping {
 	
 	private Map<Template, Integer> templateMap;
 	private Map<Extraction, Integer> extractionMap;
-	private ArrayList<String> attrList;
-	private ArrayList<String> valList;
+	private Map<String, Integer> attrList;
+	private Map<String, Integer> valList;
+	//private ArrayList<String> attrList;
+	//private ArrayList<String> valList;
 	
 	private int bootstrapping_cutoff = ParameterSetting.BOOTSTRAPPINGTHRESHOLD;
 	private ArrayList<SentenceEntry> corpus;
@@ -45,6 +49,17 @@ public class Extraction_bootstrapping {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		for(File input : DataManager.getInstance().getFilesUnderFolder(ParameterSetting.PATHTOCRAWLEDDATA)){
+			if(input.getName().split("_").length != 3)
+				continue;
+			long startTime = System.currentTimeMillis();
+			ArrayList<String> tmp =  DataManager.getInstance().getSentencesInFile(input);
+			int size = tmp.size();
+			Extraction_bootstrapping.getInstance().UpdateCorpus(tmp);
+			long ellapse = System.currentTimeMillis() - startTime;
+			System.out.println(input.getName() + " \t " + size + " Execution time: " + ellapse);
+			//break;
+		}
 		Extraction_bootstrapping.getInstance().StartProcess();
 	}
 	
@@ -52,8 +67,8 @@ public class Extraction_bootstrapping {
 		extractionMap = new HashMap<Extraction, Integer>();
 		templateMap = new HashMap<Template, Integer>();
 		corpus = new ArrayList<SentenceEntry>();
-		attrList = new ArrayList<String>();
-		valList = new ArrayList<String>();
+		attrList = new HashMap<String, Integer>();
+		valList = new HashMap<String, Integer>();
 		
 		InitSeedExtraction();
 	}
@@ -70,11 +85,13 @@ public class Extraction_bootstrapping {
 					continue;
 				for(int i=1; i<ParameterSetting.MAXSEEDSADJ; i++){
 					extractionMap.put(new Extraction(res[i], res[0], 0), 0);
-					if(!valList.contains(res[i]))
-						valList.add(res[i]);
+					if(!valList.containsKey(res[i])){
+						valList.put(res[i], 0);
+					}
 				}
-				if(!attrList.contains(res[0]))
-					attrList.add(res[0]);
+				if(!attrList.containsKey(res[0])){
+					attrList.put(res[0], 0);
+				}
 			}
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
@@ -84,9 +101,11 @@ public class Extraction_bootstrapping {
 	}
 	
 	public void UpdateCorpus(ArrayList<String> sents){
+		int i = 0;
 		for(String sent: sents){
 			String tmp = TextUtil.TextPreProcessing(sent);
-			corpus.add(new SentenceEntry(tmp));
+			corpus.add(new SentenceEntry(tmp, i));
+			i++;
 		}
 		System.out.println("Corpus updated at size: "  + corpus.size());
 	}
@@ -94,9 +113,13 @@ public class Extraction_bootstrapping {
 	public void StartProcess(){
 		//if((ArrayList<String> res = TextUtil.patternExtraction(val, attr, sent))
 		int lastIterationSize = -1;
-		while(extractionMap.size() != lastIterationSize){
+		int lastAttrListSize = -1;
+		int lastValListSize = -1;
+		while(extractionMap.size() != lastIterationSize && attrList.size() !=  lastAttrListSize && valList.size() != lastValListSize){
 			System.out.println(iterationIndex + "th iteration......" );
 			lastIterationSize = extractionMap.size();
+			lastAttrListSize = attrList.size();
+			lastValListSize = valList.size();
 			Logger.getInstance().getElapseTime(true);
 			TemplateInduction();
 			Logger.getInstance().getElapseTime(true);
@@ -106,9 +129,7 @@ public class Extraction_bootstrapping {
 			Logger.getInstance().getElapseTime(true);
 			UpdateToNewIteration();
 			OutputProcessingRes();
-			iterationIndex++;
-			
-			System.err.println(counter);
+			iterationIndex++;			
 		}
 		return;
 	}
@@ -126,9 +147,9 @@ public class Extraction_bootstrapping {
 			String sent = sentEntry.get_senttxt();
 			ArrayList<Extraction> extractionsInSent = new ArrayList<Extraction>();
 			for(Template pattern: sentEntry.CandidateTemplates){
-				//ArrayList<String> tmpset = sentEntry.CandidateAttribute.size() == 0? attrList: sentEntry.CandidateAttribute;
+				ArrayList<String> tmpset = sentEntry.CandidateAttribute.size() == 0? new ArrayList(attrList.keySet()): sentEntry.CandidateAttribute;
 				
-				for(String attr : attrList){
+				for(String attr : tmpset){
 					String value = pattern.getValueExtraction(sent, attr);
 					if(value != null){
 						Extraction curExtraction = new Extraction(value, attr, 0);
@@ -163,8 +184,7 @@ public class Extraction_bootstrapping {
 		System.out.println( i+ " value based exttractions were found. " + (extractionMap.size() - presize) + " new exttractions were added. " + extractionMap.size() + " extractions in total. ");
 		return;
 	}
-	
-	
+		
 	public void AttributeInduction(){
 		int i = 0;
 		int presize = extractionMap.size();
@@ -179,9 +199,9 @@ public class Extraction_bootstrapping {
 			String sent = sentEntry.get_senttxt();
 			ArrayList<Extraction> extractionsInSent = new ArrayList<Extraction>();
 			for(Template pattern: sentEntry.CandidateTemplates){
-				//ArrayList<String> tmpset = sentEntry.CandidateValues.size() == 0? valList: sentEntry.CandidateValues;
+				ArrayList<String> tmpset = sentEntry.CandidateValues.size() == 0? new ArrayList(valList.keySet()) : sentEntry.CandidateValues;
 				
-				for(String val : valList){
+				for(String val : tmpset){
 					String attribute = pattern.getAttrExtraction(sent, val);		
 					if(attribute != null){
 						Extraction curExtraction = new Extraction(val, attribute, 0);
@@ -215,7 +235,7 @@ public class Extraction_bootstrapping {
 		System.out.println( i+ " attribute based exttractions were found. " + (extractionMap.size() - presize) + " new exttractions were added. " + extractionMap.size() + " extractions in total. ");
 		return;
 	}
-	public static int counter =0;
+	
 	//Extract the template based on the extraction already have.
 	public void TemplateInduction(){
 		int i = 0;
@@ -251,7 +271,6 @@ public class Extraction_bootstrapping {
 				if(entry.getKey().preQualify(sentEntry.get_senttxt()))
 				{
 					sentEntry.CandidateTemplates.add(entry.getKey());
-					counter ++;
 				}
 			}
 			
@@ -277,11 +296,23 @@ public class Extraction_bootstrapping {
 				continue;
 			}
 			if(e.getKey() != null){
-				if(!attrList.contains(e.getKey().getAttr().get_txt())){
-					attrList.add(e.getKey().getAttr().get_txt());
+				if(!attrList.containsKey(e.getKey().getAttr().get_txt())){
+					attrList.put(e.getKey().getAttr().get_txt(), 0);
 				}
-				if(!valList.contains(e.getKey().getVal().get_txt())){
-					valList.add(e.getKey().getVal().get_txt());
+				if(!valList.containsKey(e.getKey().getVal().get_txt())){
+					valList.put(e.getKey().getVal().get_txt(), 0);
+				}
+			}
+		}
+		for(SentenceEntry entry:corpus){
+			String words[] = TextUtil.SentenceToWords(entry.get_senttxt());
+			for(String word : words){
+				if(word == null || word.length() == 0)
+					continue;
+				if(attrList.containsKey(word)){
+					entry.CandidateAttribute.add(word);
+				}else if(valList.containsKey(word)){
+					entry.CandidateValues.add(word);
 				}
 			}
 		}

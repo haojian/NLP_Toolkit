@@ -31,7 +31,7 @@ public class DataManager {
 			Extraction_bootstrapping.getInstance().UpdateCorpus(tmp);
 			long ellapse = System.currentTimeMillis() - startTime;
 			System.out.println(input.getName() + " \t " + size + " Execution time: " + ellapse);
-			break;
+			//break;
 		}
 		Extraction_bootstrapping.getInstance().StartProcess();
 		System.out.println("long wait.....it's finished!....");

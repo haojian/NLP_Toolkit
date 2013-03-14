@@ -9,6 +9,7 @@ public class SentenceEntry {
 	public ArrayList<Template> CandidateTemplates;
 	public ArrayList<String> CandidateValues;
 	public ArrayList<String> CandidateAttribute;
+	public int UniqueID = 0;
 	
 	public Map<Template, Extraction> Extractionmap;
 	
@@ -18,6 +19,15 @@ public class SentenceEntry {
 		Extractionmap = new HashMap<Template, Extraction>();
 		CandidateValues = new ArrayList<String>();
 		CandidateAttribute = new  ArrayList<String>();
+	}
+	
+	public SentenceEntry(String sent, int id){
+		set_senttxt(sent);
+		CandidateTemplates = new ArrayList<Template>();
+		Extractionmap = new HashMap<Template, Extraction>();
+		CandidateValues = new ArrayList<String>();
+		CandidateAttribute = new  ArrayList<String>();
+		UniqueID = id;
 	}
 
 	public String get_senttxt() {

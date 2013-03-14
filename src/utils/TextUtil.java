@@ -21,7 +21,8 @@ public class TextUtil {
 	}
 	
 	public static void main(String[] args){
-		regexTest();
+		//regexTest();
+		SentenceToWords("For one of my birthday dinners, my best friend decided to either buy me this pricey fringe leather skirt from Zara or take me out to dinner.");
 	}
 	
 	public static String joinStringArrayList(ArrayList<String> list){
@@ -201,5 +202,12 @@ public class TextUtil {
 			return res;
 		}
 		return null;
+	}
+	
+	public static String[] SentenceToWords(String sent){
+		//String words[] = sent.split("\\s+");
+		String words[] = sent.split("[ ,.!?]");
+		
+		return words;
 	}
 }
