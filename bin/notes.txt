@@ -1,4 +1,0 @@
-================To do list =========================
-1. Add output function. Output the results from different iteration.
-2. Replace the word based on word unit rather than the string pattern match.
-3. Avoid the repetitive work in extraction.

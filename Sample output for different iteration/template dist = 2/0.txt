@@ -1,0 +1,1775 @@
+============Overall============
+185 templates in total. 318 attributes in total. 479 values in total. 1587 extractions in total. ============Template============
+#VALUE#\Q amount of \E#ATTRIBUTE#	23
+#ATTRIBUTE#\Qd just as \E#VALUE#	13
+\Qthe \E#ATTRIBUTE#\Q was \E#VALUE#\Q!\E	12
+#ATTRIBUTE#\Q are too \E#VALUE#	11
+#ATTRIBUTE#\Q wasn't that \E#VALUE#	21
+#ATTRIBUTE#\Q is usually \E#VALUE#	21
+#ATTRIBUTE#\Q was ridiculously \E#VALUE#	14
+#ATTRIBUTE#\Q isn't that \E#VALUE#	12
+#VALUE#\Q but the \E#ATTRIBUTE#	35
+#ATTRIBUTE#\Q may be \E#VALUE#	16
+#VALUE#\Q watermelon iced \E#ATTRIBUTE#	18
+#VALUE#\Q selection of \E#ATTRIBUTE#	11
+\Qvery \E#VALUE#\Q \E#ATTRIBUTE#\Q.\E	18
+#ATTRIBUTE#\Q is extremely \E#VALUE#	21
+#ATTRIBUTE#\Q has a \E#VALUE#	31
+#VALUE#\Q for my \E#ATTRIBUTE#	87
+#ATTRIBUTE#\Q was extremely \E#VALUE#	24
+#ATTRIBUTE#\Q was also very \E#VALUE#	13
+#VALUE#\Q reviews about this \E#ATTRIBUTE#	13
+#ATTRIBUTE#\Q is just as \E#VALUE#	24
+#VALUE#\Q an hour \E#ATTRIBUTE#	12
+#ATTRIBUTE#\Q wasn't so \E#VALUE#	21
+#ATTRIBUTE#\Q was not \E#VALUE#	22
+#ATTRIBUTE#\Q is ridiculously \E#VALUE#	26
+\Q\E#VALUE#\Q the \E#ATTRIBUTE#\Q.\E	34
+\Qthe \E#ATTRIBUTE#\Q was \E#VALUE#\Q.\E	67
+#ATTRIBUTE#\Q at a \E#VALUE#	13
+#ATTRIBUTE#\Q was fast and \E#VALUE#	23
+#VALUE#\Q french dip \E#ATTRIBUTE#	13
+#ATTRIBUTE#\Qed about 40 \E#VALUE#	13
+#ATTRIBUTE#\Q about 15 \E#VALUE#	16
+#ATTRIBUTE#\Qing in a \E#VALUE#	19
+#ATTRIBUTE#\Q is consistently \E#VALUE#	21
+#ATTRIBUTE#\Q is well \E#VALUE#	29
+#ATTRIBUTE#\Q is a \E#VALUE#	56
+#ATTRIBUTE#\Q was so \E#VALUE#	126
+#ATTRIBUTE#\Q was a little \E#VALUE#	17
+#ATTRIBUTE#\Qs can be \E#VALUE#	28
+#ATTRIBUTE#\Q are always \E#VALUE#	32
+#ATTRIBUTE#\Q can get \E#VALUE#	36
+#ATTRIBUTE#\Q is sooo \E#VALUE#	12
+#ATTRIBUTE#\Q has always been \E#VALUE#	14
+#ATTRIBUTE#\Q was well \E#VALUE#	22
+\Qthis \E#ATTRIBUTE#\Q is \E#VALUE#\Q!\E	25
+#VALUE#\Q way to end the \E#ATTRIBUTE#	12
+#ATTRIBUTE#\Q must be \E#VALUE#	15
+#ATTRIBUTE#\Qs can get \E#VALUE#	16
+#ATTRIBUTE#\Q is damn \E#VALUE#	14
+#ATTRIBUTE#\Q is pretty damn \E#VALUE#	12
+#ATTRIBUTE#\Qs are ridiculously \E#VALUE#	14
+#ATTRIBUTE#\Q has some of the \E#VALUE#	11
+#VALUE#\Q place for \E#ATTRIBUTE#	22
+#VALUE#\Q wait in \E#ATTRIBUTE#	14
+#ATTRIBUTE#\Q at least 30 \E#VALUE#	14
+\Q\E#VALUE#\Q \E#ATTRIBUTE#\Q ever.\E	15
+#ATTRIBUTE#\Q and the \E#VALUE#	22
+\Q\E#VALUE#\Q \E#ATTRIBUTE#\Q!\E	82
+#ATTRIBUTE#\Q was pretty \E#VALUE#	181
+#VALUE#\Q shredded pork \E#ATTRIBUTE#	14
+#ATTRIBUTE#\Q was definitely \E#VALUE#	13
+#ATTRIBUTE#\Q was quite \E#VALUE#	22
+#VALUE#\Q in bbq \E#ATTRIBUTE#	30
+#VALUE#\Q and the \E#ATTRIBUTE#	133
+#ATTRIBUTE#\Q is definitely \E#VALUE#	25
+#VALUE#\Q serving of \E#ATTRIBUTE#	16
+#ATTRIBUTE#\Q about 10 \E#VALUE#	23
+#VALUE#\Q a great \E#ATTRIBUTE#	11
+#ATTRIBUTE#\Q is quick and \E#VALUE#	13
+#ATTRIBUTE#\Q here is very \E#VALUE#	13
+#VALUE#\Q asian fusion \E#ATTRIBUTE#	25
+#ATTRIBUTE#\Qs are always \E#VALUE#	31
+#VALUE#\Q balance of \E#ATTRIBUTE#	17
+#VALUE#\Q the 45 minute \E#ATTRIBUTE#	13
+#ATTRIBUTE#\Q is one of the \E#VALUE#	28
+#ATTRIBUTE#\Qs are too \E#VALUE#	14
+#ATTRIBUTE#\Qs are pretty \E#VALUE#	12
+#VALUE#\Q dip beef \E#ATTRIBUTE#	15
+#VALUE#\Q pork rice \E#ATTRIBUTE#	27
+#ATTRIBUTE#\Q wasn't too \E#VALUE#	43
+#ATTRIBUTE#\Q here is pretty \E#VALUE#	14
+#ATTRIBUTE#\Q is soooo \E#VALUE#	13
+#ATTRIBUTE#\Q wasn't very \E#VALUE#	11
+#ATTRIBUTE#\Q was very \E#VALUE#	174
+#ATTRIBUTE#\Q is pretty \E#VALUE#	165
+#ATTRIBUTE#\Q was really \E#VALUE#	144
+\Q\E#ATTRIBUTE#\Q was \E#VALUE#\Q.\E	67
+#ATTRIBUTE#\Qs have a \E#VALUE#	12
+#ATTRIBUTE#\Q a few \E#VALUE#	20
+#ATTRIBUTE#\Q about 30 \E#VALUE#	14
+#ATTRIBUTE#\Qs are so \E#VALUE#	16
+#ATTRIBUTE#\Q is not as \E#VALUE#	11
+#ATTRIBUTE#\Q about 45 \E#VALUE#	13
+#ATTRIBUTE#\Q is the \E#VALUE#	123
+#ATTRIBUTE#\Q is incredibly \E#VALUE#	12
+#ATTRIBUTE#\Qs benedict with \E#VALUE#	15
+#ATTRIBUTE#\Q is fast and \E#VALUE#	14
+#ATTRIBUTE#\Q isn't too \E#VALUE#	12
+\Q\E#ATTRIBUTE#\Q is \E#VALUE#\Q.\E	25
+#ATTRIBUTE#\Qing in that \E#VALUE#	11
+#VALUE#\Q watermelon house \E#ATTRIBUTE#	18
+#ATTRIBUTE#\Q was a \E#VALUE#	20
+\Q\E#VALUE#\Q the \E#ATTRIBUTE#\Q!\E	19
+\Q\E#VALUE#\Q \E#ATTRIBUTE#\Q.\E	245
+#VALUE#\Q food and \E#ATTRIBUTE#	28
+#ATTRIBUTE#\Q can be pretty \E#VALUE#	11
+#ATTRIBUTE#\Q itself was \E#VALUE#	15
+#ATTRIBUTE#\Q are so \E#VALUE#	26
+\Qthis \E#ATTRIBUTE#\Q is \E#VALUE#\Q.\E	57
+#ATTRIBUTE#\Qing in the \E#VALUE#	22
+#VALUE#\Q the hour \E#ATTRIBUTE#	22
+#ATTRIBUTE#\Q in the \E#VALUE#	30
+#ATTRIBUTE#\Q was way too \E#VALUE#	13
+#ATTRIBUTE#\Q for a \E#VALUE#	42
+#ATTRIBUTE#\Q is quite \E#VALUE#	32
+#VALUE#\Q, but the \E#ATTRIBUTE#	42
+#ATTRIBUTE#\Qed for 45 \E#VALUE#	11
+#ATTRIBUTE#\Q is also very \E#VALUE#	11
+#ATTRIBUTE#\Q here was \E#VALUE#	21
+#ATTRIBUTE#\Q was also \E#VALUE#	18
+#VALUE#\Q baby back rib \E#ATTRIBUTE#	17
+#VALUE#\Q combination of \E#ATTRIBUTE#	17
+#VALUE#\Q bowl of \E#ATTRIBUTE#	62
+#ATTRIBUTE#\Q is a little \E#VALUE#	13
+#VALUE#\Q about this \E#ATTRIBUTE#	30
+#ATTRIBUTE#\Q would be \E#VALUE#	28
+#ATTRIBUTE#\Qed about 20 \E#VALUE#	33
+#VALUE#\Q and potato \E#ATTRIBUTE#	18
+#ATTRIBUTE#\Q was the \E#VALUE#	36
+#ATTRIBUTE#\Q here is \E#VALUE#	89
+#ATTRIBUTE#\Q is so \E#VALUE#	157
+#VALUE#\Q ice cream \E#ATTRIBUTE#	85
+#ATTRIBUTE#\Q was a bit \E#VALUE#	25
+#VALUE#\Q part of this \E#ATTRIBUTE#	12
+#ATTRIBUTE#\Q was still \E#VALUE#	17
+#VALUE#\Q of a \E#ATTRIBUTE#	80
+#VALUE#\Q korean bbq \E#ATTRIBUTE#	45
+#VALUE#\Q things about this \E#ATTRIBUTE#	92
+#ATTRIBUTE#\Q is as \E#VALUE#	41
+#ATTRIBUTE#\Q was super \E#VALUE#	29
+#ATTRIBUTE#\Q here is really \E#VALUE#	12
+#ATTRIBUTE#\Q has been \E#VALUE#	12
+#ATTRIBUTE#\Qed about 30 \E#VALUE#	29
+\Q\E#VALUE#\Q \E#ATTRIBUTE#\Q?\E	17
+#ATTRIBUTE#\Q was too \E#VALUE#	39
+#VALUE#\Q variety of \E#ATTRIBUTE#	16
+\Qthe \E#ATTRIBUTE#\Q is \E#VALUE#\Q.\E	55
+#ATTRIBUTE#\Q about 20 \E#VALUE#	20
+#VALUE#\Q the long \E#ATTRIBUTE#	41
+#ATTRIBUTE#\Q just as \E#VALUE#	12
+#ATTRIBUTE#\Q and a \E#VALUE#	31
+#ATTRIBUTE#\Qed about 45 \E#VALUE#	21
+#ATTRIBUTE#\Q will be \E#VALUE#	19
+#ATTRIBUTE#\Q is too \E#VALUE#	47
+#VALUE#\Q for the \E#ATTRIBUTE#	16
+#ATTRIBUTE#\Q is always \E#VALUE#	121
+#VALUE#\Q texture and \E#ATTRIBUTE#	14
+#VALUE#\Q stuffed french \E#ATTRIBUTE#	18
+#VALUE#\Q line of people \E#ATTRIBUTE#	13
+#ATTRIBUTE#\Q can be \E#VALUE#	117
+#ATTRIBUTE#\Qs just as \E#VALUE#	16
+#ATTRIBUTE#\Q is still \E#VALUE#	20
+#ATTRIBUTE#\Q is that \E#VALUE#	31
+#VALUE#\Q thing about this \E#ATTRIBUTE#	58
+#ATTRIBUTE#\Qed about 15 \E#VALUE#	28
+#ATTRIBUTE#\Q can get pretty \E#VALUE#	16
+#VALUE#\Q as the \E#ATTRIBUTE#	38
+#ATTRIBUTE#\Q was not that \E#VALUE#	12
+#ATTRIBUTE#\Q is really \E#VALUE#	142
+#ATTRIBUTE#\Q wasn't as \E#VALUE#	16
+#ATTRIBUTE#\Q in a \E#VALUE#	64
+#ATTRIBUTE#\Qed about 10 \E#VALUE#	22
+#VALUE#\Q and beef \E#ATTRIBUTE#	14
+#ATTRIBUTE#\Q with a \E#VALUE#	23
+#ATTRIBUTE#\Q is just that \E#VALUE#	13
+#ATTRIBUTE#\Q has the \E#VALUE#	88
+#ATTRIBUTE#\Q but it's \E#VALUE#	11
+\Q\E#VALUE#\Q \E#ATTRIBUTE#\Q ever!\E	14
+#ATTRIBUTE#\Q is not \E#VALUE#	39
+#ATTRIBUTE#\Q are ridiculously \E#VALUE#	14
+\QÊThe \E#ATTRIBUTE#\Q was \E#VALUE#\Q.\E	11
+#VALUE#\Q, and the \E#ATTRIBUTE#	34
+#ATTRIBUTE#\Q is super \E#VALUE#	50
+#ATTRIBUTE#\Q is very \E#VALUE#	137
+#ATTRIBUTE#\Q are very \E#VALUE#	12
+#VALUE#\Q part of the \E#ATTRIBUTE#	70
+============Extraction============
+drenched	sauce	15
+grilled	bread	24
+wait	ramen	11
+good	egg	45
+new	flavors	11
+garlic	noodles	56
+enjoyable	experience	15
+amazing	food	282
+best	breakfast	15
+full	meal	27
+chinese	restaurants	48
+pork	burger	38
+right	place	53
+area	places	24
+broth	ramen	17
+fatty	pork	48
+bit	service	47
+good	seafood	13
+side	toast	11
+good	restaurant	102
+small	burger	46
+big	restaurant	24
+meat	flavor	17
+okay	place	12
+good	steak	17
+worth	ordering	13
+tender	bbq	11
+better	service	74
+good	burger	244
+afternoon	line	13
+huge	ramen	42
+friendly	staff	391
+big	ramen	52
+good	grits	13
+tangy	sauce	37
+soup	noodles	19
+pretty	line	24
+perfect	ramen	60
+cozy	place	14
+ramen	egg	17
+burger	place	25
+greasy	taste	18
+line	place	28
+pricey	place	58
+crowded	restaurant	16
+pork	bowl	85
+good	salad	180
+grilled	octopus	34
+lamb	sandwich	74
+tasty	burger	29
+back	ribs	463
+french	toast	738
+parking	spot	28
+excellent	pizza	14
+four	people	18
+cream	flavor	27
+birthday	dinner	60
+smile	service	14
+friendly	place	26
+great	ramen	171
+bad	food	37
+chinese	restaurant	124
+pork	broth	35
+food	restaurant	15
+broth	flavor	11
+small	wait	34
+rich	food	46
+huge	burrito	14
+bruxie	burger	42
+crazy	place	25
+great	idea	28
+small	tables	22
+awesome	ramen	23
+great	restaurant	123
+portabello	fries	69
+raves	place	19
+unique	taste	34
+line	wait	143
+pork	dip	13
+place	place	13
+try	ramen	12
+service	place	15
+good	benedict	12
+good	fish	28
+avoid	line	36
+best	meal	128
+toasted	bread	12
+spectacular	service	18
+minute	took	62
+good	tartine	11
+good	sandwiche	16
+small	place	568
+great	dinner	43
+good	grub	14
+nice	ambiance	39
+wasabi	noodles	122
+loud	food	15
+pricey	food	42
+friendly	server	28
+eat	ramen	21
+intense	flavor	11
+shredded	ramen	24
+cream	flavors	32
+burrata	pizza	36
+known	place	16
+soft	side	11
+crisp	bbq	19
+love	ramen	38
+special	occasion	71
+worth	trip	64
+bbq	beans	17
+great	broth	33
+hollandaise	sauce	37
+boiled	egg	183
+different	kinds	11
+awesome	flavor	16
+date	spot	26
+huge	menu	23
+pretty	service	19
+better	food	78
+steep	rice	13
+pao	chicken	22
+pomegranate	sauce	18
+fine	food	13
+great	texture	33
+breakfast	spot	21
+good	sandwiches	20
+good	bun	36
+extra	sauce	47
+great	ambience	16
+bland	taste	13
+truffle	burger	285
+ponzu	sauce	15
+shredded	bowl	57
+attentive	service	75
+broham	sandwich	15
+people	line	16
+great	sides	16
+best	service	70
+excellent	service	261
+perfect	service	30
+area	restaurants	29
+mind	wait	20
+satisfying	meal	22
+yogurt	sauce	11
+best	sushi	13
+pretty	ramen	15
+waffle	fries	86
+long	list	13
+mexican	food	453
+amazing	sauce	46
+great	appetizer	13
+city	place	61
+annoying	wait	11
+group	dinner	15
+loud	place	84
+greek	restaurant	46
+favorite	restaurant	134
+truffle	cheese	11
+juicy	chicken	25
+small	parking	11
+nice	looking	16
+noisy	restaurant	15
+memorable	experience	16
+exceptional	food	21
+signature	burger	16
+city	restaurants	78
+unique	food	25
+huge	portions	91
+better	ramen	70
+busy	restaurant	25
+expensive	place	19
+tasty	noodles	13
+long	food	103
+sweet	cream	58
+red	food	13
+side	sandwich	56
+mustard	sauce	36
+portobello	fries	344
+good	portions	34
+banana	flavor	23
+area	restaurant	17
+hit	spot	144
+fresh	tuna	11
+small	house	13
+liked	place	11
+top	service	17
+great	reviews	92
+french	macaroons	15
+small	comes	16
+back	home	39
+amazing	experience	14
+review	place	22
+small	served	14
+pork	ramen	36
+good	appetizer	16
+hard	bread	15
+hot	damn	15
+good	fries	60
+bland	side	13
+good	mustard	20
+lacking	flavor	17
+dry	sandwich	11
+table	line	13
+tiny	restaurant	27
+extra	egg	22
+brown	sugar	48
+side	dish	39
+wasabi	sauce	24
+bit	ramen	18
+different	story	22
+salty	side	62
+great	menu	27
+worth	hype	60
+new	things	17
+right	food	32
+hot	staying	11
+good	rib	22
+best	food	56
+iced	food	13
+service	wait	11
+salted	favorite	13
+currant	sauce	26
+waffle	sandwich	158
+chicken	bowl	17
+large	party	24
+back	lot	31
+sweet	sauce	120
+meat	bread	11
+good	salsa	22
+nice	place	148
+pretty	wait	33
+wait	wait	16
+red	meat	18
+ambiance	food	19
+full	dinner	39
+best	pizza	48
+french	laundry	11
+good	wine	15
+totto	ramen	13
+worth	food	175
+tasty	pork	16
+fusion	restaurant	20
+worth	long	11
+beet	salad	17
+good	fried	11
+good	cake	17
+grey	tea	17
+cozy	restaurant	11
+tasty	ramen	31
+delicious	sandwich	23
+line	food	13
+crispy	chicken	11
+back	table	17
+chinese	food	82
+big	disappointment	11
+fresh	meat	15
+moist	chicken	17
+small	lot	28
+fried	egg	138
+long	line	1599
+good	staff	31
+small	price	40
+soft	meat	23
+pretty	restaurant	12
+caesar	salad	21
+japanese	food	36
+star	service	16
+crowded	place	117
+back	seated	21
+early	dinner	54
+great	crust	11
+friendly	taff	12
+great	deal	49
+restaurant	food	18
+soft	bread	46
+noisy	place	23
+small	menu	40
+fast	service	106
+fresh	sashimi	39
+right	spice	28
+better	burger	31
+great	staff	50
+thinking	place	18
+greek	yogurt	11
+authentic	food	11
+brisket	sandwich	21
+coleslaw	salad	26
+large	parties	30
+green	beans	98
+creamy	flavor	18
+swiss	cheese	17
+complex	flavors	13
+good	ramen	701
+delicious	cream	20
+nice	atmosphere	55
+restaurant	experience	12
+cut	fries	49
+small	line	35
+juicy	burger	23
+steamed	rice	11
+good	tacos	22
+tasting	menu	336
+best	croissant	16
+long	stand	15
+good	lamb	15
+beans	salad	24
+regular	menu	62
+perfect	combo	14
+fun	place	18
+bad	service	54
+crazy	wait	24
+ramen	broth	40
+definite	place	14
+special	place	107
+best	sandwich	87
+perfect	egg	25
+big	portion	61
+unique	flavors	154
+bad	meal	12
+soft	pork	42
+different	place	28
+iced	brisket	15
+authentic	ramen	13
+red	wine	18
+legit	place	28
+good	ones	21
+nice	kick	20
+great	desserts	11
+overrated	place	62
+worth	trying	92
+fresh	food	78
+white	rice	30
+big	party	11
+food	experience	31
+small	dish	33
+good	bbq	257
+best	dishes	22
+real	food	16
+small	plates	51
+dry	side	24
+big	deal	102
+beefy	ribs	72
+french	roll	22
+good	bar	17
+good	frie	12
+buddha	bowl	38
+cafeteria	food	11
+nice	crunch	21
+soft	bun	25
+red	taste	18
+busy	wait	12
+green	sauce	51
+stars	food	77
+small	sides	14
+great	side	13
+worth	getting	12
+hot	chocolate	45
+overpowering	sauce	12
+best	friend	15
+dessert	menu	29
+dipped	sandwich	34
+octopus	salad	11
+great	dish	55
+meat	sauce	23
+multiple	times	18
+spicy	mustard	63
+excellent	meal	12
+main	dishes	40
+fries	salad	24
+impeccable	service	78
+better	experience	57
+great	salad	36
+sweet	flavor	11
+green	onion	25
+back	play	26
+popular	dish	11
+white	walls	17
+bad	place	49
+best	cream	52
+parking	wait	16
+cheese	sauce	14
+yummy	place	12
+thin	crust	41
+great	food	1123
+cramped	place	15
+good	overall	24
+good	verything	22
+full	lot	11
+right	amount	38
+better	place	42
+cream	sandwich	34
+long	service	22
+green	onions	91
+best	flavor	41
+right	cream	14
+amazing	pork	11
+decent	rice	20
+good	beignet	14
+caramel	honey	15
+horrendous	wait	14
+awesome	bbq	25
+great	experience	325
+okay	food	35
+long	way	41
+yummy	sauce	16
+small	space	26
+good	pastries	13
+perfect	broth	42
+shredded	pork	40
+broth	pork	13
+extra	spicy	12
+popular	restaurant	14
+favorite	ramen	48
+good	broth	199
+good	luck	30
+macaroni	salads	11
+hot	fudge	27
+friendly	waitstaff	11
+clean	food	11
+amazing	cream	17
+sweet	waffle	22
+cream	place	33
+ippudo	ramen	13
+flavorful	broth	156
+bit	bread	12
+white	wine	18
+bomb	food	17
+two	flavors	30
+green	tea	86
+beautiful	place	21
+city	bbq	29
+strong	taste	17
+flavorful	meat	24
+big	group	30
+good	bass	16
+large	place	28
+different	dishes	40
+food	service	62
+delicious	chicken	11
+daikokuya	ramen	61
+good	bite	14
+favorite	part	18
+lamb	beef	12
+nice	flavor	66
+sweet	ones	11
+worth	experience	42
+fresh	sushi	38
+great	concept	15
+friendly	waitress	23
+miso	ramen	55
+back	playing	26
+good	best	12
+good	pasta	12
+bean	sauce	15
+part	place	19
+waiting	food	19
+great	people	28
+expensive	food	13
+love	cheese	11
+eating	ramen	17
+delicious	broth	43
+quality	food	37
+good	special	12
+thin	minutes	16
+friendly	service	501
+solid	food	20
+insane	wait	16
+good	dessert	21
+crazy	lines	12
+small	food	41
+good	work	16
+small	side	84
+clean	restaurant	22
+poor	service	35
+margarita	pizza	18
+shredded	cheese	40
+good	friends	16
+pasta	dishes	11
+tasty	salad	13
+great	flavor	171
+nice	sauce	51
+rich	flavor	44
+sushi	places	12
+burger	experience	13
+huge	fan	68
+times	food	13
+good	ribs	98
+rave	reviews	62
+wonderful	service	36
+cheap	rice	12
+red	pizza	11
+bit	wait	141
+delicious	flavors	19
+amazing	burger	19
+mexican	restaurant	52
+nice	guy	23
+good	rice	123
+good	noodle	20
+unique	flavor	82
+skip	line	14
+red	sugar	93
+great	great	28
+good	smoque	11
+friend	dinner	15
+best	tartine	11
+sushi	rice	13
+rice	bowl	69
+ready	food	40
+crappy	service	12
+favorite	place	162
+tasty	sauce	35
+made	dish	11
+good	beef	27
+good	beer	13
+worth	eating	11
+small	salad	26
+great	service	1166
+experience	food	20
+wrong	place	16
+bbq	food	16
+ice	cream	1892
+gem	place	20
+sushi	place	28
+perfect	texture	36
+city	restaurant	35
+main	course	53
+taco	place	13
+bit	place	75
+side	dip	18
+pork	sandwich	97
+big	bowl	34
+tasting	food	26
+korean	restaurant	36
+long	wait	2153
+enjoy	food	21
+amazing	toast	13
+side	burger	17
+nice	food	75
+great	company	19
+great	cheese	34
+salty	liking	13
+tasty	bbq	13
+yelp	reviews	76
+perfect	place	66
+full	restaurant	34
+friendly	waiter	42
+better	sandwich	13
+good	cream	168
+good	burrito	25
+terrible	service	22
+red	scallops	12
+bustling	place	14
+amazing	flavors	20
+extra	noodles	86
+fresh	ingredients	32
+awesome	broth	13
+loud	restaurant	20
+good	toast	50
+potato	salad	213
+seafood	restaurant	35
+pasta	dish	23
+brunch	place	19
+red	perfectly	18
+cheddar	cheese	35
+noodles	broth	23
+good	things	41
+wonderful	place	30
+bit	rice	31
+good	friend	14
+nice	service	106
+soggy	sandwich	14
+trendy	place	12
+mexican	tacos	11
+bad	wait	150
+blue	cheese	72
+bone	sauce	11
+seat	wait	30
+style	pizza	18
+eating	experience	13
+rich	broth	134
+good	margherita	14
+great	lunch	17
+nice	texture	13
+salty	sauce	34
+sweet	tea	205
+friendly	people	40
+side	cheese	15
+tasty	dish	21
+soft	serve	41
+quail	egg	15
+heavy	food	14
+packed	restaurant	30
+interesting	flavor	13
+nice	presentation	16
+ramen	spot	16
+awful	service	19
+huge	disappointment	18
+awesome	meal	12
+solid	place	21
+perfect	meal	78
+italian	food	11
+good	soup	44
+good	chicken	136
+perfect	meat	17
+min	wait	80
+wait	side	36
+soy	sauce	51
+good	caramel	76
+friendly	servers	17
+nice	people	42
+hard	way	11
+toro	sandwich	16
+decent	food	52
+sashimi	bowl	18
+back	food	43
+good	waited	13
+casual	place	16
+price	wait	20
+cute	place	42
+mediterranean	food	14
+back	parking	27
+good	times	30
+creamy	cream	32
+pickled	egg	19
+liver	toast	20
+pastrami	sandwich	15
+pita	bread	14
+small	table	15
+end	meal	26
+clean	place	43
+manly	burger	45
+come	food	12
+juicy	sauce	14
+good	flavors	42
+delicious	service	22
+great	dishes	24
+horrible	service	33
+raved	place	34
+long	waiting	71
+fancy	restaurant	13
+bbq	restaurant	27
+large	group	42
+gruyere	cheese	13
+good	texture	20
+french	served	18
+lamb	dip	40
+quality	service	13
+watermelon	tea	110
+japanese	ramen	79
+creamy	broth	13
+hate	wait	17
+margherita	pizza	65
+french	dip	382
+special	ramen	33
+french	bread	22
+signature	dish	11
+mediocre	ramen	14
+iced	tea	380
+soggy	bread	26
+small	ramen	65
+good	coleslaw	20
+bit	pork	15
+party	wait	18
+red	oven	13
+sweet	chocolate	11
+hate	lines	19
+longer	wait	17
+cooked	noodles	16
+tiny	place	74
+fantastic	restaurant	11
+stars	wait	15
+big	groups	21
+love	sauce	15
+fantastic	experience	15
+smoky	flavor	18
+extra	flavor	30
+decent	ramen	14
+tasty	food	81
+chocolate	flavor	15
+great	sushi	22
+egg	dishes	15
+cutlet	bowl	13
+perfect	sweet	38
+okay	service	26
+raving	place	57
+good	quiche	14
+french	dips	25
+hakata	ramen	11
+honey	caramel	13
+hot	pocket	11
+amazing	bbq	17
+good	looking	59
+good	chocolate	21
+large	portion	27
+bit	sandwich	11
+extensive	menu	24
+mexican	coke	32
+loved	food	16
+long	table	16
+parking	side	15
+rich	ramen	26
+umami	ketchup	31
+drink	fries	13
+try	food	12
+good	crust	25
+gourmet	burger	21
+eat	pork	14
+delicious	burger	24
+night	wait	18
+good	choice	29
+tonkotsu	ramen	48
+best	bbq	136
+coffee	flavor	13
+hatch	burger	20
+great	value	38
+good	bowl	38
+tender	pork	76
+small	spot	24
+ice	tea	81
+pulled	ribs	11
+tasty	sandwich	17
+atmosphere	food	20
+baked	beans	186
+bbq	spot	13
+good	ervice	28
+small	restaurant	211
+nice	servers	11
+special	lobster	43
+chicken	salad	12
+rich	taste	39
+rib	dinner	20
+lamb	riblets	17
+french	fries	207
+great	ribs	22
+great	pizza	63
+baked	apple	16
+string	beans	15
+minute	takes	13
+good	banana	11
+famous	place	19
+bottom	line	34
+perfect	spice	11
+favorite	places	48
+delicious	place	55
+nice	staff	107
+unique	place	44
+socal	burger	15
+perfect	portion	13
+close	place	20
+fresh	seafood	13
+seafood	dishes	14
+good	tuna	12
+big	line	11
+long	waited	20
+best	bet	12
+fantastic	place	33
+bbq	fan	13
+mac	salad	38
+great	location	21
+excellent	experience	14
+different	experience	34
+nice	ramen	26
+great	flavors	68
+outstanding	food	31
+good	salmon	13
+tasty	chicken	12
+nice	experience	36
+cold	wait	19
+long	review	12
+great	louie	13
+apple	sauce	15
+corn	bread	26
+nice	dinner	30
+wait	food	55
+good	breakfast	22
+good	idea	37
+brunch	spot	18
+extra	kick	11
+hot	food	24
+good	waffle	42
+best	place	502
+tasty	place	13
+small	portions	45
+bowl	ramen	12
+sweet	waffles	18
+cream	cheese	35
+nice	hostess	19
+great	portions	14
+bad	line	53
+rated	restaurant	14
+perfect	flavors	23
+pleasant	service	13
+world	cream	19
+main	dish	44
+bit	food	35
+stars	service	26
+salty	taste	111
+louis	ribs	34
+favorite	flavor	49
+salty	broth	54
+bay	restaurants	16
+greek	food	126
+rich	chocolate	17
+good	reason	101
+oily	taste	12
+stilton	burger	19
+thick	broth	20
+sausage	pizza	25
+special	treat	14
+red	sauce	144
+new	place	33
+side	taste	13
+good	tasted	13
+perfect	sweetness	24
+real	bbq	25
+turkey	burger	18
+good	sign	66
+things	place	114
+perfect	waffle	14
+good	mood	13
+waffle	chicken	16
+good	tastes	14
+good	meat	101
+packed	place	322
+full	bar	22
+good	meal	135
+parmesan	cheese	19
+great	dessert	20
+avoid	wait	47
+bit	sauce	43
+nice	comes	11
+cream	fan	16
+prepared	food	13
+best	ippudo	27
+good	selection	14
+caramel	swirl	33
+fantastic	ramen	19
+brunch	menu	21
+real	ramen	13
+red	lobster	11
+interesting	place	12
+brunch	experience	12
+big	came	13
+best	tacos	20
+tip	sandwich	18
+entire	menu	17
+bad	rice	17
+strong	flavor	16
+large	restaurant	22
+style	ramen	12
+decent	meal	11
+simple	menu	40
+delicious	noodles	13
+small	area	17
+good	side	72
+delish	food	16
+long	waits	43
+perfect	salad	28
+delicious	pork	27
+smoque	bbq	15
+good	pancake	13
+lamb	chops	90
+spicy	food	32
+large	came	16
+minutes	food	24
+average	service	12
+phenomenal	food	16
+great	special	11
+nice	touch	140
+greek	salad	32
+side	salad	23
+good	quality	59
+great	brunch	14
+night	line	20
+bbq	restaurants	13
+good	sweet	14
+read	reviews	11
+beef	pork	20
+good	way	228
+table	side	27
+ramen	noodles	79
+hot	sauce	288
+chicken	ribs	23
+shorter	wait	18
+bianco	pizza	16
+bleu	cheese	13
+red	velvet	13
+large	portions	45
+style	ribs	16
+hearing	place	43
+eel	bowl	19
+great	wait	11
+steak	fries	19
+sweet	side	38
+superb	food	19
+crazy	line	23
+good	sushi	37
+ridiculous	wait	71
+long	place	121
+good	gyoza	19
+potato	fries	82
+fast	food	50
+perfect	food	75
+steaming	ramen	15
+dry	pork	16
+nice	waiter	47
+sashimi	dinner	15
+bit	menu	11
+bay	places	11
+heard	place	129
+negative	place	14
+umami	burger	541
+cool	restaurant	13
+great	recommendations	17
+different	things	56
+rave	place	102
+greek	coffee	24
+cool	place	58
+empty	place	15
+right	sauce	51
+whip	cream	22
+perfect	combination	24
+portebello	fries	21
+good	tart	20
+amazing	restaurant	23
+exceptional	service	40
+back	soon	101
+earth	burger	11
+garlic	aioli	50
+great	price	67
+aioli	sauce	23
+seoul	bbq	13
+spotty	service	12
+price	food	11
+right	rice	14
+spectacular	food	13
+ramen	pork	31
+great	chicken	38
+things	restaurant	13
+great	sandwich	59
+small	location	12
+overhyped	place	11
+interesting	flavors	20
+right	flavor	44
+fresh	berries	16
+hot	broth	30
+delicious	salad	11
+speedy	service	17
+worth	price	89
+comfort	food	85
+french	press	44
+asian	restaurants	11
+fresh	cream	23
+long	side	20
+amazing	ramen	58
+nice	area	12
+delicious	sauce	51
+flavorful	pork	22
+red	two	14
+back	park	34
+spicy	kick	20
+eat	bbq	17
+avoid	lines	38
+authentic	place	11
+star	reviews	28
+delicious	flavor	23
+night	place	22
+tomato	sauce	57
+wonderful	restaurant	11
+minute	wait	718
+fantastic	sauce	11
+cheese	fries	13
+huge	came	18
+great	ambiance	57
+hot	ramen	54
+west	side	13
+different	flavors	126
+pork	dish	13
+good	dishes	28
+large	come	15
+small	come	15
+right	sweet	17
+kotteri	flavor	13
+amazing	taste	16
+amazing	cheese	12
+small	dishes	36
+good	chili	14
+back	rooms	15
+lunch	spot	15
+sweet	taste	168
+fantastic	service	41
+solid	ramen	15
+bigger	place	13
+reviews	place	39
+yummy	food	54
+people	wait	13
+small	portion	64
+packed	line	17
+right	price	21
+good	size	20
+great	makes	11
+flavorful	noodles	34
+worth	place	158
+fried	rice	390
+popular	place	132
+southern	food	11
+overall	place	22
+ramen	restaurant	23
+best	ribs	46
+louie	salad	14
+right	sweetness	40
+good	pizza	264
+two	people	130
+fabulous	food	14
+favorite	meal	90
+bbq	places	26
+city	spot	13
+bbq	pork	11
+breakfast	sandwich	11
+sassy	sauce	24
+efficient	service	31
+good	eats	34
+barbecue	sauce	13
+bit	restaurant	16
+nice	wait	13
+customer	service	187
+awesome	pizza	15
+superb	service	23
+full	place	47
+truffle	pizza	24
+bay	food	11
+big	mistake	22
+good	food	2173
+garlic	oil	37
+broth	noodles	29
+nice	meal	23
+best	burger	87
+melted	cheese	49
+city	cream	39
+tasty	broth	49
+good	lord	12
+small	group	15
+food	place	29
+table	wait	326
+fresh	broth	24
+excellent	place	22
+reasonable	rice	80
+clam	pizza	38
+restaurant	service	11
+beautiful	restaurant	22
+good	experience	184
+fatty	goodness	11
+iced	quality	16
+great	burger	53
+great	good	12
+sushi	restaurant	36
+big	place	84
+wonderful	food	31
+amazing	broth	33
+crust	pizza	20
+whipped	cream	300
+small	came	15
+small	size	18
+city	pizza	16
+good	ordered	13
+shoyu	ramen	21
+jack	cheese	12
+nice	server	38
+stars	ramen	11
+bad	experience	23
+date	place	65
+good	lobster	18
+bbq	meal	13
+caramel	sauce	38
+course	meal	24
+big	appetite	12
+ramen	places	49
+friendly	food	98
+best	ramen	332
+back	fat	18
+type	place	17
+wait	line	31
+skeptical	place	11
+best	smoque	21
+best	places	46
+hot	mustard	108
+arugula	salad	13
+awesome	place	168
+love	bbq	21
+garlic	bread	42
+based	sauce	13
+entire	meal	30
+favorite	restaurants	88
+fresh	noodles	22
+baked	goods	84
+enjoyable	meal	13
+outstanding	service	36
+best	lobster	16
+great	way	14
+good	pie	18
+worth	hassle	14
+special	sauce	60
+favorite	dish	110
+star	restaurant	33
+lot	place	59
+good	combo	14
+perfect	crust	14
+okay	ramen	11
+spicy	broth	22
+special	night	16
+heavy	meal	13
+red	parking	11
+best	sandwiches	19
+entire	restaurant	18
+wonderful	meal	20
+spicy	ramen	34
+dipping	sauce	95
+incredible	food	42
+good	gumbo	17
+side	ramen	33
+good	portion	32
+nutella	toast	38
+beef	dip	43
+worth	lines	25
+great	presentation	14
+fresh	bread	26
+fresh	fruit	17
+good	spot	22
+nice	interior	14
+nice	surprise	22
+reasonable	service	11
+long	lines	588
+tangy	taste	13
+pesto	sauce	12
+beautiful	food	15
+big	fan	112
+perfect	taste	22
+despite	wait	19
+marinara	sauce	17
+right	away	281
+ridiculous	place	14
+worth	ramen	28
+fresh	fish	122
+cold	side	24
+damn	food	19
+atmosphere	service	11
+quality	ramen	11
+place	food	25
+bomb	place	40
+worth	cream	26
+good	dinner	34
+good	burgers	18
+bit	line	46
+dining	experience	260
+great	vibe	11
+classic	ramen	26
+worth	drive	41
+greasy	food	15
+perfect	rice	24
+good	dip	43
+spicy	sauce	148
+korean	food	54
+asian	food	13
+back	definitely	24
+favorite	shop	12
+italian	restaurant	14
+incredible	service	17
+perfect	size	17
+high	food	11
+prepared	wait	13
+amazing	flavor	24
+mediocre	food	46
+great	sauce	83
+cream	sauce	22
+great	prices	37
+fun	experience	23
+salted	caramel	1220
+salty	caramel	69
+damn	place	21
+food	wait	11
+worth	line	98
+awesome	sandwich	11
+good	tea	56
+salted	carmel	31
+delicious	egg	11
+mushroom	fries	48
+say	place	88
+least	wait	14
+savory	sauce	12
+delicious	bread	20
+xcellent	service	11
+korean	restaurants	26
+great	taste	56
+refreshing	tea	32
+brunch	food	13
+waffle	burger	26
+short	ribs	66
+large	side	64
+great	meat	23
+great	meal	208
+high	rice	30
+excellent	dish	11
+amazing	sandwich	18
+pork	flavor	18
+great	choice	30
+great	stuff	22
+tori	ramen	14
+ramen	experience	24
+pleasant	experience	22
+french	sandwich	36
+dry	bread	14
+pretty	place	40
+chicken	sandwich	26
+wonderful	experience	38
+good	ambiance	19
+delicious	meal	37
+great	night	16
+minute	waiting	18
+right	fat	13
+dip	sandwich	99
+sour	taste	12
+great	cream	35
+modena	salad	14
+turkey	sandwich	19
+service	restaurant	11
+ordered	ramen	11
+reat	service	23
+mediocre	service	12
+good	atmosphere	27
+friendly	waiters	17
+huge	meat	11
+awesome	sauce	20
+large	groups	26
+savory	flavor	11
+big	plate	11
+buttery	taste	16
+good	slaw	26
+cheap	place	17
+good	bruxie	12
+good	noodles	68
+nice	restaurant	90
+table	service	14
+napoli	pizza	11
+restaurant	people	20
+ridiculously	line	15
+great	atmosphere	103
+mexican	restaurants	28
+real	place	22
+decent	service	30
+alright	food	14
+minute	line	56
+start	meal	22
+good	thought	21
+regular	basis	38
+red	wait	13
+goat	cheese	60
+hits	spot	58
+back	tables	13
+bit	chicken	16
+main	courses	12
+nice	waitress	39
+veggie	burger	13
+fried	food	28
+good	line	42
+garlic	fries	22
+right	salt	14
+sweet	liking	23
+spacious	restaurant	12
+open	place	16
+meat	dishes	11
+special	menu	12
+short	line	86
+best	experience	39
+excited	place	11
+nice	decor	46
+crowded	line	17
+world	ramen	12
+favorite	dishes	24
+fresh	sauce	29
+vegetarian	ramen	11
+fantastic	meal	24
+best	salad	30
+good	sashimi	14
+good	bakery	13
+super	line	16
+soup	broth	12
+worth	visit	15
+tender	ribs	34
+great	coffee	21
+decent	place	11
+sweet	tooth	49
+thin	noodles	26
+best	sauce	48
+good	list	12
+side	dishes	88
+sushi	spot	11
+acquired	taste	14
+lunch	place	11
+ribs	chicken	15
+amazing	bread	13
+cheap	food	25
+good	value	35
+thick	sauce	12
+good	sauce	272
+service	food	60
+city	places	50
+different	taste	24
+good	sandwich	197
+good	brisket	23
+good	taste	135
+good	prices	41
+consistent	food	15
+wait	restaurant	15
+fried	catfish	13
+smothered	sauce	12
+bbq	place	71
+definitely	place	29
+daikoku	ramen	50
+find	place	11
+delicious	pizza	25
+amazing	place	221
+limited	menu	26
+good	lemonade	14
+country	bread	14
+fried	goodness	15
+friendly	owner	13
+staff	food	11
+hyped	place	24
+flavorful	sauce	42
+huge	pancakes	12
+minute	arrived	12
+original	sandwich	20
+bone	bbq	14
+pork	ribs	85
+good	company	33
+huge	line	77
+dinner	menu	31
+mozzarella	cheese	12
+world	place	20
+star	wait	15
+good	cheese	89
+kbbq	place	11
+best	daikokuya	32
+side	ribs	25
+perfect	noodles	27
+fresh	ramen	26
+lunch	menu	35
+talking	place	20
+bbq	chicken	25
+great	place	823
+good	wait	57
+breakfast	food	31
+tender	chicken	23
+hour	line	14
+ramen	bowl	27
+poached	egg	31
+reservations	wait	12
+delicious	food	317
+good	good	24
+beef	ribs	133
+ask	sauce	14
+super	place	14
+good	deal	47
+good	dish	110
+perfect	bite	14
+average	food	24
+half	wait	34
+modern	ramen	55
+slaw	salad	29
+dry	taste	18
+good	pork	134
+perfect	cream	31
+huge	place	44
+good	choices	11
+cheap	meal	11
+side	chicken	12
+heavy	side	13
+pressed	sandwich	14
+phils	bbq	20
+bar	wait	11
+worth	money	67
+great	server	11
+great	job	14
+delicious	dish	19
+trip	wait	13
+anniversary	dinner	15
+shredded	beef	25
+reason	line	11
+asian	restaurant	20
+big	parties	15
+despite	line	19
+big	portions	44
+korean	bbq	187
+hungry	people	40
+great	combination	13
+great	spot	44
+hot	spot	40
+greek	cuisine	12
+huge	difference	15
+dream	place	14
+good	flavor	179
+lavender	flavor	11
+great	sandwiches	11
+worth	wait	3219
+star	experience	22
+rich	cream	26
+best	brisket	19
+good	croissant	12
+great	wine	18
+single	flavors	15
+baked	potato	14
+ridiculous	line	39
+overall	experience	94
+bbq	sauce	323
+best	part	52
+caramel	flavor	49
+happy	place	13
+lamb	shank	25
+good	menu	76
+prompt	service	25
+akamaru	ramen	36
+good	place	924
+city	ramen	37
+know	place	23
+back	room	33
+minutes	wait	291
+rain	side	14
+great	things	34
+reasonable	food	32
+middle	cream	15
+savory	broth	13
+delicious	menu	23
+good	bread	99
+best	cheese	24
+pulled	pork	230
+amazing	service	75
+japanese	restaurant	52
+amazing	menu	12
+parking	line	11
+great	quality	25
+bit	broth	16
+good	price	87
+ramen	fan	17
+yummy	ramen	19
+long	prepared	24
+red	ramen	16
+great	looking	19
+fantastic	food	78
+worth	effort	11
+delicious	bbq	23
+top	ramen	11
+complete	meal	21
+bit	pizza	12
+hour	wait	232
+good	sides	18
+quick	service	112
+huge	bowl	32
+good	combination	15
+minute	waited	140
+reat	food	13
+fried	mushrooms	13
+big	come	14
+good	ippudo	21
+long	downside	12
+perfect	sandwich	11
+fresh	salsa	11
+love	place	40
+filling	meal	11
+best	broth	38
+fusion	food	18
+tender	sauce	37
+sour	cream	44
+good	stuff	163
+breakfast	place	31
+orth	wait	14
+special	occasions	30
+entire	bowl	13
+nice	host	11
+short	wait	86
+garlic	sauce	26
+line	side	11
+excellent	ramen	29
+good	taco	25
+good	pudding	19
+fried	chicken	394
+macaroni	salad	326
+amazing	meal	28
+ayce	place	13
+pretty	food	24
+great	breakfast	22
+wait	place	33
+best	dish	40
+delicious	cheese	13
+back	way	24
+drive	wait	11
+awesome	food	89
+pricey	side	38
+nice	side	11
+sour	sauce	12
+excellent	broth	14
+stellar	service	21
+good	right	19
+shorter	line	12
+long	ine	14
+avocado	sandwich	11
+bit	flavor	18
+order	food	23
+great	find	15
+side	dinner	11
+three	people	19
+great	bread	25
+amazing	pizza	30
+perfect	cheese	24
+awesome	service	77
+good	coffee	64
+better	choice	11
+good	service	985
+beef	sandwich	78
+big	went	11
+extra	star	15
+ramen	place	130
+worth	trouble	12
+try	place	11
+love	food	44
+covered	sauce	12
+city	food	19
+mins	wait	42
+huge	portion	44
+good	lavender	12
+expensive	side	11
+romantic	place	17
+small	bowl	46
+read	place	15
+dry	chicken	42
+kotteri	ramen	14
+good	people	24
+order	ramen	11
+new	experience	11
+famous	sandwich	18
+slow	service	101
+lacked	flavor	31
+memorable	meal	11
+fancy	place	12
+star	place	13
+huge	wait	36
+delicious	ramen	92
+style	bbq	11
+excellent	flavor	17
+hot	place	11
+bacon	bread	11
+friendly	atmosphere	20
+huge	food	28
+star	food	16
+great	combo	14
+busy	place	139
+hours	wait	14
+spicy	tuna	21
+awesome	experience	20
+perfect	dish	27
+perfect	sauce	130
+chicken	dinner	18
+walnut	bread	11
+great	bbq	140
+hype	place	69
+favorite	spot	29
+full	house	14
+small	rice	26
+salad	salad	23
+incredible	place	14
+perfect	flavor	46
+worth	try	17
+bbq	ribs	33
+honey	sauce	11
+positive	reviews	23
+expensive	ramen	15
+enjoyed	food	14
+flavorful	ramen	28
+soul	food	108
+truffle	oil	23
+cheese	sandwich	24
+big	plus	17
+good	reviews	86
+pecan	sauce	27
+excellent	food	172
+best	restaurant	46
+best	rite	18

@@ -1,0 +1,9579 @@
+============Overall============
+1566 templates in total. 566 attributes in total. 1247 values in total. 8010 extractions in total. ============Template============
+#VALUE#\Qs the s\E#ATTRIBUTE#	125
+#ATTRIBUTE#\Q and serv\E#VALUE#	478
+#ATTRIBUTE#\Q were too \E#VALUE#	39
+#ATTRIBUTE#\Q wasn't that \E#VALUE#	244
+#VALUE#\Q with wasabi \E#ATTRIBUTE#	41
+#ATTRIBUTE#\Q was top \E#VALUE#	39
+\Q\E#VALUE#\Q \E#ATTRIBUTE#\Qs.\E	274
+#ATTRIBUTE#\Qs a long \E#VALUE#	230
+#VALUE#\Q selection of \E#ATTRIBUTE#	259
+\Q3.5 \E#VALUE#\Q.\E	61
+\Qs\E#ATTRIBUTE#\Q is \E#VALUE#\Q.\E	36
+#VALUE#\Q reviews about this \E#ATTRIBUTE#	148
+\Qthis \E#ATTRIBUTE#\Q was \E#VALUE#\Q.\E	29
+#ATTRIBUTE#\Q at a \E#VALUE#	562
+#VALUE#\Q like this \E#ATTRIBUTE#	112
+\Qi love \E#VALUE#\Q \E#ATTRIBUTE#\Q.\E	60
+#ATTRIBUTE#\Q of the f\E#VALUE#	530
+#ATTRIBUTE#\Q were all \E#VALUE#	63
+#ATTRIBUTE#\Q and honey \E#VALUE#	119
+#ATTRIBUTE#\Q was well \E#VALUE#	191
+#ATTRIBUTE#\Q and the serv\E#VALUE#	134
+#VALUE#\Q the l\E#ATTRIBUTE#	1307
+#ATTRIBUTE#\Q and onion \E#VALUE#	454
+#VALUE#\Q are the \E#ATTRIBUTE#	138
+#VALUE#\Q across the \E#ATTRIBUTE#	237
+#VALUE#\Q and cole \E#ATTRIBUTE#	126
+#ATTRIBUTE#\Q and some \E#VALUE#	92
+#ATTRIBUTE#\Q was friendly and \E#VALUE#	241
+#VALUE#\Qs of the \E#ATTRIBUTE#	406
+#ATTRIBUTE#\Q it was \E#VALUE#	601
+#ATTRIBUTE#\Q dish of the \E#VALUE#	154
+#VALUE#\Q customer se\E#ATTRIBUTE#	87
+#VALUE#\Q kind of \E#ATTRIBUTE#	91
+#VALUE#\Q is too \E#ATTRIBUTE#	159
+#ATTRIBUTE#\Q for so \E#VALUE#	73
+#VALUE#\Q in bbq \E#ATTRIBUTE#	242
+#VALUE#\Q for a \E#ATTRIBUTE#	3216
+#ATTRIBUTE#\Q of g\E#VALUE#	93
+#VALUE#\Q as al\E#ATTRIBUTE#	33
+#ATTRIBUTE#\Q across the \E#VALUE#	404
+#ATTRIBUTE#\Q itself is \E#VALUE#	244
+#VALUE#\Qd that this \E#ATTRIBUTE#	33
+#ATTRIBUTE#\Qing for the \E#VALUE#	65
+#VALUE#\Q pork rice \E#ATTRIBUTE#	54
+#ATTRIBUTE#\Q that was \E#VALUE#	221
+#ATTRIBUTE#\Q for an \E#VALUE#	439
+#VALUE#\Q and the s\E#ATTRIBUTE#	366
+#VALUE#\Qs place is \E#ATTRIBUTE#	130
+#ATTRIBUTE#\Q was absolutely \E#VALUE#	317
+#ATTRIBUTE#\Q and it was g\E#VALUE#	101
+#VALUE#\Q and our \E#ATTRIBUTE#	199
+#ATTRIBUTE#\Q ramen in the \E#VALUE#	39
+#ATTRIBUTE#\Q was g\E#VALUE#	5999
+#ATTRIBUTE#\Q some of the other \E#VALUE#	130
+#ATTRIBUTE#\Q around the \E#VALUE#	426
+\Q\E#ATTRIBUTE#\Q \E#VALUE#\Qs place!\E	66
+#ATTRIBUTE#\Q in line for \E#VALUE#	34
+#VALUE#\Qnd and i \E#ATTRIBUTE#	148
+#ATTRIBUTE#\Q and bbq \E#VALUE#	85
+#ATTRIBUTE#\Q is always g\E#VALUE#	162
+#ATTRIBUTE#\Q, great f\E#VALUE#	101
+#VALUE#\Q and waffle \E#ATTRIBUTE#	278
+\Qgreat \E#VALUE#\Q.\E	412
+#ATTRIBUTE#\Q the akamaru \E#VALUE#	299
+\Qthis place is gr\E#VALUE#\Q.\E	126
+#ATTRIBUTE#\Q balance of \E#VALUE#	84
+#VALUE#\Q a good \E#ATTRIBUTE#	167
+#VALUE#\Q food and \E#ATTRIBUTE#	485
+#ATTRIBUTE#\Q but no\E#VALUE#	88
+#VALUE#\Q is a \E#ATTRIBUTE#	669
+#ATTRIBUTE#\Q the rest of the \E#VALUE#	91
+#ATTRIBUTE#\Q things about this \E#VALUE#	221
+#ATTRIBUTE#\Q there for \E#VALUE#	96
+#ATTRIBUTE#\Q sauce is \E#VALUE#	125
+\Q\E#ATTRIBUTE#\Q was \E#VALUE#\Q!\E	23
+#VALUE#\Q for their \E#ATTRIBUTE#	154
+#ATTRIBUTE#\Q where the \E#VALUE#	34
+#VALUE#\Q type of \E#ATTRIBUTE#	33
+#VALUE#\Q things about this \E#ATTRIBUTE#	715
+#ATTRIBUTE#\Q and it was \E#VALUE#	622
+#ATTRIBUTE#\Q korean bbq \E#VALUE#	130
+#ATTRIBUTE#\Q and pulled \E#VALUE#	112
+\Qreally \E#VALUE#\Q \E#ATTRIBUTE#\Q.\E	25
+#ATTRIBUTE#\Q with wasabi \E#VALUE#	139
+#ATTRIBUTE#\Q just as \E#VALUE#	164
+#ATTRIBUTE#\Q sandwich was \E#VALUE#	87
+#VALUE#\Q of cole \E#ATTRIBUTE#	42
+#ATTRIBUTE#\Q chicken waffle \E#VALUE#	39
+#VALUE#\Q thing about this \E#ATTRIBUTE#	415
+#ATTRIBUTE#\Q for about 45 \E#VALUE#	143
+#ATTRIBUTE#\Q, but i \E#VALUE#	219
+#ATTRIBUTE#\Q is relatively \E#VALUE#	24
+#ATTRIBUTE#\Q to get a \E#VALUE#	378
+#ATTRIBUTE#\Q in a \E#VALUE#	1432
+#VALUE#\Q have a \E#ATTRIBUTE#	34
+#ATTRIBUTE#\Q was about 20 \E#VALUE#	31
+#ATTRIBUTE#\Q it was a \E#VALUE#	168
+#ATTRIBUTE#\Q combo w\E#VALUE#	88
+#ATTRIBUTE#\Q is really really \E#VALUE#	25
+\Qe\E#ATTRIBUTE#\Q was \E#VALUE#\Q.\E	88
+#ATTRIBUTE#\Q here on a \E#VALUE#	383
+#ATTRIBUTE#\Q for this \E#VALUE#	573
+#ATTRIBUTE#\Q is not \E#VALUE#	656
+#ATTRIBUTE#\Qy and the \E#VALUE#	41
+#VALUE#\Q pieces of \E#ATTRIBUTE#	33
+#VALUE#\Q pulled pork \E#ATTRIBUTE#	116
+#ATTRIBUTE#\Q was ridiculously \E#VALUE#	85
+#VALUE#\Q but the \E#ATTRIBUTE#	1474
+#ATTRIBUTE#\Q and bacon \E#VALUE#	158
+#VALUE#\Qting at the \E#ATTRIBUTE#	259
+#VALUE#\Qed at a t\E#ATTRIBUTE#	37
+#VALUE#\Qd chicken & \E#ATTRIBUTE#	93
+#VALUE#\Q you have to \E#ATTRIBUTE#	35
+#ATTRIBUTE#\Q was around the \E#VALUE#	34
+\Qlove this \E#VALUE#\Q.\E	180
+\Qthe \E#VALUE#\Q was delicious.\E	33
+#VALUE#\Qs of this \E#ATTRIBUTE#	196
+#VALUE#\Qs in the \E#ATTRIBUTE#	288
+#ATTRIBUTE#\Q was out the \E#VALUE#	308
+#ATTRIBUTE#\Q is kinda \E#VALUE#	22
+#ATTRIBUTE#\Q here for \E#VALUE#	757
+#ATTRIBUTE#\Q was a little \E#VALUE#	359
+#ATTRIBUTE#\Qs were really \E#VALUE#	302
+#VALUE#\Qed the daikokuya \E#ATTRIBUTE#	82
+#ATTRIBUTE#\Q was not as \E#VALUE#	128
+#VALUE#\Q was great, \E#ATTRIBUTE#	82
+#VALUE#\Q here with a \E#ATTRIBUTE#	152
+#ATTRIBUTE#\Qs can get \E#VALUE#	99
+\Q\E#VALUE#\Qs!\E	157
+#VALUE#\Q place for \E#ATTRIBUTE#	594
+#ATTRIBUTE#\Qs and the \E#VALUE#	202
+#VALUE#\Qed with the \E#ATTRIBUTE#	35
+#VALUE#\Q - the \E#ATTRIBUTE#	263
+#VALUE#\Q i have ever \E#ATTRIBUTE#	130
+#ATTRIBUTE#\Q was quite \E#VALUE#	374
+#ATTRIBUTE#\Qs for a \E#VALUE#	62
+#ATTRIBUTE#\Q about the \E#VALUE#	109
+#ATTRIBUTE#\Q is well w\E#VALUE#	183
+\Q\E#ATTRIBUTE#\Q \E#VALUE#\Qs.\E	64
+#ATTRIBUTE#\Q before being \E#VALUE#	84
+#ATTRIBUTE#\Q of cole \E#VALUE#	42
+#ATTRIBUTE#\Q with a few \E#VALUE#	110
+#ATTRIBUTE#\Q is e\E#VALUE#	588
+#VALUE#\Q and the se\E#ATTRIBUTE#	44
+#ATTRIBUTE#\Q buns are \E#VALUE#	208
+#ATTRIBUTE#\Q sauce on the \E#VALUE#	88
+#VALUE#\Q of their \E#ATTRIBUTE#	270
+#VALUE#\Q is a must \E#ATTRIBUTE#	93
+#ATTRIBUTE#\Q was a \E#VALUE#	1410
+#VALUE#\Q and salted \E#ATTRIBUTE#	190
+#ATTRIBUTE#\Q is a bit \E#VALUE#	345
+#VALUE#\Q as my \E#ATTRIBUTE#	128
+#ATTRIBUTE#\Qing in the \E#VALUE#	474
+\Qvery \E#VALUE#\Q.\E	172
+#VALUE#\Q, but the \E#ATTRIBUTE#	2068
+#VALUE#\Q and baby back \E#ATTRIBUTE#	64
+#ATTRIBUTE#\Qk with wasabi n\E#VALUE#	38
+#VALUE#\Q about this \E#ATTRIBUTE#	3231
+#ATTRIBUTE#\Q had a \E#VALUE#	360
+#ATTRIBUTE#\Qs for the \E#VALUE#	281
+#VALUE#\Q and sweet \E#ATTRIBUTE#	43
+#ATTRIBUTE#\Q is the long \E#VALUE#	22
+#VALUE#\Q where the \E#ATTRIBUTE#	34
+#ATTRIBUTE#\Qs are also \E#VALUE#	124
+\Qthe food is \E#VALUE#\Q.\E	55
+#VALUE#\Q in the long \E#ATTRIBUTE#	116
+#VALUE#\Q, not the \E#ATTRIBUTE#	38
+#ATTRIBUTE#\Q, which was \E#VALUE#	353
+#ATTRIBUTE#\Qs to the \E#VALUE#	34
+#ATTRIBUTE#\Q was 45 \E#VALUE#	26
+#VALUE#\Q in a \E#ATTRIBUTE#	842
+#VALUE#\Q and pepper ice \E#ATTRIBUTE#	92
+#ATTRIBUTE#\Qed about an \E#VALUE#	82
+#ATTRIBUTE#\Q to grab a \E#VALUE#	39
+\Qthe \E#VALUE#\Q is \E#ATTRIBUTE#\Q.\E	221
+#ATTRIBUTE#\Q is always \E#VALUE#	1945
+#ATTRIBUTE#\Qs just as \E#VALUE#	16
+#ATTRIBUTE#\Q is still \E#VALUE#	302
+#ATTRIBUTE#\Q is that \E#VALUE#	233
+#ATTRIBUTE#\Q is a g\E#VALUE#	163
+#ATTRIBUTE#\Qs are very \E#VALUE#	752
+#ATTRIBUTE#\Q i've ever \E#VALUE#	482
+#ATTRIBUTE#\Q has s\E#VALUE#	46
+#ATTRIBUTE#\Q are a little \E#VALUE#	37
+#VALUE#\Q and pulled \E#ATTRIBUTE#	116
+#ATTRIBUTE#\Q out of the \E#VALUE#	123
+\Qg\E#VALUE#\Q f\E#VALUE#\Q.\E	46
+#VALUE#\Qped with whipped \E#ATTRIBUTE#	33
+\Qgr\E#VALUE#\Q \E#ATTRIBUTE#\Q.\E	321
+\Q\E#VALUE#\Q \E#ATTRIBUTE#\Q ever!\E	38
+#ATTRIBUTE#\Q one of the \E#VALUE#	325
+#ATTRIBUTE#\Qed for about 20 \E#VALUE#	31
+#ATTRIBUTE#\Q for two \E#VALUE#	118
+#ATTRIBUTE#\Q more than 30 \E#VALUE#	63
+\Qthe \E#VALUE#\Q.\E	142
+#VALUE#\Qs are a \E#ATTRIBUTE#	84
+#ATTRIBUTE#\Q really g\E#VALUE#	47
+#ATTRIBUTE#\Qd just as \E#VALUE#	13
+\Q\E#ATTRIBUTE#\Q are \E#VALUE#\Q.\E	33
+#ATTRIBUTE#\Q and the m\E#VALUE#	86
+#VALUE#\Q but a \E#ATTRIBUTE#	90
+#ATTRIBUTE#\Q for the f\E#VALUE#	47
+\Q\E#VALUE#\Q it!\E	140
+#VALUE#\Q and full of \E#ATTRIBUTE#	42
+#VALUE#\Q from a \E#ATTRIBUTE#	121
+#ATTRIBUTE#\Qs for this \E#VALUE#	165
+#ATTRIBUTE#\Q moves pretty \E#VALUE#	43
+#VALUE#\Q with the \E#ATTRIBUTE#	1185
+#VALUE#\Q an hour \E#ATTRIBUTE#	191
+#ATTRIBUTE#\Q wasn't so \E#VALUE#	186
+#ATTRIBUTE#\Q of potato \E#VALUE#	158
+#ATTRIBUTE#\Q was fast and \E#VALUE#	202
+#ATTRIBUTE#\Qed about 40 \E#VALUE#	95
+#ATTRIBUTE#\Q about 15 \E#VALUE#	555
+#VALUE#\Qly love this \E#ATTRIBUTE#	200
+#VALUE#\Q and savory \E#ATTRIBUTE#	64
+#VALUE#\Q is really \E#ATTRIBUTE#	704
+#ATTRIBUTE#\Q from this \E#VALUE#	224
+#ATTRIBUTE#\Q was gr\E#VALUE#	2918
+#VALUE#\Q waiting in l\E#ATTRIBUTE#	126
+#VALUE#\Q, but i \E#ATTRIBUTE#	244
+#ATTRIBUTE#\Q and cheese \E#VALUE#	100
+#VALUE#\Q to this \E#ATTRIBUTE#	1203
+#ATTRIBUTE#\Q but not \E#VALUE#	517
+#VALUE#\Q things about the \E#ATTRIBUTE#	113
+#ATTRIBUTE#\Q about 40 \E#VALUE#	234
+#ATTRIBUTE#\Q to be \E#VALUE#	1700
+#VALUE#\Q that i \E#ATTRIBUTE#	111
+\Q\E#VALUE#\Q \E#ATTRIBUTE#\Q ever.\E	37
+#VALUE#\Q in a long \E#ATTRIBUTE#	215
+#ATTRIBUTE#\Q is always so \E#VALUE#	27
+#VALUE#\Q is one of the \E#ATTRIBUTE#	99
+#VALUE#\Q serving of \E#ATTRIBUTE#	55
+#ATTRIBUTE#\Q and good \E#VALUE#	141
+#VALUE#\Q we were \E#ATTRIBUTE#	82
+#VALUE#\Q are very \E#ATTRIBUTE#	149
+#ATTRIBUTE#\Qs are too \E#VALUE#	170
+#ATTRIBUTE#\Qs are extremely \E#VALUE#	63
+#ATTRIBUTE#\Q to your \E#VALUE#	89
+#ATTRIBUTE#\Q was actually \E#VALUE#	25
+#ATTRIBUTE#\Q for s\E#VALUE#	288
+#ATTRIBUTE#\Q french dip \E#VALUE#	277
+#VALUE#\Q and it was \E#ATTRIBUTE#	204
+#VALUE#\Q with good \E#ATTRIBUTE#	38
+#ATTRIBUTE#\Q wasn't very \E#VALUE#	75
+#ATTRIBUTE#\Q isn't as \E#VALUE#	64
+#VALUE#\Q and roasted \E#ATTRIBUTE#	102
+#VALUE#\Q on the s\E#ATTRIBUTE#	46
+#ATTRIBUTE#\Q to this \E#VALUE#	542
+#ATTRIBUTE#\Qing on their \E#VALUE#	49
+#VALUE#\Q with some \E#ATTRIBUTE#	177
+#VALUE#\Q, and i \E#ATTRIBUTE#	46
+#ATTRIBUTE#\Q worth a \E#VALUE#	160
+#VALUE#\Qly a great \E#ATTRIBUTE#	28
+#VALUE#\Q, but my \E#ATTRIBUTE#	107
+#ATTRIBUTE#\Qs benedict with \E#VALUE#	15
+\Qexcellent \E#VALUE#\Q.\E	96
+#VALUE#\Q, this is the \E#ATTRIBUTE#	212
+#VALUE#\Q watermelon house \E#ATTRIBUTE#	18
+#VALUE#\Q fan of \E#ATTRIBUTE#	125
+#VALUE#\Q was quite \E#ATTRIBUTE#	114
+\Qi \E#ATTRIBUTE#\Q \E#VALUE#\Qs place!\E	103
+#ATTRIBUTE#\Q itself was \E#VALUE#	261
+#VALUE#\Q and s\E#ATTRIBUTE#	879
+#ATTRIBUTE#\Q in the \E#VALUE#	4882
+#ATTRIBUTE#\Q is as g\E#VALUE#	93
+#ATTRIBUTE#\Qs, but the \E#VALUE#	102
+#ATTRIBUTE#\Q is al\E#VALUE#	2174
+#ATTRIBUTE#\Qes we orde\E#VALUE#	35
+#VALUE#\Q and 2 \E#ATTRIBUTE#	89
+#ATTRIBUTE#\Q but nothing \E#VALUE#	42
+\Q\E#VALUE#\Q was great.\E	89
+#ATTRIBUTE#\Qed about 20 \E#VALUE#	359
+#VALUE#\Qed caramel ice \E#ATTRIBUTE#	596
+#ATTRIBUTE#\Q are quite \E#VALUE#	117
+\Qthis place is gr\E#VALUE#\Q!\E	48
+#VALUE#\Q here is \E#ATTRIBUTE#	425
+#VALUE#\Qs and i \E#ATTRIBUTE#	241
+#ATTRIBUTE#\Q is way \E#VALUE#	24
+#ATTRIBUTE#\Q was a bit \E#VALUE#	436
+#VALUE#\Q that we \E#ATTRIBUTE#	109
+#VALUE#\Q, but nothing \E#ATTRIBUTE#	22
+#VALUE#\Q customer s\E#ATTRIBUTE#	556
+#VALUE#\Q of a \E#ATTRIBUTE#	1151
+\Qgreat \E#VALUE#\Q!\E	203
+#VALUE#\Q and pork \E#ATTRIBUTE#	203
+\Q\E#VALUE#\Q \E#ATTRIBUTE#\Q?\E	159
+#ATTRIBUTE#\Q with a side of \E#VALUE#	86
+\Q\E#VALUE#\Q \E#ATTRIBUTE#\Qed.\E	49
+#VALUE#\Qing in a \E#ATTRIBUTE#	108
+#VALUE#\Qing and the \E#ATTRIBUTE#	36
+#ATTRIBUTE#\Q places in the \E#VALUE#	39
+#ATTRIBUTE#\Q wrapped around the \E#VALUE#	114
+#ATTRIBUTE#\Q here with a \E#VALUE#	352
+#VALUE#\Q line out\E#ATTRIBUTE#	77
+#VALUE#\Q were pretty \E#ATTRIBUTE#	203
+#VALUE#\Qing for a \E#ATTRIBUTE#	580
+#ATTRIBUTE#\Q for over an \E#VALUE#	137
+#VALUE#\Q but not \E#ATTRIBUTE#	298
+#ATTRIBUTE#\Q wasn't as \E#VALUE#	237
+#ATTRIBUTE#\Q has the best \E#VALUE#	197
+#ATTRIBUTE#\Qs are usually \E#VALUE#	23
+#VALUE#\Q too s\E#ATTRIBUTE#	204
+#ATTRIBUTE#\Q with 2 \E#VALUE#	185
+#ATTRIBUTE#\Q love this \E#VALUE#	92
+\Qi \E#ATTRIBUTE#\Q \E#VALUE#\Qs place.\E	151
+#VALUE#\Qing to be \E#ATTRIBUTE#	232
+\Qgreat \E#VALUE#\Q \E#ATTRIBUTE#\Q.\E	65
+#VALUE#\Q by the \E#ATTRIBUTE#	240
+#VALUE#\Q was very \E#ATTRIBUTE#	1013
+#VALUE#\Qs is a \E#ATTRIBUTE#	162
+#ATTRIBUTE#\Q was about 30 \E#VALUE#	65
+#VALUE#\Q of the \E#ATTRIBUTE#	6097
+#ATTRIBUTE#\Q was great and the \E#VALUE#	125
+#ATTRIBUTE#\Q is very \E#VALUE#	2878
+#ATTRIBUTE#\Q in line for 45 \E#VALUE#	123
+#ATTRIBUTE#\Q or the \E#VALUE#	221
+#VALUE#\Q is the \E#ATTRIBUTE#	1245
+\Qthe \E#ATTRIBUTE#\Q is \E#VALUE#\Q!\E	149
+#ATTRIBUTE#\Q bbq in \E#VALUE#	217
+#ATTRIBUTE#\Q to go back and \E#VALUE#	204
+#ATTRIBUTE#\Q rings and \E#VALUE#	106
+#VALUE#\Q to eat \E#ATTRIBUTE#	37
+#ATTRIBUTE#\Q and waffle \E#VALUE#	202
+#VALUE#\Q, but this \E#ATTRIBUTE#	300
+#ATTRIBUTE#\Q in this \E#VALUE#	257
+#VALUE#\Q and great s\E#ATTRIBUTE#	59
+#VALUE#\Qs were pretty \E#ATTRIBUTE#	102
+#VALUE#\Q to be \E#ATTRIBUTE#	777
+\Qnothing \E#VALUE#\Q.\E	34
+#ATTRIBUTE#\Q all the \E#VALUE#	307
+#ATTRIBUTE#\Q for my \E#VALUE#	542
+#VALUE#\Q on a \E#ATTRIBUTE#	222
+\Qit was \E#VALUE#\Q.\E	303
+#VALUE#\Q are really \E#ATTRIBUTE#	147
+#VALUE#\Q were very \E#ATTRIBUTE#	195
+#ATTRIBUTE#\Q for your \E#VALUE#	408
+#VALUE#\Qs at the \E#ATTRIBUTE#	303
+#ATTRIBUTE#\Q, with a \E#VALUE#	33
+#VALUE#\Q is absolutely \E#ATTRIBUTE#	60
+#ATTRIBUTE#\Q here for a \E#VALUE#	167
+#ATTRIBUTE#\Q for 30 \E#VALUE#	284
+#ATTRIBUTE#\Q their other \E#VALUE#	208
+#ATTRIBUTE#\Q melted in my \E#VALUE#	51
+#ATTRIBUTE#\Q has some of the \E#VALUE#	11
+#VALUE#\Q has a \E#ATTRIBUTE#	296
+#ATTRIBUTE#\Q falls off the \E#VALUE#	89
+#VALUE#\Q the akamaru \E#ATTRIBUTE#	275
+\Q\E#VALUE#\Q se\E#ATTRIBUTE#\Q.\E	57
+#VALUE#\Q to love this \E#ATTRIBUTE#	39
+#VALUE#\Q is ridiculously \E#ATTRIBUTE#	34
+#VALUE#\Q to find \E#ATTRIBUTE#	168
+#VALUE#\Q a few \E#ATTRIBUTE#	254
+#VALUE#\Q i had to \E#ATTRIBUTE#	87
+#ATTRIBUTE#\Qs because the \E#VALUE#	35
+#ATTRIBUTE#\Q back for \E#VALUE#	95
+#VALUE#\Q beef s\E#ATTRIBUTE#	179
+#ATTRIBUTE#\Qed for a \E#VALUE#	65
+#VALUE#\Q were really \E#ATTRIBUTE#	176
+#VALUE#\Q line of \E#ATTRIBUTE#	40
+#ATTRIBUTE#\Q for 2 \E#VALUE#	187
+#ATTRIBUTE#\Q was pretty g\E#VALUE#	504
+#VALUE#\Q is the best \E#ATTRIBUTE#	117
+#ATTRIBUTE#\Q the crawfish \E#VALUE#	144
+#ATTRIBUTE#\Q sauce was \E#VALUE#	33
+#ATTRIBUTE#\Q i was \E#VALUE#	119
+#ATTRIBUTE#\Qing for an \E#VALUE#	27
+#VALUE#\Qed the s\E#ATTRIBUTE#	58
+#ATTRIBUTE#\Q dishes were \E#VALUE#	33
+#ATTRIBUTE#\Q was good and \E#VALUE#	39
+#ATTRIBUTE#\Q at the sushi \E#VALUE#	207
+\Qit's that \E#VALUE#\Q.\E	31
+#ATTRIBUTE#\Q back to this \E#VALUE#	92
+#VALUE#\Q is my \E#ATTRIBUTE#	113
+#ATTRIBUTE#\Q is fast and \E#VALUE#	80
+#ATTRIBUTE#\Q for 45 \E#VALUE#	350
+#ATTRIBUTE#\Q and so \E#VALUE#	49
+\Q\E#VALUE#\Q!\E	531
+#ATTRIBUTE#\Q and my \E#VALUE#	67
+#ATTRIBUTE#\Q is quite \E#VALUE#	452
+#ATTRIBUTE#\Q a s\E#VALUE#	164
+#VALUE#\Q the s\E#ATTRIBUTE#	702
+#VALUE#\Q the 2 hour \E#ATTRIBUTE#	24
+#ATTRIBUTE#\Q some of the \E#VALUE#	58
+\Qg\E#VALUE#\Q food.\E	37
+#ATTRIBUTE#\Q and macaroni \E#VALUE#	207
+#VALUE#\Q, but a \E#ATTRIBUTE#	50
+#VALUE#\Q recommend this \E#ATTRIBUTE#	530
+#ATTRIBUTE#\Q the portobello \E#VALUE#	147
+#ATTRIBUTE#\Q were the \E#VALUE#	113
+#ATTRIBUTE#\Q sandwich double \E#VALUE#	40
+\Qthe \E#VALUE#\Q was \E#ATTRIBUTE#\Q.\E	246
+#ATTRIBUTE#\Q was still \E#VALUE#	323
+#ATTRIBUTE#\Q worth the \E#VALUE#	502
+#VALUE#\Q with two \E#ATTRIBUTE#	109
+#ATTRIBUTE#\Q, and onion \E#VALUE#	44
+#VALUE#\Q are always \E#ATTRIBUTE#	90
+#ATTRIBUTE#\Q about 20 \E#VALUE#	656
+#ATTRIBUTE#\Q place in the \E#VALUE#	133
+#ATTRIBUTE#\Q came out \E#VALUE#	318
+#VALUE#\Q the long \E#ATTRIBUTE#	778
+#VALUE#\Q if the \E#ATTRIBUTE#	207
+#ATTRIBUTE#\Q and a \E#VALUE#	1709
+#ATTRIBUTE#\Qed at the \E#VALUE#	174
+#ATTRIBUTE#\Q of people \E#VALUE#	324
+#ATTRIBUTE#\Q be coming \E#VALUE#	201
+#ATTRIBUTE#\Q is fairly \E#VALUE#	138
+#VALUE#\Q and friendly \E#ATTRIBUTE#	212
+#ATTRIBUTE#\Q but i \E#VALUE#	110
+\Q\E#ATTRIBUTE#\Q \E#VALUE#\Qs place.\E	60
+#VALUE#\Q, great s\E#ATTRIBUTE#	106
+#VALUE#\Q and it \E#ATTRIBUTE#	129
+#ATTRIBUTE#\Q waiting in \E#VALUE#	172
+#ATTRIBUTE#\Q here is so \E#VALUE#	30
+\Qso \E#VALUE#\Q.\E	452
+#ATTRIBUTE#\Qs a g\E#VALUE#	132
+#ATTRIBUTE#\Qs were pretty g\E#VALUE#	59
+#ATTRIBUTE#\Q in long \E#VALUE#	92
+\Qi love \E#VALUE#\Q.\E	105
+#ATTRIBUTE#\Q isn't that \E#VALUE#	138
+#VALUE#\Q on this \E#ATTRIBUTE#	226
+#VALUE#\Q here last \E#ATTRIBUTE#	45
+#ATTRIBUTE#\Q was already \E#VALUE#	24
+\Qvery \E#VALUE#\Q \E#ATTRIBUTE#\Q.\E	202
+#ATTRIBUTE#\Qs are a bit \E#VALUE#	209
+#ATTRIBUTE#\Qs right off the \E#VALUE#	84
+#ATTRIBUTE#\Q was extremely \E#VALUE#	543
+#VALUE#\Q but this \E#ATTRIBUTE#	184
+#ATTRIBUTE#\Q for about 15 \E#VALUE#	172
+#VALUE#\Qing in the \E#ATTRIBUTE#	240
+#VALUE#\Q place to \E#ATTRIBUTE#	232
+#ATTRIBUTE#\Qs of ice \E#VALUE#	86
+\Q\E#VALUE#\Q this place.\E	125
+#ATTRIBUTE#\Q were very \E#VALUE#	628
+#VALUE#\Q to try this \E#ATTRIBUTE#	698
+#ATTRIBUTE#\Q of my \E#VALUE#	185
+#ATTRIBUTE#\Q, and the \E#VALUE#	950
+#VALUE#\Q is super \E#ATTRIBUTE#	229
+#VALUE#\Q the daikoku \E#ATTRIBUTE#	251
+\Q\E#VALUE#\Qs.\E	287
+#VALUE#\Q one of the \E#ATTRIBUTE#	227
+\Qg\E#VALUE#\Q s\E#ATTRIBUTE#\Q.\E	74
+#ATTRIBUTE#\Q the r\E#VALUE#	56
+#ATTRIBUTE#\Q is pretty damn \E#VALUE#	39
+#VALUE#\Qed the r\E#ATTRIBUTE#	52
+#VALUE#\Q and this \E#ATTRIBUTE#	274
+#VALUE#\Q is great and the \E#ATTRIBUTE#	106
+#ATTRIBUTE#\Q on a sunday \E#VALUE#	112
+#ATTRIBUTE#\Q with wine \E#VALUE#	180
+#VALUE#\Qutes for a \E#ATTRIBUTE#	304
+#VALUE#\Qs is not the \E#ATTRIBUTE#	59
+\Q\E#VALUE#\Q is \E#ATTRIBUTE#\Q.\E	58
+#VALUE#\Q to avoid the \E#ATTRIBUTE#	35
+#ATTRIBUTE#\Q for a s\E#VALUE#	130
+#ATTRIBUTE#\Q waiting to be \E#VALUE#	47
+#ATTRIBUTE#\Q to go for \E#VALUE#	149
+#VALUE#\Qes of the \E#ATTRIBUTE#	104
+#VALUE#\Q for the amount of \E#ATTRIBUTE#	144
+#VALUE#\Q this is the \E#ATTRIBUTE#	150
+#VALUE#\Qed the pulled \E#ATTRIBUTE#	39
+#VALUE#\Q was a little \E#ATTRIBUTE#	50
+#ATTRIBUTE#\Q out this \E#VALUE#	33
+#ATTRIBUTE#\Qs were also \E#VALUE#	59
+\Qservice was \E#VALUE#\Q.\E	176
+#ATTRIBUTE#\Q about an \E#VALUE#	147
+#VALUE#\Q while we \E#ATTRIBUTE#	90
+#ATTRIBUTE#\Q was very \E#VALUE#	3476
+#ATTRIBUTE#\Q was really \E#VALUE#	2345
+\Q\E#ATTRIBUTE#\Q was \E#VALUE#\Q.\E	661
+#ATTRIBUTE#\Q to come back and \E#VALUE#	104
+#ATTRIBUTE#\Q about 30 \E#VALUE#	548
+#ATTRIBUTE#\Q the fried \E#VALUE#	121
+#ATTRIBUTE#\Q with the \E#VALUE#	918
+#VALUE#\Q for the p\E#ATTRIBUTE#	282
+#ATTRIBUTE#\Qer was very \E#VALUE#	88
+#ATTRIBUTE#\Q melts in your \E#VALUE#	139
+#VALUE#\Q has great \E#ATTRIBUTE#	34
+\Qi \E#VALUE#\Q this \E#ATTRIBUTE#\Q!\E	321
+#ATTRIBUTE#\Q and f\E#VALUE#	890
+#ATTRIBUTE#\Q was sooo \E#VALUE#	60
+#VALUE#\Q was fast and \E#ATTRIBUTE#	52
+#ATTRIBUTE#\Q for break\E#VALUE#	158
+#VALUE#\Qes on the \E#ATTRIBUTE#	41
+#ATTRIBUTE#\Q can be pretty \E#VALUE#	11
+#ATTRIBUTE#\Qing for 30 \E#VALUE#	22
+#ATTRIBUTE#\Qs of r\E#VALUE#	86
+#ATTRIBUTE#\Q - the \E#VALUE#	215
+#ATTRIBUTE#\Q as the \E#VALUE#	460
+#ATTRIBUTE#\Q was just as \E#VALUE#	60
+#ATTRIBUTE#\Q to our \E#VALUE#	133
+#ATTRIBUTE#\Q - g\E#VALUE#	46
+#VALUE#\Q out this \E#ATTRIBUTE#	163
+#VALUE#\Q is very \E#ATTRIBUTE#	729
+#ATTRIBUTE#\Q in little \E#VALUE#	98
+#VALUE#\Q is just \E#ATTRIBUTE#	70
+\Q\E#VALUE#\Q it.\E	141
+#ATTRIBUTE#\Q is so g\E#VALUE#	260
+#ATTRIBUTE#\Q with this \E#VALUE#	123
+#ATTRIBUTE#\Qed at a \E#VALUE#	44
+#VALUE#\Qe of the \E#ATTRIBUTE#	2099
+#ATTRIBUTE#\Q but well \E#VALUE#	133
+#VALUE#\Q is as \E#ATTRIBUTE#	148
+#ATTRIBUTE#\Q on the \E#VALUE#	3436
+\Qgreat f\E#VALUE#\Q.\E	37
+#ATTRIBUTE#\Q for about 40 \E#VALUE#	33
+#VALUE#\Q so much about this \E#ATTRIBUTE#	76
+#VALUE#\Qs and french \E#ATTRIBUTE#	57
+\Q\E#VALUE#\Q service.\E	201
+#VALUE#\Q from my \E#ATTRIBUTE#	34
+\Qthe se\E#ATTRIBUTE#\Q was \E#VALUE#\Q.\E	47
+#ATTRIBUTE#\Q can be \E#VALUE#	896
+#VALUE#\Q to go for \E#ATTRIBUTE#	88
+#VALUE#\Q rack of baby back \E#ATTRIBUTE#	208
+#ATTRIBUTE#\Q ribs and \E#VALUE#	36
+#VALUE#\Q & the \E#ATTRIBUTE#	33
+#ATTRIBUTE#\Q are pretty \E#VALUE#	450
+#ATTRIBUTE#\Q for about an \E#VALUE#	41
+#ATTRIBUTE#\Q was e\E#VALUE#	1091
+#ATTRIBUTE#\Q a great \E#VALUE#	143
+#ATTRIBUTE#\Q was incredibly \E#VALUE#	161
+#VALUE#\Q the same \E#ATTRIBUTE#	33
+#ATTRIBUTE#\Q is awes\E#VALUE#	142
+#ATTRIBUTE#\Q, but not \E#VALUE#	505
+#VALUE#\Q was al\E#ATTRIBUTE#	39
+#VALUE#\Qs on this \E#ATTRIBUTE#	65
+#ATTRIBUTE#\Q but this \E#VALUE#	37
+#ATTRIBUTE#\Q that the \E#VALUE#	135
+#ATTRIBUTE#\Q as g\E#VALUE#	167
+#VALUE#\Q is extremely \E#ATTRIBUTE#	54
+#ATTRIBUTE#\Q back to \E#VALUE#	344
+#VALUE#\Q when we \E#ATTRIBUTE#	125
+#ATTRIBUTE#\Q of r\E#VALUE#	961
+#ATTRIBUTE#\Q a couple \E#VALUE#	83
+#ATTRIBUTE#\Q on a \E#VALUE#	1591
+#VALUE#\Q to your \E#ATTRIBUTE#	119
+#VALUE#\Q for this \E#ATTRIBUTE#	1006
+#VALUE#\Q of my \E#ATTRIBUTE#	474
+#ATTRIBUTE#\Q can get \E#VALUE#	438
+#VALUE#\Q on a friday \E#ATTRIBUTE#	121
+#ATTRIBUTE#\Q not the \E#VALUE#	45
+#ATTRIBUTE#\Q must be \E#VALUE#	158
+#ATTRIBUTE#\Q and their \E#VALUE#	130
+\Qi \E#ATTRIBUTE#\Q this \E#VALUE#\Q.\E	159
+#VALUE#\Q was not \E#ATTRIBUTE#	101
+\QÊSo \E#VALUE#\Q.\E	26
+#VALUE#\Q and mac \E#ATTRIBUTE#	62
+#ATTRIBUTE#\Qed for about 30 \E#VALUE#	32
+\Qnot \E#VALUE#\Q.\E	95
+#ATTRIBUTE#\Qs in san \E#VALUE#	132
+#VALUE#\Q while you \E#ATTRIBUTE#	163
+#ATTRIBUTE#\Q for some \E#VALUE#	132
+#ATTRIBUTE#\Q, but this \E#VALUE#	122
+#ATTRIBUTE#\Q almost 2 \E#VALUE#	37
+#VALUE#\Q dish of the \E#ATTRIBUTE#	185
+#ATTRIBUTE#\Q the food was \E#VALUE#	34
+\Q\E#VALUE#\Qed caramel.\E	34
+#ATTRIBUTE#\Q is g\E#VALUE#	4688
+#ATTRIBUTE#\Q into the \E#VALUE#	92
+#VALUE#\Q with my \E#ATTRIBUTE#	230
+#VALUE#\Qnds and i \E#ATTRIBUTE#	85
+#VALUE#\Q on your \E#ATTRIBUTE#	105
+#ATTRIBUTE#\Q, but no\E#VALUE#	97
+\Qthe \E#VALUE#\Q was excellent.\E	38
+#VALUE#\Q in the \E#ATTRIBUTE#	2140
+#VALUE#\Q a long l\E#ATTRIBUTE#	106
+#ATTRIBUTE#\Q during peak \E#VALUE#	109
+#ATTRIBUTE#\Q and whipped \E#VALUE#	36
+#ATTRIBUTE#\Q that i \E#VALUE#	161
+#ATTRIBUTE#\Q was only 15 \E#VALUE#	25
+#ATTRIBUTE#\Q belly was \E#VALUE#	135
+\Q\E#VALUE#\Q \E#ATTRIBUTE#\Q.\E	3017
+\Qit was \E#VALUE#\Q!\E	57
+#ATTRIBUTE#\Q, great serv\E#VALUE#	117
+#ATTRIBUTE#\Q and n\E#VALUE#	280
+#VALUE#\Qing about this \E#ATTRIBUTE#	316
+\Q\E#VALUE#\Q.\E	1863
+#ATTRIBUTE#\Qed for 45 \E#VALUE#	85
+#ATTRIBUTE#\Q with great \E#VALUE#	172
+#ATTRIBUTE#\Q more than 10 \E#VALUE#	58
+\QÊGreat \E#VALUE#\Q.\E	42
+#ATTRIBUTE#\Q has al\E#VALUE#	159
+#VALUE#\Qs about this \E#ATTRIBUTE#	278
+#VALUE#\Q and the bbq \E#ATTRIBUTE#	55
+#ATTRIBUTE#\Qs that are \E#VALUE#	23
+#ATTRIBUTE#\Q were also \E#VALUE#	166
+#ATTRIBUTE#\Q on a saturday \E#VALUE#	213
+#VALUE#\Q and had to \E#ATTRIBUTE#	33
+#ATTRIBUTE#\Q because of the \E#VALUE#	98
+#VALUE#\Q the wait and the \E#ATTRIBUTE#	33
+#ATTRIBUTE#\Q from the \E#VALUE#	557
+#ATTRIBUTE#\Q baby back \E#VALUE#	215
+#ATTRIBUTE#\Q here are \E#VALUE#	185
+#ATTRIBUTE#\Q was too \E#VALUE#	527
+#VALUE#\Q on the food ne\E#ATTRIBUTE#	57
+\Q\E#ATTRIBUTE#\Q this \E#VALUE#\Q!\E	69
+#ATTRIBUTE#\Q, the f\E#VALUE#	308
+#VALUE#\Q was a bit \E#ATTRIBUTE#	58
+#ATTRIBUTE#\Q to the \E#VALUE#	777
+#VALUE#\Q standing in \E#ATTRIBUTE#	165
+#VALUE#\Q chop with pomegranate currant \E#ATTRIBUTE#	40
+#ATTRIBUTE#\Qed about 45 \E#VALUE#	252
+#VALUE#\Q for the \E#ATTRIBUTE#	2527
+\Qgr\E#VALUE#\Q \E#ATTRIBUTE#\Q!\E	167
+#VALUE#\Q the wait in l\E#ATTRIBUTE#	39
+#ATTRIBUTE#\Q is really \E#VALUE#	2027
+\Qthe \E#VALUE#\Q is amazing.\E	35
+\Qthis \E#VALUE#\Q is great.\E	130
+#ATTRIBUTE#\Q, but w\E#VALUE#	35
+#ATTRIBUTE#\Qs were a \E#VALUE#	40
+#ATTRIBUTE#\Q is fan\E#VALUE#	186
+\Qthe \E#VALUE#\Q was great.\E	100
+#ATTRIBUTE#\Q about 25 \E#VALUE#	167
+#VALUE#\Q is worth \E#ATTRIBUTE#	98
+#ATTRIBUTE#\Q was actually pretty \E#VALUE#	23
+#VALUE#\Q wasn't too \E#ATTRIBUTE#	109
+#VALUE#\Q i've ever \E#ATTRIBUTE#	210
+#ATTRIBUTE#\Q was inc\E#VALUE#	174
+#ATTRIBUTE#\Q is always gr\E#VALUE#	97
+#VALUE#\Q amount of \E#ATTRIBUTE#	1262
+\Qthe s\E#ATTRIBUTE#\Q was \E#VALUE#\Q.\E	154
+#VALUE#\Q for good \E#ATTRIBUTE#	34
+#ATTRIBUTE#\Qs were gr\E#VALUE#	33
+#ATTRIBUTE#\Q and a half \E#VALUE#	82
+#ATTRIBUTE#\Qs in los \E#VALUE#	173
+#ATTRIBUTE#\Q with my \E#VALUE#	198
+#VALUE#\Q a l\E#ATTRIBUTE#	654
+#VALUE#\Q of people \E#ATTRIBUTE#	330
+#ATTRIBUTE#\Q were cooked \E#VALUE#	118
+#ATTRIBUTE#\Qed almost 2 \E#VALUE#	22
+#ATTRIBUTE#\Q a lot of \E#VALUE#	82
+#ATTRIBUTE#\Q for our \E#VALUE#	500
+#VALUE#\Q check this \E#ATTRIBUTE#	22
+#VALUE#\Qing at the \E#ATTRIBUTE#	295
+#VALUE#\Q has the best \E#ATTRIBUTE#	146
+#ATTRIBUTE#\Q to an \E#VALUE#	36
+#ATTRIBUTE#\Q buns were \E#VALUE#	211
+#VALUE#\Q roast beef \E#ATTRIBUTE#	129
+#VALUE#\Qs because the \E#ATTRIBUTE#	115
+#ATTRIBUTE#\Q less than 10 \E#VALUE#	36
+#VALUE#\Qness of the \E#ATTRIBUTE#	460
+#VALUE#\Q has al\E#ATTRIBUTE#	36
+#ATTRIBUTE#\Q is way too \E#VALUE#	28
+#ATTRIBUTE#\Q of n\E#VALUE#	54
+#VALUE#\Q from the \E#ATTRIBUTE#	519
+#ATTRIBUTE#\Q over the \E#VALUE#	108
+#VALUE#\Qs is the \E#ATTRIBUTE#	317
+#ATTRIBUTE#\Q with some \E#VALUE#	243
+#VALUE#\Qd for the \E#ATTRIBUTE#	39
+#ATTRIBUTE#\Q were really g\E#VALUE#	52
+\Qi was \E#VALUE#\Q.\E	51
+#ATTRIBUTE#\Q here is very \E#VALUE#	133
+#ATTRIBUTE#\Qing off the \E#VALUE#	186
+#ATTRIBUTE#\Q to come \E#VALUE#	597
+#ATTRIBUTE#\Q is soooo \E#VALUE#	146
+#ATTRIBUTE#\Q the hirata \E#VALUE#	51
+#VALUE#\Q as i \E#ATTRIBUTE#	51
+#VALUE#\Q to have \E#ATTRIBUTE#	93
+#ATTRIBUTE#\Q are g\E#VALUE#	606
+#ATTRIBUTE#\Qs are so \E#VALUE#	503
+#ATTRIBUTE#\Q place in \E#VALUE#	95
+#VALUE#\Q so much \E#ATTRIBUTE#	42
+#ATTRIBUTE#\Q is absolutely \E#VALUE#	303
+#VALUE#\Q bowls of \E#ATTRIBUTE#	24
+#VALUE#\Q that was \E#ATTRIBUTE#	86
+#VALUE#\Q a little \E#ATTRIBUTE#	51
+#ATTRIBUTE#\Qs are the \E#VALUE#	120
+#ATTRIBUTE#\Q to go with \E#VALUE#	40
+#ATTRIBUTE#\Q bbq in san \E#VALUE#	170
+#VALUE#\Q over an \E#ATTRIBUTE#	46
+#VALUE#\Qs a long \E#ATTRIBUTE#	78
+#ATTRIBUTE#\Q and french \E#VALUE#	183
+#VALUE#\Q but nothing \E#ATTRIBUTE#	25
+#ATTRIBUTE#\Q of f\E#VALUE#	1176
+#ATTRIBUTE#\Q the buttermilk \E#VALUE#	44
+#VALUE#\Q back to this \E#ATTRIBUTE#	169
+#VALUE#\Qed for our \E#ATTRIBUTE#	96
+\Q\E#VALUE#\Q food!\E	114
+#ATTRIBUTE#\Q was also \E#VALUE#	552
+\Q\E#VALUE#\Q was \E#ATTRIBUTE#\Q.\E	184
+#ATTRIBUTE#\Q and this \E#VALUE#	127
+#ATTRIBUTE#\Q places in \E#VALUE#	33
+#ATTRIBUTE#\Qes are g\E#VALUE#	189
+#ATTRIBUTE#\Q my first \E#VALUE#	114
+\QÊG\E#VALUE#\Q \E#ATTRIBUTE#\Q.\E	104
+#ATTRIBUTE#\Q on a monday \E#VALUE#	33
+#VALUE#\Q part of this \E#ATTRIBUTE#	12
+#ATTRIBUTE#\Qs out the \E#VALUE#	216
+#ATTRIBUTE#\Q is amazingly \E#VALUE#	25
+#VALUE#\Q korean bbq \E#ATTRIBUTE#	317
+#ATTRIBUTE#\Q was super \E#VALUE#	855
+#ATTRIBUTE#\Q here is really \E#VALUE#	38
+#VALUE#\Q variety of \E#ATTRIBUTE#	246
+#VALUE#\Q food and s\E#ATTRIBUTE#	152
+#ATTRIBUTE#\Q part of the \E#VALUE#	288
+#ATTRIBUTE#\Q at least an \E#VALUE#	66
+#ATTRIBUTE#\Q on a friday \E#VALUE#	186
+#ATTRIBUTE#\Q on this \E#VALUE#	128
+#VALUE#\Q can get \E#ATTRIBUTE#	84
+#VALUE#\Q and a \E#ATTRIBUTE#	1275
+#ATTRIBUTE#\Q for 20 \E#VALUE#	264
+#VALUE#\Q at the sushi \E#ATTRIBUTE#	189
+#VALUE#\Qy and the \E#ATTRIBUTE#	185
+#ATTRIBUTE#\Q and 2 \E#VALUE#	104
+#ATTRIBUTE#\Q because the \E#VALUE#	279
+#VALUE#\Q service and \E#ATTRIBUTE#	215
+#ATTRIBUTE#\Q to try this \E#VALUE#	36
+#ATTRIBUTE#\Q in a long \E#VALUE#	212
+#VALUE#\Q worth the \E#ATTRIBUTE#	992
+#ATTRIBUTE#\Q hit the \E#VALUE#	38
+#ATTRIBUTE#\Qing on the \E#VALUE#	469
+#VALUE#\Q and very \E#ATTRIBUTE#	157
+#ATTRIBUTE#\Q are super \E#VALUE#	132
+#ATTRIBUTE#\Q, a g\E#VALUE#	54
+#ATTRIBUTE#\Q over an \E#VALUE#	291
+#ATTRIBUTE#\Q for f\E#VALUE#	53
+#ATTRIBUTE#\Q for 40 \E#VALUE#	134
+#ATTRIBUTE#\Q and roasted \E#VALUE#	106
+\Qgr\E#VALUE#\Q food.\E	111
+#ATTRIBUTE#\Q from a \E#VALUE#	38
+#ATTRIBUTE#\Q down and \E#VALUE#	47
+#VALUE#\Q but not the \E#ATTRIBUTE#	118
+#VALUE#\Q to check this \E#ATTRIBUTE#	92
+#ATTRIBUTE#\Q are very \E#VALUE#	716
+#VALUE#\Q not have to \E#ATTRIBUTE#	41
+#VALUE#\Q it's the \E#ATTRIBUTE#	85
+#ATTRIBUTE#\Qs are pretty g\E#VALUE#	46
+#ATTRIBUTE#\Q has a \E#VALUE#	555
+#ATTRIBUTE#\Q way to \E#VALUE#	55
+#VALUE#\Q not the \E#ATTRIBUTE#	49
+#ATTRIBUTE#\Q was nice and \E#VALUE#	175
+#VALUE#\Q here was \E#ATTRIBUTE#	66
+#VALUE#\Q so the \E#ATTRIBUTE#	145
+#VALUE#\Q piece of \E#ATTRIBUTE#	92
+#ATTRIBUTE#\Qing in a \E#VALUE#	183
+#ATTRIBUTE#\Q place for a \E#VALUE#	84
+\Qthe \E#VALUE#\Q is great.\E	100
+#VALUE#\Q waiting in \E#ATTRIBUTE#	677
+#ATTRIBUTE#\Qs with a \E#VALUE#	136
+#VALUE#\Q food, good \E#ATTRIBUTE#	84
+#ATTRIBUTE#\Q is sooo \E#VALUE#	164
+#VALUE#\Q and sour \E#ATTRIBUTE#	193
+#VALUE#\Q way to end the \E#ATTRIBUTE#	135
+#ATTRIBUTE#\Q a good \E#VALUE#	128
+#ATTRIBUTE#\Q right off the \E#VALUE#	86
+#VALUE#\Q has been \E#ATTRIBUTE#	48
+#ATTRIBUTE#\Qs on the \E#VALUE#	279
+#VALUE#\Q wait in \E#ATTRIBUTE#	191
+#ATTRIBUTE#\Q recommend this \E#VALUE#	182
+#ATTRIBUTE#\Q had a g\E#VALUE#	33
+#ATTRIBUTE#\Q on my \E#VALUE#	157
+#ATTRIBUTE#\Q is exc\E#VALUE#	344
+#ATTRIBUTE#\Q is worth \E#VALUE#	116
+#VALUE#\Qs were so \E#ATTRIBUTE#	63
+#ATTRIBUTE#\Q was fan\E#VALUE#	179
+#VALUE#\Q is quite \E#ATTRIBUTE#	131
+#ATTRIBUTE#\Qed for an \E#VALUE#	78
+\Q\E#ATTRIBUTE#\Q this \E#VALUE#\Q.\E	61
+#ATTRIBUTE#\Q we were \E#VALUE#	118
+#ATTRIBUTE#\Q is pretty \E#VALUE#	2231
+#ATTRIBUTE#\Q want to come \E#VALUE#	27
+#ATTRIBUTE#\Q be going \E#VALUE#	141
+#ATTRIBUTE#\Q too much f\E#VALUE#	100
+#ATTRIBUTE#\Q the baby back \E#VALUE#	148
+#VALUE#\Q over the \E#ATTRIBUTE#	63
+#ATTRIBUTE#\Q but the \E#VALUE#	696
+#VALUE#\Q and bbq \E#ATTRIBUTE#	98
+#VALUE#\Q and my \E#ATTRIBUTE#	141
+#ATTRIBUTE#\Q and great \E#VALUE#	301
+#ATTRIBUTE#\Q are really \E#VALUE#	337
+#ATTRIBUTE#\Q lavender ice \E#VALUE#	132
+\Qthe s\E#ATTRIBUTE#\Q is \E#VALUE#\Q.\E	104
+#ATTRIBUTE#\Q was exc\E#VALUE#	547
+#ATTRIBUTE#\Q half an \E#VALUE#	50
+#ATTRIBUTE#\Q are so \E#VALUE#	558
+#ATTRIBUTE#\Q was not too \E#VALUE#	75
+#ATTRIBUTE#\Q for ice \E#VALUE#	95
+\Qthis \E#VALUE#\Q is amazing!\E	83
+#VALUE#\Q some of the \E#ATTRIBUTE#	66
+\Qlove this \E#VALUE#\Q!\E	201
+#ATTRIBUTE#\Q for 10 \E#VALUE#	34
+\Qthe \E#ATTRIBUTE#\Qs are \E#VALUE#\Q.\E	146
+#VALUE#\Q baby back rib \E#ATTRIBUTE#	17
+#VALUE#\Q bowl of \E#ATTRIBUTE#	878
+#ATTRIBUTE#\Q is the best \E#VALUE#	36
+#VALUE#\Q would be \E#ATTRIBUTE#	99
+#ATTRIBUTE#\Q was the \E#VALUE#	674
+#ATTRIBUTE#\Q by the \E#VALUE#	237
+#ATTRIBUTE#\Q was very very \E#VALUE#	24
+#VALUE#\Q try this \E#ATTRIBUTE#	22
+#ATTRIBUTE#\Q was perfectly \E#VALUE#	90
+#ATTRIBUTE#\Q amount of \E#VALUE#	357
+#VALUE#\Q with your \E#ATTRIBUTE#	100
+#VALUE#\Qs to get a \E#ATTRIBUTE#	53
+#VALUE#\Qs for our \E#ATTRIBUTE#	50
+#ATTRIBUTE#\Qed about 30 \E#VALUE#	351
+#ATTRIBUTE#\Q has a g\E#VALUE#	95
+#VALUE#\Q for your \E#ATTRIBUTE#	368
+#VALUE#\Q which was \E#ATTRIBUTE#	129
+#VALUE#\Qs for a \E#ATTRIBUTE#	335
+#ATTRIBUTE#\Q are really g\E#VALUE#	47
+#VALUE#\Q in this \E#ATTRIBUTE#	256
+#ATTRIBUTE#\Q here for my \E#VALUE#	90
+#VALUE#\Q the long l\E#ATTRIBUTE#	101
+#VALUE#\Q is not \E#ATTRIBUTE#	112
+#ATTRIBUTE#\Qed about 10 \E#VALUE#	243
+#VALUE#\Q with a few \E#ATTRIBUTE#	99
+#VALUE#\Q and beef \E#ATTRIBUTE#	183
+#ATTRIBUTE#\Q to a \E#VALUE#	131
+#ATTRIBUTE#\Q for a few \E#VALUE#	94
+\Q\E#VALUE#\Q this \E#ATTRIBUTE#\Q.\E	189
+\QÊThe \E#ATTRIBUTE#\Q was \E#VALUE#\Q.\E	241
+\Qg\E#VALUE#\Q.\E	59
+\Qthis \E#VALUE#\Q is amazing.\E	154
+#ATTRIBUTE#\Q is super \E#VALUE#	1106
+#VALUE#\Q is still \E#ATTRIBUTE#	99
+#ATTRIBUTE#\Q are too \E#VALUE#	125
+#VALUE#\Qs were very \E#ATTRIBUTE#	112
+#ATTRIBUTE#\Q places to \E#VALUE#	112
+#ATTRIBUTE#\Q is actually \E#VALUE#	22
+#ATTRIBUTE#\Q is usually \E#VALUE#	357
+#ATTRIBUTE#\Q of bbq \E#VALUE#	108
+#VALUE#\Q is so \E#ATTRIBUTE#	707
+#ATTRIBUTE#\Qs of the \E#VALUE#	273
+#ATTRIBUTE#\Q in los \E#VALUE#	372
+#VALUE#\Q is a bit \E#ATTRIBUTE#	54
+#VALUE#\Q and we \E#ATTRIBUTE#	141
+#VALUE#\Q it was \E#ATTRIBUTE#	166
+#ATTRIBUTE#\Q back and \E#VALUE#	406
+\Qi \E#VALUE#\Q this place.\E	313
+#VALUE#\Q, the s\E#ATTRIBUTE#	216
+#ATTRIBUTE#\Q was not \E#VALUE#	413
+#ATTRIBUTE#\Q is ridiculously \E#VALUE#	192
+#ATTRIBUTE#\Q the m\E#VALUE#	70
+\QÊThe \E#ATTRIBUTE#\Q is \E#VALUE#\Q.\E	150
+#VALUE#\Q chinese sea\E#ATTRIBUTE#	22
+#ATTRIBUTE#\Q which was \E#VALUE#	444
+#ATTRIBUTE#\Q instead of \E#VALUE#	116
+#VALUE#\Q right a\E#ATTRIBUTE#	139
+#ATTRIBUTE#\Q the f\E#VALUE#	769
+#VALUE#\Q & s\E#ATTRIBUTE#	47
+#VALUE#\Q from this \E#ATTRIBUTE#	319
+\Qserv\E#VALUE#\Q was \E#ATTRIBUTE#\Q.\E	45
+#ATTRIBUTE#\Q thing on the \E#VALUE#	95
+#ATTRIBUTE#\Q in san \E#VALUE#	636
+#ATTRIBUTE#\Qs are ridiculously \E#VALUE#	92
+\Q\E#VALUE#\Q?\E	223
+#VALUE#\Q came out \E#ATTRIBUTE#	68
+#ATTRIBUTE#\Qed in the \E#VALUE#	183
+#VALUE#\Qs are pretty \E#ATTRIBUTE#	193
+#ATTRIBUTE#\Qed about 5 \E#VALUE#	66
+#VALUE#\Q was the \E#ATTRIBUTE#	427
+#VALUE#\Q and great \E#ATTRIBUTE#	407
+#VALUE#\Q and chicken \E#ATTRIBUTE#	35
+#VALUE#\Q to find a \E#ATTRIBUTE#	96
+#ATTRIBUTE#\Qed for about an \E#VALUE#	23
+#VALUE#\Q dip beef \E#ATTRIBUTE#	15
+\Qi love \E#VALUE#\Qs \E#ATTRIBUTE#\Q!\E	103
+#VALUE#\Q but i \E#ATTRIBUTE#	124
+#ATTRIBUTE#\Qs have a \E#VALUE#	126
+#VALUE#\Q ass l\E#ATTRIBUTE#	86
+#ATTRIBUTE#\Qed for 20 \E#VALUE#	27
+#ATTRIBUTE#\Q as everyone \E#VALUE#	105
+#VALUE#\Q, it was \E#ATTRIBUTE#	148
+#ATTRIBUTE#\Q in that \E#VALUE#	218
+#ATTRIBUTE#\Q of m\E#VALUE#	69
+#ATTRIBUTE#\Qs here are \E#VALUE#	182
+#VALUE#\Qed for a \E#ATTRIBUTE#	34
+#VALUE#\Qing all the \E#ATTRIBUTE#	131
+#ATTRIBUTE#\Qed in my \E#VALUE#	234
+#VALUE#\Q itself was \E#ATTRIBUTE#	48
+#VALUE#\Q in their \E#ATTRIBUTE#	129
+#ATTRIBUTE#\Qs and i \E#VALUE#	361
+#VALUE#\Qful and the \E#ATTRIBUTE#	37
+#ATTRIBUTE#\Q in front of the \E#VALUE#	35
+#ATTRIBUTE#\Q in the long \E#VALUE#	140
+#ATTRIBUTE#\Q is very g\E#VALUE#	250
+#VALUE#\Q, and this \E#ATTRIBUTE#	103
+#ATTRIBUTE#\Q i have ever \E#VALUE#	307
+#VALUE#\Q dipped s\E#ATTRIBUTE#	259
+#ATTRIBUTE#\Q was really g\E#VALUE#	483
+#ATTRIBUTE#\Q, it was \E#VALUE#	321
+#ATTRIBUTE#\Q is a little \E#VALUE#	422
+#ATTRIBUTE#\Q was good, \E#VALUE#	61
+#ATTRIBUTE#\Q lavender and salted \E#VALUE#	29
+\Qi \E#ATTRIBUTE#\Q this \E#VALUE#\Q!\E	106
+#VALUE#\Q ice cream \E#ATTRIBUTE#	779
+#ATTRIBUTE#\Q is also \E#VALUE#	419
+#ATTRIBUTE#\Q the chicken and \E#VALUE#	34
+#ATTRIBUTE#\Q were super \E#VALUE#	33
+#ATTRIBUTE#\Q, the serv\E#VALUE#	57
+#ATTRIBUTE#\Q in line to \E#VALUE#	89
+#ATTRIBUTE#\Q the bruxie \E#VALUE#	38
+#ATTRIBUTE#\Q mexican f\E#VALUE#	44
+#VALUE#\Qly and the \E#ATTRIBUTE#	215
+#ATTRIBUTE#\Q is a gr\E#VALUE#	82
+#ATTRIBUTE#\Q to wait in \E#VALUE#	129
+#VALUE#\Q is that the \E#ATTRIBUTE#	104
+#ATTRIBUTE#\Q and the f\E#VALUE#	244
+\Q\E#ATTRIBUTE#\Qs are \E#VALUE#\Q.\E	63
+#ATTRIBUTE#\Q line of \E#VALUE#	39
+#VALUE#\Q stuffed french \E#ATTRIBUTE#	18
+#VALUE#\Q mustard s\E#ATTRIBUTE#	33
+#VALUE#\Q for an \E#ATTRIBUTE#	90
+#ATTRIBUTE#\Q at this \E#VALUE#	355
+#ATTRIBUTE#\Qed about 15 \E#VALUE#	320
+#ATTRIBUTE#\Q the red velvet \E#VALUE#	89
+#ATTRIBUTE#\Q is gr\E#VALUE#	2554
+#VALUE#\Q french dipped \E#ATTRIBUTE#	256
+#ATTRIBUTE#\Q is much \E#VALUE#	120
+#VALUE#\Q because the \E#ATTRIBUTE#	528
+#ATTRIBUTE#\Qs are super \E#VALUE#	131
+#ATTRIBUTE#\Q of their \E#VALUE#	217
+#ATTRIBUTE#\Q as many \E#VALUE#	101
+#ATTRIBUTE#\Q, but it's \E#VALUE#	223
+#ATTRIBUTE#\Q, which is \E#VALUE#	155
+#ATTRIBUTE#\Qed caramel ice \E#VALUE#	596
+#VALUE#\Q watermelon iced \E#ATTRIBUTE#	41
+#ATTRIBUTE#\Qs are on the \E#VALUE#	67
+#VALUE#\Q and delicious \E#ATTRIBUTE#	149
+#VALUE#\Q for my \E#ATTRIBUTE#	1214
+#ATTRIBUTE#\Q the salted \E#VALUE#	157
+\Q\E#VALUE#\Q the \E#ATTRIBUTE#\Q.\E	270
+#ATTRIBUTE#\Q, but nothing \E#VALUE#	95
+#ATTRIBUTE#\Q and salted \E#VALUE#	139
+\Qi love \E#VALUE#\Qs \E#ATTRIBUTE#\Q.\E	151
+#VALUE#\Q was really \E#ATTRIBUTE#	855
+#ATTRIBUTE#\Qs of this \E#VALUE#	119
+#ATTRIBUTE#\Qs were too \E#VALUE#	39
+#ATTRIBUTE#\Q are always \E#VALUE#	247
+#ATTRIBUTE#\Q place to \E#VALUE#	353
+#VALUE#\Qs on the \E#ATTRIBUTE#	828
+#ATTRIBUTE#\Q before we were \E#VALUE#	87
+#VALUE#\Q in s\E#ATTRIBUTE#	107
+#ATTRIBUTE#\Q within 10 \E#VALUE#	88
+#VALUE#\Q when the \E#ATTRIBUTE#	99
+\Q\E#ATTRIBUTE#\Q \E#VALUE#\Q!\E	425
+#ATTRIBUTE#\Q to have \E#VALUE#	138
+#VALUE#\Q and honey \E#ATTRIBUTE#	120
+#VALUE#\Qs are very \E#ATTRIBUTE#	141
+#ATTRIBUTE#\Q chop with pomegranate currant \E#VALUE#	40
+#ATTRIBUTE#\Q bowl of \E#VALUE#	235
+#VALUE#\Q at this \E#ATTRIBUTE#	646
+\Qg\E#VALUE#\Q \E#ATTRIBUTE#\Q!\E	264
+#ATTRIBUTE#\Qs are al\E#VALUE#	242
+#VALUE#\Q is al\E#ATTRIBUTE#	1204
+#VALUE#\Q and baked \E#ATTRIBUTE#	122
+#VALUE#\Q were so \E#ATTRIBUTE#	118
+#ATTRIBUTE#\Qs are pretty \E#VALUE#	595
+#ATTRIBUTE#\Q, but i don't \E#VALUE#	44
+#ATTRIBUTE#\Q pork belly \E#VALUE#	281
+#ATTRIBUTE#\Q some other \E#VALUE#	136
+#ATTRIBUTE#\Q that is \E#VALUE#	196
+#ATTRIBUTE#\Qing to be s\E#VALUE#	213
+#VALUE#\Q and cole\E#ATTRIBUTE#	138
+#ATTRIBUTE#\Q is crazy \E#VALUE#	74
+\Q\E#ATTRIBUTE#\Q: \E#VALUE#\Q.\E	26
+#ATTRIBUTE#\Q but not gr\E#VALUE#	150
+#ATTRIBUTE#\Q was one of the \E#VALUE#	24
+#ATTRIBUTE#\Q is the \E#VALUE#	2062
+#ATTRIBUTE#\Q is on the \E#VALUE#	134
+#ATTRIBUTE#\Q of ice \E#VALUE#	260
+#ATTRIBUTE#\Q was as \E#VALUE#	137
+#VALUE#\Q of ice \E#ATTRIBUTE#	199
+\Qthis \E#VALUE#\Q is \E#ATTRIBUTE#\Q!\E	99
+#VALUE#\Q for 2 \E#ATTRIBUTE#	51
+#ATTRIBUTE#\Q for their \E#VALUE#	133
+#ATTRIBUTE#\Q in line for 30 \E#VALUE#	59
+\Q\E#ATTRIBUTE#\Q is \E#VALUE#\Q.\E	371
+#ATTRIBUTE#\Q are very g\E#VALUE#	45
+#VALUE#\Qed at a \E#ATTRIBUTE#	171
+#ATTRIBUTE#\Q that we \E#VALUE#	36
+#ATTRIBUTE#\Q, this is the \E#VALUE#	107
+#ATTRIBUTE#\Qd chicken & \E#VALUE#	186
+#VALUE#\Q and were \E#ATTRIBUTE#	47
+#ATTRIBUTE#\Q is also very \E#VALUE#	201
+#ATTRIBUTE#\Q here was \E#VALUE#	354
+#ATTRIBUTE#\Q i have \E#VALUE#	128
+#VALUE#\Q hot s\E#ATTRIBUTE#	39
+\Qgr\E#VALUE#\Q service.\E	62
+#ATTRIBUTE#\Qly and the \E#VALUE#	97
+#ATTRIBUTE#\Q here is \E#VALUE#	1388
+#VALUE#\Q instead of \E#ATTRIBUTE#	48
+#ATTRIBUTE#\Q for that \E#VALUE#	68
+#ATTRIBUTE#\Q the ice \E#VALUE#	51
+#ATTRIBUTE#\Q here last \E#VALUE#	209
+#VALUE#\Q why this \E#ATTRIBUTE#	115
+\Qi can't \E#VALUE#\Q to go back!\E	22
+#ATTRIBUTE#\Q so the \E#VALUE#	44
+#ATTRIBUTE#\Q i orde\E#VALUE#	34
+\Qso g\E#VALUE#\Q!\E	51
+#VALUE#\Qs to get \E#ATTRIBUTE#	123
+#VALUE#\Q too much \E#ATTRIBUTE#	141
+#VALUE#\Q to a \E#ATTRIBUTE#	133
+#VALUE#\Qed over an \E#ATTRIBUTE#	55
+\Qso \E#VALUE#\Q!\E	222
+#ATTRIBUTE#\Q as it \E#VALUE#	487
+#VALUE#\Q is worth the \E#ATTRIBUTE#	277
+#VALUE#\Qly with the \E#ATTRIBUTE#	63
+#VALUE#\Q at the \E#ATTRIBUTE#	2209
+#VALUE#\Q and excellent \E#ATTRIBUTE#	36
+#VALUE#\Q slab of \E#ATTRIBUTE#	51
+#VALUE#\Qe dish of the \E#ATTRIBUTE#	104
+#VALUE#\Qly enjoyed the \E#ATTRIBUTE#	22
+#ATTRIBUTE#\Q was great, \E#VALUE#	110
+#ATTRIBUTE#\Qs about this \E#VALUE#	90
+#ATTRIBUTE#\Q but it's \E#VALUE#	147
+#ATTRIBUTE#\Qs at the \E#VALUE#	135
+#ATTRIBUTE#\Q here is gr\E#VALUE#	121
+#VALUE#\Q is pretty \E#ATTRIBUTE#	746
+#ATTRIBUTE#\Q the truffle \E#VALUE#	120
+#ATTRIBUTE#\Q is simply \E#VALUE#	116
+\Qlove \E#VALUE#\Qs \E#ATTRIBUTE#\Q!\E	65
+#ATTRIBUTE#\Q belly sandwiches, \E#VALUE#	114
+#ATTRIBUTE#\Q are a bit \E#VALUE#	39
+#ATTRIBUTE#\Q ice cream \E#VALUE#	277
+#VALUE#\Q for two \E#ATTRIBUTE#	85
+#ATTRIBUTE#\Q is just as \E#VALUE#	199
+\Q\E#VALUE#\Q s\E#ATTRIBUTE#\Q.\E	310
+#VALUE#\Q was pretty \E#ATTRIBUTE#	871
+#VALUE#\Qs are really \E#ATTRIBUTE#	92
+#ATTRIBUTE#\Q is well \E#VALUE#	317
+#ATTRIBUTE#\Q was so \E#VALUE#	2121
+\Qgood \E#VALUE#\Q.\E	280
+#VALUE#\Q and fried \E#ATTRIBUTE#	104
+#ATTRIBUTE#\Qs are really \E#VALUE#	336
+#ATTRIBUTE#\Q the beef \E#VALUE#	97
+#ATTRIBUTE#\Q and savory \E#VALUE#	33
+#ATTRIBUTE#\Q was al\E#VALUE#	362
+#ATTRIBUTE#\Q is damn \E#VALUE#	36
+\Q\E#VALUE#\Q \E#ATTRIBUTE#\Q!\E	1071
+#ATTRIBUTE#\Q was pretty \E#VALUE#	2425
+#ATTRIBUTE#\Q a little \E#VALUE#	164
+#ATTRIBUTE#\Q about 10 \E#VALUE#	531
+\Qthis \E#VALUE#\Q is awesome.\E	68
+#VALUE#\Q at a \E#ATTRIBUTE#	570
+#VALUE#\Q and whipped \E#ATTRIBUTE#	43
+#ATTRIBUTE#\Q when the \E#VALUE#	34
+#ATTRIBUTE#\Q was tender and \E#VALUE#	155
+#VALUE#\Q the akamaru modern \E#ATTRIBUTE#	188
+#ATTRIBUTE#\Q and we \E#VALUE#	149
+\Qit's \E#VALUE#\Q.\E	134
+#ATTRIBUTE#\Q in the bay \E#VALUE#	147
+#VALUE#\Qs are always \E#ATTRIBUTE#	84
+#ATTRIBUTE#\Q thing i ever \E#VALUE#	187
+\Qcan't \E#VALUE#\Q to go back!\E	66
+#ATTRIBUTE#\Q while you \E#VALUE#	38
+\Q\E#VALUE#\Q \E#ATTRIBUTE#\Qs!\E	99
+#VALUE#\Q are pretty \E#ATTRIBUTE#	184
+#VALUE#\Qly recommend this \E#ATTRIBUTE#	540
+\Qi \E#VALUE#\Q it.\E	94
+\Q3.5 \E#VALUE#\Qs.\E	62
+#ATTRIBUTE#\Qs were so \E#VALUE#	243
+#VALUE#\Q had a \E#ATTRIBUTE#	188
+#VALUE#\Q again to \E#ATTRIBUTE#	92
+#ATTRIBUTE#\Q here on \E#VALUE#	112
+#ATTRIBUTE#\Q at least 45 \E#VALUE#	59
+\Qthis \E#ATTRIBUTE#\Q is \E#VALUE#\Q.\E	719
+#ATTRIBUTE#\Q for a \E#VALUE#	4198
+#ATTRIBUTE#\Q to get s\E#VALUE#	254
+#ATTRIBUTE#\Qs off the \E#VALUE#	286
+\Qthis place is \E#VALUE#\Q!\E	174
+#ATTRIBUTE#\Q would be \E#VALUE#	374
+#ATTRIBUTE#\Q it was g\E#VALUE#	62
+#ATTRIBUTE#\Q for about 10 \E#VALUE#	113
+#ATTRIBUTE#\Q and m\E#VALUE#	81
+#VALUE#\Qs were really \E#ATTRIBUTE#	102
+#VALUE#\Q is this \E#ATTRIBUTE#	35
+#VALUE#\Q it to \E#ATTRIBUTE#	29
+#ATTRIBUTE#\Q was w\E#VALUE#	447
+#ATTRIBUTE#\Q a must \E#VALUE#	119
+\Qthis place is \E#VALUE#\Q.\E	306
+#ATTRIBUTE#\Q when i \E#VALUE#	79
+#ATTRIBUTE#\Q is really g\E#VALUE#	357
+#ATTRIBUTE#\Q and gr\E#VALUE#	207
+#ATTRIBUTE#\Q for about 30 \E#VALUE#	224
+#ATTRIBUTE#\Q is too \E#VALUE#	492
+#ATTRIBUTE#\Q and i \E#VALUE#	1264
+#ATTRIBUTE#\Q that g\E#VALUE#	96
+#ATTRIBUTE#\Q in line for an \E#VALUE#	34
+#VALUE#\Q or potato \E#ATTRIBUTE#	23
+#VALUE#\Q with their \E#ATTRIBUTE#	205
+\Qservice was gr\E#VALUE#\Q.\E	50
+#VALUE#\Q and green \E#ATTRIBUTE#	40
+#ATTRIBUTE#\Q and pork \E#VALUE#	236
+#ATTRIBUTE#\Q which is \E#VALUE#	69
+#VALUE#\Qly wanted to like this \E#ATTRIBUTE#	29
+#VALUE#\Qing on the \E#ATTRIBUTE#	74
+#ATTRIBUTE#\Q gets pretty \E#VALUE#	63
+#ATTRIBUTE#\Q of this \E#VALUE#	688
+#VALUE#\Qs with a \E#ATTRIBUTE#	114
+#VALUE#\Q and banana \E#ATTRIBUTE#	34
+\Qvery \E#ATTRIBUTE#\Q \E#VALUE#\Q.\E	49
+#VALUE#\Q, but not the \E#ATTRIBUTE#	65
+#ATTRIBUTE#\Q were pretty g\E#VALUE#	84
+#VALUE#\Qs and the \E#ATTRIBUTE#	451
+#ATTRIBUTE#\Qs are g\E#VALUE#	615
+#VALUE#\Q a long \E#ATTRIBUTE#	525
+#ATTRIBUTE#\Q may be \E#VALUE#	143
+#ATTRIBUTE#\Q is an \E#VALUE#	35
+#VALUE#\Q of your \E#ATTRIBUTE#	106
+#ATTRIBUTE#\Q is extremely \E#VALUE#	389
+#ATTRIBUTE#\Q the best \E#VALUE#	89
+#VALUE#\Q was absolutely \E#ATTRIBUTE#	48
+\Qw\E#VALUE#\Q the \E#ATTRIBUTE#\Q.\E	75
+#ATTRIBUTE#\Q was also very \E#VALUE#	261
+#VALUE#\Q can be \E#ATTRIBUTE#	274
+#ATTRIBUTE#\Q, and a \E#VALUE#	223
+#ATTRIBUTE#\Q in their \E#VALUE#	102
+\Qthe \E#VALUE#\Q was good.\E	40
+#ATTRIBUTE#\Q the house \E#VALUE#	41
+#VALUE#\Q french dip \E#ATTRIBUTE#	586
+\Qthe \E#VALUE#\Q was amazing.\E	93
+#VALUE#\Q the margherita \E#ATTRIBUTE#	63
+#ATTRIBUTE#\Q are a \E#VALUE#	166
+#ATTRIBUTE#\Qs can be \E#VALUE#	243
+#VALUE#\Qs is a great \E#ATTRIBUTE#	77
+#ATTRIBUTE#\Q has always been \E#VALUE#	186
+#ATTRIBUTE#\Q the onion \E#VALUE#	44
+#ATTRIBUTE#\Q at least 30 \E#VALUE#	201
+#ATTRIBUTE#\Q with garlic ginger \E#VALUE#	174
+#ATTRIBUTE#\Q outside the \E#VALUE#	118
+#ATTRIBUTE#\Q is that the \E#VALUE#	106
+#ATTRIBUTE#\Q, but the f\E#VALUE#	46
+#VALUE#\Q of macaroni \E#ATTRIBUTE#	157
+\Qi \E#VALUE#\Q this \E#ATTRIBUTE#\Q.\E	500
+#ATTRIBUTE#\Q has great \E#VALUE#	56
+#ATTRIBUTE#\Qed in a \E#VALUE#	26
+#VALUE#\Q all the \E#ATTRIBUTE#	806
+#ATTRIBUTE#\Q that has \E#VALUE#	34
+#VALUE#\Qs are al\E#ATTRIBUTE#	144
+#VALUE#\Q the miso \E#ATTRIBUTE#	63
+#ATTRIBUTE#\Q were so \E#VALUE#	286
+#ATTRIBUTE#\Qting at the \E#VALUE#	260
+#VALUE#\Q to get \E#ATTRIBUTE#	378
+#VALUE#\Q was great and the \E#ATTRIBUTE#	165
+#VALUE#\Q was too \E#ATTRIBUTE#	119
+\Q\E#ATTRIBUTE#\Q \E#VALUE#\Qed.\E	51
+#ATTRIBUTE#\Q was cooked to \E#VALUE#	34
+#ATTRIBUTE#\Q of salted \E#VALUE#	44
+#VALUE#\Q just as \E#ATTRIBUTE#	106
+#ATTRIBUTE#\Q a few \E#VALUE#	521
+#VALUE#\Qn't get to \E#ATTRIBUTE#	120
+\Qs\E#ATTRIBUTE#\Q was \E#VALUE#\Q.\E	224
+#VALUE#\Qn't have to \E#ATTRIBUTE#	508
+#ATTRIBUTE#\Q about 45 \E#VALUE#	377
+#ATTRIBUTE#\Q and very \E#VALUE#	180
+#ATTRIBUTE#\Q lives up to the \E#VALUE#	94
+#VALUE#\Qed at the \E#ATTRIBUTE#	337
+#ATTRIBUTE#\Q is incredibly \E#VALUE#	160
+#VALUE#\Q inside the \E#ATTRIBUTE#	35
+\QÊIt was \E#VALUE#\Q.\E	66
+#ATTRIBUTE#\Q isn't too \E#VALUE#	190
+#ATTRIBUTE#\Q, and it was \E#VALUE#	113
+#ATTRIBUTE#\Q on their \E#VALUE#	134
+\Q\E#VALUE#\Q the \E#ATTRIBUTE#\Q!\E	81
+#VALUE#\Q and the p\E#ATTRIBUTE#	129
+#ATTRIBUTE#\Q for the pr\E#VALUE#	56
+#ATTRIBUTE#\Q are also \E#VALUE#	129
+#ATTRIBUTE#\Q service and \E#VALUE#	85
+#ATTRIBUTE#\Q and was \E#VALUE#	87
+#ATTRIBUTE#\Q of a \E#VALUE#	624
+#ATTRIBUTE#\Q was way too \E#VALUE#	146
+#VALUE#\Qs but the \E#ATTRIBUTE#	48
+#VALUE#\Qed the daikoku \E#ATTRIBUTE#	29
+#ATTRIBUTE#\Q has a gr\E#VALUE#	33
+#ATTRIBUTE#\Q variety of \E#VALUE#	95
+#ATTRIBUTE#\Q was so g\E#VALUE#	207
+#ATTRIBUTE#\Q is as \E#VALUE#	387
+#VALUE#\Q has the \E#ATTRIBUTE#	252
+#ATTRIBUTE#\Q is inc\E#VALUE#	237
+#VALUE#\Q pork belly \E#ATTRIBUTE#	308
+#ATTRIBUTE#\Q is definitely w\E#VALUE#	140
+#ATTRIBUTE#\Q was about 45 \E#VALUE#	79
+#VALUE#\Qd chicken and \E#ATTRIBUTE#	177
+#VALUE#\Q to my \E#ATTRIBUTE#	188
+#ATTRIBUTE#\Q has gr\E#VALUE#	41
+\Qthe food was \E#VALUE#\Q.\E	152
+#ATTRIBUTE#\Q in your \E#VALUE#	1256
+#VALUE#\Qs, and the \E#ATTRIBUTE#	111
+#ATTRIBUTE#\Qing for a \E#VALUE#	736
+#VALUE#\Q dip s\E#ATTRIBUTE#	734
+#ATTRIBUTE#\Q will be \E#VALUE#	317
+#ATTRIBUTE#\Qed for our \E#VALUE#	132
+#VALUE#\Qed caramel and \E#ATTRIBUTE#	80
+#ATTRIBUTE#\Q and cole \E#VALUE#	140
+\Q\E#VALUE#\Q stuff.\E	30
+#VALUE#\Q line of people \E#ATTRIBUTE#	44
+#ATTRIBUTE#\Q can get pretty \E#VALUE#	87
+#ATTRIBUTE#\Qs were pretty \E#VALUE#	333
+#VALUE#\Q in my \E#ATTRIBUTE#	415
+#VALUE#\Q on the \E#ATTRIBUTE#	4719
+#VALUE#\Q is a little \E#ATTRIBUTE#	81
+#VALUE#\Qd about this \E#ATTRIBUTE#	435
+#ATTRIBUTE#\Q was about 15 \E#VALUE#	72
+#ATTRIBUTE#\Q has the \E#VALUE#	549
+#VALUE#\Q of this \E#ATTRIBUTE#	1221
+#VALUE#\Qs on their \E#ATTRIBUTE#	86
+\Qgr\E#VALUE#\Q food!\E	56
+#VALUE#\Qing for our \E#ATTRIBUTE#	111
+#VALUE#\Q is always \E#ATTRIBUTE#	401
+#ATTRIBUTE#\Q and beef \E#VALUE#	87
+#ATTRIBUTE#\Q ramen in \E#VALUE#	140
+#ATTRIBUTE#\Q a bit \E#VALUE#	65
+\Qg\E#VALUE#\Q \E#ATTRIBUTE#\Q.\E	597
+#ATTRIBUTE#\Q asian fusion \E#VALUE#	35
+#ATTRIBUTE#\Q was quick and \E#VALUE#	96
+#VALUE#\Q if you \E#ATTRIBUTE#	85
+#ATTRIBUTE#\Q and two \E#VALUE#	37
+#ATTRIBUTE#\Q and our \E#VALUE#	78
+#VALUE#\Q with ginger \E#ATTRIBUTE#	152
+#ATTRIBUTE#\Qd the f\E#VALUE#	70
+#ATTRIBUTE#\Q with g\E#VALUE#	415
+#VALUE#\Q was super \E#ATTRIBUTE#	207
+#ATTRIBUTE#\Q was surprisingly \E#VALUE#	123
+#VALUE#\Q and a half \E#ATTRIBUTE#	222
+#ATTRIBUTE#\Q off the \E#VALUE#	1165
+#ATTRIBUTE#\Q with ginger caramel \E#VALUE#	156
+#ATTRIBUTE#\Q gets super \E#VALUE#	24
+#VALUE#\Q because of the \E#ATTRIBUTE#	149
+\Qthis \E#ATTRIBUTE#\Q is \E#VALUE#\Q!\E	434
+#ATTRIBUTE#\Q the umami \E#VALUE#	172
+#ATTRIBUTE#\Q line out the \E#VALUE#	36
+#VALUE#\Q on my \E#ATTRIBUTE#	159
+#ATTRIBUTE#\Q and green \E#VALUE#	58
+#ATTRIBUTE#\Q at the \E#VALUE#	2546
+#ATTRIBUTE#\Q was much \E#VALUE#	74
+#VALUE#\Q the other \E#ATTRIBUTE#	200
+#ATTRIBUTE#\Q was definitely \E#VALUE#	244
+#VALUE#\Q and the \E#ATTRIBUTE#	8063
+#ATTRIBUTE#\Q the other \E#VALUE#	414
+#ATTRIBUTE#\Q is definitely \E#VALUE#	438
+#VALUE#\Q a great \E#ATTRIBUTE#	284
+\Q\E#VALUE#\Q this \E#ATTRIBUTE#\Q!\E	234
+\Q\E#VALUE#\Qs \E#ATTRIBUTE#\Q is amazing.\E	49
+#VALUE#\Q blend of \E#ATTRIBUTE#	153
+\Qeverything was \E#VALUE#\Q.\E	58
+#ATTRIBUTE#\Q at bi-\E#VALUE#	35
+#VALUE#\Q balance of \E#ATTRIBUTE#	350
+#VALUE#\Q for a long \E#ATTRIBUTE#	138
+#ATTRIBUTE#\Q, not gr\E#VALUE#	118
+#ATTRIBUTE#\Q wasn't too \E#VALUE#	647
+#ATTRIBUTE#\Q is small and \E#VALUE#	110
+#ATTRIBUTE#\Q here is pretty \E#VALUE#	45
+#ATTRIBUTE#\Q were pretty \E#VALUE#	380
+#VALUE#\Q was so \E#ATTRIBUTE#	625
+#VALUE#\Q on their \E#ATTRIBUTE#	232
+#ATTRIBUTE#\Qs has a \E#VALUE#	34
+#VALUE#\Q on the in\E#ATTRIBUTE#	188
+#ATTRIBUTE#\Qed over an \E#VALUE#	165
+#ATTRIBUTE#\Q i would \E#VALUE#	119
+#VALUE#\Q are so \E#ATTRIBUTE#	183
+#ATTRIBUTE#\Q is great and the \E#VALUE#	35
+#ATTRIBUTE#\Q of other \E#VALUE#	34
+\Qthis \E#VALUE#\Q is great!\E	24
+#VALUE#\Q to like this \E#ATTRIBUTE#	105
+#ATTRIBUTE#\Q is pretty g\E#VALUE#	351
+#ATTRIBUTE#\Q everything on the \E#VALUE#	102
+#ATTRIBUTE#\Q that this \E#VALUE#	119
+#VALUE#\Qs are the \E#ATTRIBUTE#	44
+#ATTRIBUTE#\Q pretty g\E#VALUE#	55
+#ATTRIBUTE#\Q were g\E#VALUE#	583
+\Qi love this \E#VALUE#\Q!\E	317
+\Q\E#VALUE#\Q was good.\E	37
+#ATTRIBUTE#\Qs of f\E#VALUE#	120
+\Qi \E#VALUE#\Q this place!\E	209
+#ATTRIBUTE#\Qs are a \E#VALUE#	337
+#VALUE#\Q) and the \E#ATTRIBUTE#	84
+#VALUE#\Qed caramel and honey \E#ATTRIBUTE#	56
+#VALUE#\Q and potato \E#ATTRIBUTE#	460
+#ATTRIBUTE#\Q to get \E#VALUE#	756
+#ATTRIBUTE#\Q and chicken \E#VALUE#	34
+#VALUE#\Q the daikokuya \E#ATTRIBUTE#	331
+#VALUE#\Q than other \E#ATTRIBUTE#	35
+#ATTRIBUTE#\Q is just \E#VALUE#	511
+#VALUE#\Q in your \E#ATTRIBUTE#	236
+#ATTRIBUTE#\Q of the \E#VALUE#	4252
+#ATTRIBUTE#\Q to be s\E#VALUE#	705
+#VALUE#\Q everything on the \E#ATTRIBUTE#	108
+\Q4.5 \E#VALUE#\Qs.\E	54
+#VALUE#\Q on a saturday \E#ATTRIBUTE#	162
+#ATTRIBUTE#\Q the daikokuya \E#VALUE#	92
+#ATTRIBUTE#\Q food and \E#VALUE#	183
+#ATTRIBUTE#\Q about this \E#VALUE#	761
+#ATTRIBUTE#\Q a gr\E#VALUE#	93
+#ATTRIBUTE#\Q, but not gr\E#VALUE#	161
+#ATTRIBUTE#\Q of both \E#VALUE#	199
+#VALUE#\Qs place a \E#ATTRIBUTE#	75
+#ATTRIBUTE#\Q with fried \E#VALUE#	41
+#VALUE#\Q for some \E#ATTRIBUTE#	104
+#ATTRIBUTE#\Q, but not the \E#VALUE#	34
+#ATTRIBUTE#\Q is not too \E#VALUE#	60
+#ATTRIBUTE#\Qs a line out the \E#VALUE#	110
+#ATTRIBUTE#\Q, it is \E#VALUE#	112
+#VALUE#\Q with this \E#ATTRIBUTE#	369
+#VALUE#\Q since the \E#ATTRIBUTE#	96
+\QÊVery \E#VALUE#\Q.\E	45
+#ATTRIBUTE#\Q is just that \E#VALUE#	13
+#VALUE#\Q is that \E#ATTRIBUTE#	104
+#ATTRIBUTE#\Q over 30 \E#VALUE#	124
+#ATTRIBUTE#\Q - very \E#VALUE#	118
+#ATTRIBUTE#\Q has g\E#VALUE#	134
+#VALUE#\Q in the bay \E#ATTRIBUTE#	112
+#VALUE#\Q and macaroni \E#ATTRIBUTE#	322
+#ATTRIBUTE#\Q and pepper ice \E#VALUE#	92
+#ATTRIBUTE#\Q about 5 \E#VALUE#	203
+#VALUE#\Qly like this \E#ATTRIBUTE#	147
+#VALUE#\Qs to be \E#ATTRIBUTE#	149
+#VALUE#\Q and i \E#ATTRIBUTE#	864
+#ATTRIBUTE#\Q can be a \E#VALUE#	256
+\Qthe \E#ATTRIBUTE#\Q was \E#VALUE#\Q.\E	1005
+#ATTRIBUTE#\Q through the \E#VALUE#	123
+#ATTRIBUTE#\Q out the \E#VALUE#	1156
+#VALUE#\Q the wait in \E#ATTRIBUTE#	197
+#ATTRIBUTE#\Q for the \E#VALUE#	1522
+#ATTRIBUTE#\Q so g\E#VALUE#	213
+#ATTRIBUTE#\Q and g\E#VALUE#	435
+#ATTRIBUTE#\Q the pulled \E#VALUE#	41
+#ATTRIBUTE#\Q was n\E#VALUE#	69
+#VALUE#\Q on the p\E#ATTRIBUTE#	168
+#ATTRIBUTE#\Q, but the \E#VALUE#	1066
+\Q4.5 \E#VALUE#\Q.\E	54
+#ATTRIBUTE#\Q here is g\E#VALUE#	215
+#ATTRIBUTE#\Q place for \E#VALUE#	247
+#VALUE#\Q the rest of the \E#ATTRIBUTE#	40
+\Qlove \E#VALUE#\Qs \E#ATTRIBUTE#\Q.\E	59
+#ATTRIBUTE#\Q with good \E#VALUE#	88
+#VALUE#\Q chocolate crunch \E#ATTRIBUTE#	404
+#VALUE#\Q long l\E#ATTRIBUTE#	47
+#ATTRIBUTE#\Q and potato \E#VALUE#	233
+#ATTRIBUTE#\Qs are not \E#VALUE#	122
+#ATTRIBUTE#\Q to eat \E#VALUE#	148
+#VALUE#\Q that this \E#ATTRIBUTE#	539
+\Qbest \E#VALUE#\Q ever!\E	33
+\Qthe \E#ATTRIBUTE#\Q are \E#VALUE#\Q.\E	157
+#ATTRIBUTE#\Q is not that \E#VALUE#	26
+#ATTRIBUTE#\Q here with \E#VALUE#	82
+#VALUE#\Q and french \E#ATTRIBUTE#	162
+#VALUE#\Q is also \E#ATTRIBUTE#	99
+#VALUE#\Q mix of \E#ATTRIBUTE#	182
+#VALUE#\Q so we \E#ATTRIBUTE#	35
+#ATTRIBUTE#\Q is perfectly \E#VALUE#	34
+#ATTRIBUTE#\Q for the p\E#VALUE#	57
+#ATTRIBUTE#\Q are the \E#VALUE#	294
+#VALUE#\Q love this \E#ATTRIBUTE#	165
+#ATTRIBUTE#\Q of onion \E#VALUE#	196
+#VALUE#\Qs of ice \E#ATTRIBUTE#	63
+#ATTRIBUTE#\Q is not as \E#VALUE#	75
+#ATTRIBUTE#\Q too much \E#VALUE#	132
+#VALUE#\Q to give this \E#ATTRIBUTE#	167
+#ATTRIBUTE#\Q were really \E#VALUE#	365
+#VALUE#\Qs is one of those \E#ATTRIBUTE#	45
+#ATTRIBUTE#\Q with no \E#VALUE#	80
+\Qi had the \E#VALUE#\Q \E#ATTRIBUTE#\Q.\E	23
+#ATTRIBUTE#\Q more than 15 \E#VALUE#	57
+#ATTRIBUTE#\Q selection of \E#VALUE#	46
+#VALUE#\Q with great \E#ATTRIBUTE#	191
+#ATTRIBUTE#\Q is w\E#VALUE#	1126
+#VALUE#\Q the hour \E#ATTRIBUTE#	177
+#ATTRIBUTE#\Q with garlic \E#VALUE#	213
+#ATTRIBUTE#\Q was soooo \E#VALUE#	25
+#VALUE#\Q a lot of \E#ATTRIBUTE#	135
+#ATTRIBUTE#\Q a f\E#VALUE#	50
+\Q\E#VALUE#\Qed \E#ATTRIBUTE#\Q.\E	82
+#VALUE#\Q can be a \E#ATTRIBUTE#	69
+#ATTRIBUTE#\Q could be \E#VALUE#	35
+#ATTRIBUTE#\Q their f\E#VALUE#	75
+#ATTRIBUTE#\Q was cooked \E#VALUE#	212
+\Qg\E#VALUE#\Q service.\E	48
+#VALUE#\Qs for this \E#ATTRIBUTE#	350
+#VALUE#\Q and their \E#ATTRIBUTE#	223
+#ATTRIBUTE#\Q of macaroni \E#VALUE#	110
+\Qso g\E#VALUE#\Q.\E	122
+\Qi can't \E#VALUE#\Q to go back.\E	23
+#VALUE#\Q wait for a \E#ATTRIBUTE#	119
+#VALUE#\Q to go with \E#ATTRIBUTE#	37
+#VALUE#\Q, which was \E#ATTRIBUTE#	139
+#ATTRIBUTE#\Q for about 20 \E#VALUE#	230
+#VALUE#\Q as a \E#ATTRIBUTE#	165
+#ATTRIBUTE#\Q and cole\E#VALUE#	150
+#ATTRIBUTE#\Qed in your \E#VALUE#	98
+#ATTRIBUTE#\Qs are a little \E#VALUE#	214
+#ATTRIBUTE#\Q with two \E#VALUE#	197
+#VALUE#\Q in our \E#ATTRIBUTE#	98
+\Qthe service was \E#VALUE#\Q.\E	117
+#ATTRIBUTE#\Q are ridiculously \E#VALUE#	39
+\Q\E#VALUE#\Q food.\E	233
+#VALUE#\Q was extremely \E#ATTRIBUTE#	95
+#ATTRIBUTE#\Q had the \E#VALUE#	112
+#ATTRIBUTE#\Q, but well \E#VALUE#	140
+#ATTRIBUTE#\Q with gr\E#VALUE#	116
+\Q\E#VALUE#\Q \E#ATTRIBUTE#\Q too.\E	23
+#VALUE#\Q with 2 \E#ATTRIBUTE#	97
+#VALUE#\Q for our \E#ATTRIBUTE#	536
+#ATTRIBUTE#\Q here to \E#VALUE#	83
+#ATTRIBUTE#\Q is my \E#VALUE#	35
+\Q\E#ATTRIBUTE#\Q serv\E#VALUE#\Q.\E	54
+#ATTRIBUTE#\Q i ever \E#VALUE#	34
+#ATTRIBUTE#\Q if the \E#VALUE#	48
+#VALUE#\Q with a \E#ATTRIBUTE#	1493
+#VALUE#\Qs and a \E#ATTRIBUTE#	108
+#VALUE#\Q, but not \E#ATTRIBUTE#	330
+\Qno \E#VALUE#\Q.\E	37
+#VALUE#\Q when i \E#ATTRIBUTE#	150
+#ATTRIBUTE#\Qs are quite \E#VALUE#	131
+#ATTRIBUTE#\Q to go w\E#VALUE#	49
+#VALUE#\Q shredded pork \E#ATTRIBUTE#	14
+#VALUE#\Q into the \E#ATTRIBUTE#	118
+#ATTRIBUTE#\Q but not the \E#VALUE#	35
+#VALUE#\Q in long \E#ATTRIBUTE#	90
+#ATTRIBUTE#\Q is great, the \E#VALUE#	104
+#VALUE#\Q to get our \E#ATTRIBUTE#	23
+#ATTRIBUTE#\Qs were very \E#VALUE#	492
+#VALUE#\Q is great, the \E#ATTRIBUTE#	131
+#VALUE#\Qs is your \E#ATTRIBUTE#	44
+#ATTRIBUTE#\Q is friendly and \E#VALUE#	106
+#ATTRIBUTE#\Q is quick and \E#VALUE#	47
+#ATTRIBUTE#\Q in my \E#VALUE#	932
+#VALUE#\Q with no \E#ATTRIBUTE#	95
+#ATTRIBUTE#\Q is one of the \E#VALUE#	202
+#ATTRIBUTE#\Qness of the \E#VALUE#	100
+#ATTRIBUTE#\Q be back to \E#VALUE#	91
+#VALUE#\Q off the \E#ATTRIBUTE#	112
+\Q\E#VALUE#\Q this place!\E	148
+#VALUE#\Q in that \E#ATTRIBUTE#	190
+#ATTRIBUTE#\Q was just \E#VALUE#	410
+#ATTRIBUTE#\Q thing about this \E#VALUE#	140
+#ATTRIBUTE#\Q a g\E#VALUE#	317
+#ATTRIBUTE#\Qes were g\E#VALUE#	224
+\Qworth the \E#VALUE#\Q.\E	77
+\Qsalted \E#VALUE#\Q.\E	34
+#VALUE#\Q before the \E#ATTRIBUTE#	35
+#ATTRIBUTE#\Q the pork \E#VALUE#	295
+#ATTRIBUTE#\Q is soo \E#VALUE#	63
+#ATTRIBUTE#\Qing in that \E#VALUE#	11
+#ATTRIBUTE#\Q this g\E#VALUE#	107
+#ATTRIBUTE#\Q down the \E#VALUE#	401
+#VALUE#\Q order of \E#ATTRIBUTE#	35
+#ATTRIBUTE#\Qs were g\E#VALUE#	397
+#ATTRIBUTE#\Q as my \E#VALUE#	108
+#ATTRIBUTE#\Q as a \E#VALUE#	181
+\Qthis \E#VALUE#\Q is \E#ATTRIBUTE#\Q.\E	228
+#ATTRIBUTE#\Q looked so \E#VALUE#	22
+#ATTRIBUTE#\Q was very g\E#VALUE#	400
+#ATTRIBUTE#\Qed about 25 \E#VALUE#	28
+#VALUE#\Qs to this \E#ATTRIBUTE#	101
+#VALUE#\Qed the baby back \E#ATTRIBUTE#	37
+#VALUE#\Q have to \E#ATTRIBUTE#	93
+#ATTRIBUTE#\Q behind the \E#VALUE#	157
+#ATTRIBUTE#\Q is worth the \E#VALUE#	284
+#VALUE#\Q is just as \E#ATTRIBUTE#	95
+#VALUE#\Q that the \E#ATTRIBUTE#	315
+#VALUE#\Q to our \E#ATTRIBUTE#	184
+#VALUE#\Qed about 20 \E#ATTRIBUTE#	34
+#VALUE#\Q to take \E#ATTRIBUTE#	36
+#VALUE#\Q texture and \E#ATTRIBUTE#	176
+#VALUE#\Q with fried \E#ATTRIBUTE#	113
+#ATTRIBUTE#\Q were very g\E#VALUE#	60
+#VALUE#\Q, i don't \E#ATTRIBUTE#	46
+\Qit was \E#VALUE#\Q \E#ATTRIBUTE#\Q.\E	117
+#ATTRIBUTE#\Q with a \E#VALUE#	2279
+#VALUE#\Q, not too \E#ATTRIBUTE#	93
+#VALUE#\Q down the \E#ATTRIBUTE#	70
+#ATTRIBUTE#\Q the s\E#VALUE#	432
+#ATTRIBUTE#\Q were gr\E#VALUE#	192
+#VALUE#\Q, and the \E#ATTRIBUTE#	2084
+#VALUE#\Q to get a \E#ATTRIBUTE#	260
+#VALUE#\Q part of the \E#ATTRIBUTE#	499
+#VALUE#\Qed right a\E#ATTRIBUTE#	654
+#VALUE#\Q, but i don't \E#ATTRIBUTE#	57
+#VALUE#\Qed in the \E#ATTRIBUTE#	112
+#ATTRIBUTE#\Q to find a \E#VALUE#	45
+\Qthe \E#ATTRIBUTE#\Q was \E#VALUE#\Q!\E	192
+#ATTRIBUTE#\Q, we orde\E#VALUE#	98
+#ATTRIBUTE#\Qing to be \E#VALUE#	400
+#ATTRIBUTE#\Qs in your \E#VALUE#	494
+#ATTRIBUTE#\Qing at the \E#VALUE#	88
+\Qthis place is g\E#VALUE#\Q.\E	98
+#ATTRIBUTE#\Q will come \E#VALUE#	26
+#ATTRIBUTE#\Q french dipped \E#VALUE#	138
+#ATTRIBUTE#\Q restaurants in the \E#VALUE#	132
+#VALUE#\Q as this \E#ATTRIBUTE#	38
+#ATTRIBUTE#\Q but it was \E#VALUE#	168
+#ATTRIBUTE#\Q are gr\E#VALUE#	234
+#ATTRIBUTE#\Q is consistently \E#VALUE#	152
+#ATTRIBUTE#\Q about 15-20 \E#VALUE#	60
+#ATTRIBUTE#\Q is a \E#VALUE#	1934
+#VALUE#\Qs are so \E#ATTRIBUTE#	118
+#ATTRIBUTE#\Q down, the \E#VALUE#	47
+#ATTRIBUTE#\Q was well w\E#VALUE#	114
+#VALUE#\Q was also \E#ATTRIBUTE#	143
+\Qi love this \E#VALUE#\Q.\E	469
+#ATTRIBUTE#\Q here with some \E#VALUE#	79
+#ATTRIBUTE#\Q is not w\E#VALUE#	33
+#VALUE#\Q to the \E#ATTRIBUTE#	1167
+#ATTRIBUTE#\Qd chicken and \E#VALUE#	338
+#ATTRIBUTE#\Q and the \E#VALUE#	4260
+#VALUE#\Q of our \E#ATTRIBUTE#	297
+#VALUE#\Q was a \E#ATTRIBUTE#	430
+#ATTRIBUTE#\Q of the m\E#VALUE#	331
+#VALUE#\Q of potato \E#ATTRIBUTE#	236
+#ATTRIBUTE#\Q we orde\E#VALUE#	296
+#ATTRIBUTE#\Q next to the \E#VALUE#	108
+#ATTRIBUTE#\Q here and \E#VALUE#	95
+#ATTRIBUTE#\Qing for our \E#VALUE#	171
+#VALUE#\Q asian fusion \E#ATTRIBUTE#	181
+#ATTRIBUTE#\Qs are always \E#VALUE#	329
+#VALUE#\Q the 45 minute \E#ATTRIBUTE#	40
+#ATTRIBUTE#\Q, and the f\E#VALUE#	57
+#VALUE#\Q rack of \E#ATTRIBUTE#	252
+#ATTRIBUTE#\Qs on this \E#VALUE#	34
+#ATTRIBUTE#\Q comes out \E#VALUE#	159
+#VALUE#\Q baby back \E#ATTRIBUTE#	447
+#VALUE#\Q of baby back \E#ATTRIBUTE#	197
+#VALUE#\Q than the \E#ATTRIBUTE#	338
+#ATTRIBUTE#\Qs in the \E#VALUE#	914
+#VALUE#\Q all of the \E#ATTRIBUTE#	35
+\Qit was g\E#VALUE#\Q.\E	50
+#ATTRIBUTE#\Q to c\E#VALUE#	57
+#ATTRIBUTE#\Q is totally \E#VALUE#	141
+#VALUE#\Q about the \E#ATTRIBUTE#	438
+#VALUE#\Q and cheese \E#ATTRIBUTE#	255
+#VALUE#\Q for ice \E#ATTRIBUTE#	127
+#ATTRIBUTE#\Q and baked \E#VALUE#	183
+#ATTRIBUTE#\Q ice cream in the \E#VALUE#	89
+#VALUE#\Q at other \E#ATTRIBUTE#	118
+#VALUE#\Q, and a \E#ATTRIBUTE#	157
+#VALUE#\Q to go back and \E#ATTRIBUTE#	194
+#VALUE#\Q sandwich double \E#ATTRIBUTE#	24
+#ATTRIBUTE#\Q was also g\E#VALUE#	83
+#ATTRIBUTE#\Q is over\E#VALUE#	141
+#VALUE#\Q combination of \E#ATTRIBUTE#	294
+\Qse\E#ATTRIBUTE#\Q was \E#VALUE#\Q.\E	68
+#ATTRIBUTE#\Qing for your \E#VALUE#	69
+#ATTRIBUTE#\Q are pretty g\E#VALUE#	60
+#VALUE#\Qs, but the \E#ATTRIBUTE#	171
+#VALUE#\Q or the \E#ATTRIBUTE#	218
+#ATTRIBUTE#\Q is n\E#VALUE#	171
+#ATTRIBUTE#\Q to go \E#VALUE#	1220
+#ATTRIBUTE#\Q is so \E#VALUE#	2584
+#ATTRIBUTE#\Qs and a \E#VALUE#	139
+#VALUE#\Q and good \E#ATTRIBUTE#	178
+\Qamazing \E#VALUE#\Q.\E	40
+#ATTRIBUTE#\Q has been \E#VALUE#	268
+\Qthe \E#ATTRIBUTE#\Q is \E#VALUE#\Q.\E	806
+#ATTRIBUTE#\Qs are gr\E#VALUE#	147
+#VALUE#\Q around the \E#ATTRIBUTE#	197
+#VALUE#\Q lavender and salted \E#ATTRIBUTE#	29
+#ATTRIBUTE#\Q chicken and \E#VALUE#	515
+#VALUE#\Qs for the \E#ATTRIBUTE#	494
+#VALUE#\Q to come back and \E#ATTRIBUTE#	100
+#VALUE#\Q because this \E#ATTRIBUTE#	38
+#ATTRIBUTE#\Q and fried \E#VALUE#	88
+#VALUE#\Q was also very \E#ATTRIBUTE#	62
+#ATTRIBUTE#\Q chicken & \E#VALUE#	220
+#ATTRIBUTE#\Q in our \E#VALUE#	121
+#VALUE#\Q as the \E#ATTRIBUTE#	959
+#ATTRIBUTE#\Q was not that \E#VALUE#	81
+#ATTRIBUTE#\Q customer serv\E#VALUE#	74
+#ATTRIBUTE#\Qes on the \E#VALUE#	91
+\Q\E#ATTRIBUTE#\Q \E#VALUE#\Q.\E	1146
+#VALUE#\Q without the \E#ATTRIBUTE#	33
+#ATTRIBUTE#\Q, but it was \E#VALUE#	154
+#ATTRIBUTE#\Q here with my \E#VALUE#	59
+#VALUE#\Qd of this \E#ATTRIBUTE#	116
+#ATTRIBUTE#\Q is a must \E#VALUE#	66
+#ATTRIBUTE#\Q to take a \E#VALUE#	26
+============Extraction============
+wait	long	4058
+bak	goods	156
+sandwich	bbq	138
+experience	wait	166
+enjoyable	experience	42
+great	line	26
+amazing	food	2858
+busy	times	22
+reat	value	124
+two	table	81
+orth	experience	22
+ood	waited	48
+reat	location	28
+york	york	272
+expectations	place	231
+states	ramen	28
+full	meal	27
+portion	good	250
+area	try	240
+menu	table	62
+home	got	53
+plates	plates	657
+look	delicious	34
+dish	cheese	22
+area	places	234
+rice	chicken	77
+taste	nice	88
+food	fan	143
+broth	ramen	734
+salad	coleslaw	90
+guys	guy	143
+fatty	pork	361
+place	waited	64
+rice	pork	240
+customers	staff	22
+good	seafood	83
+amazing	pancakes	134
+hour	dinner	170
+ood	course	55
+way	restaurant	24
+deliciou	absolutely	251
+good	restaurant	478
+restaurant	good	449
+bad	went	123
+sassy	sassy	102
+deliciou	nice	33
+okay	place	86
+good	steak	197
+worth	ordering	13
+wings	chicken	276
+xtremely	staff	87
+ingredient	ingredients	548
+better	service	531
+difference	difference	369
+packed	night	208
+sandwich	chicken	457
+croissant	chocolate	190
+quick	place	130
+choice	choices	302
+watching	great	22
+textur	noodles	25
+tangy	sauce	362
+came	table	153
+soup	noodles	221
+yummy	yummy	2549
+perfect	ramen	302
+course	courses	184
+cozy	place	118
+ramen	egg	213
+looking	looking	222
+buds	taste	836
+flavor	line	35
+presentation	presentation	375
+hour	two	130
+good	delicious	203
+ramen	eat	70
+say	best	387
+place	decor	191
+ries	burger	42
+best	flavors	25
+sliders	bbq	131
+menu	way	25
+experience	dining	602
+reat	prices	193
+drinks	bar	213
+grilled	octopus	170
+night	hour	102
+three	tars	28
+quality	good	244
+flavor	got	94
+list	place	200
+reat	price	348
+tasty	burger	278
+mouth	meat	258
+food	half	38
+group	small	38
+sooo	good	911
+dessert	amazing	33
+cream	flavor	310
+potatoes	ordered	66
+eat	noodles	36
+dinner	brunch	24
+powder	sugar	178
+mouth	party	295
+full	good	23
+worth	come	35
+sashimi	lunch	70
+soup	ordered	27
+life	ramen	169
+red	auce	221
+ready	order	56
+fri	egg	104
+super	delicious	324
+liking	liking	442
+wait	coffee	25
+southern	california	280
+hits	pot	238
+says	good	42
+reservation	restaurant	87
+food	restaurant	550
+eat	waiting	168
+huge	burrito	102
+make	reservations	92
+home	way	168
+place	find	291
+bruxie	burger	210
+offer	try	28
+dish	ordered	182
+delicious	best	137
+crazy	place	179
+brisket	brisket	653
+bbq	think	35
+small	good	71
+meal	amazing	98
+wait	come	444
+great	restaurant	521
+portabello	fries	483
+reat	dishes	110
+food	stars	292
+reat	coffee	130
+amazing	friend	34
+able	table	36
+dry	bit	324
+good	half	38
+served	side	169
+delicious	beef	222
+home	good	191
+good	benedict	94
+good	fish	272
+cheese	ordered	196
+fri	chicken	322
+service	staff	146
+yelp	place	310
+food	stand	29
+network	food	198
+star	review	338
+good	tartine	132
+ways	wait	144
+ingredients	fresh	114
+bbq	back	48
+onion	pork	36
+salad	comes	70
+coleslaw	fries	61
+good	grub	14
+stars	rating	94
+nice	ambiance	255
+wasabi	noodles	552
+decent	price	261
+salad	potato	831
+wait	love	37
+intense	flavor	11
+light	waffle	29
+menu	good	346
+meal	favorite	164
+ramen	right	27
+joint	food	140
+sauce	spicy	485
+cream	flavors	391
+reading	reviews	244
+avoid	ong	164
+wanted	place	684
+francisco	place	212
+ood	ribs	353
+eat	line	121
+ood	coffee	417
+special	occasion	326
+door	parking	27
+frie	potato	213
+bbq	beans	17
+life	bbq	61
+ood	rice	315
+roup	group	190
+ramen	two	70
+decor	food	29
+steep	rice	13
+pao	chicken	69
+orth	ramen	73
+places	ramen	202
+thi	place	1794
+morning	place	136
+spot	food	181
+pomegranate	sauce	18
+look	place	211
+ood	got	297
+great	texture	164
+amazing	chocolate	159
+breakfast	spot	46
+weekend	dinner	36
+table	dishes	68
+tummy	tummy	93
+great	ambience	38
+place	waiting	160
+coffee	toffee	273
+deliciou	ordered	356
+people	line	507
+sauce	order	49
+ood	noodles	219
+better	places	133
+food	seated	74
+ways	staff	143
+open	line	64
+waffle	fried	816
+mind	wait	84
+food	ordering	66
+experience	experience	5252
+tastic	service	110
+awesome	cream	22
+best	sushi	37
+away	came	154
+places	good	126
+waffle	fries	475
+sides	chicken	27
+good	night	154
+wait	downside	148
+amazing	sauce	636
+dishes	small	38
+soggy	crust	22
+dishe	try	187
+great	appetizer	13
+ood	banana	59
+annoying	wait	11
+min	long	35
+greek	restaurant	99
+ain	coming	76
+amazing	amazing	8027
+great	fresh	37
+scoops	cream	94
+crunch	bar	192
+good	small	191
+pancake	try	93
+parking	small	35
+blown	away	605
+mins	line	72
+flavor	sandwich	146
+quantity	quality	74
+breakfast	places	22
+seat	counter	94
+bread	came	22
+huge	portions	1336
+thi	try	446
+ood	drinks	54
+friends	night	203
+chop	chop	158
+cream	side	76
+table	friends	148
+noodles	beans	120
+toffee	caramel	168
+rock	rock	117
+flavor	combination	92
+restaurant	decor	213
+salsa	cheese	70
+reat	tasted	58
+tart	coconut	41
+ham	croissant	278
+good	portions	314
+ood	good	11864
+saturday	brunch	65
+ood	experience	450
+longer	line	26
+slow	ervice	71
+sizes	portion	23
+food	took	168
+hit	spot	1011
+tart	fruit	63
+toast	chicken	25
+pretty	amazing	301
+pie	beef	26
+beans	sides	30
+pork	ramen	437
+experience	amazing	41
+thi	awesome	126
+good	appetizer	219
+minute	party	102
+minutes	two	65
+sandwich	great	190
+cheese	grits	65
+flavor	small	105
+sandwiches	place	179
+rock	place	120
+food	staff	230
+visit	try	71
+restaurant	pretty	76
+ame	ordered	42
+benedict	catfish	138
+city	best	1143
+minutes	parking	72
+food	dinner	162
+special	try	107
+table	line	329
+food	arrived	24
+restaurant	definitely	183
+sandwiches	pork	136
+item	menu	1373
+cream	delicious	200
+ketchup	fries	80
+place	amazing	531
+say	good	248
+velvet	pancake	141
+different	story	67
+mouth	melt	1925
+egg	broth	29
+spicy	good	65
+menu	think	87
+ingredients	quality	192
+heaven	place	68
+louie	louie	920
+flavors	line	24
+call	order	77
+salted	favorite	13
+wait	hype	23
+deliciou	wait	44
+food	came	326
+chicken	bowl	41
+sauce	mustard	132
+back	lot	250
+good	find	66
+especially	price	26
+friend	night	156
+service	awesome	198
+rings	sides	58
+experience	meal	22
+ambiance	food	277
+ood	friendly	135
+best	pizza	127
+totto	ramen	13
+food	night	135
+better	wait	65
+food	decor	152
+night	favorite	387
+part	experience	228
+soup	noodle	72
+real	good	213
+places	favorite	138
+dish	place	27
+grey	tea	17
+ice	bowl	206
+disappointed	menu	28
+tasty	ramen	310
+ramen	try	271
+beignet	crawfish	235
+try	friends	108
+crispy	chicken	75
+ood	sides	194
+rings	order	271
+chinese	food	249
+beignets	ign	159
+fried	egg	347
+stuff	try	151
+reasonable	quality	112
+wait	overall	63
+red	amb	23
+thi	love	988
+afternoon	sunday	221
+high	place	529
+star	service	411
+hour	night	127
+geniu	gen	51
+sandwich	bit	87
+buns	pork	1390
+great	deal	237
+better	meal	24
+soft	bread	191
+away	took	27
+lavor	texture	126
+place	san	49
+better	meat	28
+deliciou	tender	178
+good	friendly	40
+large	parties	90
+green	beans	398
+dish	side	168
+amount	amount	183
+special	fries	65
+creamy	flavor	18
+good	ramen	3065
+stars	four	179
+francisco	san	1320
+hours	parking	28
+difference	makes	74
+soup	beef	23
+steamed	rice	11
+wine	list	234
+meal	course	74
+restaurant	seated	29
+good	tacos	342
+favorite	bbq	62
+taste	food	315
+food	disappointed	94
+good	lamb	290
+tables	people	145
+fries	love	107
+angeles	favorite	130
+ood	lamb	82
+occasion	special	269
+bad	service	470
+fresh	fresh	1467
+presentation	food	165
+ramen	broth	491
+rating	star	267
+place	restaurant	271
+anytime	soon	345
+modern	decor	203
+wait	parking	163
+place	chicken	74
+bbq	people	24
+big	portion	473
+taste	taste	3443
+park	area	41
+kitchen	table	27
+iced	brisket	15
+authentic	ramen	13
+red	wine	41
+patty	burger	27
+ood	looked	176
+room	room	879
+legit	place	122
+dish	delicious	37
+amazing	ervice	189
+overrated	place	698
+worth	trying	680
+bowl	soup	80
+food	experience	378
+two	party	27
+ood	tacos	207
+sat	bar	459
+best	dishes	22
+top	cream	325
+rest	meal	291
+favorite	rite	36
+disappointed	disappointed	2117
+long	times	28
+big	deal	714
+oodles	broth	43
+sunday	went	368
+lavorful	tender	224
+rench	ordered	97
+pretty	thought	314
+cheese	meat	232
+today	today	628
+beans	fries	172
+stars	food	1060
+tasted	best	688
+great	side	84
+weekend	weekend	361
+understand	stand	63
+ramen	price	23
+ith	service	23
+best	friend	39
+amazing	ordered	245
+bar	place	168
+meat	sauce	390
+seated	hour	317
+good	onion	255
+today	lunch	141
+excellent	meal	12
+ood	pretty	1114
+long	came	30
+crispy	nice	33
+order	pork	176
+back	play	26
+popular	dish	11
+times	wait	245
+ring	salad	37
+right	service	61
+better	bet	1069
+amazing	banana	34
+yummy	place	138
+flavor	amazing	124
+amen	bowl	1449
+taste	broth	133
+good	overall	527
+arrived	food	24
+plate	good	130
+food	joint	96
+size	good	122
+mouth	amazing	34
+cream	sandwich	108
+asparagus	egg	34
+fast	line	559
+group	groups	233
+right	cream	78
+worth	eat	49
+decent	rice	20
+burger	come	33
+good	beignet	146
+menu	ramen	181
+horrendous	wait	14
+slaw	sandwich	65
+ood	burgers	124
+night	good	196
+salsa	good	43
+sandwich	good	430
+weekend	wait	305
+minute	people	105
+back	coming	803
+long	way	178
+wait	make	63
+fries	sweet	307
+seating	long	69
+name	list	544
+space	small	87
+bad	price	56
+taste	ramen	183
+bad	parking	207
+enjoy	place	61
+extra	spicy	12
+bacon	side	140
+favorite	ramen	209
+better	beef	166
+say	food	158
+place	cheap	95
+town	great	23
+good	luck	85
+biscuit	came	28
+park	cream	68
+mouth	ramen	73
+frie	salad	129
+salt	chocolate	94
+ood	salad	483
+deal	deal	1157
+menu	seated	59
+refreshing	fresh	139
+sweet	right	36
+eat	bread	81
+occasion	occasion	319
+chicory	coffee	28
+place	lunch	187
+food	comes	147
+ippudo	ramen	392
+white	wine	18
+bomb	food	76
+sushi	quality	22
+red	dessert	116
+tender	good	66
+worth	way	106
+strong	taste	39
+bread	sandwich	213
+rare	medium	277
+food	way	317
+delicious	got	167
+sausage	side	22
+ramen	side	182
+joint	good	59
+definitely	return	63
+nice	flavor	210
+bar	food	65
+dishes	back	67
+new	orleans	335
+berries	cream	70
+ain	experience	46
+better	bbq	70
+food	eat	125
+friendly	fast	146
+food	work	22
+burger	good	539
+frie	love	84
+beans	side	146
+miso	ramen	417
+back	playing	26
+good	best	652
+good	creme	52
+ood	bread	234
+great	people	190
+table	hostess	63
+steak	ordered	129
+line	minutes	264
+ith	place	99
+deliciou	thought	48
+waits	long	138
+ood	friends	69
+good	favorite	189
+yummy	pork	156
+taco	meat	36
+line	people	526
+bar	seating	96
+soo	good	488
+pres	press	107
+quality	great	119
+delicious	staff	22
+style	place	64
+hour	restaurant	66
+insane	wait	38
+macaroni	alad	408
+way	food	242
+good	dessert	267
+crazy	lines	12
+good	work	16
+small	side	391
+margarita	pizza	18
+bit	weet	186
+cuisine	cuisine	374
+good	friends	240
+side	back	65
+eat	eats	131
+fast	went	151
+pasta	dishes	11
+pricey	rice	69
+spectacular	good	249
+cool	cool	821
+rolls	salmon	165
+food	favorite	62
+free	parking	202
+sauce	got	64
+frie	beans	39
+back	house	91
+restaurant	friend	59
+good	come	285
+hour	people	92
+ood	pizza	695
+half	two	25
+appetizer	fried	63
+brought	table	104
+good	ribs	864
+rave	reviews	124
+red	pizza	11
+drink	food	99
+perfect	right	22
+good	rice	597
+asada	burrito	68
+fish	sashimi	22
+slaw	ribs	22
+good	noodle	84
+chili	chili	327
+deliciou	got	171
+cream	great	212
+red	sugar	93
+broth	soup	63
+touch	touch	688
+onions	pork	25
+people	tables	25
+seat	way	35
+limit	seating	102
+hours	line	152
+best	tartine	11
+salt	balsamic	45
+mouth	tender	193
+ramen	definitely	201
+back	think	151
+ribs	love	117
+burrito	burrito	1349
+afternoon	oon	52
+sauce	cheese	237
+ood	definitely	218
+group	went	177
+crowded	food	25
+menu	went	78
+grits	side	24
+ood	bite	61
+place	broth	37
+eat	got	94
+good	beef	514
+cheese	pizza	72
+good	beer	80
+experience	food	554
+wrong	place	365
+notch	notch	336
+top	crust	26
+ice	cream	13444
+weekday	went	111
+taste	quality	23
+chicago	place	25
+experience	definitely	129
+review	star	166
+alted	got	79
+better	bit	33
+tasting	food	26
+delicious	nice	40
+tasted	cream	124
+sauce	potato	74
+amazing	toast	148
+dinner	good	168
+taste	soup	24
+mouth	good	254
+fri	rice	398
+deliciou	soup	46
+hype	hype	2603
+places	lot	66
+nights	night	27
+overpriced	rice	80
+recommended	highly	520
+ood	burger	647
+sandwich	cheese	246
+pizza	crust	203
+burger	joint	143
+full	restaurant	110
+heaven	pork	63
+friendly	waiter	419
+better	sandwich	168
+wait	probably	52
+house	ramen	155
+meal	dessert	124
+good	cream	1030
+amazing	flavors	229
+sai	place	67
+start	great	101
+birthday	went	191
+concept	concept	210
+belly	sandwiches	28
+order	minutes	349
+best	night	40
+seafood	restaurant	180
+deliciou	meat	173
+taste	texture	75
+perfect	salty	37
+brunch	place	278
+flavor	tender	209
+blowing	blowing	110
+rite	restaurant	95
+nice	service	560
+style	style	349
+going	back	581
+mexican	tacos	11
+delicious	atmosphere	24
+weekend	long	170
+cream	friend	23
+big	big	456
+today	place	23
+wait	seating	35
+better	two	75
+eating	experience	13
+point	service	23
+stop	eating	26
+restaurant	right	223
+www	ordered	25
+impressive	press	72
+great	lunch	165
+friends	two	116
+rice	salad	26
+beignet	ign	120
+deliciou	dishes	95
+friendly	people	262
+side	cheese	191
+bite	love	35
+conversation	sat	38
+terrible	rib	79
+soft	serve	205
+bone	falling	247
+park	park	997
+look	great	106
+night	minutes	127
+king	lot	105
+packed	restaurant	306
+pork	pork	2016
+served	food	26
+sea	minutes	42
+nice	presentation	16
+cream	crunch	23
+went	sunday	59
+lemonade	sandwich	150
+food	think	258
+amazing	try	168
+solid	place	68
+syrup	waffle	67
+four	star	170
+good	chicken	1038
+ood	salsa	110
+food	pretty	140
+price	cheap	36
+wait	side	60
+stars	good	228
+lobster	good	36
+portion	price	63
+eat	price	303
+frie	onion	178
+friendly	servers	298
+recommend	highly	417
+ood	ervice	302
+nice	people	276
+hard	way	11
+toro	sandwich	16
+decent	food	437
+price	wait	204
+caramel	toffee	34
+side	street	22
+top	sweet	28
+price	restaurant	42
+tartine	tartine	1294
+parking	restaurant	26
+pastrami	sandwich	15
+mouth	fish	66
+long	went	60
+rest	night	22
+dinner	long	26
+come	food	68
+lamb	lamb	568
+quality	service	97
+reservations	make	280
+lavender	honey	829
+cheese	favorite	22
+friendly	frie	149
+special	great	38
+place	review	587
+world	favorite	24
+cream	honey	251
+margherita	pizza	355
+good	location	23
+ramen	shop	66
+tasty	beans	25
+food	ramen	160
+sides	beans	23
+wrong	food	65
+slaw	sides	120
+texture	sweet	22
+friend	come	82
+bbq	sandwiches	118
+hassle	hassle	151
+idea	good	73
+delicious	dessert	123
+iced	tea	1555
+sauce	aioli	71
+miles	away	28
+food	people	530
+brisket	best	24
+write	review	119
+party	wait	96
+red	oven	13
+hate	lines	70
+delicious	absolutely	731
+longer	wait	274
+tiny	place	626
+pork	chops	28
+ood	half	49
+delicious	went	60
+went	saturday	72
+sauce	ribs	450
+sat	sat	104
+jus	dip	26
+smoky	flavor	18
+syrup	chicken	74
+brunch	brunch	1062
+side	sweet	133
+months	ago	44
+chicken	pork	185
+tasty	food	801
+chocolate	flavor	78
+fast	great	22
+frie	fried	92
+cream	coconut	38
+brisket	beef	25
+mushroom	frie	130
+crust	good	67
+mustard	spicy	213
+morning	breakfast	177
+hakata	ramen	11
+lunch	good	141
+hot	pocket	11
+amazing	bbq	248
+som	best	1918
+notch	food	72
+frie	fries	2658
+eated	hour	146
+diego	place	383
+quickly	came	174
+sauce	rice	149
+deliciou	came	131
+cheese	cream	150
+eaten	things	33
+efficient	friendly	98
+away	line	125
+potato	potato	174
+seating	place	208
+eat	overall	67
+super	long	48
+bit	sandwich	11
+reservation	place	245
+highly	recommend	320
+brown	ugar	82
+flavor	ribs	148
+fast	pretty	400
+place	pretty	130
+reservation	small	83
+rich	ramen	49
+dessert	sweet	64
+angeles	area	104
+seat	place	143
+ood	chicken	503
+try	food	269
+price	portion	125
+filling	good	132
+lunch	today	120
+good	crust	172
+eat	pork	167
+delicious	burger	474
+asada	tacos	24
+fantastic	ervice	63
+desserts	try	57
+beautiful	decor	23
+tonkotsu	ramen	104
+amazing	rvice	47
+best	bbq	491
+eat	atmosphere	569
+hatch	burger	65
+ramen	went	65
+deliciou	service	143
+ordered	food	167
+pulled	ribs	11
+ellent	service	648
+ain	order	207
+fries	came	145
+tried	ramen	130
+mouth	water	142
+bbq	spot	13
+burger	taste	155
+line	back	87
+wine	beer	24
+cake	dessert	22
+burger	tasty	92
+restaurant	order	48
+yelp	review	375
+sweet	flavors	67
+special	lobster	197
+table	right	137
+rice	lunch	26
+eles	best	108
+rich	taste	39
+ast	friendly	34
+french	fries	832
+great	ribs	225
+tables	restaurant	69
+texture	waffle	25
+deliciou	menu	136
+people	order	54
+ribs	come	22
+bite	burger	66
+string	beans	15
+perfection	sauce	25
+bottom	line	34
+perfect	spice	11
+ood	prices	262
+rings	side	311
+grits	good	39
+eat	server	24
+ood	pricey	46
+deliciou	love	53
+ribs	delicious	94
+perfect	portion	35
+spot	street	36
+stars	price	23
+menu	course	244
+drove	way	24
+look	menu	282
+salad	beef	212
+salty	ramen	76
+dish	sauce	176
+best	bet	12
+macaroon	macaroons	394
+excellent	experience	41
+service	stars	217
+becaus	wait	135
+nice	ramen	26
+reat	sandwich	157
+outstanding	food	299
+place	lines	152
+restaurant	tables	25
+reat	reviews	153
+great	waffle	66
+experience	long	64
+delicious	favorite	36
+tasty	chicken	229
+attentive	waitress	107
+nice	experience	58
+menu	server	28
+great	louie	13
+away	food	215
+apple	sauce	15
+dish	came	80
+nice	dinner	30
+wait	food	1301
+lemonade	ordered	25
+town	friends	70
+nice	nice	1766
+good	breakfast	216
+extra	kick	11
+waiter	waiter	455
+come	side	129
+decent	decent	675
+good	waffle	498
+host	host	154
+meal	went	55
+bad	line	533
+rated	restaurant	14
+line	table	130
+reat	menu	153
+pleasant	service	38
+minute	least	34
+sushi	good	114
+restaurant	bit	87
+shop	shop	387
+best	hands	413
+dish	lobster	65
+salty	taste	469
+reen	noodles	28
+louis	ribs	193
+hype	definitely	252
+reat	idea	52
+eat	dish	36
+bay	restaurants	16
+ood	amazing	112
+expensive	price	50
+sauce	salmon	30
+ood	places	56
+potatoe	ordered	34
+rich	chocolate	92
+stilton	burger	49
+divine	ine	240
+works	work	24
+amazing	noodles	77
+food	definitely	333
+ood	egg	77
+experience	service	272
+line	fast	34
+turkey	burger	18
+perfect	waffle	14
+server	friendly	112
+ribs	got	99
+bar	waiting	155
+riends	group	330
+good	meat	848
+tart	good	42
+minute	long	138
+roll	fried	115
+nets	ordered	45
+ramen	love	226
+good	meal	556
+sunday	sunday	191
+dry	dry	978
+beignet	ordered	125
+great	dessert	85
+top	cheese	211
+ramen	rice	293
+combo	fried	29
+prepared	food	146
+real	ramen	35
+red	lobster	11
+grit	grits	740
+interesting	place	37
+taste	pork	138
+best	tacos	201
+great	tacos	26
+mouth	melted	1016
+reat	pretty	50
+melt	mouth	373
+cream	chocolate	493
+mouth	sauce	135
+waiting	bar	127
+cream	taste	190
+ramen	modern	212
+flavor	think	137
+food	come	319
+good	damn	1154
+rings	got	58
+door	restaurant	25
+small	area	41
+japan	best	143
+bathrooms	room	23
+order	take	103
+delish	food	116
+good	brunch	61
+perfect	salad	54
+star	think	42
+riendly	fast	126
+sauce	dry	40
+great	beef	71
+egg	good	153
+act	love	86
+good	quality	441
+hour	party	38
+night	line	234
+dessert	come	96
+good	sweet	498
+ramen	salad	22
+wait	price	130
+things	things	1104
+food	coma	195
+burger	back	62
+bland	food	24
+item	good	36
+friends	dinner	182
+waiting	wait	61
+hot	sauce	1201
+great	noodles	73
+crunch	crunch	321
+eat	places	165
+reservation	make	205
+place	two	117
+taco	stand	23
+opinion	place	66
+delicious	tart	78
+restaurant	bbq	170
+lavender	caramel	364
+menu	come	223
+treat	place	35
+deliciou	cream	214
+good	beignets	73
+ood	lobster	60
+ordering	ordering	474
+seated	table	210
+superb	food	92
+crazy	line	77
+delicious	bite	28
+restaurant	bar	159
+long	place	710
+weekend	night	29
+sandwich	half	40
+great	best	75
+back	went	130
+vibe	vibe	413
+chewy	meat	23
+fast	food	884
+beans	bbq	30
+meat	best	23
+perfect	food	365
+steaming	ramen	15
+awesome	good	170
+dry	pork	163
+tea	good	154
+meat	cheese	68
+evening	wait	25
+banana	banana	680
+sashimi	dinner	15
+bay	places	11
+umami	burger	2337
+chip	salsa	33
+cool	restaurant	13
+table	plate	27
+great	recommendations	17
+restaurant	going	56
+communal	tables	24
+friendly	guy	24
+different	things	151
+ambianc	place	26
+meats	meat	27
+wait	ippudo	135
+place	went	375
+bean	fries	107
+empty	place	87
+burrito	place	65
+sunday	night	125
+side	coleslaw	59
+portebello	fries	21
+ramen	long	145
+eat	review	22
+back	soon	749
+packed	gets	148
+great	price	455
+worth	dinner	34
+aioli	sauce	47
+crowd	waiting	26
+place	try	1100
+price	food	796
+dry	beef	65
+beach	place	23
+partie	parties	198
+good	tender	139
+reat	salad	143
+hot	came	22
+food	ambiance	228
+place	group	28
+reat	meal	434
+fresh	good	165
+night	food	154
+mouth	fresh	93
+jus	ide	55
+reat	meat	93
+seat	seat	604
+bbq	good	566
+side	ordered	290
+great	sandwich	264
+good	honey	63
+water	park	23
+waitress	nice	36
+hot	broth	52
+present	party	22
+asian	restaurants	11
+item	back	50
+order	counter	309
+try	going	77
+sweetness	sauce	24
+review	times	69
+ones	ones	629
+amazing	ramen	720
+amazing	dishes	75
+flavorful	flavor	544
+wait	seat	160
+flavorful	pork	226
+look	good	240
+sandwich	place	190
+back	baby	49
+salad	best	66
+sauce	dip	24
+back	back	2722
+eptional	service	35
+cake	chocolate	239
+delicious	flavor	312
+night	place	498
+tomato	sauce	408
+wonderful	restaurant	11
+ood	pastries	55
+shank	shank	23
+available	table	75
+angeles	best	359
+prices	prices	1053
+mouth	flavor	171
+favorit	night	264
+meal	long	69
+location	location	1033
+kotteri	flavor	13
+minute	seat	77
+delicious	way	76
+pancakes	try	125
+pancake	banana	34
+pie	banana	209
+rings	beans	57
+beef	meat	22
+chocolate	good	122
+packed	line	173
+bowls	bowl	22
+generous	portion	212
+fries	burger	375
+items	good	59
+flavorful	noodles	100
+worth	place	1101
+fried	rice	1189
+away	table	182
+southern	food	11
+part	food	70
+sauce	sauce	7338
+food	table	336
+best	ribs	312
+lunch	come	213
+flavor	way	33
+right	sweetness	123
+recommendation	friend	34
+order	come	116
+past	weekend	33
+amazing	good	784
+waiting	hour	64
+fries	coleslaw	25
+bbq	places	159
+table	think	37
+watering	watering	77
+area	area	3677
+rice	side	210
+sure	good	35
+sassy	sauce	77
+efficient	service	439
+portion	portion	633
+fair	price	134
+crust	tart	22
+hours	come	78
+good	belly	112
+ribs	order	69
+minute	went	139
+soon	soon	1346
+rice	ordered	198
+awesome	pizza	41
+buns	love	33
+truffle	pizza	24
+omg	best	34
+bay	food	11
+cream	think	91
+big	mistake	66
+friend	went	615
+atering	mouth	98
+tart	banana	401
+delicious	onion	62
+noodles	bowl	284
+better	cream	70
+bruxie	bruxie	725
+counter	food	29
+taste	meat	153
+affordable	prices	24
+tasty	broth	451
+dinner	best	62
+delicious	sweet	225
+swirl	caramel	131
+server	nice	111
+quickly	seated	160
+beef	andwich	22
+pancake	ordered	196
+juicy	tender	227
+burritos	burrito	87
+frie	sweet	200
+clam	pizza	261
+seats	eats	34
+sure	back	99
+bas	bass	390
+big	place	435
+back	came	133
+back	kitchen	57
+flavors	got	45
+goes	way	26
+crust	pizza	260
+seated	people	162
+small	size	297
+anytime	oon	130
+lunch	lunch	2584
+people	small	126
+okay	good	66
+great	pork	216
+good	least	40
+sauce	perfectly	182
+stars	ramen	154
+thi	packed	47
+ood	value	114
+bad	experience	74
+ain	great	55
+bbq	meal	13
+caramel	sauce	38
+eat	think	85
+ood	overall	522
+croissant	cheese	62
+end	place	109
+yum	cream	37
+fudge	fudge	29
+bbq	meat	67
+sandwich	dip	414
+currant	auce	25
+bit	parking	362
+seating	seating	740
+recommended	place	69
+atmosphere	restaurant	180
+delicious	banana	63
+orth	line	166
+area	dining	169
+amazing	reviews	22
+creamery	rite	382
+food	fast	192
+reviews	restaurant	74
+best	places	178
+fine	ine	279
+food	waiting	384
+huge	good	116
+wait	dinner	187
+bbq	smoque	124
+later	minutes	165
+fresh	noodles	100
+enjoyable	meal	13
+ood	eat	138
+office	burger	27
+simply	delicious	248
+food	group	63
+got	got	193
+sauce	taste	208
+pricey	price	79
+mouth	delicious	161
+redible	place	23
+fast	good	158
+good	pie	100
+worth	hassle	14
+bite	pork	67
+special	sauce	215
+okay	ramen	80
+spicy	broth	22
+sauce	tasty	147
+heavy	meal	13
+piece	pie	43
+red	parking	11
+bun	good	176
+burger	small	83
+worth	waited	188
+wonderful	meal	44
+ood	way	634
+lot	line	61
+sandwich	try	175
+fish	quality	196
+door	lines	340
+shared	friend	196
+side	ramen	287
+beignets	crawfish	399
+meal	pork	60
+ago	years	426
+plate	plate	1847
+reat	sides	135
+damn	tasty	33
+great	presentation	36
+crowded	wait	27
+long	lines	2206
+deliciou	looked	61
+bean	beans	713
+beautiful	food	83
+tender	brisket	167
+menu	place	229
+ood	comes	54
+amazing	wait	124
+miss	place	22
+service	amazing	238
+reat	noodles	50
+thi	great	531
+despite	wait	19
+marinara	sauce	17
+boyfriend	came	87
+price	prices	722
+packed	packed	725
+went	night	165
+beans	good	67
+area	waiting	65
+meat	beef	63
+belly	pork	749
+second	second	240
+ramen	ordered	581
+worth	cream	138
+side	small	179
+sid	building	100
+tables	seated	23
+creams	creams	33
+area	long	65
+great	vibe	11
+classic	ramen	130
+greasy	food	44
+bun	ramen	159
+perfect	rice	24
+ood	breakfast	55
+better	flavor	27
+asian	food	13
+sauce	favorite	63
+back	definitely	2258
+italian	restaurant	36
+biscuit	side	61
+perfect	size	44
+friend	friends	1343
+mediocre	food	423
+ramen	big	40
+stars	experience	28
+great	sauce	344
+great	prices	291
+fun	experience	76
+area	best	307
+salty	caramel	288
+damn	place	48
+ramen	come	207
+ramen	bit	93
+future	back	49
+worth	line	1791
+decor	restaurant	171
+back	right	23
+delicious	egg	164
+flavor	food	215
+french	andwich	593
+ood	beignets	85
+delicious	bread	262
+pretty	awesome	285
+lines	long	913
+waiter	waiters	123
+great	taste	285
+fries	potato	353
+quiche	quiche	180
+refreshing	tea	332
+right	broth	29
+brunch	food	13
+waffle	burger	245
+recommend	place	636
+know	good	56
+quality	quality	1252
+name	waiting	71
+ood	dishes	195
+friends	group	133
+food	getting	130
+review	review	1877
+spot	great	171
+ood	damn	277
+specials	special	25
+food	damn	39
+drink	wait	119
+list	restaurant	27
+line	restaurant	148
+atmosphere	good	178
+restaurant	amazing	117
+high	rice	30
+texture	good	144
+ways	place	678
+pork	flavor	177
+hour	food	158
+rating	place	181
+great	choice	97
+angele	restaurant	34
+star	five	136
+hostes	hostess	112
+quickly	went	29
+rench	pancakes	106
+delicious	fried	236
+way	long	25
+restaurant	favorite	410
+times	long	24
+ramen	experience	184
+tables	long	30
+ost	probably	62
+delicious	fries	312
+dry	bread	41
+close	econd	28
+flavor	banana	129
+high	school	24
+ramen	flavor	72
+good	ambiance	95
+surprised	pleasantly	150
+great	night	88
+right	fat	13
+dip	sandwich	485
+occasions	occasions	185
+efficient	staff	64
+room	back	63
+taste	way	64
+better	dip	23
+taste	fresh	42
+oodness	goodness	535
+line	sunday	44
+amazing	came	138
+table	great	70
+waitres	waitress	140
+restaurant	walk	45
+portion	big	178
+level	takes	26
+caramel	lavender	320
+delicious	overall	22
+dinner	chicken	22
+eat	way	150
+friendly	waiters	174
+sauce	try	130
+bowl	rice	321
+space	parking	67
+seated	arrived	22
+special	sashimi	66
+line	pretty	58
+burrito	love	33
+seoul	sassy	233
+amazing	staff	64
+review	try	122
+www	ramen	25
+big	plate	11
+dish	pork	189
+portion	portions	725
+sauce	sassy	42
+good	slaw	206
+eat	eat	1246
+atmosphere	cool	36
+salt	favorite	40
+went	friend	268
+excellent	ordered	23
+great	table	23
+bar	drinks	173
+cream	coffee	167
+restaurant	people	310
+think	best	100
+milk	chocolate	22
+creamery	ame	54
+mexican	restaurants	28
+california	best	180
+worth	pretty	71
+chicken	ordered	219
+poor	ervice	76
+sauce	comes	23
+butter	bread	75
+eal	part	288
+spicy	sweet	68
+place	rock	115
+bone	tender	255
+restaurant	sit	34
+hits	spot	410
+got	eated	37
+nice	waitress	336
+pric	reasonably	97
+veggie	burger	13
+egg	pork	300
+fried	food	28
+pizza	fries	159
+garlic	fries	22
+sweet	liking	48
+minutes	party	145
+room	place	26
+prices	decent	34
+meat	dishes	11
+texture	pork	25
+pretty	disappointed	22
+wait	packed	71
+excellent	ervice	757
+crowded	line	17
+salad	slaw	231
+fat	pork	245
+parking	area	242
+world	ramen	75
+eating	place	134
+ood	fri	88
+taco	taco	950
+favorite	dishes	24
+rub	grub	47
+sauce	egg	72
+salad	dinner	65
+delicious	small	93
+buttery	goodnes	22
+eated	minutes	222
+cheese	delicious	91
+waiting	seated	192
+good	bakery	133
+perfection	cooked	207
+group	good	35
+ood	make	151
+looking	place	201
+owner	owner	135
+thursday	went	64
+stars	reason	81
+wait	people	335
+basi	basis	142
+forever	wait	22
+worth	visit	15
+wait	service	182
+ramen	ippudo	360
+food	quick	91
+sweet	tooth	239
+amazing	desserts	23
+sunday	afternoon	215
+sooooo	good	540
+wall	hole	720
+door	place	313
+hands	best	219
+side	dishes	484
+acquired	taste	14
+size	place	74
+atmosphere	friendly	37
+hot	soup	395
+menu	sweet	24
+meal	back	46
+place	coming	75
+bar	seat	198
+better	restaurant	23
+food	got	131
+take	reservation	248
+city	places	447
+service	long	130
+fairly	quickly	183
+try	got	87
+ice	food	886
+flavorless	flavor	29
+good	brisket	168
+good	pricey	90
+area	find	135
+good	taste	1077
+good	prices	318
+taste	sweet	329
+good	awesome	39
+anyways	way	73
+restaurant	wait	269
+delicious	pizza	381
+half	baby	140
+dishe	come	81
+good	lemonade	42
+wait	good	805
+friendly	owner	35
+noodles	dish	26
+items	menu	1506
+minute	arrived	12
+een	tea	40
+side	cream	64
+wait	experience	128
+bowl	pork	512
+good	stars	166
+sauce	right	151
+burrito	good	106
+sat	table	63
+good	tasty	156
+pancake	pancake	610
+wait	places	22
+thin	good	64
+good	cheese	606
+packed	came	168
+better	make	78
+ain	wait	164
+price	pretty	50
+best	daikokuya	98
+sauce	back	45
+cone	cream	71
+burrito	tacos	230
+two	good	73
+star	two	114
+talking	place	43
+appetizer	pork	140
+salt	banana	35
+great	place	3370
+evening	dish	27
+taste	tastes	273
+tasted	good	192
+worth	meal	42
+watching	people	185
+poached	egg	231
+ceilings	ceilings	178
+ood	sushi	161
+alway	line	81
+good	good	35048
+fried	perfectly	23
+fast	ervice	165
+sandwiches	love	89
+ask	sauce	14
+yolk	egg	75
+average	food	292
+parking	find	400
+tasty	fries	132
+sauce	came	221
+good	think	497
+frie	ribs	177
+dry	taste	44
+egg	soup	25
+empty	stomach	29
+cream	amazing	120
+better	way	387
+tasty	fried	183
+menu	got	54
+bar	restaurant	67
+sauce	fan	128
+worth	money	538
+noodle	wait	33
+birthday	friends	23
+bacon	tartine	47
+oods	goods	124
+quality	place	127
+anniversary	dinner	15
+tasted	great	165
+fast	came	66
+ramen	probably	55
+totally	wait	283
+walls	walls	282
+flavors	great	203
+half	ribs	238
+wait	least	92
+bar	sushi	375
+hot	spot	85
+chocolate	dessert	65
+greek	cuisine	12
+huge	difference	15
+saturday	saturday	168
+busy	great	23
+salty	good	151
+salad	salads	130
+single	flavors	15
+bar	table	254
+meal	fries	27
+ood	sandwiches	184
+good	mouth	54
+noodles	great	23
+brunch	great	37
+sandwich	cream	154
+perfect	pork	129
+reservation	wait	225
+amazing	soup	24
+tender	beef	274
+happy	place	91
+good	menu	607
+table	food	469
+reat	ambience	24
+salt	lavender	172
+menu	looked	60
+review	restaurant	130
+great	try	149
+pairing	wine	565
+ood	flavors	171
+great	bit	34
+part	restaurant	64
+francisco	restaurant	268
+egg	egg	1348
+ried	ramen	37
+back	room	326
+portion	great	36
+dry	ribs	29
+great	things	101
+food	looking	126
+bet	bet	81
+flavor	soup	153
+ice	ambiance	104
+good	bread	564
+sandwich	food	22
+pulled	pork	938
+cookie	chocolate	64
+helpful	frie	29
+amazing	menu	158
+right	ramen	115
+experience	sushi	26
+taste	ribs	29
+ice	amazing	61
+place	night	217
+atmosphere	great	531
+good	price	710
+delicious	fan	23
+appetizer	appetizer	928
+dinner	wait	249
+ramen	joint	35
+red	ramen	45
+awesome	salad	61
+great	looking	44
+worth	effort	11
+quick	staff	68
+evening	place	68
+worth	bit	310
+flavor	nice	246
+food	fresh	108
+bbq	sandwich	62
+rib	meat	109
+fries	ordered	498
+got	alted	126
+afternoon	afternoon	273
+good	combination	87
+absolute	favorite	29
+minute	waited	831
+bruxie	love	37
+deliciou	friend	85
+food	house	24
+restaurant	nice	189
+sauce	love	194
+helpful	nice	33
+end	line	23
+ood	fan	92
+sour	cream	317
+pudding	banana	22
+friend	group	95
+san	best	186
+restaurant	back	131
+short	wait	385
+awesome	great	114
+cares	car	33
+star	dish	62
+flavorful	beef	25
+mouth	flavors	142
+place	burger	202
+ribs	brisket	152
+pizza	salad	76
+interior	restaurant	31
+stars	best	22
+amazing	meat	63
+delicious	bass	65
+rocks	rocks	276
+sauce	two	24
+amazing	meal	252
+water	water	400
+night	took	23
+hour	place	317
+dessert	cake	24
+great	breakfast	89
+ood	night	57
+amazing	thought	56
+awesome	food	970
+dishes	order	50
+dip	sandwiches	234
+cream	good	616
+salt	good	39
+burger	order	51
+good	right	237
+reen	beans	147
+long	ine	45
+tasty	sweet	24
+deal	big	210
+bit	flavor	62
+great	find	39
+hour	went	159
+actually	good	23
+order	lines	24
+line	got	129
+better	choice	11
+good	service	3654
+cool	decor	49
+deliciou	order	71
+come	place	368
+overall	overall	444
+loved	love	464
+friend	waited	37
+worth	two	35
+broth	place	25
+spice	spice	292
+size	restaurant	24
+dessert	came	64
+counter	wait	67
+good	people	422
+walk	away	39
+order	ramen	551
+new	experience	11
+town	place	275
+brunch	come	34
+food	reviews	61
+ood	table	63
+prices	quality	22
+cake	cream	122
+split	friend	179
+memorable	meal	11
+excellent	rvice	331
+brisket	good	36
+goods	goods	370
+sandwich	side	233
+high	price	371
+sunday	came	393
+burger	cheese	143
+delicious	ramen	1134
+recommended	recommended	323
+excellent	flavor	42
+minute	place	127
+great	bar	79
+place	experience	168
+noodles	came	64
+hot	place	55
+hour	lunch	240
+friends	back	63
+carmel	carmel	58
+eat	flavors	110
+good	table	166
+people	group	168
+nets	crawfish	118
+place	disappointed	34
+chicago	smoque	24
+ood	dinner	65
+hours	wait	848
+better	ervice	68
+waffle	sandwiches	383
+wait	hostess	61
+rating	rating	444
+sauce	tender	266
+town	good	24
+loves	place	29
+great	bbq	586
+lunch	special	282
+atmosphere	atmosphere	1626
+dishes	come	123
+favorite	spot	29
+door	walked	87
+car	car	274
+salad	salad	2797
+incredible	place	40
+perfect	flavor	221
+wait	right	146
+line	dinner	25
+location	food	64
+worth	try	201
+positive	reviews	72
+top	list	429
+sign	sign	382
+side	onion	58
+talk	food	24
+onion	cheese	40
+business	place	63
+line	long	2378
+bowl	fried	60
+lot	food	59
+good	reviews	386
+soup	salad	67
+pecial	ordered	153
+cheese	brisket	67
+best	rite	18
+great	amazing	92
+meat	ordered	22
+berrie	berries	127
+best	breakfast	15
+dining	dining	208
+delicious	right	22
+roasted	banana	762
+food	bar	74
+order	onion	22
+ravy	maple	48
+broth	great	22
+reservations	restaurant	25
+tasted	tasted	1060
+fine	service	25
+date	night	54
+chinese	restaurants	96
+deal	good	174
+bowl	got	52
+right	place	425
+rings	sweet	31
+try	bbq	36
+open	kitchen	306
+wine	food	65
+lunch	food	65
+sushi	fresh	100
+place	pizza	117
+big	restaurant	47
+value	value	413
+reason	reason	780
+thi	super	49
+good	burger	1166
+chocolate	ouffle	22
+amous	try	48
+corner	place	74
+soft	erve	68
+delicious	try	184
+shot	place	23
+sauce	side	844
+deliciou	rice	45
+pizza	great	163
+bean	burrito	298
+table	seating	105
+oat	cheese	178
+wait	friend	143
+roll	tuna	34
+fan	place	251
+restaurant	friends	123
+amazing	auce	112
+best	best	3534
+burger	place	249
+taste	beef	22
+fresh	cheese	22
+line	place	888
+side	comes	194
+pork	bowl	445
+dressing	salad	226
+potatoe	side	90
+good	salad	906
+cheese	best	23
+highlight	meal	324
+lamb	sandwich	208
+reat	ramen	509
+deliciou	fish	79
+tried	best	229
+group	come	124
+parking	spot	105
+angeles	place	197
+consistently	good	32
+salad	ordered	292
+eating	food	117
+got	emon	38
+friendly	place	218
+simply	best	23
+great	ramen	775
+worth	good	455
+reat	definitely	151
+ood	frie	94
+cheese	salad	24
+meat	pork	145
+combo	ordered	72
+wait	find	62
+delicious	sushi	26
+apple	apple	200
+great	sweet	75
+mouth	orgasm	42
+delicious	back	48
+ten	minutes	26
+wrong	ong	539
+small	tables	119
+bit	table	22
+unique	taste	34
+bar	seated	380
+away	away	3021
+try	try	4967
+cream	ordered	149
+delicious	two	62
+food	bbq	178
+great	times	61
+night	restaurant	68
+bar	people	77
+experience	friends	27
+pork	dip	13
+try	ramen	175
+dish	sweet	22
+roll	ordered	24
+avoid	line	142
+creme	tart	30
+party	people	171
+good	sandwiche	16
+decor	modern	40
+meat	meat	3141
+beignet	beignets	525
+small	place	2682
+wait	small	170
+middle	room	22
+night	come	61
+pizza	margherita	301
+pork	rib	37
+dish	good	296
+loud	food	77
+drink	good	34
+friendly	server	359
+burger	menu	135
+burgers	burger	68
+deliciou	caramel	44
+eat	ramen	645
+flavors	flavors	2969
+experience	restaurant	181
+flight	beignet	367
+tacos	cheese	62
+ood	fries	678
+cheese	beef	281
+extra	noodle	22
+burrata	pizza	196
+everyth	place	124
+better	waffle	24
+dinner	friend	219
+eat	lot	73
+awesome	awesome	3787
+waffle	creme	57
+burger	waffle	152
+worth	went	33
+going	knew	38
+overpriced	food	74
+ood	fried	149
+ood	taste	744
+people	restaurant	200
+loud	atmosphere	25
+japan	good	26
+high	ceiling	263
+boiled	egg	732
+soup	soup	1699
+star	ramen	166
+prices	portions	67
+pretty	service	81
+ries	side	206
+better	food	730
+angele	place	95
+rings	rib	22
+delicious	bit	116
+meat	tasty	34
+sit	sit	287
+meat	taste	136
+excellent	good	153
+ood	tasty	69
+line	morning	89
+reen	onion	24
+good	sandwiches	372
+priced	food	150
+meal	way	317
+good	bun	272
+wait	reviews	26
+delicious	big	43
+extra	sauce	149
+waffle	good	227
+truffle	burger	1185
+experience	went	65
+reservations	take	355
+share	good	71
+groups	groups	348
+min	waiting	57
+minutes	people	152
+waffle	waffle	1982
+flavor	love	152
+got	amb	98
+bowl	bowl	2113
+great	sides	178
+mushrooms	mushrooms	394
+delicious	toast	79
+deliciou	definitely	84
+best	service	247
+rib	side	96
+excellent	service	2190
+kick	spicy	123
+place	staff	27
+area	restaurants	227
+sauce	amount	140
+frie	bbq	39
+satisfying	meal	67
+opinion	good	132
+good	home	70
+taste	mouth	64
+pancakes	banana	25
+lemonade	salad	147
+ring	fries	297
+soooooo	good	29
+dishe	night	23
+chocolate	tart	26
+mexican	food	1839
+city	place	797
+good	amazing	305
+group	dinner	15
+order	took	245
+favorite	restaurant	491
+truffle	cheese	11
+juicy	chicken	281
+table	staff	22
+sweet	caramel	68
+reservation	take	135
+nice	looking	16
+night	eat	50
+noisy	restaurant	41
+exceptional	food	123
+believe	hype	403
+flavor	back	87
+limited	ating	51
+comes	side	70
+friendly	great	181
+taste	cream	75
+highly	recommended	504
+ood	plate	102
+better	ramen	724
+rush	dinner	115
+line	parking	201
+cooked	way	53
+chocolate	croissant	206
+hours	meal	22
+sweet	cream	240
+fficient	service	27
+mouth	food	57
+dessert	course	114
+counter	sat	80
+ago	ago	384
+dessert	chocolate	236
+suck	parking	111
+way	line	83
+ribs	great	68
+area	restaurant	304
+try	great	200
+ain	place	137
+reat	got	68
+cheese	good	264
+decided	friend	288
+ood	dessert	79
+sashimi	fresh	87
+breakfast	breakfast	1554
+fresh	tuna	37
+job	job	302
+top	service	41
+broth	bowl	156
+idea	idea	584
+french	macaroons	15
+amazing	got	87
+service	meal	127
+seated	bar	251
+drive	way	143
+back	home	268
+table	able	121
+bit	alty	251
+hard	bread	41
+good	parking	71
+ood	long	127
+quality	meat	434
+thi	restaurant	73
+flavor	definitely	169
+quality	sushi	65
+decor	decor	776
+counter	right	23
+slaw	side	176
+tender	lamb	66
+egg	ramen	280
+dip	lamb	143
+eat	quality	325
+worth	minutes	200
+lacking	flavor	40
+told	wait	25
+cream	cream	6323
+specials	lunch	23
+menu	dessert	203
+lines	good	23
+genius	gen	100
+restaurant	visit	23
+rib	got	69
+yum	yum	134
+table	small	171
+spot	bar	33
+generous	portions	434
+thi	amazing	179
+flavorful	chicken	31
+bowl	friend	22
+deliciou	place	269
+ood	bun	165
+menu	stuff	157
+friendly	nice	130
+dinner	took	22
+ide	order	47
+fast	friendly	42
+ordered	modern	238
+restaurant	menu	62
+eat	back	49
+park	back	44
+dishe	back	69
+hot	staying	11
+good	rib	117
+oven	pizza	173
+reat	pizza	186
+service	wait	223
+sushi	sit	102
+currant	sauce	78
+potatoes	mashed	42
+business	ines	37
+worth	hour	299
+sweet	sauce	636
+meat	bread	85
+fusion	asian	91
+good	salsa	234
+nice	place	779
+food	away	129
+combo	good	33
+good	bit	278
+life	cream	68
+share	order	69
+sucks	wait	23
+french	laundry	11
+ood	pancakes	78
+away	restaurant	24
+dinner	dinner	3681
+bean	ordered	36
+good	big	172
+burger	definitely	128
+weeks	weeks	64
+beet	salad	17
+table	came	407
+mmm	good	62
+ramen	menu	173
+people	food	209
+cozy	restaurant	11
+order	order	1471
+good	salty	42
+food	network	184
+deliciou	sandwiches	82
+delicious	mouth	52
+back	table	396
+moist	chicken	185
+enerous	portion	25
+toast	good	133
+taste	best	27
+good	staff	210
+soft	meat	119
+suck	sucks	394
+taste	amazing	39
+eat	place	2929
+eat	minutes	74
+seoul	assy	82
+bone	right	586
+pretty	restaurant	58
+reat	chicken	59
+meal	great	696
+japanese	food	36
+counter	sit	272
+delicious	tender	192
+food	review	139
+early	dinner	193
+place	hour	94
+great	crust	11
+star	great	86
+menu	waiter	22
+friendly	taff	357
+restaurant	food	539
+back	probably	67
+place	price	63
+small	plate	191
+becaus	long	74
+night	group	27
+getting	seated	23
+bbq	best	248
+small	menu	90
+een	beans	98
+bowl	sashimi	24
+cooked	meat	224
+dip	good	121
+kitchen	kitchen	670
+great	staff	349
+thinking	place	75
+hear	place	634
+went	group	150
+packed	went	152
+reat	choice	29
+flavor	chocolate	142
+right	noodles	26
+customer	ervice	453
+coleslaw	salad	210
+look	look	179
+arlic	aioli	150
+minutes	good	74
+sauce	burger	27
+ood	love	430
+restaurant	experience	172
+refreshing	sweet	27
+better	tasted	157
+amazing	dish	75
+home	right	26
+ood	portion	119
+experience	dinner	24
+counter	seat	124
+away	place	317
+did	try	281
+sauce	lobster	27
+morning	wait	134
+tasting	menu	1414
+dishes	ordered	178
+regular	menu	211
+salad	dip	79
+beer	beer	832
+recommend	recommend	427
+ood	two	60
+fun	place	45
+things	try	239
+definite	place	480
+line	lunch	141
+flavor	fried	22
+rib	ordered	168
+line	arrived	155
+price	bit	116
+flavorful	dish	22
+ood	think	313
+trying	place	117
+course	wine	25
+lunch	line	22
+ring	back	78
+table	took	155
+nice	kick	64
+deliciou	mouth	55
+great	desserts	38
+seated	place	80
+cobbler	cheese	26
+place	big	220
+meal	part	535
+spot	place	223
+eats	eats	204
+crawfish	beignets	403
+ring	baby	69
+big	party	11
+comfortable	table	32
+small	dish	55
+menu	menu	5697
+eat	cream	35
+order	line	532
+place	bit	253
+mouth	texture	24
+beignets	chocolate	83
+order	call	249
+good	bbq	1225
+redible	food	132
+place	super	44
+better	ribs	145
+worth	service	37
+brisket	ribs	123
+crispy	skin	60
+flavor	right	153
+stand	line	180
+friday	went	318
+amazing	dessert	128
+meat	burrito	144
+ood	come	95
+dry	side	78
+ago	came	31
+wait	arrived	137
+ramen	people	132
+lucky	luck	65
+order	came	182
+good	bar	172
+deliciou	ribs	192
+salad	bbq	24
+cafeteria	food	11
+tasty	ordered	190
+highly	place	640
+soft	bun	166
+salty	salt	122
+red	taste	18
+green	sauce	153
+ood	look	62
+packed	small	34
+worth	getting	49
+table	comes	56
+texture	ramen	72
+delicious	bun	211
+eaten	best	415
+back	hope	33
+great	ordered	135
+life	tasted	35
+delicious	damn	62
+eat	service	3934
+smooth	cream	22
+ood	place	2057
+star	half	36
+watering	mouth	88
+restaurant	small	309
+great	dish	197
+jus	side	296
+table	arrived	144
+spicy	mustard	335
+excellent	pork	133
+fries	salad	419
+line	went	294
+tacos	place	186
+ood	burrito	97
+ood	try	250
+tokyo	ramen	204
+white	walls	39
+reviews	food	25
+wait	busy	136
+best	cream	211
+menu	bar	24
+table	ramen	22
+ood	ambiance	98
+delicious	thought	149
+pork	taste	26
+thin	crust	331
+work	work	901
+treat	treat	872
+cramped	place	85
+cream	eat	45
+good	verything	22
+ood	dip	83
+lunch	sashimi	77
+great	house	22
+place	menu	131
+available	able	33
+right	amount	62
+green	onions	643
+home	took	167
+salmon	salmon	366
+menu	wait	237
+tomato	auce	153
+sauce	buns	94
+chop	chops	232
+bbq	taste	24
+great	experience	1206
+group	place	191
+service	experience	152
+place	friend	354
+beignets	apple	22
+cheese	great	37
+small	space	127
+illed	octopus	35
+stuff	menu	158
+perfect	broth	254
+nice	great	26
+night	late	133
+ring	bbq	34
+seated	restaurant	68
+restaurants	favorite	152
+bar	chocolate	272
+ood	service	2937
+mushroom	mushrooms	270
+hot	fudge	81
+pork	brisket	184
+best	good	339
+disappoint	place	201
+joint	ramen	123
+restaurant	waiting	64
+side	dry	37
+city	bakery	22
+experience	place	409
+flavor	ordered	128
+sit	counter	79
+sweet	waffle	207
+fries	chicken	231
+sandwich	went	63
+worth	ine	304
+people	good	232
+city	bbq	293
+dish	ramen	79
+francisco	cream	128
+middle	table	103
+good	bite	186
+seating	area	32
+tasty	tasty	3740
+lamb	beef	163
+eat	sandwich	136
+chips	salsa	79
+ried	got	61
+delicious	tacos	66
+flavors	two	134
+delicious	brisket	22
+quick	long	70
+early	place	137
+worth	experience	83
+big	pancakes	23
+cheese	tacos	234
+hour	come	149
+worlds	best	163
+dishes	best	26
+bean	sauce	15
+sugar	sweet	25
+minute	table	620
+sauce	house	27
+ood	nice	151
+frie	slaw	84
+quickly	pretty	127
+appetizers	appetizer	99
+egg	noodles	68
+ish	quality	114
+dining	area	403
+name	place	69
+bun	meat	65
+quality	food	951
+ordered	dish	22
+pancake	order	80
+friendly	service	2608
+restaurant	lot	221
+solid	food	45
+melts	mouth	497
+lunch	friends	62
+ood	tuna	58
+rib	beef	423
+exceptional	good	24
+saturday	lunch	71
+filling	delicious	33
+attentive	nice	98
+sweetnes	sweetness	314
+top	good	136
+eat	flavor	427
+poor	service	187
+light	cream	23
+counter	people	61
+night	best	214
+bar	got	50
+pork	special	24
+stars	five	382
+minutes	bar	25
+sauce	tasted	135
+great	flavor	493
+nice	sauce	259
+tacos	burrito	24
+bit	bland	112
+sunday	wait	66
+ood	great	1093
+sauce	chop	41
+line	weekend	46
+salty	weet	102
+orth	hype	153
+absolute	place	216
+got	restaurant	97
+huge	fan	205
+places	food	61
+place	good	1986
+breakfast	morning	38
+dip	dips	113
+delicious	taste	152
+delicious	flavors	254
+amazing	burger	244
+mexican	restaurant	162
+month	months	117
+drinks	drinks	554
+flavors	try	510
+pancakes	pancakes	1797
+cream	toffee	34
+ramen	nice	96
+caramel	try	192
+ramen	hour	98
+night	party	28
+gets	gets	203
+small	burgers	59
+unique	flavor	467
+texture	texture	1249
+crawfish	beignet	828
+side	sides	920
+ood	tea	158
+eat	sauce	282
+bar	long	25
+deliciou	fresh	250
+place	downside	112
+seated	half	35
+restaurants	area	143
+great	decor	25
+love	tartine	94
+beef	rib	80
+cooked	perfectly	1518
+night	night	4758
+wait	pork	25
+rice	bowl	555
+crappy	service	12
+brulee	creme	392
+bones	meat	170
+order	place	325
+hour	came	159
+tasty	sauce	404
+morning	buns	168
+vinaigrette	salad	23
+toasted	coconut	264
+weekend	went	123
+call	call	72
+flavors	taste	157
+gem	place	83
+eat	stuff	60
+orth	place	499
+sandwich	pork	436
+expensive	expensive	680
+dishes	try	343
+ood	onion	76
+riendly	quick	94
+bit	place	686
+side	dip	171
+ramen	house	150
+big	bowl	34
+tasty	great	27
+side	burger	150
+nice	food	477
+stomach	stomach	373
+bbq	bbq	3345
+jus	sandwich	23
+great	company	41
+stay	away	28
+salty	liking	13
+tables	small	92
+reat	ervice	396
+fries	onion	308
+delectable	table	76
+yelp	reviews	855
+fish	fresh	285
+try	people	35
+flavors	back	63
+worth	parking	138
+ribs	back	285
+menu	favorite	136
+three	star	86
+mall	ordered	48
+sauce	flavor	270
+som	reviews	23
+away	good	156
+good	burrito	174
+terrible	service	118
+brunch	try	23
+back	menu	65
+ribs	baby	258
+burger	size	127
+extra	noodles	397
+cream	way	57
+ain	long	47
+meal	small	37
+awesome	broth	13
+loud	restaurant	249
+reat	cream	44
+good	toast	279
+gyoza	ramen	59
+hour	took	34
+good	probably	71
+food	dishes	60
+waiting	place	126
+amen	lot	33
+pasta	dish	91
+crowd	lunch	62
+hour	least	124
+seating	wait	26
+menu	ordered	291
+amazing	pretty	208
+touch	nice	304
+pork	soup	64
+food	party	22
+cheddar	cheese	181
+tooth	sweet	154
+good	friend	300
+scallions	pork	27
+lobster	lobster	932
+restaurant	part	24
+two	wait	67
+frie	sauce	94
+overpriced	price	84
+sandwiches	great	68
+fries	food	26
+seated	good	26
+raw	fish	26
+bone	sauce	153
+seat	wait	640
+friends	friends	1997
+ippudo	wait	62
+ood	part	49
+super	good	424
+ramen	wait	423
+ramen	expensive	38
+rich	broth	634
+nice	texture	13
+salty	sauce	121
+people	long	162
+ramen	order	98
+ippudo	ippudo	1156
+night	try	67
+make	make	114
+tasty	dish	178
+times	line	26
+salad	onion	77
+reat	flavor	325
+home	back	78
+eat	nice	84
+drink	drinks	551
+times	good	174
+fries	slaw	168
+way	drive	96
+door	line	3251
+ome	best	142
+smile	face	216
+ginger	bass	254
+salad	chicken	175
+baked	good	262
+cooked	egg	58
+person	good	25
+oing	place	25
+business	ine	75
+place	busy	292
+satisfying	sat	98
+italian	food	11
+cole	law	294
+sides	cheese	23
+ood	wait	278
+caramel	banana	239
+open	waiting	22
+food	probably	53
+back	food	677
+bite	took	251
+good	waited	83
+cute	place	339
+mediterranean	food	14
+good	times	280
+place	meal	26
+hours	place	164
+tender	auce	34
+literally	literally	48
+liver	toast	45
+place	meat	133
+ordering	food	24
+rings	chicken	26
+favorite	night	322
+small	table	78
+line	came	222
+clean	place	426
+deal	great	153
+pizza	back	50
+back	restaurant	659
+manly	burger	324
+table	place	513
+miso	soup	169
+style	family	161
+dying	place	22
+quick	rvice	46
+rib	best	118
+juicy	sauce	36
+table	back	114
+sunday	place	23
+amazing	delicious	88
+burger	side	67
+long	waiting	524
+fancy	restaurant	13
+taste	burger	131
+area	favorite	68
+waffle	cream	129
+food	cool	39
+cream	best	195
+ingredient	fresh	104
+lot	street	120
+table	bit	98
+amazingly	good	230
+creamy	broth	13
+ice	service	48
+delicious	tea	25
+special	ramen	180
+table	big	39
+eat	take	45
+place	expectations	114
+bites	bite	39
+ide	ordered	81
+food	friendly	200
+mediocre	ramen	14
+early	line	128
+waiting	waiting	1059
+small	ramen	215
+definitely	wait	411
+banana	cream	126
+sliders	pork	143
+good	took	144
+good	super	112
+thi	delicious	56
+table	table	5678
+rocks	place	270
+flavor	lot	137
+flavor	cream	496
+deliciou	burger	143
+fantastic	restaurant	11
+stars	wait	293
+oing	back	189
+cream	sweet	221
+back	meal	22
+salad	baby	53
+delicious	good	394
+extra	flavor	30
+pretty	fast	647
+lemonade	side	22
+tasty	tacos	24
+table	minutes	973
+dipped	sandwiches	248
+perfect	sweet	558
+dishe	place	85
+away	right	894
+stew	stew	124
+burger	meat	77
+quick	wait	33
+ramen	minutes	22
+rings	potato	132
+bass	bass	588
+side	two	103
+problem	place	66
+waffles	waffles	1093
+delicious	think	120
+good	chocolate	437
+special	pork	121
+tasty	side	63
+try	come	845
+dessert	place	57
+mouth	belly	37
+eat	make	51
+dente	noodles	74
+minute	saturday	48
+friend	best	62
+money	place	71
+umami	ketchup	93
+hype	think	101
+bar	minutes	132
+meal	nice	138
+excellent	fries	24
+bad	idea	22
+gourmet	burger	73
+weekends	wait	179
+good	amazingly	51
+night	wait	537
+pizza	amazing	91
+noodle	broth	338
+pork	bun	532
+away	minutes	23
+back	review	23
+meal	definitely	166
+top	chocolate	66
+ome	place	368
+downside	place	184
+mouth	bite	177
+names	list	27
+flavor	noodles	149
+waitstaff	waitstaff	67
+salad	rice	77
+full	baby	194
+menu	things	541
+salt	try	34
+came	friends	94
+bean	side	43
+dips	dips	170
+done	eating	22
+orth	food	508
+small	restaurant	1007
+salad	ribs	269
+bbq	san	86
+cheese	side	182
+enerous	portions	201
+lunch	pecial	30
+menu	best	248
+meat	quality	425
+restaurant	overall	22
+meal	got	53
+baked	apple	40
+years	years	439
+amazing	simply	263
+cream	lavender	170
+gets	place	71
+ood	star	45
+seat	people	33
+flavor	dish	197
+ine	friend	156
+socal	burger	15
+fresh	seafood	35
+restaurant	dinner	63
+side	spicy	27
+unbelievable	able	46
+meal	delicious	159
+fantastic	place	294
+taste	flavors	68
+mac	salad	209
+long	ramen	22
+salad	back	56
+right	line	43
+great	location	51
+flavor	caramel	306
+area	table	27
+ood	tuff	164
+combo	chicken	58
+bun	buns	1104
+bar	service	67
+table	bar	396
+ago	weeks	161
+experience	nice	88
+table	name	40
+carameliz	onions	33
+ramen	came	186
+noodles	wait	62
+french	andwiches	448
+bad	good	213
+ood	ordered	318
+favorite	chocolate	118
+helpful	staff	549
+plate	food	141
+better	sandwiches	25
+bone	fall	1512
+hot	food	173
+tasty	place	175
+small	portions	715
+cream	cheese	225
+eles	place	45
+sandwich	sandwich	4170
+minute	two	33
+frie	ordered	381
+main	dish	89
+bones	fall	42
+impressed	food	237
+table	prepared	68
+oil	pork	28
+bartender	bar	24
+excellent	sauce	26
+ingredients	ingredients	841
+people	come	126
+overrated	think	40
+food	take	68
+food	delicious	743
+minutes	night	135
+dipped	andwich	142
+good	reason	545
+eat	deal	181
+special	treat	14
+new	place	367
+belly	belly	570
+syrup	maple	269
+bar	order	59
+oodles	bowl	128
+town	definitely	67
+good	sign	372
+experience	overall	585
+waiting	area	31
+good	mood	13
+packed	place	3079
+york	place	24
+town	food	30
+back	wait	3589
+deliciou	lamb	81
+prices	place	74
+yummy	salad	65
+cream	fan	177
+tiny	portion	23
+fantastic	ramen	82
+experience	eating	26
+place	sushi	205
+finish	meal	33
+fries	sides	79
+worth	table	120
+wait	stand	55
+good	cheap	41
+love	love	3903
+flavor	pretty	56
+take	reservations	363
+free	refills	158
+share	friend	65
+meal	ramen	27
+awesome	pork	197
+back	going	697
+tip	sandwich	42
+minutes	table	885
+experience	come	23
+joint	place	122
+entire	menu	17
+better	chocolate	23
+strong	flavor	64
+fast	fast	1412
+wait	prepared	504
+line	night	183
+top	egg	141
+side	dishe	67
+eggs	egg	162
+deliciou	salad	102
+dish	favorite	198
+tender	tender	1099
+table	pizza	25
+scoop	scoop	237
+simple	menu	330
+delicious	noodles	197
+scoop	cream	174
+away	got	96
+good	side	533
+taco	best	54
+menu	took	23
+seat	long	63
+flavor	tasted	118
+deliciou	chocolate	129
+deliciousness	deliciou	44
+wednesday	went	22
+coma	food	234
+good	eat	159
+lamb	chops	419
+grits	fried	23
+orth	trip	150
+ood	times	205
+ready	place	78
+side	salad	699
+wait	name	184
+great	brunch	36
+waffles	fried	182
+bbq	restaurants	13
+ood	cheese	253
+read	reviews	367
+spot	parking	219
+grey	earl	308
+good	way	881
+seated	back	47
+heart	place	260
+tender	side	31
+salty	soup	77
+ramen	noodles	534
+shorter	wait	108
+sandwiche	good	111
+wait	stars	140
+bleu	cheese	13
+rice	combo	213
+eat	great	1413
+good	two	212
+red	velvet	13
+night	two	22
+bad	came	69
+ago	two	26
+great	wait	185
+ambiance	great	195
+home	place	142
+tonight	night	27
+amazing	chicken	194
+ice	good	717
+sweet	side	69
+chicken	waffle	318
+tartine	bakery	212
+macaroons	macaroons	610
+decent	prices	204
+waits	waits	181
+eat	bar	381
+delicious	rib	24
+door	right	166
+ame	taste	43
+good	gyoza	159
+bowl	egg	68
+ain	back	493
+eat	location	34
+dessert	got	46
+fancy	fan	22
+try	cream	39
+surpris	pleasantly	46
+town	come	24
+love	try	98
+delicious	delicious	11546
+table	long	441
+meat	delicious	37
+soon	definitely	160
+places	place	66
+dessert	dessert	2788
+hours	hour	172
+negative	place	14
+coast	best	26
+benedict	ordered	27
+new	level	24
+salad	pizza	185
+ass	kick	22
+ice	quality	23
+customer	good	63
+mouth	literally	223
+frie	went	89
+cool	place	537
+angele	los	391
+deliciousnes	deliciou	38
+super	deliciou	175
+perfect	combination	83
+sure	place	138
+ordered	table	26
+pancakes	velvet	119
+dish	taste	74
+sauce	cream	74
+friendly	friend	150
+taste	sauce	204
+seoul	bbq	13
+joint	joint	914
+window	table	34
+cream	dessert	256
+eating	eating	1201
+good	goods	259
+belly	ordered	35
+food	spot	127
+leches	cake	30
+place	sweet	34
+wine	wine	932
+expectations	expectations	562
+slaw	slaw	833
+disappointed	ramen	76
+bite	flavor	68
+price	think	90
+fresh	berries	41
+delicious	salad	201
+ood	least	56
+bbq	try	41
+speedy	service	40
+meal	order	83
+flavor	meat	527
+comfort	food	616
+weekend	lines	37
+french	press	306
+flavorful	tender	229
+ood	caramel	237
+sunday	brunch	273
+priced	good	26
+caramel	chocolate	74
+deliciou	sweet	148
+belly	buns	35
+loved	place	539
+back	park	109
+good	spicy	268
+slaw	fries	159
+creamery	cream	282
+deliciou	small	44
+menu	two	59
+ith	ramen	177
+omething	looking	136
+sucks	parking	151
+eat	bbq	472
+avoid	lines	192
+pork	bbq	59
+dipped	beef	185
+cheese	burger	138
+corner	restaurant	22
+minute	wait	3457
+simple	decor	23
+burger	burger	4080
+place	wait	742
+great	ambiance	406
+dish	tasty	39
+place	thought	147
+west	side	13
+eat	house	33
+pork	dish	40
+cookies	cream	22
+gets	packed	88
+minute	hour	115
+ridiculously	long	60
+right	sweet	165
+ordered	ordered	1334
+syrup	sweet	22
+four	four	90
+reviews	good	213
+bbq	love	160
+buns	morning	158
+lemonade	potato	26
+eat	choice	59
+dishe	meat	35
+egg	belly	33
+reat	ribs	136
+noodle	bowl	198
+ood	meal	314
+reat	dish	112
+times	place	224
+restaurants	good	27
+dessert	cream	180
+table	sat	144
+good	size	148
+great	makes	76
+coffee	caramel	23
+parking	place	164
+three	times	23
+ood	right	57
+popular	place	1093
+salad	ramen	64
+table	counter	44
+impressive	pres	38
+ramen	delicious	271
+overall	place	50
+fries	fried	142
+years	coming	177
+reat	make	49
+grits	ordered	76
+good	try	523
+fries	fries	4036
+amazing	went	36
+ice	friendly	189
+dinner	food	67
+fabulous	food	14
+menu	try	969
+favorite	favorite	2119
+ood	meat	433
+reat	fries	129
+special	special	2980
+food	eating	207
+ood	brisket	89
+ramen	friends	62
+bean	sprout	22
+ood	salmon	85
+ribs	sauce	283
+eat	long	111
+bbq	pork	11
+heaven	food	76
+friendly	super	253
+combination	combination	558
+delicious	fresh	295
+super	fresh	23
+bite	bit	107
+bit	restaurant	16
+street	park	550
+customer	service	1342
+bell	taco	197
+ribs	try	136
+superb	service	227
+cool	thought	26
+wait	sunday	51
+review	great	142
+eat	come	266
+lines	place	178
+good	dry	34
+ring	order	75
+super	nice	257
+eat	amount	63
+part	meal	631
+hand	hands	119
+street	side	76
+meal	wait	135
+good	food	8368
+line	great	66
+broth	noodles	510
+point	food	57
+scallop	scallops	142
+casual	atmosphere	26
+recommendation	recommendations	205
+reek	food	181
+city	cream	434
+decor	nice	101
+side	salty	39
+place	eating	166
+suck	suck	114
+dessert	desserts	727
+back	nice	33
+small	group	15
+service	best	221
+bbq	wait	67
+caramel	got	98
+flavorful	soup	22
+food	food	16024
+city	breakfast	28
+excellent	place	187
+beautiful	restaurant	121
+minutes	dinner	23
+heavy	good	25
+good	experience	746
+vanilla	malted	139
+great	burger	273
+wait	took	70
+large	ide	26
+sushi	restaurant	172
+vanilla	caramel	24
+beignets	beignet	336
+sucks	place	22
+food	lines	144
+delicious	looked	61
+noodles	pork	151
+occasion	place	58
+dishes	two	25
+deliciou	perfectly	34
+side	beef	67
+cream	sandwiches	80
+mouth	taste	358
+jack	cheese	12
+sweet	chicken	24
+wait	waited	159
+simply	deliciou	122
+problem	parking	24
+service	star	197
+worth	great	36
+sauce	fish	136
+worth	got	47
+decor	place	240
+good	lobster	183
+glass	wine	58
+flavor	flavors	2047
+chicago	bbq	280
+bbq	delicious	37
+press	press	162
+restaurant	walked	47
+ood	eats	72
+minutes	times	26
+coffee	wait	27
+back	fat	18
+pot	find	63
+table	dining	92
+group	people	43
+type	place	17
+wait	line	2149
+meal	came	75
+order	waiter	77
+best	smoque	46
+new	york	715
+hot	mustard	824
+basis	basis	209
+awesome	place	1469
+good	comes	162
+love	bbq	110
+staff	friendly	818
+part	part	644
+entire	meal	164
+table	sit	186
+quickly	lines	78
+syrup	side	70
+order	waited	142
+baked	goods	597
+price	price	2600
+outstanding	service	275
+food	sit	92
+perfectly	cooked	285
+ried	rice	59
+dish	night	488
+eat	love	93
+star	restaurant	275
+meat	side	25
+lot	place	411
+moves	fast	34
+bland	chicken	23
+good	combo	92
+size	burger	147
+beans	ordered	71
+place	things	348
+ood	beans	133
+part	menu	22
+dipping	sauce	755
+group	came	182
+good	gumbo	45
+salad	sides	230
+good	portion	200
+stand	stand	284
+waited	hour	107
+nutella	toast	64
+angeles	places	59
+deliciou	beignets	50
+place	nice	274
+ribs	pork	500
+bland	meat	25
+grilled	octopu	31
+favorite	good	156
+reat	flavors	130
+craving	ramen	24
+nice	surprise	66
+reasonable	service	11
+looking	good	220
+amazing	fish	23
+reat	taste	165
+trip	trip	715
+way	back	57
+ridiculous	place	89
+five	five	52
+table	come	190
+list	waiting	137
+fresh	fish	1060
+wednesday	night	107
+ers	burgers	289
+cold	food	24
+ramen	small	108
+lot	good	63
+taste	difference	23
+deliciousnes	delicious	39
+worth	drive	379
+good	dip	270
+tokyo	sushi	63
+wait	staff	226
+korean	food	146
+ain	think	93
+high	food	37
+fact	due	88
+ramen	eating	155
+selection	wine	122
+disappointed	good	62
+called	wait	28
+sandwich	mustard	167
+ood	menu	232
+dish	think	35
+fruit	fruit	233
+hate	love	41
+meal	table	24
+good	tea	298
+salted	carmel	93
+chicken	sauce	72
+lunch	went	358
+flavor	salt	73
+area	back	106
+price	decent	139
+mushroom	fries	387
+ries	order	72
+savory	sauce	12
+fun	food	25
+menu	bit	37
+pretty	quick	309
+wait	list	190
+place	makes	22
+list	definitely	63
+wait	area	66
+minutes	seat	92
+size	small	113
+tea	grits	22
+ood	bit	189
+dishe	side	175
+ramen	taste	165
+absolutely	amazing	252
+parking	back	45
+full	ribs	517
+strawberry	caramel	124
+macaron	car	132
+beef	sandwiches	79
+back	reason	139
+restaurant	went	133
+ood	big	81
+bun	sauce	67
+food	order	215
+ramen	tasty	110
+cream	tasted	168
+rush	lunch	196
+ribs	tender	174
+place	beef	64
+find	parking	382
+come	back	476
+asian	fusion	166
+cream	caramel	644
+lunch	friend	158
+pepper	salt	29
+small	pretty	141
+items	back	45
+amazing	sandwich	213
+back	times	81
+went	went	501
+friendly	friendly	1859
+city	good	142
+steep	price	84
+happy	camper	119
+horrible	food	27
+dip	beef	278
+great	stuff	50
+ice	place	181
+meal	menu	22
+beignet	apple	38
+place	bbq	596
+caramel	cream	207
+flavors	definitely	63
+expect	ong	104
+nyc	ippudo	83
+pastries	place	60
+pretty	place	405
+chop	lamb	182
+buns	buns	1172
+fresh	taste	76
+tastic	food	178
+fatty	broth	24
+appetizer	good	110
+sour	taste	12
+decided	friends	78
+great	cream	179
+food	portions	138
+bun	love	35
+two	ordered	23
+wait	going	66
+place	bar	67
+door	people	169
+sauce	place	23
+reat	restaurant	293
+wait	best	207
+side	definitely	57
+service	restaurant	295
+area	definitely	291
+table	getting	63
+hype	ramen	22
+ordered	ramen	464
+flavor	broth	390
+expectation	expectation	38
+mediocre	service	36
+deliciou	taste	99
+beignets	fish	96
+huge	meat	11
+awesome	sauce	192
+bowl	good	167
+servers	servers	175
+option	menu	167
+got	home	28
+prepared	long	78
+ood	lunch	51
+beef	tacos	66
+pancake	got	49
+ribs	ribs	3306
+delicious	super	229
+tea	sweet	327
+soup	ramen	340
+eat	order	50
+buttery	taste	16
+mouth	place	24
+worth	makes	42
+soon	place	57
+half	price	54
+excellent	great	73
+chocolate	cream	147
+sandwiches	beef	152
+banana	caramel	289
+bit	disappointed	114
+napoli	pizza	11
+bottega	louie	1422
+party	came	26
+siz	burger	29
+bananas	banana	60
+sandwich	taste	22
+sides	good	142
+mouth	noodles	27
+restaurant	restaurants	793
+beautiful	presentation	24
+regular	basis	190
+hit	pot	476
+dishe	good	152
+back	tables	36
+eat	taste	113
+good	line	503
+hrimp	ordered	106
+night	friends	218
+restaurant	bakery	75
+spacious	restaurant	12
+open	place	158
+dinner	rib	75
+best	experience	104
+excited	place	412
+weekend	line	212
+wait	brunch	64
+flavor	perfectly	172
+ood	bar	53
+try	came	42
+top	fried	24
+burrito	meat	171
+fresh	sauce	57
+vegetarian	ramen	11
+people	lot	65
+sauce	sweet	465
+waiting	table	799
+best	salad	59
+happy	makes	70
+good	sashimi	85
+ood	company	69
+caramel	love	134
+ood	bbq	602
+soup	broth	86
+beignets	try	141
+tender	ribs	651
+great	coffee	160
+decent	place	40
+food	tables	66
+perfection	noodles	27
+table	take	55
+better	pork	267
+providence	ide	38
+terrible	food	22
+choice	menu	117
+ramen	special	175
+top	two	22
+thin	noodles	55
+special	lunch	267
+visit	wait	23
+food	cheap	139
+dessert	back	64
+lunch	dinner	80
+amazing	bread	146
+prices	service	74
+park	place	71
+side	bbq	225
+skip	ine	174
+hly	recommended	202
+bbq	auce	193
+good	value	196
+good	pretty	1220
+weekend	past	34
+pieces	pie	38
+waffle	frie	226
+lamb	chop	39
+table	make	52
+ribs	onion	22
+hours	later	64
+ull	ordered	109
+side	bit	202
+table	sauce	27
+different	taste	49
+away	went	61
+cheese	got	62
+noodle	noodle	301
+items	come	22
+fries	great	65
+ice	side	37
+star	overall	111
+smothered	sauce	12
+sandwich	amazing	35
+definitely	place	630
+night	service	63
+bite	place	56
+reasonable	prices	1461
+try	list	61
+perfect	burger	25
+cream	eating	70
+rib	good	250
+rite	line	60
+sauce	ordered	263
+food	location	25
+price	portions	223
+rib	place	120
+huge	line	302
+coconut	coconut	187
+toffee	toffee	238
+souffle	chocolate	172
+mozzarella	cheese	12
+star	wait	273
+bread	good	179
+flavorful	food	22
+friends	come	65
+ain	visit	59
+real	deal	492
+coleslaw	side	30
+nyc	ramen	326
+good	serve	66
+seat	back	46
+five	star	277
+daikokuya	daikokuya	963
+waiters	waiters	174
+better	sauce	131
+middl	restaurant	28
+bbq	chicken	103
+beans	cheese	70
+amen	good	69
+sandwich	friend	70
+breakfast	food	166
+hour	line	737
+bowl	came	71
+ramen	bowl	985
+bar	eating	26
+texture	taste	74
+ood	price	422
+meal	meal	5678
+parking	space	24
+sauce	best	162
+beef	ribs	720
+times	times	1975
+half	wait	288
+modern	ramen	499
+eat	fries	104
+mustard	dip	23
+side	chicken	204
+heavy	side	13
+phils	bbq	81
+spot	definitely	209
+right	bbq	60
+reat	thought	56
+salt	flavors	112
+small	bit	131
+noodles	soup	183
+minutes	hour	112
+sushi	sushi	851
+flavor	pork	327
+shredded	beef	75
+back	got	45
+counter	got	45
+try	line	66
+reat	sandwiches	49
+reason	line	74
+amazing	dinner	23
+eat	ervice	402
+meat	ribs	165
+found	place	171
+michelin	stars	34
+korean	bbq	767
+minutes	lunch	70
+hungry	people	64
+place	best	1016
+food	try	351
+great	spot	112
+service	delicious	124
+find	find	554
+overrated	way	26
+sandwich	fried	213
+brisket	pork	273
+good	flavor	759
+saturday	dinner	67
+pancake	toast	128
+cheese	waffle	74
+tasted	amazing	42
+great	sandwiches	148
+worth	wait	14805
+burgers	place	26
+room	dining	224
+dinner	great	241
+bland	flavor	23
+great	think	156
+choices	choices	460
+sides	two	72
+cream	got	80
+chocolate	favorite	62
+good	croissant	36
+flavor	fresh	121
+crispy	fries	63
+flavors	lavender	24
+hollandaise	auce	68
+salad	soup	25
+taco	beef	34
+salad	pork	141
+food	line	498
+restaurant	star	171
+seat	got	71
+potatoes	side	145
+cream	shop	75
+lamb	shank	52
+rooms	rooms	28
+taste	good	671
+thi	places	77
+akamaru	ramen	198
+quickly	long	282
+luck	luck	256
+three	two	22
+city	ramen	462
+staff	place	74
+ice	quick	47
+cream	favorite	132
+rain	side	14
+meal	star	26
+crawfish	crawfish	145
+difficult	parking	354
+mouth	heaven	157
+better	ones	242
+waited	food	27
+croissant	croissant	666
+middle	cream	15
+best	cheese	46
+place	overrated	118
+experience	great	942
+sandwich	fries	22
+fries	pizza	154
+almond	croissant	64
+network	network	140
+food	course	64
+frie	waffle	482
+salt	coffee	48
+bite	food	63
+parking	line	90
+tasted	ramen	68
+great	quality	175
+bit	broth	16
+best	tasted	96
+morning	bun	642
+noodles	taste	26
+ood	amount	397
+long	prepared	91
+honey	honey	236
+table	seated	335
+friendly	rvice	105
+cold	good	28
+fresh	tasted	128
+delicious	bbq	407
+top	ramen	83
+size	portions	25
+complete	meal	43
+ago	place	161
+afternoon	wait	33
+hour	wait	4583
+good	sides	357
+roll	salmon	217
+food	two	160
+sugar	cream	153
+bit	portion	24
+urt	yogurt	66
+line	area	22
+love	place	6132
+tender	rib	200
+group	great	39
+tender	sauce	387
+ood	fresh	157
+great	take	56
+night	friend	135
+seated	seated	2136
+tag	price	105
+sauce	beef	190
+reat	ambiance	368
+excellent	ramen	206
+place	years	61
+experience	lunch	22
+eat	spot	34
+mustard	good	39
+meat	good	467
+did	wait	941
+area	ramen	207
+bad	ramen	24
+kitchen	food	27
+perfect	good	61
+taco	bell	202
+pretty	food	482
+net	beignet	149
+sandwiches	best	102
+dish	nice	39
+thi	definitely	140
+back	way	274
+eat	breakfast	58
+wait	morning	37
+meat	great	114
+hours	lunch	135
+star	definitely	97
+care	car	133
+staff	wait	180
+reat	staff	354
+shorter	line	100
+clean	room	25
+flavor	cooked	58
+service	prices	62
+order	food	409
+weekends	line	153
+side	dinner	133
+three	people	44
+night	think	33
+great	bread	99
+amazing	pizza	322
+prepared	perfectly	24
+reen	tea	80
+ramen	place	1554
+delicious	portions	69
+reat	bbq	327
+menu	definitely	310
+great	nice	40
+covered	sauce	12
+ide	got	52
+bar	dessert	24
+salad	got	82
+expensive	side	11
+waffles	sweet	59
+bite	good	171
+good	buns	248
+dry	chicken	524
+kotteri	ramen	102
+hours	good	24
+umbo	gumbo	50
+sauce	slaw	61
+ood	food	5862
+meal	overall	70
+lacked	flavor	162
+wait	order	96
+fancy	place	40
+restaurant	interior	29
+taco	love	112
+waffle	ordered	205
+star	place	720
+salty	flavor	26
+huge	wait	36
+sides	ordered	81
+crowded	gets	47
+ood	flavor	429
+angeles	restaurant	262
+skin	skin	100
+neighborhood	place	65
+ome	love	86
+lavors	combination	108
+angeles	restaurants	67
+huge	food	179
+spot	breakfast	22
+cheese	taco	127
+food	good	3977
+beef	lamb	128
+questions	menu	28
+rice	ramen	397
+offer	best	27
+frie	came	214
+ambience	ambience	222
+hours	waited	135
+atmosphere	nice	156
+oily	good	22
+menu	sandwich	61
+star	line	34
+reat	rvice	107
+perfect	dish	56
+perfect	sauce	657
+place	stars	154
+dessert	delicious	36
+places	bbq	63
+seated	party	153
+ways	service	311
+city	definitely	138
+night	dinner	361
+taco	cheese	139
+sushi	bar	383
+noodle	ordered	39
+ood	idea	132
+fries	ribs	263
+food	big	110
+bbq	ribs	294
+ambiance	ambiance	804
+honey	sauce	11
+food	bit	193
+japan	place	63
+quick	quick	746
+counter	guy	220
+friendly	ervice	396
+ood	going	58
+expensive	ramen	40
+worth	people	92
+eye	rib	27
+three	stars	174
+pairings	wine	241
+minutes	saturday	62
+brunch	came	134
+friday	night	607
+star	rating	345
+place	took	150
+drenched	sauce	15
+ood	makes	83
+grilled	bread	24
+wine	menu	71
+home	order	45
+potato	alad	108
+good	egg	284
+new	flavors	11
+came	friend	186
+quick	line	225
+thursday	night	235
+restaurant	arrived	24
+conversation	place	23
+dessert	dinner	155
+going	going	121
+favorites	rite	81
+great	ervice	686
+place	vibe	65
+wait	spot	24
+later	food	22
+soon	try	23
+came	came	359
+list	wait	131
+cream	sugar	143
+person	came	27
+meter	parking	36
+chocolate	cake	229
+california	california	314
+wait	nice	38
+menu	order	123
+side	toast	11
+best	fries	23
+food	decent	142
+small	burger	182
+area	visit	24
+tender	bbq	34
+tasty	bread	27
+customer	rvice	151
+ure	back	65
+wait	things	65
+quick	food	291
+minute	got	133
+cheese	bread	140
+tuesday	went	28
+open	late	58
+friendly	staff	3327
+reviews	stars	36
+try	reviews	197
+pretty	line	116
+arlic	bread	22
+experience	line	23
+ways	food	299
+reviews	try	137
+street	restaurant	69
+recommendations	recommendations	311
+take	take	56
+sandwiches	sandwiches	1939
+hour	parking	147
+value	great	133
+people	came	69
+period	best	80
+chocolate	bar	28
+right	restaurant	38
+pricey	place	308
+crowded	restaurant	185
+think	think	414
+take	great	86
+food	went	262
+broth	fat	24
+thi	spot	68
+mind	blowing	256
+dishe	dishes	1734
+place	atmosphere	210
+back	ribs	1906
+spicy	spicy	1048
+burger	think	86
+hour	waiting	689
+excellent	pizza	39
+four	people	18
+bit	spicy	51
+whipp	cream	280
+sauce	belly	34
+area	good	159
+usually	ine	117
+two	place	24
+smile	service	37
+cheese	pork	77
+place	visit	165
+dinner	nice	42
+birthday	place	23
+delicious	morning	33
+sign	good	234
+ice	decor	96
+pork	broth	298
+ood	pie	44
+cooked	cooked	303
+sandwiches	cream	64
+door	good	26
+broth	flavor	226
+gumbo	gumbo	174
+ready	table	636
+rich	food	155
+place	ippudo	23
+trouble	trouble	177
+good	perfectly	23
+delicious	perfectly	78
+try	back	114
+moist	side	22
+dish	special	22
+great	idea	131
+expensive	good	130
+awesome	ramen	231
+raves	place	44
+perfect	cooked	91
+wait	take	79
+line	wait	2202
+bar	two	26
+better	definitely	259
+delicious	bowl	126
+blowing	good	26
+service	place	517
+place	pricey	78
+eat	pizza	172
+red	dish	68
+building	line	480
+ago	went	163
+ribs	sides	94
+min	waited	633
+restaurant	great	375
+spectacular	service	44
+minute	took	177
+orleans	orleans	138
+pork	belly	651
+bar	eat	62
+eat	sushi	108
+try	area	41
+eat	favorite	349
+rice	good	220
+plate	ordered	60
+butter	butter	295
+watching	watching	134
+amazingly	delicious	68
+spot	good	186
+ones	good	114
+awesome	ervice	182
+beef	ordered	25
+tasty	pizza	62
+known	place	16
+impressed	press	495
+prices	good	258
+flavor	spicy	117
+green	bean	144
+love	ramen	410
+place	dinner	196
+fan	fan	1168
+worth	trip	494
+dessert	waffles	22
+hollandaise	sauce	183
+price	ramen	150
+octopus	octopus	241
+fries	order	104
+wait	amazing	40
+reat	place	2394
+pudding	bread	924
+huge	menu	23
+specials	menu	28
+texture	flavor	234
+fair	prices	185
+pasta	pasta	514
+items	definitely	22
+ood	cream	487
+egg	delicious	34
+understand	hype	100
+fine	food	42
+etting	seated	24
+minute	food	263
+ponzu	sauce	15
+sausage	gravy	255
+shredded	bowl	113
+attentive	service	899
+pork	ordered	237
+ood	came	96
+bar	tables	130
+sauce	meat	543
+ood	pork	437
+mouth	perfectly	23
+bar	area	367
+drive	drive	244
+cheap	good	77
+perfect	service	102
+tables	waiting	25
+party	table	28
+yogurt	sauce	11
+beef	beef	1121
+pretty	ramen	73
+space	place	24
+baby	baby	114
+deliciou	think	95
+cheese	burrito	204
+ood	took	56
+wait	got	117
+potatoes	potato	154
+ood	luck	72
+date	great	241
+share	two	26
+menu	chicken	26
+pretty	good	5985
+small	parking	86
+roast	andwich	104
+diego	bbq	786
+delicious	chocolate	202
+party	minutes	24
+ood	cake	54
+chocolate	beignet	30
+mins	waited	256
+memorable	experience	43
+avoid	ine	160
+wine	selection	141
+city	restaurants	595
+stuff	great	22
+days	place	24
+worth	definitely	478
+parking	suck	22
+place	parking	150
+souffle	souffle	148
+highly	restaurant	25
+som	dishes	29
+busy	restaurant	186
+sauce	pasta	26
+service	nice	189
+expensive	place	180
+tasty	noodles	96
+ordered	friends	92
+bowl	broth	75
+sandwiche	beef	87
+chicken	great	68
+better	lot	182
+disappoint	food	158
+ood	went	92
+overall	good	166
+potatoe	potato	48
+menu	dinner	157
+banana	flavor	53
+overhyped	hype	22
+people	ordered	62
+fries	steak	27
+tasty	beef	70
+een	onions	182
+seated	food	24
+french	frie	294
+small	house	13
+waffle	back	47
+liked	place	207
+experience	delicious	33
+minutes	place	185
+stars	restaurant	78
+helpful	server	77
+four	stars	352
+waited	line	153
+early	come	294
+review	place	1601
+lunch	great	145
+hot	damn	15
+restaurant	night	141
+sunday	lunch	27
+afternoon	place	68
+bean	noodles	33
+mexican	good	30
+delicious	amazing	92
+ood	creme	48
+bland	side	13
+good	mustard	190
+line	times	63
+goat	stew	24
+place	places	1175
+serve	serve	406
+taste	flavor	67
+dry	sandwich	95
+sushi	gen	281
+cake	good	97
+tiny	restaurant	167
+extra	egg	22
+brown	sugar	339
+side	dish	196
+wasabi	sauce	24
+wraps	building	36
+rice	sashimi	27
+great	menu	190
+worth	hype	641
+restaurant	sushi	179
+new	things	17
+noodles	flavor	25
+bbq	eat	54
+best	food	311
+orlean	orleans	127
+iced	food	13
+city	come	23
+close	second	102
+fantastic	pork	61
+hella	good	99
+ood	reason	352
+people	people	3518
+booth	seated	24
+soy	auce	132
+food	find	138
+wait	wait	12908
+restaurant	got	92
+noodle	pork	132
+biscuit	grits	249
+waiting	lot	25
+rib	ribs	2196
+good	wine	172
+life	best	808
+tasty	pork	367
+book	place	57
+price	quality	270
+worth	long	1064
+happy	food	67
+waiting	people	261
+brulee	brulee	136
+meat	fat	65
+table	mustard	28
+things	good	67
+dinner	went	298
+wait	lines	336
+nyc	best	240
+show	food	61
+fries	burgers	27
+deluxe	sashimi	23
+fresh	meat	46
+table	find	190
+ood	beignet	45
+mouth	mouth	1310
+portobello	frie	469
+deliciou	spicy	80
+excellent	restaurant	26
+bit	small	113
+line	line	5887
+caesar	salad	66
+friend	definitely	90
+seafood	good	22
+yes	good	88
+tried	place	165
+try	flavors	246
+reasonable	reason	26
+area	people	69
+plu	plus	326
+price	small	155
+salad	sandwich	159
+bbq	definitely	36
+sauce	dish	164
+experience	way	23
+feel	ittle	39
+delicious	lamb	130
+fast	service	1094
+hour	waited	1204
+waffle	cheese	162
+ether	flavors	55
+ready	line	175
+greek	yogurt	11
+good	fan	233
+authentic	food	38
+food	lunch	131
+caramelized	onions	70
+place	order	54
+ramen	awesome	37
+salad	came	24
+dish	served	63
+got	ittle	133
+benedict	benedict	480
+redients	ingredients	271
+swiss	cheese	39
+sauce	fresh	116
+complex	flavors	13
+pretty	tasty	591
+kick	sauce	158
+delicious	cream	422
+today	went	67
+nice	atmosphere	436
+lavor	flavor	114
+trip	place	79
+fast	moves	107
+friend	friend	1052
+order	two	142
+half	star	23
+pork	egg	77
+favorite	crawfish	51
+lively	atmosphere	24
+moves	quickly	39
+long	stand	15
+beans	salad	249
+fatty	fat	25
+california	place	25
+high	quality	334
+return	wait	55
+moving	line	27
+lines	waiting	71
+perfect	combo	14
+name	name	580
+food	money	79
+special	place	445
+perfect	egg	90
+flaky	crust	22
+entire	life	260
+bad	meal	12
+soft	pork	138
+taste	think	35
+noodles	steak	177
+sandwich	back	59
+back	place	1120
+ribs	beef	570
+different	place	53
+seating	bit	34
+lavor	great	116
+sauce	onion	61
+ood	baby	46
+friends	food	58
+white	rice	30
+weekends	place	159
+taste	cheese	22
+overly	sweet	294
+ood	back	166
+saturday	afternoon	35
+mouth	goodness	59
+gravy	gravy	396
+frie	baby	49
+seasoned	perfectly	195
+things	great	26
+small	plates	374
+house	house	1405
+beefy	ribs	226
+place	packed	291
+frie	back	68
+cut	frie	138
+good	frie	46
+nice	crunch	66
+restaurant	louie	24
+shop	ramen	62
+busy	wait	95
+weekday	lunch	125
+small	sides	36
+writing	review	118
+deliciou	fried	149
+hot	chocolate	323
+simple	place	23
+dessert	menu	202
+deliciou	fries	173
+menu	dish	134
+ood	reviews	163
+octopus	salad	11
+big	good	22
+people	place	463
+helpful	service	131
+service	good	1838
+multiple	times	18
+meal	eat	48
+deliciou	pizza	145
+fries	rib	30
+hot	auce	422
+minutes	waited	1535
+counter	seated	204
+impeccable	service	649
+minutes	seated	635
+darn	good	446
+better	experience	382
+great	salad	185
+frie	delicious	84
+green	onion	387
+ood	choice	63
+goat	tew	22
+parking	wait	167
+cream	salt	305
+ood	soup	171
+lines	wait	157
+order	think	91
+reat	overall	147
+great	food	4765
+sandwich	came	23
+long	long	3202
+salt	oil	120
+full	lot	36
+perfectly	perfectly	1214
+better	place	548
+long	service	45
+best	flavor	67
+pairings	menu	68
+special	beef	24
+bean	good	46
+bun	morning	564
+caramel	honey	283
+early	earl	80
+place	got	126
+awesome	bbq	225
+meat	dry	103
+bread	meat	144
+morning	saturday	50
+salt	caramel	1122
+savory	sweet	186
+experience	burger	31
+line	find	62
+pork	fat	140
+yummy	chocolate	22
+wrapped	building	118
+ago	months	85
+good	pastries	166
+chocolate	souffle	142
+shredded	pork	40
+night	got	53
+good	broth	895
+croissants	croissant	30
+soooo	good	723
+place	minutes	62
+macaroni	salads	11
+amazing	verything	47
+two	friends	81
+ood	tastes	186
+clean	food	11
+asada	carne	35
+back	love	446
+best	definitely	191
+menu	everyth	128
+ain	line	49
+worth	night	41
+cream	place	438
+pretty	cheap	26
+table	sitting	164
+ood	tasted	264
+minutes	takes	22
+ood	grits	74
+two	flavors	100
+green	tea	356
+crispy	crust	30
+frie	order	99
+sauce	crust	27
+beautiful	place	71
+flavorful	meat	287
+big	group	213
+ood	steak	56
+food	service	1713
+outstanding	ervice	55
+good	star	73
+star	star	1181
+daikokuya	ramen	565
+hours	peak	263
+rings	burger	174
+sandwiches	good	169
+amazing	beef	68
+back	come	2127
+food	best	291
+eat	ribs	223
+flavor	delicious	207
+burgers	good	36
+sweet	ones	11
+frie	try	99
+popularity	place	22
+packed	wait	73
+city	favorite	525
+surprise	surprise	469
+bar	waited	65
+night	went	450
+delicious	appetizer	111
+table	nice	85
+taste	delicious	90
+egg	fried	210
+restaurant	came	146
+style	restaurant	23
+dishes	meat	71
+good	fresh	229
+good	special	496
+amazing	love	140
+table	best	25
+food	star	134
+door	got	45
+tables	bar	157
+close	comes	26
+swirl	swirl	167
+texture	meat	24
+company	food	22
+customer	food	144
+wait	weekend	60
+delicious	love	111
+small	food	124
+noodles	place	71
+salty	way	69
+eat	things	35
+slaw	good	121
+waffle	sweet	201
+seating	bar	68
+clean	restaurant	130
+absolutely	place	148
+area	seating	40
+modern	akamaru	338
+shredded	cheese	40
+rib	try	82
+tasty	cream	25
+burger	love	132
+dessert	best	61
+excellent	quality	68
+experience	people	65
+food	love	415
+reat	server	23
+amazing	breakfast	25
+deliciou	flavor	106
+bakery	place	24
+line	waited	276
+rich	flavor	185
+sushi	places	12
+sit	bar	872
+garlic	noodle	28
+sauce	steak	23
+right	good	287
+dish	chicken	24
+beignet	fish	37
+flavor	burger	149
+perfection	meat	67
+dessert	meal	152
+tasty	meat	268
+burger	experience	40
+www	pork	27
+line	prepared	224
+times	food	168
+pancakes	order	70
+tast	food	31
+bread	sauce	30
+wonderful	service	276
+pastrie	pastries	452
+mind	place	146
+order	good	201
+pork	buns	1219
+hype	food	174
+window	window	123
+ramen	friend	166
+francisco	best	248
+perfectly	egg	26
+tacos	tacos	2132
+back	great	162
+eat	wait	388
+lamb	pork	22
+skip	line	14
+fast	wait	136
+great	great	11125
+impeccable	food	22
+ramen	noodle	109
+good	smoque	11
+ready	wait	164
+friend	dinner	209
+pecan	butter	199
+ribs	best	225
+sushi	rice	13
+coming	back	816
+people	great	149
+dinner	group	27
+ready	food	454
+thought	pretty	48
+dinner	way	59
+bone	ribs	477
+good	places	166
+years	place	230
+toast	toast	1434
+lines	lines	1292
+phone	order	52
+buns	good	173
+back	long	69
+sweet	great	59
+tip	came	80
+restaurant	times	26
+noodles	side	26
+street	right	352
+hour	minutes	179
+small	salad	26
+great	service	4525
+bbq	food	184
+ain	definitely	269
+experience	makes	24
+worth	small	118
+kitchen	place	23
+main	course	400
+delicious	things	24
+dishes	good	235
+delicious	cake	30
+taco	place	220
+diego	best	607
+reason	place	223
+stars	reviews	146
+noodles	ramen	529
+alright	right	192
+korean	restaurant	89
+cream	tart	530
+enjoy	food	167
+done	right	114
+eat	dishes	113
+rich	good	24
+side	order	90
+green	auce	22
+amazing	buns	114
+noodles	good	286
+dessert	favorite	38
+tasty	bbq	85
+west	coast	287
+menu	burger	30
+cream	went	26
+friend	great	142
+times	back	59
+sitting	sitting	168
+red	scallops	12
+delicious	came	211
+bustling	place	14
+fat	meat	66
+house	place	71
+dessert	good	186
+fresh	ingredients	387
+hours	dinner	135
+building	side	154
+water	mouth	139
+town	part	22
+share	ordered	192
+food	friend	137
+potato	salad	1087
+choices	menu	31
+breakfast	great	117
+early	morning	257
+salad	fries	392
+ood	bass	44
+open	table	138
+corner	line	533
+buttery	goodness	52
+night	special	175
+food	ervice	141
+bay	area	897
+bit	rice	31
+combo	ramen	270
+portions	place	67
+soggy	sandwich	41
+trendy	place	35
+italy	pizza	72
+egg	bowl	63
+sauce	pizza	73
+park	lot	197
+wonderful	ervice	23
+sea	bass	977
+lack	flavor	38
+dishes	lot	24
+onion	onion	192
+pace	pace	42
+blue	cheese	225
+dinner	night	243
+ain	eat	121
+easy	parking	103
+years	ago	433
+reason	good	350
+mexican	place	85
+half	half	300
+texture	noodles	187
+dishe	menu	195
+cozy	atmosphere	25
+side	got	63
+pecan	pecan	71
+everyth	menu	398
+ith	meat	29
+place	pork	114
+tokyo	best	73
+ood	stuff	818
+meat	eat	71
+japan	ramen	444
+toast	ordered	177
+quail	egg	15
+average	good	69
+waffle	place	83
+prices	food	331
+bar	room	64
+bowls	ramen	29
+star	reason	106
+waffle	delicious	37
+busy	busy	1036
+deliciou	tasted	91
+ramen	spot	87
+place	special	228
+visit	visit	1521
+menu	love	43
+interior	interior	271
+order	waiting	217
+dish	dishes	26
+beef	brisket	29
+perfect	meal	325
+price	place	278
+sandwich	love	41
+flavors	nice	38
+damn	good	1279
+ood	take	55
+perfect	meat	181
+bit	bit	572
+min	wait	1402
+meal	side	69
+slaw	pork	284
+options	menu	134
+good	caramel	479
+sashimi	bowl	44
+salt	honey	168
+menu	look	188
+flavors	sweet	77
+creamy	cream	510
+sassy	seoul	139
+food	atmosphere	348
+pretty	delicious	125
+experience	back	49
+start	ordered	66
+pita	bread	14
+dipped	sandwiche	60
+tasty	bit	34
+plate	pancakes	61
+delicious	service	342
+great	dishes	194
+raved	place	178
+bbq	restaurant	109
+large	group	325
+ain	try	139
+expect	wait	231
+small	small	1152
+table	two	138
+french	served	18
+chicken	fried	661
+roll	roll	634
+watermelon	tea	494
+japanese	ramen	322
+restaurant	dining	38
+hate	wait	17
+order	ribs	176
+french	dip	1605
+think	place	169
+beach	north	168
+restaurant	table	133
+long	good	189
+coffee	press	186
+dish	menu	168
+chicken	sweet	24
+sauce	cooked	71
+walk	walk	86
+rib	back	289
+rib	baby	274
+lot	lot	1576
+amazing	best	145
+delicious	definitely	143
+food	breakfast	151
+bit	pork	78
+good	tuff	239
+friends	great	192
+salted	scoop	26
+special	salad	27
+cooked	noodles	96
+hassle	parking	31
+big	groups	66
+love	sauce	78
+eek	food	118
+worth	times	40
+attentive	waiter	294
+great	lamb	24
+back	seat	26
+fantastic	experience	39
+food	restaurants	70
+bread	fresh	37
+decent	ramen	38
+friendly	good	148
+japan	ippudo	27
+definitely	best	146
+ood	cheap	56
+pork	beef	223
+seated	wait	903
+fact	place	31
+cone	caramel	61
+ood	people	126
+egg	dishes	15
+cream	scoop	217
+seat	able	25
+tried	alted	166
+cutlet	bowl	13
+good	quiche	37
+french	dips	77
+highlight	night	22
+parking	lot	970
+side	beans	128
+restaurant	ambiance	142
+sliders	belly	186
+ramen	chicken	24
+good	looking	377
+hour	hour	1429
+ood	restaurant	237
+thi	order	46
+tasty	rice	29
+waffle	waffles	734
+order	long	224
+great	rvice	279
+table	try	62
+flavor	packed	48
+small	ide	65
+weekend	place	205
+wait	saturday	81
+ribs	bbq	361
+extensive	menu	121
+loved	food	16
+plate	big	36
+fun	atmosphere	313
+tender	meat	1721
+side	served	222
+counter	sitting	130
+burger	got	143
+mouth	pork	486
+flavor	beef	147
+place	breakfast	187
+ood	tart	63
+meat	tender	473
+hype	good	161
+wall	place	59
+sweet	pork	25
+ood	probably	76
+good	choice	110
+restaurants	service	28
+deliciou	waffle	116
+place	make	81
+coffee	flavor	13
+reat	cheese	54
+service	great	2256
+line	afternoon	56
+awesome	cheese	27
+small	spot	24
+fries	waffle	353
+deliciou	dish	126
+minutes	ordered	69
+worth	make	54
+door	went	148
+rite	rite	408
+eat	table	65
+good	ervice	392
+sandwiche	try	101
+eat	food	3523
+ell	place	27
+delicious	friend	132
+helpful	friendly	246
+room	bar	62
+stuff	stuff	1736
+deliciou	special	102
+looked	good	281
+satisfied	sat	159
+service	quality	190
+yummy	tummy	40
+order	side	148
+tasty	chocolate	25
+meal	restaurant	73
+tasty	ribs	147
+monday	went	119
+good	banana	205
+amazing	absolutely	387
+bone	back	44
+favorite	places	123
+thin	noodle	22
+spot	spot	2307
+delicious	place	816
+place	line	617
+food	area	116
+amazing	side	25
+dipping	auce	261
+unique	place	207
+close	table	152
+attentive	wait	23
+seafood	dishes	14
+good	tuna	175
+menu	back	208
+long	waited	163
+rings	bbq	70
+rav	place	112
+place	trip	61
+hour	table	824
+flavor	sauce	423
+cone	scoop	34
+bbq	fan	38
+weekend	come	73
+seated	getting	25
+different	experience	58
+tasty	cheese	28
+pizza	try	172
+dipped	lamb	58
+great	flavors	296
+seat	waiting	354
+back	try	369
+rush	wait	25
+bowl	noodles	156
+ood	belly	54
+yummy	good	60
+crunchy	crunch	82
+cold	wait	44
+beans	ribs	136
+amazing	waffle	166
+love	absolutely	74
+service	bit	118
+meal	come	63
+good	got	277
+brunch	spot	42
+thought	good	157
+slaw	beans	146
+place	ribs	140
+akamaru	modern	562
+awesome	fries	122
+perfect	flavors	92
+good	coconut	40
+night	dessert	22
+sauce	ketchup	22
+streets	parking	68
+waffle	got	67
+good	take	59
+back	good	330
+good	rvice	152
+seated	line	151
+desired	lot	24
+noodles	love	33
+surprised	urprise	39
+half	hour	1261
+place	reviews	622
+back	pizza	24
+greek	food	509
+side	building	134
+oily	taste	37
+thick	broth	51
+ith	menu	23
+reat	great	3509
+hours	table	397
+north	beach	258
+experience	part	251
+good	tasted	510
+sandwich	salad	65
+ood	texture	48
+perfect	sweetness	78
+real	bbq	77
+catfish	catfish	31
+pancake	velvet	232
+tasty	pretty	366
+dessert	great	117
+reasonable	price	1602
+stars	definitely	123
+flavor	lavender	105
+rest	party	104
+ribs	side	142
+sense	makes	133
+good	tastes	351
+beignets	ordered	184
+sauce	sandwich	199
+ame	bowl	110
+menu	special	79
+hours	long	211
+bacon	bar	869
+delicious	great	331
+listed	menu	24
+good	decor	22
+night	definitely	68
+avoid	wait	359
+beignet	chocolate	197
+pretty	cool	275
+despite	ong	30
+fantastic	fan	632
+caramel	swirl	106
+good	looked	130
+coleslaw	sandwich	28
+brunch	experience	12
+hour	half	1331
+french	pres	80
+big	came	13
+right	texture	28
+choice	choice	907
+ramen	back	75
+bun	belly	95
+bad	rice	17
+onions	onions	677
+ring	ribs	206
+burrito	taco	65
+large	restaurant	22
+back	people	65
+broth	tasty	112
+style	ramen	40
+burger	great	198
+dinner	came	338
+worth	pricey	345
+great	small	33
+bit	salty	347
+fantastic	ribs	22
+delicious	potato	24
+sitting	bar	256
+pastries	pastries	668
+average	place	23
+ular	menu	30
+tea	ordered	154
+price	great	498
+long	waits	190
+bowl	ordered	209
+disappointed	bit	41
+ollowing	ordered	104
+soup	flavor	74
+flavors	love	99
+broth	taste	69
+bowl	small	96
+place	area	209
+family	place	61
+wait	eat	54
+minutes	food	504
+meal	food	250
+cheese	beans	152
+yoza	gyoza	76
+reat	quality	78
+burger	food	23
+iron	steak	25
+plate	small	173
+bar	beer	23
+meal	make	47
+pork	delicious	100
+ood	fast	50
+table	side	181
+away	two	23
+good	desserts	125
+shrimp	grits	70
+good	course	68
+star	meal	118
+service	bar	35
+bianco	pizza	42
+ambiance	good	26
+taco	carne	51
+ribs	meat	153
+sure	food	27
+try	things	195
+ramen	great	423
+hearing	place	385
+eel	bowl	42
+ribs	half	35
+reat	sauce	266
+sashimi	sashimi	499
+service	bbq	22
+pairing	menu	264
+good	sushi	258
+terrible	ervice	22
+lunch	wait	145
+service	decor	143
+insanely	good	25
+bread	pudding	1009
+restaurant	atmosphere	167
+counter	minutes	22
+tacos	best	104
+nice	waiter	446
+longer	long	26
+tender	flavor	62
+line	reason	62
+high	rating	23
+amazing	caramel	140
+life	life	1592
+francisco	restaurants	79
+heard	place	1586
+got	friend	245
+great	overall	208
+meal	away	22
+attentive	friendly	206
+dipped	dip	159
+rave	place	608
+night	came	317
+stars	review	144
+ell	food	141
+order	got	77
+friends	lunch	24
+sides	salad	82
+night	long	186
+eat	experience	708
+toast	side	27
+bit	overrated	23
+food	small	158
+good	tart	194
+amazing	restaurant	260
+exceptional	service	348
+garlic	aioli	359
+menu	delicious	112
+min	line	331
+friendl	food	31
+spotty	service	12
+juicy	pork	126
+order	server	61
+meal	place	241
+sweetness	right	125
+great	bowl	22
+bowl	combination	65
+line	service	62
+spectacular	food	147
+ramen	pork	769
+experience	think	93
+back	bar	27
+morning	morning	804
+pretty	decent	120
+small	location	12
+overhyped	place	33
+amazing	tasted	68
+interesting	flavors	114
+right	flavor	187
+menu	side	28
+ood	mustard	58
+place	spot	22
+beef	good	141
+liking	sweet	23
+nice	area	12
+street	find	59
+seated	came	30
+item	try	171
+space	restaurant	24
+red	two	14
+tooth	tooth	166
+spicy	kick	47
+stars	star	619
+good	yummy	106
+meal	tea	23
+ood	small	84
+pork	side	23
+star	reviews	209
+fusion	place	23
+deliciou	bun	33
+wait	hour	945
+appetizer	buns	43
+people	table	155
+memorable	able	39
+fantastic	sauce	76
+cream	fresh	94
+place	take	61
+ramen	texture	22
+seat	find	194
+date	best	68
+birthday	friend	69
+huge	came	110
+line	waiting	988
+moist	meat	27
+vibe	place	153
+salt	cream	895
+ramen	ramen	8067
+hot	good	69
+large	come	15
+amazing	taste	207
+got	ramen	380
+good	chili	145
+years	best	24
+dessert	room	211
+right	people	38
+busy	way	23
+long	dinner	22
+top	sauce	203
+lunch	spot	37
+cream	definitely	69
+value	place	27
+place	hype	571
+sweet	taste	536
+fantastic	service	377
+dinner	two	23
+velvet	pancakes	84
+bigger	place	44
+belly	ramen	140
+fries	two	22
+small	portion	780
+thought	thought	420
+eat	ambiance	309
+tastic	place	88
+flavors	dish	30
+dish	dish	4039
+noodle	soup	217
+sauce	appetizer	22
+ribs	wait	55
+years	going	60
+place	eat	137
+friday	came	237
+ippudo	love	43
+try	menu	288
+awesome	chicken	69
+salt	flavor	42
+reat	deal	196
+amen	fan	100
+dining	room	615
+reat	burger	155
+delicious	spicy	122
+rack	ribs	488
+restaurant	place	478
+area	great	78
+brunch	friend	26
+pork	got	54
+line	come	210
+dishes	menu	219
+deliciou	bbq	148
+city	spot	79
+away	parking	134
+super	tasty	240
+high	ceilings	391
+place	highly	148
+bone	fell	336
+rib	tender	132
+came	night	50
+onderful	food	26
+nice	wait	90
+fries	sandwich	158
+eat	best	193
+min	took	29
+salad	great	36
+pie	pie	974
+menu	choices	24
+ramen	spicy	159
+bite	take	52
+food	quality	1015
+price	best	24
+arrived	party	22
+rings	fries	794
+long	restaurant	28
+soon	back	246
+reat	good	344
+sauce	served	269
+restaurant	love	172
+icing	cake	22
+tart	bread	63
+garlic	oil	245
+eat	burger	208
+goodnes	goodness	1201
+meal	salad	26
+menu	part	25
+friend	good	161
+expectation	expectations	548
+pudding	pudding	1001
+eat	restaurant	594
+herita	margherita	57
+counter	line	137
+melted	cheese	154
+lavor	lot	128
+food	flavor	28
+brunch	sunday	63
+reviews	reviews	2039
+restaurant	eating	136
+rice	sauce	73
+food	place	1763
+table	wait	2725
+place	size	67
+great	tastes	33
+pancakes	good	118
+bar	bar	2716
+away	wait	142
+restaurant	service	368
+caramel	salty	87
+fatty	goodness	11
+review	good	213
+afternoon	went	127
+looked	great	23
+great	good	1510
+wonderful	food	263
+weekday	came	65
+place	awesome	363
+dinner	try	133
+small	came	68
+dinner	times	23
+generou	portions	91
+food	long	581
+disappointed	food	180
+feel	place	521
+bite	bite	2186
+horrible	ervice	26
+fish	fish	1233
+menu	dishes	231
+feeling	place	69
+place	taco	137
+wait	waiting	232
+experience	try	77
+deliciou	bread	149
+cheese	chicken	68
+chicken	got	76
+home	make	92
+cream	banana	279
+thi	dish	44
+reservation	reservations	410
+wait	cream	60
+deliciou	food	666
+ribs	ordered	294
+ramen	amazing	135
+burrito	ordered	133
+regular	basi	74
+course	meal	105
+shop	cream	68
+flavorful	good	70
+quickly	food	349
+love	good	107
+big	appetite	12
+soon	going	60
+yummy	pretty	44
+table	restaurant	231
+don	good	100
+skeptical	place	11
+wait	definitely	810
+ways	line	465
+bun	ordered	121
+table	group	126
+menu	ordering	64
+eats	good	59
+hungry	place	24
+arugula	salad	13
+great	tasted	177
+delicious	side	168
+pressed	coffee	23
+meal	two	107
+favorite	restaurants	260
+mustard	sandwich	129
+refill	refill	48
+attentive	server	295
+fries	place	25
+sandwich	brisket	22
+chicken	combo	66
+dinner	come	238
+burger	went	126
+ried	ordered	153
+deliciou	big	77
+best	lobster	16
+past	past	82
+sitt	bar	227
+pie	salad	60
+ood	crust	46
+rite	park	62
+stars	two	149
+meal	right	26
+burger	bite	58
+tast	great	43
+deliciou	bit	96
+restaurant	come	127
+ingredient	quality	90
+soon	come	123
+best	sandwiches	181
+parking	park	68
+entire	restaurant	18
+bar	great	63
+better	quality	25
+incredible	food	386
+chicken	place	25
+fan	cream	43
+heavenly	heaven	61
+ood	line	138
+priced	reason	32
+beef	dip	257
+helpful	friend	32
+saturday	went	508
+card	car	119
+mood	mood	212
+worth	lines	209
+cheese	croissant	31
+good	roll	73
+fresh	bread	50
+nice	interior	14
+friends	came	292
+tangy	taste	13
+pesto	sauce	12
+order	back	67
+yummy	cream	22
+ood	chocolate	138
+coming	place	215
+perfect	taste	46
+portions	great	72
+caramel	favorite	149
+town	best	701
+box	box	310
+plate	sauce	60
+ood	crawfish	45
+worth	ramen	282
+chicken	beef	131
+fries	try	176
+alway	wait	44
+server	servers	115
+thi	good	465
+eat	reviews	135
+quality	ramen	77
+place	food	1089
+bomb	place	297
+lemonade	dip	72
+watch	people	105
+ramen	soup	247
+bit	line	383
+amazing	great	200
+delicious	dishes	173
+cream	waffle	27
+dishes	night	25
+price	service	163
+soup	pork	166
+spicy	sauce	561
+place	people	626
+favorite	shop	12
+sweets	sweet	28
+salted	caramel	4886
+idea	great	64
+food	wait	1262
+salty	noodles	23
+side	pork	179
+money	food	148
+savory	weet	179
+good	served	25
+say	place	1102
+asy	parking	80
+xcellent	service	1025
+korean	restaurants	26
+good	eating	157
+flavor	great	485
+steak	noodles	257
+flavor	side	60
+star	stars	3269
+came	side	203
+mouth	bass	67
+night	waited	66
+ring	potato	39
+ood	gyoza	47
+crisp	chicken	26
+powdered	ugar	168
+meat	bit	94
+flavor	sweet	292
+dinner	minutes	26
+featured	food	23
+sauce	good	824
+ribs	good	424
+sauce	delicious	268
+burrito	try	35
+lobster	house	153
+great	meat	216
+lunch	try	125
+service	fast	240
+park	parking	66
+start	tart	135
+stars	long	23
+minute	came	168
+great	meal	732
+restaurant	parking	250
+taste	place	63
+late	late	300
+waiting	name	40
+waited	waited	474
+dish	egg	132
+section	restaurant	22
+place	back	229
+quickly	good	25
+table	waiting	1069
+standing	line	26
+decided	place	419
+leftovers	home	75
+cream	try	165
+francisco	food	58
+room	table	75
+tori	ramen	14
+sauce	think	90
+pleasant	experience	76
+french	sandwich	36
+fries	delicious	112
+night	great	207
+frie	waffles	64
+place	side	115
+oven	fresh	96
+amazing	salad	66
+wonderful	experience	198
+ridiculously	good	312
+delicious	meal	312
+country	best	23
+minute	waiting	211
+etting	getting	65
+delicious	meat	323
+food	sauce	132
+seats	bar	274
+delicious	verything	256
+turkey	sandwich	45
+seated	minutes	665
+better	think	349
+old	place	23
+place	ambiance	202
+eles	los	364
+worth	think	297
+delicious	tasted	147
+dish	star	23
+diego	san	1221
+cheap	prices	104
+top	fresh	35
+service	price	66
+ets	packed	45
+size	portion	176
+meal	good	494
+reviews	great	186
+good	atmosphere	211
+amazing	fried	169
+priced	price	118
+frie	burger	240
+deliciou	buns	147
+food	places	154
+positive	review	26
+amazing	fries	227
+bak	beans	162
+minute	order	59
+place	going	172
+good	bruxie	88
+daikokuya	best	66
+nice	restaurant	433
+amazing	special	124
+restaurant	reviews	66
+world	good	137
+great	atmosphere	693
+check	place	110
+soup	bowl	231
+real	place	623
+ome	looking	38
+decent	service	146
+waffles	place	67
+downside	wait	25
+cream	two	79
+ets	good	92
+onderful	service	72
+start	meal	315
+good	thought	700
+taste	side	66
+fries	beans	151
+amazing	looked	183
+rilled	octopus	71
+favorite	caramel	140
+thi	lot	45
+guy	guy	434
+creamy	texture	32
+right	salt	14
+gyoza	gyoza	255
+attentive	ervice	64
+short	line	309
+fries	bbq	128
+fan	food	23
+seated	waiting	401
+rock	rocks	214
+hour	prepared	35
+tummy	yummy	96
+flavors	caramel	76
+amazing	back	48
+trenne	pasta	24
+friday	wait	25
+orth	money	189
+ways	meat	22
+ood	waffles	49
+eat	definitely	144
+deliciou	super	105
+coma	coma	208
+open	space	60
+strawberry	balsamic	367
+pork	chop	179
+sauce	burrito	73
+face	face	238
+lavender	lavender	728
+angeles	ramen	149
+good	went	314
+life	good	33
+disappointed	place	276
+brunch	weekend	44
+combo	rice	156
+tacos	good	162
+food	friends	201
+burger	fries	145
+burger	onion	59
+wait	waits	133
+bone	pork	120
+friends	went	354
+ain	probably	98
+good	list	34
+lunch	place	427
+pay	food	22
+hours	waiting	154
+ribs	chicken	364
+order	wait	525
+side	good	326
+visit	back	48
+high	restaurant	29
+wait	back	278
+broth	egg	29
+service	food	2106
+seafood	place	23
+pizza	love	93
+sauce	nice	156
+waiting	line	460
+chicken	good	299
+eat	meat	277
+bowl	chicken	168
+eat	meal	378
+fries	good	390
+parking	street	661
+consistent	food	38
+tastes	good	178
+good	crawfish	54
+fried	catfish	13
+bbq	place	894
+back	car	215
+sauce	roll	22
+line	right	151
+daikoku	ramen	370
+find	place	176
+amazing	place	2096
+oing	going	109
+table	eat	47
+servers	friendly	40
+chips	alsa	354
+country	bread	14
+noodles	delicious	36
+better	thought	134
+hyped	place	222
+coffee	best	29
+rib	rib	285
+good	potato	286
+bone	bbq	74
+ood	thought	334
+slider	pork	114
+left	line	24
+world	place	188
+ordered	good	126
+appetizers	ordered	74
+months	months	116
+ring	side	109
+course	course	1106
+helpful	waiter	84
+kbbq	place	11
+orth	cream	26
+ome	going	44
+side	ribs	356
+meat	bbq	163
+chops	pork	23
+perfect	noodles	309
+fresh	ramen	26
+amazing	think	89
+lunch	menu	179
+ring	ordered	164
+waiting	list	163
+side	rice	135
+mins	table	28
+tender	chicken	300
+busy	night	216
+good	order	143
+deliciou	best	93
+restaurant	long	194
+delicious	food	3103
+cheese	onions	24
+table	night	146
+kitchen	room	24
+name	restaurant	76
+good	dish	535
+salad	bowl	27
+slaw	salad	345
+place	fan	267
+perfectly	sauce	24
+good	pork	1400
+better	great	135
+huge	place	244
+sandwiches	waffle	283
+hour	busy	42
+good	choices	11
+back	ramen	143
+mind	line	143
+cheap	meal	11
+pizza	oven	140
+friendly	quick	114
+pressed	sandwich	14
+overly	weet	104
+rib	bbq	220
+delicious	beignet	37
+eat	sandwiches	42
+went	friends	166
+bar	wait	445
+great	server	35
+back	rib	631
+food	waited	224
+great	job	14
+restaurant	name	37
+minutes	long	210
+dish	try	69
+trip	wait	13
+portabello	frie	191
+great	friend	22
+chicken	tender	36
+jack	box	310
+big	parties	15
+hungry	come	160
+despite	line	19
+portions	small	136
+door	way	23
+expectation	place	234
+bbq	joint	156
+portions	big	155
+world	best	494
+base	soup	120
+lavender	flavor	11
+bite	taste	77
+eat	staff	317
+food	waiter	25
+rich	cream	96
+outsid	restaurant	25
+best	brisket	43
+rib	brisket	94
+baked	potato	14
+caramel	scoop	138
+burger	flavor	23
+juicy	ribs	25
+great	went	57
+sweetness	sweetness	448
+attentive	food	28
+amazingly	deliciou	34
+dessert	night	67
+experience	ramen	167
+salsa	salsa	850
+bell	bell	150
+overall	experience	344
+cream	bar	22
+things	ordered	59
+way	way	2618
+table	server	126
+caramel	flavor	267
+pizzas	pizza	108
+sandwiche	dip	134
+table	way	70
+staff	good	166
+fresh	ingredient	81
+bar	crunch	194
+birthday	took	22
+family	style	158
+fries	side	427
+know	place	433
+bar	sat	552
+tastes	tastes	364
+ood	bowl	96
+ramen	comes	67
+frie	side	266
+ate	food	63
+knowledgeable	menu	25
+side	waffle	26
+delicious	caramel	131
+coleslaw	ribs	23
+deliciou	good	252
+portions	prices	24
+ood	broth	521
+savory	broth	13
+delicious	menu	294
+waiter	nice	116
+tea	try	60
+pairing	course	135
+amazing	service	828
+people	waiting	208
+spot	favorite	157
+cream	tea	23
+reat	atmosphere	648
+place	delicious	200
+place	overall	204
+frie	chicken	157
+wait	reservations	85
+roast	beef	27
+tuna	tuna	260
+going	good	34
+nice	waiters	26
+pretty	deliciou	73
+yummy	ramen	189
+place	great	2003
+sugar	sugar	879
+deliciou	side	86
+fantastic	food	705
+tacos	love	108
+delicious	belly	36
+monday	night	104
+bit	pizza	12
+waffle	dessert	146
+friend	got	102
+rice	small	101
+eating	good	33
+ketchup	ketchup	486
+deliciou	simply	68
+quick	service	977
+lot	restaurant	69
+min	got	48
+slaw	honey	37
+salty	bit	353
+huge	bowl	132
+looking	menu	95
+reat	food	3877
+big	come	36
+ramen	combo	151
+long	downside	12
+times	service	25
+ood	ramen	1616
+waiting	seat	37
+best	broth	60
+going	thought	263
+tartine	egg	189
+lavender	flavors	69
+hour	ramen	36
+ood	dish	297
+lot	parking	840
+breakfast	place	413
+orth	wait	3934
+special	occasions	60
+hour	seated	375
+sit	sushi	126
+entire	bowl	13
+garlic	sauce	26
+expected	good	142
+delicious	desserts	22
+bar	sitting	309
+bean	ribs	89
+street	wait	27
+good	taco	126
+fried	chicken	1187
+eat	rvice	109
+reservations	place	219
+experience	awesome	40
+definitely	definitely	57
+wait	place	1497
+way	place	251
+table	party	194
+ways	way	25
+nightmare	parking	27
+nice	side	11
+yum	delicious	36
+table	half	33
+pizza	sauce	62
+noodle	bass	89
+stellar	service	76
+open	pace	22
+tea	tea	1791
+sides	comes	24
+avocado	sandwich	11
+place	taste	114
+sweet	sweet	2797
+tacos	beef	61
+review	food	144
+side	food	156
+love	ippudo	48
+awesome	service	734
+place	favorite	491
+good	coffee	508
+mins	waiting	24
+place	came	313
+place	tasty	39
+end	restaurant	35
+try	place	1888
+bowl	salad	22
+eel	place	22
+love	food	558
+city	food	183
+mins	wait	605
+huge	portion	830
+waited	table	77
+restaurant	asian	63
+bar	sit	777
+line	definitely	70
+perfectly	fish	23
+small	bowl	95
+read	place	63
+food	overall	248
+deliciou	beef	129
+eat	texture	108
+deliciou	ramen	289
+size	pancakes	30
+dry	meat	333
+table	menu	24
+dessert	waffle	134
+bit	price	233
+different	flavor	187
+animal	restaurant	22
+good	lines	61
+high	expectations	637
+good	house	143
+bland	bit	128
+bit	seating	28
+bacon	bread	11
+beignets	grits	22
+fat	broth	27
+awesome	rvice	47
+money	good	23
+different	good	25
+sashimi	sushi	29
+great	combo	14
+busy	place	1336
+cream	line	319
+spicy	tuna	43
+eat	menu	179
+top	definitely	33
+sauce	went	22
+food	presentation	135
+decor	service	67
+chicken	dinner	44
+staff	service	150
+fries	dinner	27
+pretty	great	57
+meal	sweet	73
+star	good	257
+ish	night	57
+minutes	went	219
+drink	bar	472
+wait	way	70
+beef	tender	35
+crust	crust	778
+town	ramen	73
+enjoyed	food	14
+food	make	78
+truffle	oil	69
+pancakes	breakfast	23
+saturday	morning	178
+food	counter	48
+yummy	ordered	24
+love	alted	34
+pecan	sauce	81
+excellent	food	1593
+ome	wait	233
+good	ign	33
+best	restaurant	125
+ice	atmosphere	100
+soggy	waffle	32
+food	ordered	320
+wait	ramen	488
+pint	cream	45
+garlic	noodles	113
+wait	seated	535
+restaurant	way	66
+sauce	bun	24
+sassy	auce	22
+fast	staff	26
+place	definitely	739
+buns	try	62
+onions	cheese	80
+looked	menu	159
+min	table	652
+sandwich	lamb	178
+great	fries	190
+reat	dinner	74
+pork	burger	185
+food	taste	290
+great	fried	31
+deliciou	cheese	142
+list	name	420
+minute	seated	334
+sandwich	waffle	573
+deliciou	amazing	51
+great	egg	25
+bit	service	372
+okay	ordered	24
+eat	good	1182
+ood	lot	592
+order	dish	24
+ramen	night	23
+grits	cheese	24
+taste	bit	217
+minutes	come	28
+bbq	line	132
+thi	best	511
+meat	flavor	345
+table	tables	926
+great	burgers	66
+price	menu	57
+tasty	flavor	22
+afternoon	line	92
+trying	trying	392
+pricey	bit	309
+caramel	good	174
+high	prices	339
+huge	ramen	274
+big	ramen	330
+sauce	yummy	38
+savory	waffle	56
+place	absolutely	112
+good	grits	233
+table	people	516
+pancakes	toast	199
+four	tars	135
+minutes	minutes	3856
+ice	creams	110
+cob	cob	36
+portions	good	204
+seated	long	153
+friend	place	466
+menu	restaurant	77
+greasy	taste	41
+good	part	77
+oily	oil	22
+good	beans	242
+broth	broth	2073
+line	friends	57
+night	packed	59
+table	friend	57
+french	toast	2983
+buns	two	22
+menu	line	25
+beans	slaw	61
+bland	bland	760
+delectable	able	38
+place	reason	162
+eat	chicken	59
+bathroom	room	155
+states	best	26
+friends	good	182
+food	wine	67
+birthday	dinner	491
+worth	lunch	35
+good	amount	25
+block	line	543
+goodness	fried	62
+tea	coffee	24
+service	atmosphere	197
+sauce	chicken	389
+creme	fraiche	37
+bad	food	400
+table	hour	300
+ood	stars	179
+food	great	2631
+worth	expensive	138
+good	apple	25
+noodle	place	85
+chinese	restaurant	585
+redients	quality	44
+tasty	tender	96
+full	food	68
+bit	expensive	25
+disappointed	try	188
+cream	make	45
+francisco	bakery	22
+dish	bit	34
+food	tasty	186
+small	wait	111
+horrible	rib	64
+ramen	buns	250
+seating	line	30
+house	back	45
+try	best	97
+side	bowl	25
+noodle	noodles	1633
+quickly	got	47
+pickle	side	33
+food	hour	141
+prices	great	219
+try	love	128
+greasy	good	26
+fries	cheese	191
+pancakes	ordered	129
+rest	home	24
+place	place	18078
+pork	sauce	199
+quick	ervice	173
+smoked	salmon	27
+hour	long	218
+food	amount	153
+service	ambiance	138
+broth	amazing	39
+good	going	76
+best	meal	414
+dish	best	123
+toasted	bread	12
+frie	sandwich	103
+house	went	23
+place	table	131
+company	company	295
+server	server	383
+great	dinner	196
+tartine	love	99
+pricey	food	204
+cheese	cheese	3173
+favorites	favorite	83
+shredded	ramen	24
+dish	perfectly	23
+morning	sunday	66
+limited	seating	552
+bad	great	59
+sauce	great	334
+effort	effort	79
+side	slaw	212
+flavor	honey	129
+part	best	146
+home	take	216
+bit	thought	61
+cream	park	28
+seat	minutes	369
+came	place	62
+perfectly	noodles	141
+soft	side	291
+sauce	ramen	25
+crisp	bbq	19
+crowd	place	69
+better	pizza	31
+eat	salad	133
+great	broth	98
+middle	restaurant	98
+different	kinds	11
+awesome	flavor	16
+date	spot	117
+macarons	car	146
+chops	lamb	254
+tacos	food	24
+flavor	bbq	120
+trip	definitely	40
+gen	sushi	386
+place	way	221
+high	expectation	358
+impeccable	ervice	194
+corn	cob	557
+deliciou	amazingly	45
+bland	taste	43
+place	times	162
+broham	sandwich	65
+spot	find	70
+wall	walls	194
+cook	perfectly	386
+list	try	24
+attentive	good	26
+area	parking	323
+ood	order	178
+recommend	definitely	126
+mustard	mustard	869
+family	family	159
+coast	coast	178
+perfect	chicken	22
+soy	bass	373
+hot	piping	43
+early	wait	192
+good	great	1036
+dish	flavors	74
+friend	lunch	135
+long	list	13
+food	yummy	142
+bay	restaurant	24
+deliciou	try	105
+ood	wine	113
+loud	place	935
+tastes	great	70
+ice	awesome	51
+signature	burger	16
+angele	best	231
+ular	basis	76
+saturday	night	743
+rings	slaw	23
+flavor	texture	189
+unique	food	54
+bbq	sassy	33
+visit	place	300
+dinner	friends	135
+bite	sweet	61
+order	menu	245
+disappointed	ordered	66
+tasty	good	285
+long	food	429
+try	long	36
+surprisingly	good	235
+stuffed	tuff	48
+take	home	503
+red	food	108
+ribs	taste	27
+side	sandwich	346
+reat	texture	122
+mustard	sauce	118
+eat	prices	147
+right	think	38
+portobello	fries	1381
+worth	side	95
+prepared	prepared	473
+rare	burger	83
+bread	love	39
+roups	groups	111
+stars	way	63
+cream	lot	24
+amazing	line	59
+disappointed	times	139
+delicious	pretty	126
+better	good	585
+away	people	27
+great	reviews	293
+waiting	long	310
+flavor	two	112
+ood	things	64
+flavor	bit	151
+line	friend	64
+ood	tender	57
+burger	chicken	22
+delicious	soup	173
+small	comes	68
+amazing	experience	77
+small	served	14
+okay	salad	24
+pancake	good	113
+flavor	big	39
+favorite	apple	22
+amazing	coffee	59
+filling	portions	24
+good	fries	1035
+place	right	259
+bun	bun	1110
+limited	eating	253
+ood	appetizer	65
+minutes	back	45
+area	wait	140
+francisco	places	59
+food	prices	290
+bad	ervice	126
+wasabi	noodle	185
+wait	night	343
+salty	sweet	168
+beignets	good	88
+bit	ramen	69
+diet	coke	28
+nice	sweet	23
+bad	long	27
+inger	sugar	257
+food	awesome	234
+quickly	line	574
+reat	stuff	26
+salty	side	203
+wait	star	224
+portion	small	226
+perfection	pork	62
+minutes	order	67
+burger	delicious	92
+tables	place	137
+sides	great	26
+chop	pork	250
+rey	earl	85
+spot	wait	68
+open	restaurant	24
+bowl	combo	216
+better	fried	29
+right	food	349
+hype	wait	61
+better	fries	30
+ain	good	112
+toffee	coffee	359
+taco	food	87
+good	came	326
+waffle	sandwich	865
+line	order	105
+minute	ordered	33
+seated	got	90
+sauce	bbq	1205
+ate	best	361
+awesome	pretty	181
+juicy	side	26
+large	party	71
+flavor	try	370
+special	good	373
+modern	ordered	503
+pretty	wait	194
+bruxie	waffle	59
+pull	pork	212
+red	meat	18
+restaurant	line	289
+full	dinner	64
+worth	food	1167
+back	area	188
+fusion	restaurant	70
+meals	meal	33
+caramel	flavors	192
+ets	gets	150
+dish	fried	62
+good	fried	528
+good	cake	172
+rice	fried	784
+late	night	24
+side	portions	22
+specials	night	22
+weekday	wait	59
+fan	ramen	25
+delicious	sandwich	456
+friends	ordered	102
+line	food	322
+courses	courses	270
+big	disappointment	11
+small	lot	224
+long	line	5401
+better	times	79
+groups	place	70
+small	price	307
+delicious	amazingly	78
+pancake	pancakes	1231
+pretty	big	25
+crowded	place	1199
+priced	reasonably	316
+back	seated	70
+chicken	chicken	2236
+taste	great	235
+love	auce	33
+sandwich	beef	425
+menu	brunch	28
+star	long	121
+crawfish	favorite	65
+acaroni	side	55
+texas	bbq	23
+list	wine	215
+noisy	place	201
+creme	brulee	396
+fresh	sashimi	342
+right	spice	58
+ellent	food	324
+better	burger	161
+delicious	makes	25
+ood	fish	145
+wait	went	330
+brisket	sandwich	50
+customer	great	67
+menu	food	222
+absolutely	delicious	482
+taste	chicken	29
+try	burger	35
+place	sauce	69
+steak	steak	746
+fan	definitely	66
+frie	beef	34
+cut	fries	359
+try	places	62
+small	line	57
+juicy	burger	140
+corner	right	298
+back	experience	186
+different	food	25
+seat	bar	658
+menu	pork	76
+best	croissant	16
+yelp	restaurant	63
+dishes	dishes	2557
+downtown	area	29
+ramen	dish	23
+fast	place	279
+ood	beef	199
+crazy	wait	171
+end	night	419
+ood	portions	163
+rice	dish	66
+deliciou	delicious	9900
+best	sandwich	277
+joint	bbq	201
+meat	place	65
+service	service	6237
+later	home	26
+great	eat	89
+unique	flavors	727
+rite	love	111
+est	try	60
+night	saturday	152
+good	ones	166
+ood	awesome	45
+dish	fish	61
+fresh	food	384
+rushed	service	25
+pizza	delicious	41
+tasty	soup	24
+name	wait	145
+sandwich	favorite	23
+burger	friend	178
+good	nice	216
+beignets	beignets	515
+real	food	123
+cool	atmosphere	96
+ood	minutes	46
+food	home	69
+ready	minutes	25
+loved	friend	37
+awesome	staff	28
+good	review	83
+french	roll	68
+tables	wait	30
+buddha	bowl	265
+sauce	bit	163
+restaurant	street	91
+fries	pork	28
+coleslaw	pork	26
+slider	belly	110
+sashimi	plate	69
+salt	scoop	39
+deliciou	chicken	230
+started	beignet	24
+things	menu	539
+ood	find	110
+side	broth	25
+oven	oven	570
+ramen	think	117
+order	friend	99
+love	great	41
+berries	berries	189
+minutes	later	138
+overpowering	sauce	42
+hard	place	37
+dipped	sandwich	412
+thi	recommend	133
+ood	waiting	55
+burger	try	314
+rib	love	88
+side	menu	128
+sauce	food	166
+main	dishes	40
+sides	ribs	268
+beer	bar	118
+try	restaurant	133
+better	makes	241
+sweet	flavor	151
+restaurants	restaurants	1161
+ordered	pizza	25
+pizza	half	35
+tasty	dishes	81
+bad	place	532
+cream	wait	126
+caramel	caramel	2171
+experience	good	608
+xcellent	food	504
+cheese	sauce	190
+new	favorite	49
+cheese	love	92
+counter	counter	375
+grub	grub	161
+group	big	115
+ribs	favorite	58
+broth	delicious	127
+portions	portions	1120
+pleasant	urprise	84
+cold	night	24
+try	thought	140
+honey	lavender	933
+plain	chocolate	22
+ring	burger	112
+rings	ordered	240
+amazing	pork	586
+cream	cake	176
+arrived	arrived	587
+camper	camper	39
+birthday	night	56
+okay	food	444
+rest	food	340
+yummy	sauce	163
+sweet	good	285
+bathrooms	rooms	22
+fish	good	136
+got	good	39
+orth	back	65
+broth	pork	335
+rits	grits	350
+popular	restaurant	14
+line	bit	137
+wait	bar	420
+salad	order	57
+value	good	126
+better	taco	25
+friendly	waitstaff	11
+noodles	texture	77
+sauce	way	64
+hard	parking	392
+pricey	pricey	458
+cake	cake	1113
+amazing	cream	309
+wait	bbq	66
+flavorful	broth	799
+bit	bread	12
+order	right	25
+dessert	try	171
+plus	plus	497
+good	bass	155
+line	good	325
+large	place	28
+different	dishes	66
+delicious	chicken	390
+sandwich	ribs	129
+good	waffles	81
+restaurant	ramen	176
+favorite	part	18
+special	got	53
+quality	price	137
+history	story	23
+back	service	134
+side	table	128
+fresh	sushi	310
+sandwich	got	94
+heaven	ramen	65
+eat	bite	63
+great	concept	15
+friendly	waitress	179
+good	pasta	40
+part	place	91
+love	bruxie	51
+waiting	food	240
+dishes	definitely	75
+sandwiches	bbq	122
+margherita	margherita	174
+beach	restaurant	23
+expensive	food	148
+taco	burrito	137
+love	cheese	11
+eating	ramen	44
+delicious	broth	489
+cream	long	23
+side	come	136
+decent	pretty	36
+ramen	daikokuya	446
+salty	salty	1004
+sauce	fried	335
+thin	minutes	16
+food	space	27
+space	space	918
+night	busy	157
+couple	friends	23
+reservations	reservations	403
+sauce	fries	296
+yum	good	105
+memorable	good	28
+ramen	got	148
+staff	nice	272
+stars	overall	165
+flavor	coffee	65
+cream	came	23
+super	tender	22
+cream	minutes	25
+right	got	58
+ome	try	46
+place	small	677
+super	sweet	22
+side	place	183
+places	places	1503
+counter	order	278
+delicious	order	69
+lemonade	lemonade	542
+coke	coke	284
+tasty	salad	170
+yummy	super	158
+heaven	cream	129
+sides	sides	1242
+did	place	153
+place	tacos	121
+understand	place	82
+sauce	tacos	22
+pork	combo	23
+refill	refills	140
+minutes	least	36
+food	fried	66
+dipped	andwiches	62
+minute	night	37
+food	minutes	420
+restaurant	quality	27
+table	room	67
+coffee	good	216
+minutes	came	254
+line	going	48
+ood	favorite	68
+restaurant	busy	39
+slaw	chicken	66
+cheap	rice	12
+wait	great	326
+reat	presentation	23
+bit	wait	1211
+plates	food	22
+nice	guy	82
+deliciou	sauce	251
+dish	great	152
+ingredients	good	25
+ring	onion	1028
+say	east	297
+service	table	68
+side	sauce	926
+dish	love	132
+coffee	coffee	1859
+parking	good	65
+orth	price	235
+rated	place	191
+dinner	back	81
+oil	oil	808
+yelp	try	22
+table	got	149
+refills	tea	34
+delicious	course	62
+pork	good	295
+good	makes	230
+dip	side	70
+lunch	came	321
+pretty	quickly	550
+delicious	sides	70
+burger	ordered	567
+trying	definitely	26
+minute	good	39
+favorite	place	510
+appetizer	ordered	158
+party	party	694
+line	bbq	67
+flavor	amount	28
+bakery	bakery	863
+orgasm	mouth	44
+minutes	took	385
+ood	coleslaw	134
+course	menu	34
+made	dish	11
+meat	came	25
+worth	eating	11
+dinner	definitely	68
+impeccable	rvice	47
+wait	delicious	117
+corner	wrapped	37
+opened	place	22
+sushi	place	318
+flavor	taste	283
+ceiling	ceilings	177
+perfect	texture	285
+city	restaurant	544
+large	partie	28
+food	price	296
+quickly	place	72
+bacon	chocolate	24
+tables	tables	1244
+pork	sandwich	452
+chewy	noodles	150
+long	wait	7208
+salsa	tacos	206
+ice	great	852
+cheap	cheap	645
+door	alway	138
+food	amazing	641
+two	two	1297
+bar	spot	23
+lunch	hour	41
+great	cheese	183
+night	dishes	74
+food	times	181
+ood	super	85
+service	quick	235
+sweet	bit	112
+parking	bit	112
+brunch	went	68
+flavor	flavor	5894
+service	overall	121
+service	line	27
+outstanding	stand	175
+ood	best	183
+perfect	place	322
+salad	lamb	25
+amen	place	77
+bread	bread	1989
+tokyo	place	166
+group	group	584
+thi	ramen	60
+wait	minutes	405
+bad	minutes	73
+tasty	damn	65
+caramel	best	26
+buns	order	63
+communal	table	112
+broth	good	329
+coleslaw	coleslaw	495
+herita	pizza	213
+tender	perfectly	26
+ast	night	46
+come	good	22
+rib	sauce	154
+quality	ingredients	213
+min	seated	47
+burgers	try	33
+nutella	waffle	184
+line	hour	152
+red	perfectly	18
+noodles	broth	501
+good	things	236
+street	line	138
+right	wait	42
+seating	eating	96
+wonderful	place	259
+cream	come	66
+home	ramen	23
+bad	wait	1409
+better	broth	31
+good	waiting	68
+table	away	125
+sit	place	138
+fan	big	168
+style	pizza	45
+boyfriend	went	90
+pretty	pretty	64
+beignet	good	108
+roast	banana	262
+good	margherita	77
+super	yummy	252
+sweet	tea	569
+lines	food	27
+pork	chicken	77
+ribs	place	243
+back	overall	62
+yum	place	36
+pork	noodles	177
+heavy	food	40
+interesting	flavor	44
+service	friendly	494
+chicken	bbq	146
+ood	pudding	52
+outdoor	seating	155
+delicious	coffee	135
+five	tars	176
+awful	service	19
+licking	good	120
+huge	disappointment	18
+awesome	meal	12
+burgers	burgers	941
+high	chool	23
+sandwiche	place	106
+bun	delicious	96
+good	soup	374
+half	sandwich	57
+avoid	ines	151
+meats	eats	23
+dolores	park	837
+soy	sauce	360
+food	back	193
+chocolate	caramel	77
+place	street	114
+afternoon	saturday	34
+attentive	waiters	68
+surprised	surprise	77
+casual	place	43
+back	parking	252
+price	meal	22
+dishes	place	139
+dark	chocolate	110
+later	later	810
+coming	coming	74
+experience	best	138
+disappointed	came	63
+pickled	egg	105
+money	money	1075
+good	baby	49
+wait	half	118
+lunch	back	59
+sweet	bbq	70
+tart	morning	33
+end	meal	1489
+building	wrapped	73
+best	pork	137
+rings	salad	143
+amazing	belly	36
+good	flavors	377
+dinner	place	468
+frie	sides	34
+bit	disappointing	22
+delicious	ribs	420
+horrible	service	183
+riendly	nice	122
+gruyere	cheese	13
+good	texture	162
+vibe	restaurant	22
+tart	cream	418
+hear	hype	26
+lamb	dip	105
+bread	delicious	36
+reen	sauce	28
+delicious	rice	137
+ood	chili	45
+line	small	94
+read	pudding	310
+table	ordered	166
+line	way	174
+good	back	164
+deliciou	flavors	122
+mouth	broth	75
+dishe	ordered	110
+salt	salt	699
+cream	creams	42
+french	bread	22
+signature	dish	11
+lot	park	205
+history	place	29
+buns	bun	51
+wait	two	134
+soggy	bread	240
+rapped	line	27
+good	coleslaw	173
+beans	noodles	116
+burrito	bean	121
+sweet	chocolate	148
+seat	line	124
+experience	times	74
+price	good	788
+try	dishes	38
+eat	dinner	85
+eat	coffee	64
+hours	two	270
+door	wait	185
+top	came	30
+flavor	bite	67
+deliciou	pretty	91
+stars	place	906
+stuff	good	694
+restaurant	looking	66
+opinion	best	73
+say	ramen	55
+minutes	arrived	153
+list	list	1692
+deliciou	pancakes	54
+wait	try	474
+mouth	watering	231
+great	sushi	156
+meal	special	23
+okay	service	193
+fresh	verything	25
+raving	place	440
+weeks	ago	54
+meal	people	140
+honey	caramel	169
+amazing	sandwiches	127
+delicious	simply	192
+ood	staff	96
+two	favorite	24
+ways	ine	198
+tangy	sweet	73
+nearby	parking	23
+reason	long	25
+large	portion	310
+bar	night	23
+fish	sauce	66
+taste	bbq	28
+ravy	gravy	181
+table	dinner	24
+mexican	coke	164
+modern	modern	366
+ramen	quality	24
+smoque	smoque	503
+deal	place	140
+waffle	andwich	45
+try	good	349
+door	walk	152
+food	special	26
+long	table	261
+parking	side	15
+morning	line	119
+expect	ine	87
+chops	chops	342
+wait	bit	394
+drink	fries	37
+burger	pork	219
+great	came	129
+items	try	261
+minutes	got	126
+service	people	70
+reservation	seated	34
+sandwiches	try	165
+noodle	good	177
+cream	getting	23
+great	thought	195
+great	value	172
+good	bowl	334
+tender	pork	853
+ice	tea	604
+weekend	came	34
+tasty	sandwich	158
+counter	table	23
+ambiance	service	156
+atmosphere	food	465
+baked	beans	746
+place	away	165
+plate	sashimi	125
+nice	servers	239
+wait	party	172
+ood	sweet	120
+everyday	eat	51
+chicken	salad	35
+overrated	overrated	765
+hour	good	127
+ood	atmosphere	207
+ood	slaw	109
+rib	dinner	79
+lamb	riblets	17
+bone	beef	24
+beefy	rib	65
+buns	ordered	203
+great	pizza	304
+minute	takes	13
+accommodating	staff	23
+famous	place	42
+area	food	198
+mine	ine	64
+probably	best	274
+saturday	came	492
+eat	portions	35
+ood	eating	69
+return	definitely	69
+dinner	hour	40
+location	great	24
+nice	staff	1003
+close	place	344
+bowl	tuna	22
+aioli	fries	80
+weekend	brunch	136
+better	price	27
+friendly	wait	83
+weekends	long	149
+big	line	11
+bacon	brioche	24
+rice	special	24
+delicious	pancakes	158
+pizza	good	558
+sandwiches	two	23
+wait	meal	58
+choice	good	160
+cream	love	237
+place	lot	382
+bone	falls	435
+caramel	coffee	81
+usually	wait	101
+review	long	61
+soup	rice	23
+francisco	favorite	199
+served	served	445
+ramen	akamaru	130
+good	salmon	273
+courteous	staff	22
+menu	small	41
+gen	gen	246
+tasty	verything	24
+long	review	12
+flavor	bread	22
+company	good	71
+places	best	36
+corn	bread	78
+delicious	tuna	66
+sauce	amazing	168
+good	idea	197
+waffle	salmon	60
+best	place	1695
+eat	people	187
+bowl	ramen	796
+flavors	honey	23
+least	least	318
+family	tyle	102
+croissant	morning	87
+sweet	waffles	48
+okay	pork	22
+sauce	bread	162
+pretty	long	52
+texture	nice	35
+people	two	486
+sandwich	delicious	117
+restaurant	two	126
+frie	cheese	127
+arlic	oil	125
+great	got	61
+nice	hostess	72
+great	portions	83
+chicago	best	319
+bit	sweet	99
+crawfish	apple	189
+world	cream	171
+restaurant	side	195
+bit	food	344
+ramen	good	1382
+night	people	68
+stars	service	469
+place	quality	66
+sucks	sucks	408
+favorite	flavor	116
+salty	broth	375
+worth	seated	34
+plate	size	59
+ood	spicy	86
+cheesy	grits	27
+street	lot	186
+sausage	pizza	127
+waitress	waitress	210
+top	make	48
+red	sauce	537
+xtremely	place	25
+side	taste	13
+angele	favorite	85
+yogurt	yogurt	207
+city	great	62
+tasty	egg	22
+flavor	good	700
+things	place	528
+rings	ribs	321
+table	seat	38
+waffle	chicken	866
+called	name	141
+ome	food	117
+top	sugar	27
+full	bar	74
+waffles	try	65
+coconut	caramel	24
+best	think	94
+meal	times	25
+parmesan	cheese	41
+swirl	sugar	216
+review	reviews	1268
+bit	sauce	368
+nice	comes	11
+place	trying	142
+ramen	best	657
+ring	good	57
+best	ippudo	93
+good	selection	39
+brunch	menu	50
+delicious	salmon	70
+star	four	64
+worth	waiting	142
+dinner	breakfast	25
+ordered	friend	152
+delicious	beignets	50
+new	try	154
+ramen	pretty	72
+orth	beach	107
+eat	cheese	96
+tables	food	23
+amen	ordered	52
+toast	coconut	98
+fries	got	101
+flavor	ramen	280
+got	seated	216
+restaurant	think	138
+people	nice	96
+order	window	35
+ood	deal	153
+menu	great	197
+two	sides	28
+good	pancakes	206
+decent	meal	11
+noodles	egg	67
+chocolate	chocolate	1275
+yummy	great	22
+delicious	pork	997
+smoque	bbq	97
+night	ramen	23
+good	pancake	38
+burger	bruxie	139
+spicy	food	56
+large	came	64
+rice	egg	22
+bakery	tartine	212
+average	service	44
+noodles	perfectly	26
+phenomenal	food	82
+buns	ramen	238
+great	special	41
+nice	touch	989
+greek	salad	32
+net	crawfish	70
+hearing	hype	140
+meal	service	147
+start	star	135
+valet	parking	392
+food	side	66
+good	knew	47
+flavor	best	132
+menu	looking	182
+minutes	line	939
+tacos	people	24
+place	sandwich	69
+seated	waited	351
+beef	pork	242
+going	place	484
+spicy	bbq	25
+flavors	good	246
+bud	taste	330
+nonetheles	good	35
+yelp	great	24
+new	yorker	30
+frie	pizza	96
+chicken	ribs	398
+waited	long	68
+long	night	24
+dessert	food	125
+large	portions	473
+restaurants	food	29
+style	ribs	38
+steak	fries	19
+eat	sit	115
+eat	value	108
+come	come	473
+delicious	restaurant	71
+quickly	moves	84
+hostess	hostess	170
+burritos	tacos	152
+modern	got	149
+portion	place	36
+perfectly	prepared	23
+ridiculous	wait	680
+cream	oil	75
+basil	sauce	22
+delicious	dinner	22
+space	food	24
+reat	experience	843
+sitting	table	120
+dish	order	61
+school	school	168
+good	lunch	133
+drinks	food	65
+potato	fries	389
+occasion	occasions	127
+frie	good	222
+goodness	sweet	58
+rice	rice	1707
+meal	ordered	64
+long	minutes	62
+restaurant	try	149
+disappointment	disappointment	610
+perfectly	meat	65
+bit	menu	11
+meal	best	242
+delicious	auce	118
+decent	good	22
+thi	small	89
+greek	coffee	72
+street	spot	66
+places	area	63
+right	sauce	231
+thi	way	51
+whip	cream	68
+greasy	onion	23
+try	wait	408
+food	going	76
+cream	people	131
+story	story	290
+catfish	benedict	61
+earth	burger	11
+delicious	wait	155
+pizza	cheese	25
+area	come	225
+wait	lunch	252
+dishes	food	73
+crazy	good	239
+outstanding	good	28
+right	rice	14
+came	food	25
+shell	tacos	23
+notch	service	214
+beans	brisket	23
+place	cream	300
+great	chicken	227
+things	restaurant	13
+sit	table	135
+dessert	definitely	34
+stars	great	65
+refills	refills	135
+brulee	waffle	71
+ain	going	85
+red	dishes	79
+worth	price	840
+review	back	54
+fresh	cream	46
+food	nice	255
+cheese	fried	138
+long	side	48
+dishe	definitely	33
+greasy	fried	23
+flavors	delicious	102
+delicious	sauce	713
+rite	night	43
+feel	restaurant	128
+good	ingredients	26
+bar	line	62
+slaw	bbq	29
+right	cooked	61
+delicious	ordered	572
+ambiance	place	247
+level	level	359
+authentic	place	35
+sides	dinner	23
+louie	love	90
+grits	grits	1130
+nice	good	131
+meal	took	24
+noodles	noodles	2432
+friend	came	622
+order	waitress	22
+cheese	fries	175
+side	great	93
+eating	people	67
+quick	pretty	190
+croissant	bun	22
+dishe	food	82
+flavors	food	65
+limited	parking	237
+hot	ramen	161
+building	building	450
+different	flavors	514
+good	dishes	415
+food	right	166
+small	come	39
+melted	mouth	984
+amazing	cheese	203
+beignet	try	97
+louis	rib	63
+small	dishes	91
+way	good	498
+good	look	110
+back	rooms	15
+return	return	506
+friends	definitely	72
+side	plate	25
+fusion	fusion	150
+orth	drive	67
+location	place	123
+new	orlean	192
+place	recommend	141
+ashimi	ordered	98
+got	place	281
+bone	meat	877
+solid	ramen	15
+reviews	place	1074
+yummy	food	510
+people	wait	228
+gets	good	931
+right	price	150
+alted	try	130
+bland	sauce	24
+good	long	330
+gravy	maple	56
+ramen	way	65
+tart	chocolate	157
+good	definitely	381
+wait	drive	27
+pecan	auce	26
+place	star	74
+taco	tacos	1473
+impressed	pres	331
+noodle	egg	40
+chicken	back	58
+ramen	restaurant	174
+home	food	205
+louie	salad	14
+waffle	bruxie	179
+good	pizza	1186
+ramen	waiting	132
+nyc	place	137
+away	long	24
+two	people	658
+pizza	ordered	267
+street	parking	1180
+meal	wine	66
+good	lot	178
+pie	cream	296
+style	food	61
+favorite	meal	268
+restaurant	eat	74
+alted	love	33
+pie	chocolate	60
+ood	buns	190
+flavor	fish	26
+life	food	71
+state	best	37
+mac	alad	71
+breakfast	sandwich	11
+ood	side	163
+good	eats	109
+coffee	ordered	61
+sides	slaw	117
+barbecue	sauce	13
+bbq	great	286
+deliciousness	delicious	45
+rude	staff	23
+full	place	308
+menu	wine	76
+cobbler	peach	274
+wait	reason	79
+rite	cream	262
+area	bbq	71
+family	friends	24
+side	side	3136
+date	good	60
+menu	lot	25
+parties	parties	291
+heaven	heaven	774
+fried	fried	493
+nice	meal	23
+delicious	fish	159
+best	burger	279
+fries	back	67
+sandwich	bread	138
+beignet	order	44
+tacos	taco	80
+good	lord	12
+fries	baby	47
+burrito	cheese	165
+salad	small	42
+bit	meat	92
+fresh	broth	24
+bitch	parking	30
+friend	back	79
+reasonable	rice	80
+five	stars	542
+place	friendly	41
+fruit	tart	26
+iced	quality	16
+flavor	waffle	66
+part	dish	28
+hands	hands	122
+wait	think	213
+different	try	145
+amazing	broth	373
+pleasant	surprise	282
+olive	oil	541
+back	oon	201
+whipped	cream	1194
+life	meal	74
+lot	small	91
+park	line	56
+broth	best	68
+area	bar	344
+city	pizza	82
+staff	great	214
+try	friend	136
+good	ordered	767
+dip	dip	1092
+shoyu	ramen	66
+nice	server	388
+saturday	wait	191
+pretty	yummy	22
+pizza	best	70
+date	place	791
+salads	salads	174
+coffee	great	126
+menu	lunch	167
+food	lot	354
+cream	back	47
+cooked	pork	22
+days	good	22
+ramen	places	297
+perfectly	pork	30
+friendly	food	597
+best	ramen	1299
+promptly	seated	115
+ood	desserts	49
+onion	onions	451
+good	love	217
+pain	parking	466
+beans	beans	1076
+bite	meat	23
+street	street	1074
+good	cooked	45
+ridiculou	wait	141
+garlic	bread	66
+based	sauce	13
+salad	side	584
+parking	long	29
+ried	chicken	44
+amazing	ribs	252
+reat	pork	67
+great	way	14
+looked	amazing	232
+baked	bean	254
+long	come	130
+favorite	dish	352
+top	notch	750
+crispy	waffle	153
+bread	cheese	187
+restaurant	find	181
+sauce	mushrooms	22
+special	think	34
+perfect	crust	41
+perfect	bun	22
+special	night	207
+flavor	favorite	123
+world	food	65
+minutes	waiting	426
+better	best	22
+ramen	fried	131
+strawberry	lemonade	29
+fries	beef	67
+spicy	ramen	104
+stars	stars	3629
+ood	friend	91
+burger	best	195
+plate	plates	451
+ood	sauce	710
+short	weet	97
+fresh	fruit	40
+good	spot	49
+sea	salt	258
+ith	food	204
+sid	restaurant	78
+awesome	ribs	130
+pretty	small	230
+deliciou	sandwich	145
+try	pork	35
+eggs	benedict	518
+nets	beignets	443
+price	definitely	37
+big	fan	457
+hly	recommend	86
+blocks	away	350
+right	away	1296
+super	friendly	377
+cold	side	24
+skins	potato	24
+damn	food	44
+neighborhood	parking	66
+atmosphere	service	250
+salad	beans	208
+good	dinner	229
+good	burgers	227
+quickly	service	30
+flavors	place	71
+dining	experience	1873
+great	chocolate	61
+full	rib	23
+line	cream	154
+rings	good	130
+fries	sauce	186
+incredible	service	42
+bun	try	88
+prepared	wait	245
+amazing	flavor	317
+california	bbq	23
+cream	sauce	152
+ain	come	273
+amazing	grits	118
+entree	ordered	33
+frie	got	151
+sandwiche	pork	89
+awesome	sandwich	11
+wanting	place	321
+dish	texture	24
+place	looking	408
+least	wait	14
+dinner	lunch	515
+ways	fish	24
+mouth	burger	25
+waffles	chicken	325
+food	serve	22
+table	went	173
+block	away	225
+tasty	flavors	23
+spot	lot	59
+ood	rvice	61
+area	small	98
+tart	tart	1075
+hate	line	94
+cool	pretty	165
+short	ribs	202
+noodles	ordered	69
+great	love	114
+thi	food	87
+live	area	38
+came	group	100
+grit	ordered	38
+right	meat	68
+burger	amazing	34
+boil	egg	160
+tuesday	night	110
+rings	baby	63
+sandwiche	sandwiches	1269
+good	drinks	88
+sandwich	ordered	359
+large	side	198
+sandwich	definitely	25
+sweet	way	74
+side	fries	233
+great	friendly	88
+waiting	lines	63
+experience	stars	37
+close	tables	276
+side	fried	60
+order	went	126
+place	probably	77
+excellent	dish	11
+love	dish	94
+seat	table	188
+ood	delicious	119
+bite	sauce	25
+thi	pretty	145
+quality	fish	188
+lunch	long	25
+wait	friends	134
+order	table	166
+taste	dish	27
+favorite	pork	114
+delicious	beans	23
+bit	dry	374
+place	brunch	136
+shank	lamb	22
+seated	group	22
+filling	cream	24
+ramen	stars	35
+chicken	sandwich	437
+amazing	sweet	125
+later	came	26
+mistake	mistake	273
+nice	super	154
+diego	visit	29
+modena	salad	14
+disappointing	disappointing	552
+lunch	breakfast	67
+spot	ramen	70
+waffles	love	37
+seafood	seafood	461
+food	meal	136
+wait	table	2113
+reat	service	4428
+point	place	22
+money	lot	24
+food	meat	24
+crawfish	chocolate	205
+way	home	68
+food	thought	65
+mouth	melts	1510
+large	groups	78
+friends	place	525
+pizza	went	22
+dry	ide	22
+attentive	staff	620
+savory	flavor	11
+night	dish	564
+bun	burger	126
+bit	pricey	348
+good	plate	74
+texture	great	152
+bit	prices	150
+heaven	bite	68
+titos	tacos	24
+noodles	bass	151
+cheap	place	169
+full	parking	27
+sunday	morning	250
+order	bar	117
+chocolate	pudding	23
+ood	special	98
+selection	selection	520
+side	meat	69
+good	noodles	523
+cheap	price	172
+table	service	215
+ood	presentation	103
+night	table	156
+ridiculously	line	15
+occasions	special	26
+try	definitely	594
+right	street	223
+fish	sushi	79
+city	liv	22
+pudding	chocolate	132
+alright	food	38
+minute	line	691
+downtown	place	159
+hour	saturday	44
+hate	place	59
+tasty	fresh	164
+delicious	waffles	58
+look	amazing	128
+away	seated	413
+table	order	87
+ain	food	89
+reen	onions	273
+red	wait	38
+door	arrived	56
+goat	cheese	420
+dessert	ordered	206
+rib	order	65
+bit	chicken	42
+main	courses	12
+worth	ong	199
+area	place	571
+juicy	meat	468
+rave	review	64
+table	waiter	68
+special	menu	148
+side	noodles	74
+wrong	good	138
+dinner	ordered	64
+nice	decor	366
+great	long	76
+aioli	aioli	265
+good	hype	22
+line	stand	316
+table	waited	431
+good	make	122
+combo	bowl	71
+eated	wait	230
+octopu	octopus	159
+deliciou	noodles	115
+place	part	41
+deliciou	broth	139
+say	least	365
+door	long	234
+fantastic	meal	79
+ood	sandwich	543
+sea	alt	92
+restaurant	restaurant	6818
+line	try	127
+kick	kick	501
+cream	pie	376
+birthday	came	244
+super	line	16
+bun	pork	1076
+ood	waffle	217
+arrive	food	56
+amily	friends	164
+butter	pecan	212
+angeles	los	1180
+rib	chicken	200
+taco	good	164
+press	coffee	271
+friendly	line	25
+tasty	super	157
+people	watching	155
+side	restaurant	283
+quickly	quickly	1196
+back	line	187
+best	sauce	131
+sushi	spot	11
+background	playing	26
+sandwiche	waffle	165
+know	people	112
+taco	salsa	88
+lobster	special	166
+ood	potato	93
+cheap	food	271
+restaurant	best	267
+immediately	seated	545
+simply	amazing	344
+pancake	sweet	34
+priced	rice	112
+tart	pudding	24
+meat	love	41
+thick	sauce	36
+walked	away	23
+angele	ramen	86
+good	sauce	1381
+place	think	350
+parking	parking	1929
+table	eating	55
+deliciou	great	173
+food	dining	36
+morning	went	132
+wait	times	315
+meat	sandwich	130
+chicken	dry	87
+ain	soon	166
+restaurant	seafood	123
+good	sandwich	937
+brioche	brioche	98
+excellent	chicken	25
+busy	service	172
+reat	think	60
+wait	restaurant	287
+salmon	roll	75
+delicious	sandwiches	176
+place	service	335
+ippudo	best	34
+beignet	beignet	646
+limited	menu	85
+talk	place	64
+rice	soup	71
+flavor	chicken	134
+fried	goodness	15
+chicken	try	121
+staff	food	207
+pork	rice	26
+flavorful	sauce	197
+top	onions	23
+huge	pancakes	261
+sugar	caramel	251
+place	ramen	1128
+better	chicken	132
+original	sandwich	43
+noise	level	35
+pork	ribs	539
+good	company	112
+sauces	sauce	79
+dinner	menu	166
+sauce	pork	686
+cole	slaw	838
+sandwich	best	154
+fine	dining	28
+dishes	great	161
+two	stars	35
+possible	way	24
+dish	noodles	57
+deliciou	back	51
+sandwiches	dip	207
+salty	ide	30
+worth	going	44
+good	wait	532
+overpowering	flavor	24
+dish	pasta	31
+portion	size	148
+dish	flavor	139
+ood	sign	210
+park	street	374
+bottle	wine	23
+done	perfectly	29
+rings	back	71
+dishes	love	34
+reservations	wait	197
+people	pancakes	26
+love	people	114
+lemon	tart	279
+pork	tender	185
+sweet	salty	93
+ood	quality	1044
+super	place	58
+delicious	special	158
+people	combo	23
+combo	pork	135
+good	deal	263
+arlic	bass	214
+fast	lines	144
+toast	pancakes	223
+perfect	bite	62
+birthday	cake	23
+eles	area	66
+ambiance	restaurant	149
+went	place	279
+place	come	433
+delicious	waffle	283
+meal	pretty	44
+perfect	cream	181
+street	place	242
+miso	oup	80
+order	people	195
+bar	good	139
+breakfast	good	147
+santouka	ramen	24
+delicious	dish	288
+perfect	verything	29
+rice	beans	25
+soup	good	170
+food	quickly	48
+powdered	sugar	440
+special	ordered	228
+food	menu	203
+super	busy	102
+barbeque	sandwiches	200
+asian	restaurant	51
+dry	good	146
+waiter	friendly	114
+big	portions	613
+love	restaurant	167
+fast	long	299
+great	combination	13
+line	lines	936
+price	delicious	39
+dream	place	37
+rest	menu	417
+salad	good	338
+star	experience	174
+sandwich	order	51
+great	wine	86
+beach	beach	310
+hour	peak	104
+wait	came	320
+waffle	love	112
+eat	idea	58
+ridiculous	line	351
+rest	life	224
+deep	fried	243
+pizza	place	178
+ramen	food	67
+bbq	sauce	1628
+friend	ordered	226
+best	part	241
+disappointed	went	78
+mind	good	22
+taste	salty	158
+prompt	service	253
+king	taco	353
+bites	bit	34
+tacos	salsa	68
+good	place	4247
+water	sparkling	90
+middle	night	48
+minutes	wait	2783
+fat	fat	692
+size	size	785
+reasonable	food	326
+getting	getting	227
+life	place	156
+eat	sides	123
+restaurant	area	236
+great	come	37
+japanese	restaurant	189
+lemonade	beef	144
+perfect	bbq	23
+waiter	service	24
+parking	sucks	124
+ramen	fan	175
+impressed	place	77
+noodle	ramen	448
+great	delicious	93
+ramen	favorite	157
+better	taste	375
+place	friends	479
+ring	got	55
+eating	restaurant	59
+goodness	goodness	1782
+rib	pork	294
+noodle	steak	88
+desserts	desserts	1053
+spot	love	34
+portion	food	142
+waffle	try	197
+order	ame	95
+place	love	2352
+fried	mushrooms	13
+good	ippudo	94
+perfect	sandwich	11
+fresh	salsa	11
+okay	thought	147
+filling	meal	11
+pretty	mall	86
+nyc	places	23
+think	good	178
+fusion	food	46
+atmosphere	place	301
+deliciou	pork	441
+good	stuff	1051
+perfection	fried	23
+dry	sauce	62
+reservation	reservation	324
+nice	host	11
+table	lunch	26
+things	food	23
+line	side	11
+deep	line	71
+party	mouth	62
+deliciou	egg	92
+good	pudding	98
+reek	coffee	22
+delicious	lobster	25
+fantastic	absolutely	36
+macaroni	salad	1343
+ell	wait	201
+special	food	158
+combo	combo	890
+visit	definitely	139
+share	people	25
+wait	fast	34
+pizza	pizza	3124
+best	probably	188
+free	refill	106
+scallops	scallops	215
+wing	chicken	126
+pasta	pizza	62
+home	home	2599
+ayce	place	13
+quickly	wait	159
+best	dish	70
+delicious	cheese	288
+dishes	side	306
+drive	wait	11
+reek	restaurant	22
+choice	great	113
+past	times	60
+pricey	side	38
+marrow	marrow	146
+sour	sauce	12
+excellent	broth	38
+menu	came	27
+sushi	great	60
+appetite	appetite	418
+did	job	328
+bean	bbq	34
+ambiance	nice	87
+joint	burger	174
+plates	small	122
+eat	find	215
+egg	ordered	120
+long	people	197
+review	stars	89
+perfect	cheese	48
+attentive	servers	95
+burger	burgers	777
+freaking	good	127
+beef	sandwich	417
+place	rocks	268
+big	went	11
+extra	star	15
+better	noodles	24
+worth	trouble	12
+people	party	213
+burrito	carne	49
+sandwich	meat	128
+good	lavender	87
+romantic	place	39
+dish	part	58
+heaven	mouth	164
+xceptional	service	71
+rings	onion	2589
+delicious	grits	61
+ood	size	71
+wait	pretty	113
+bit	ricey	66
+stuffed	stuff	94
+restaurant	size	26
+short	rib	85
+bone	marrow	285
+apple	pie	80
+famous	sandwich	18
+good	morning	40
+slow	service	861
+sea	bas	378
+staff	staff	1236
+oven	right	57
+list	good	33
+table	good	251
+minute	minutes	2602
+definitely	good	116
+sandwich	way	23
+style	bbq	11
+portions	food	203
+flavors	cream	355
+dishe	great	99
+eated	waiting	168
+friendly	atmosphere	99
+delicious	buns	182
+star	food	701
+got	modern	194
+order	seated	41
+meal	think	91
+area	seated	26
+sides	fries	67
+minute	lunch	35
+ood	toast	112
+awesome	experience	43
+town	bbq	141
+walnut	bread	11
+delicious	pastries	23
+wait	late	34
+bar	went	128
+flavor	place	144
+hype	place	1110
+sauce	special	276
+great	pretty	58
+side	came	306
+arlic	noodles	28
+place	cool	151
+full	house	14
+small	rice	161
+place	look	122
+pie	apple	125
+friend	food	167
+flavorful	ramen	106
+soul	food	818
+sweetness	amount	29
+cheese	sandwich	291
+show	star	233
+big	plus	17
+place	long	530
+right	right	3777
+damn	damn	301
+sauce	onions	26

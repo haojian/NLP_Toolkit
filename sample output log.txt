@@ -1,0 +1,635 @@
+Init seed dict.....  Size : 150
+Corpus updated at size: 23294
+Animal_4.0_1568 	 23294 Execution time: 591
+Corpus updated at size: 57230
+Bi-Rite Creamery_4.5_4867 	 33936 Execution time: 298
+Corpus updated at size: 107424
+Bottega Louie_4.0_4326 	 50194 Execution time: 382
+Corpus updated at size: 139810
+Brenda's French Soul Food_4.0_2941 	 32386 Execution time: 198
+Corpus updated at size: 163671
+Bruxie_4.0_2250 	 23861 Execution time: 144
+Corpus updated at size: 171829
+Crisp_4.0_992 	 8158 Execution time: 49
+Corpus updated at size: 203957
+Daikokuya_4.0_3446 	 32128 Execution time: 246
+Corpus updated at size: 211712
+El Taurino_4.0_983 	 7755 Execution time: 50
+Corpus updated at size: 235692
+Griddle Cafe_4.0_2384 	 23980 Execution time: 150
+Corpus updated at size: 273042
+Ippudo NY_4.0_3826 	 37350 Execution time: 237
+Corpus updated at size: 291685
+Kokkari Estiatorio_4.5_2027 	 18643 Execution time: 142
+Corpus updated at size: 299477
+Manuel's Original El Tepeyac Cafe_4.0_885 	 7792 Execution time: 61
+Corpus updated at size: 310455
+Newport Tan Cang Seafood Restaurant_4.5_1107 	 10978 Execution time: 87
+Corpus updated at size: 347789
+Phil's BBQ_4.5_4177 	 37334 Execution time: 279
+Corpus updated at size: 372176
+Philippe The Original Restaurant_4.0_2817 	 24387 Execution time: 237
+Corpus updated at size: 388635
+Providence_4.5_1165 	 16459 Execution time: 109
+Corpus updated at size: 402856
+Smoque BBQ_4.5_1453 	 14221 Execution time: 86
+Corpus updated at size: 412639
+Soowon Galbi KBBQ Restaurant_4.5_1022 	 9783 Execution time: 61
+Corpus updated at size: 426195
+Sushi-Gen_4.5_1539 	 13556 Execution time: 84
+Corpus updated at size: 454758
+Tartine Bakery_4.0_3593 	 28563 Execution time: 182
+Corpus updated at size: 477188
+The House_4.5_2248 	 22430 Execution time: 136
+Corpus updated at size: 491024
+Tito's Tacos_3.5_1918 	 13836 Execution time: 87
+Corpus updated at size: 502008
+Tony's Pizza Napoletana_4.0_1280 	 10984 Execution time: 69
+Corpus updated at size: 524694
+Umami Burger_3.5_1986 	 22686 Execution time: 127
+0th iteration......
+elapse time: 0
+
+117600 templates were found. 17 templates added. 17 templates in total. 
+elapse time: 6161
+
+Attribute Induction current progress: 0.019058727	 time: 197
+Attribute Induction current progress: 0.038117453	 time: 130
+Attribute Induction current progress: 0.057176184	 time: 140
+Attribute Induction current progress: 0.07623491	 time: 134
+Attribute Induction current progress: 0.09529364	 time: 137
+Attribute Induction current progress: 0.11435237	 time: 135
+Attribute Induction current progress: 0.1334111	 time: 130
+Attribute Induction current progress: 0.15246981	 time: 134
+Attribute Induction current progress: 0.17152855	 time: 134
+Attribute Induction current progress: 0.19058728	 time: 134
+Attribute Induction current progress: 0.209646	 time: 135
+Attribute Induction current progress: 0.22870474	 time: 138
+Attribute Induction current progress: 0.24776345	 time: 144
+Attribute Induction current progress: 0.2668222	 time: 189
+Attribute Induction current progress: 0.28588092	 time: 116
+Attribute Induction current progress: 0.30493963	 time: 118
+Attribute Induction current progress: 0.32399836	 time: 120
+Attribute Induction current progress: 0.3430571	 time: 122
+Attribute Induction current progress: 0.36211583	 time: 127
+Attribute Induction current progress: 0.38117456	 time: 125
+Attribute Induction current progress: 0.40023327	 time: 118
+Attribute Induction current progress: 0.419292	 time: 117
+Attribute Induction current progress: 0.43835074	 time: 117
+Attribute Induction current progress: 0.45740947	 time: 123
+Attribute Induction current progress: 0.47646818	 time: 125
+Attribute Induction current progress: 0.4955269	 time: 121
+Attribute Induction current progress: 0.5145857	 time: 127
+Attribute Induction current progress: 0.5336444	 time: 127
+Attribute Induction current progress: 0.5527031	 time: 127
+Attribute Induction current progress: 0.57176185	 time: 118
+Attribute Induction current progress: 0.59082055	 time: 124
+Attribute Induction current progress: 0.60987926	 time: 112
+Attribute Induction current progress: 0.628938	 time: 113
+Attribute Induction current progress: 0.6479967	 time: 114
+Attribute Induction current progress: 0.6670555	 time: 113
+Attribute Induction current progress: 0.6861142	 time: 113
+Attribute Induction current progress: 0.7051729	 time: 114
+Attribute Induction current progress: 0.72423166	 time: 127
+Attribute Induction current progress: 0.74329036	 time: 132
+Attribute Induction current progress: 0.7623491	 time: 175
+Attribute Induction current progress: 0.78140783	 time: 122
+Attribute Induction current progress: 0.80046654	 time: 120
+Attribute Induction current progress: 0.8195253	 time: 118
+Attribute Induction current progress: 0.838584	 time: 115
+Attribute Induction current progress: 0.85764277	 time: 113
+Attribute Induction current progress: 0.8767015	 time: 127
+Attribute Induction current progress: 0.8957602	 time: 127
+Attribute Induction current progress: 0.91481894	 time: 125
+Attribute Induction current progress: 0.93387765	 time: 96
+Attribute Induction current progress: 0.95293635	 time: 121
+Attribute Induction current progress: 0.9719951	 time: 121
+Attribute Induction current progress: 0.9910538	 time: 119
+31721 attribute based exttractions were found. 298 new exttractions were added. 448 extractions in total. 
+elapse time: 60
+
+Value Induction current progress: 0.019058727	 time: 166
+Value Induction current progress: 0.038117453	 time: 144
+Value Induction current progress: 0.057176184	 time: 148
+Value Induction current progress: 0.07623491	 time: 146
+Value Induction current progress: 0.09529364	 time: 155
+Value Induction current progress: 0.11435237	 time: 148
+Value Induction current progress: 0.1334111	 time: 133
+Value Induction current progress: 0.15246981	 time: 149
+Value Induction current progress: 0.17152855	 time: 134
+Value Induction current progress: 0.19058728	 time: 142
+Value Induction current progress: 0.209646	 time: 137
+Value Induction current progress: 0.22870474	 time: 131
+Value Induction current progress: 0.24776345	 time: 134
+Value Induction current progress: 0.2668222	 time: 135
+Value Induction current progress: 0.28588092	 time: 143
+Value Induction current progress: 0.30493963	 time: 140
+Value Induction current progress: 0.32399836	 time: 140
+Value Induction current progress: 0.3430571	 time: 157
+Value Induction current progress: 0.36211583	 time: 166
+Value Induction current progress: 0.38117456	 time: 169
+Value Induction current progress: 0.40023327	 time: 140
+Value Induction current progress: 0.419292	 time: 132
+Value Induction current progress: 0.43835074	 time: 197
+Value Induction current progress: 0.45740947	 time: 157
+Value Induction current progress: 0.47646818	 time: 169
+Value Induction current progress: 0.4955269	 time: 160
+Value Induction current progress: 0.5145857	 time: 175
+Value Induction current progress: 0.5336444	 time: 136
+Value Induction current progress: 0.5527031	 time: 137
+Value Induction current progress: 0.57176185	 time: 131
+Value Induction current progress: 0.59082055	 time: 161
+Value Induction current progress: 0.60987926	 time: 155
+Value Induction current progress: 0.628938	 time: 158
+Value Induction current progress: 0.6479967	 time: 158
+Value Induction current progress: 0.6670555	 time: 151
+Value Induction current progress: 0.6861142	 time: 145
+Value Induction current progress: 0.7051729	 time: 145
+Value Induction current progress: 0.72423166	 time: 153
+Value Induction current progress: 0.74329036	 time: 152
+Value Induction current progress: 0.7623491	 time: 147
+Value Induction current progress: 0.78140783	 time: 151
+Value Induction current progress: 0.80046654	 time: 128
+Value Induction current progress: 0.8195253	 time: 117
+Value Induction current progress: 0.838584	 time: 120
+Value Induction current progress: 0.85764277	 time: 123
+Value Induction current progress: 0.8767015	 time: 138
+Value Induction current progress: 0.8957602	 time: 146
+Value Induction current progress: 0.91481894	 time: 140
+Value Induction current progress: 0.93387765	 time: 110
+Value Induction current progress: 0.95293635	 time: 136
+Value Induction current progress: 0.9719951	 time: 141
+Value Induction current progress: 0.9910538	 time: 138
+44269 value based exttractions were found. 429 new exttractions were added. 877 extractions in total. 
+elapse time: 73
+
+203 attributes in total. 331values in total. 835 extractions in total. 
+1th iteration......
+elapse time: 1331
+
+385466 templates were found. 23 templates added. 40 templates in total. 
+elapse time: 28627
+
+Attribute Induction current progress: 0.019058727	 time: 507
+Attribute Induction current progress: 0.038117453	 time: 411
+Attribute Induction current progress: 0.057176184	 time: 442
+Attribute Induction current progress: 0.07623491	 time: 342
+Attribute Induction current progress: 0.09529364	 time: 338
+Attribute Induction current progress: 0.11435237	 time: 328
+Attribute Induction current progress: 0.1334111	 time: 365
+Attribute Induction current progress: 0.15246981	 time: 365
+Attribute Induction current progress: 0.17152855	 time: 371
+Attribute Induction current progress: 0.19058728	 time: 360
+Attribute Induction current progress: 0.209646	 time: 355
+Attribute Induction current progress: 0.22870474	 time: 359
+Attribute Induction current progress: 0.24776345	 time: 447
+Attribute Induction current progress: 0.2668222	 time: 363
+Attribute Induction current progress: 0.28588092	 time: 345
+Attribute Induction current progress: 0.30493963	 time: 368
+Attribute Induction current progress: 0.32399836	 time: 351
+Attribute Induction current progress: 0.3430571	 time: 340
+Attribute Induction current progress: 0.36211583	 time: 360
+Attribute Induction current progress: 0.38117456	 time: 361
+Attribute Induction current progress: 0.40023327	 time: 339
+Attribute Induction current progress: 0.419292	 time: 357
+Attribute Induction current progress: 0.43835074	 time: 359
+Attribute Induction current progress: 0.45740947	 time: 356
+Attribute Induction current progress: 0.47646818	 time: 346
+Attribute Induction current progress: 0.4955269	 time: 352
+Attribute Induction current progress: 0.5145857	 time: 350
+Attribute Induction current progress: 0.5336444	 time: 362
+Attribute Induction current progress: 0.5527031	 time: 350
+Attribute Induction current progress: 0.57176185	 time: 372
+Attribute Induction current progress: 0.59082055	 time: 342
+Attribute Induction current progress: 0.60987926	 time: 348
+Attribute Induction current progress: 0.628938	 time: 347
+Attribute Induction current progress: 0.6479967	 time: 335
+Attribute Induction current progress: 0.6670555	 time: 340
+Attribute Induction current progress: 0.6861142	 time: 364
+Attribute Induction current progress: 0.7051729	 time: 364
+Attribute Induction current progress: 0.72423166	 time: 405
+Attribute Induction current progress: 0.74329036	 time: 418
+Attribute Induction current progress: 0.7623491	 time: 334
+Attribute Induction current progress: 0.78140783	 time: 351
+Attribute Induction current progress: 0.80046654	 time: 357
+Attribute Induction current progress: 0.8195253	 time: 377
+Attribute Induction current progress: 0.838584	 time: 395
+Attribute Induction current progress: 0.85764277	 time: 389
+Attribute Induction current progress: 0.8767015	 time: 369
+Attribute Induction current progress: 0.8957602	 time: 374
+Attribute Induction current progress: 0.91481894	 time: 363
+Attribute Induction current progress: 0.93387765	 time: 336
+Attribute Induction current progress: 0.95293635	 time: 370
+Attribute Induction current progress: 0.9719951	 time: 352
+Attribute Induction current progress: 0.9910538	 time: 367
+76488 attribute based exttractions were found. 118 new exttractions were added. 953 extractions in total. 
+elapse time: 181
+
+Value Induction current progress: 0.019058727	 time: 569
+Value Induction current progress: 0.038117453	 time: 420
+Value Induction current progress: 0.057176184	 time: 395
+Value Induction current progress: 0.07623491	 time: 383
+Value Induction current progress: 0.09529364	 time: 385
+Value Induction current progress: 0.11435237	 time: 368
+Value Induction current progress: 0.1334111	 time: 390
+Value Induction current progress: 0.15246981	 time: 404
+Value Induction current progress: 0.17152855	 time: 419
+Value Induction current progress: 0.19058728	 time: 406
+Value Induction current progress: 0.209646	 time: 388
+Value Induction current progress: 0.22870474	 time: 385
+Value Induction current progress: 0.24776345	 time: 396
+Value Induction current progress: 0.2668222	 time: 381
+Value Induction current progress: 0.28588092	 time: 408
+Value Induction current progress: 0.30493963	 time: 414
+Value Induction current progress: 0.32399836	 time: 393
+Value Induction current progress: 0.3430571	 time: 408
+Value Induction current progress: 0.36211583	 time: 416
+Value Induction current progress: 0.38117456	 time: 429
+Value Induction current progress: 0.40023327	 time: 378
+Value Induction current progress: 0.419292	 time: 396
+Value Induction current progress: 0.43835074	 time: 375
+Value Induction current progress: 0.45740947	 time: 410
+Value Induction current progress: 0.47646818	 time: 420
+Value Induction current progress: 0.4955269	 time: 407
+Value Induction current progress: 0.5145857	 time: 455
+Value Induction current progress: 0.5336444	 time: 402
+Value Induction current progress: 0.5527031	 time: 401
+Value Induction current progress: 0.57176185	 time: 382
+Value Induction current progress: 0.59082055	 time: 409
+Value Induction current progress: 0.60987926	 time: 410
+Value Induction current progress: 0.628938	 time: 414
+Value Induction current progress: 0.6479967	 time: 434
+Value Induction current progress: 0.6670555	 time: 401
+Value Induction current progress: 0.6861142	 time: 396
+Value Induction current progress: 0.7051729	 time: 392
+Value Induction current progress: 0.72423166	 time: 418
+Value Induction current progress: 0.74329036	 time: 432
+Value Induction current progress: 0.7623491	 time: 385
+Value Induction current progress: 0.78140783	 time: 415
+Value Induction current progress: 0.80046654	 time: 419
+Value Induction current progress: 0.8195253	 time: 394
+Value Induction current progress: 0.838584	 time: 394
+Value Induction current progress: 0.85764277	 time: 385
+Value Induction current progress: 0.8767015	 time: 403
+Value Induction current progress: 0.8957602	 time: 406
+Value Induction current progress: 0.91481894	 time: 389
+Value Induction current progress: 0.93387765	 time: 331
+Value Induction current progress: 0.95293635	 time: 401
+Value Induction current progress: 0.9719951	 time: 393
+Value Induction current progress: 0.9910538	 time: 404
+82743 value based exttractions were found. 137 new exttractions were added. 1090 extractions in total. 
+elapse time: 187
+
+270 attributes in total. 392values in total. 1090 extractions in total. 
+2th iteration......
+elapse time: 1349
+
+598961 templates were found. 10 templates added. 50 templates in total. 
+elapse time: 38341
+
+Attribute Induction current progress: 0.019058727	 time: 904
+Attribute Induction current progress: 0.038117453	 time: 803
+Attribute Induction current progress: 0.057176184	 time: 729
+Attribute Induction current progress: 0.07623491	 time: 721
+Attribute Induction current progress: 0.09529364	 time: 692
+Attribute Induction current progress: 0.11435237	 time: 670
+Attribute Induction current progress: 0.1334111	 time: 730
+Attribute Induction current progress: 0.15246981	 time: 747
+Attribute Induction current progress: 0.17152855	 time: 746
+Attribute Induction current progress: 0.19058728	 time: 737
+Attribute Induction current progress: 0.209646	 time: 750
+Attribute Induction current progress: 0.22870474	 time: 724
+Attribute Induction current progress: 0.24776345	 time: 757
+Attribute Induction current progress: 0.2668222	 time: 746
+Attribute Induction current progress: 0.28588092	 time: 694
+Attribute Induction current progress: 0.30493963	 time: 730
+Attribute Induction current progress: 0.32399836	 time: 723
+Attribute Induction current progress: 0.3430571	 time: 702
+Attribute Induction current progress: 0.36211583	 time: 731
+Attribute Induction current progress: 0.38117456	 time: 730
+Attribute Induction current progress: 0.40023327	 time: 679
+Attribute Induction current progress: 0.419292	 time: 739
+Attribute Induction current progress: 0.43835074	 time: 732
+Attribute Induction current progress: 0.45740947	 time: 827
+Attribute Induction current progress: 0.47646818	 time: 752
+Attribute Induction current progress: 0.4955269	 time: 757
+Attribute Induction current progress: 0.5145857	 time: 749
+Attribute Induction current progress: 0.5336444	 time: 762
+Attribute Induction current progress: 0.5527031	 time: 760
+Attribute Induction current progress: 0.57176185	 time: 733
+Attribute Induction current progress: 0.59082055	 time: 710
+Attribute Induction current progress: 0.60987926	 time: 694
+Attribute Induction current progress: 0.628938	 time: 699
+Attribute Induction current progress: 0.6479967	 time: 692
+Attribute Induction current progress: 0.6670555	 time: 684
+Attribute Induction current progress: 0.6861142	 time: 727
+Attribute Induction current progress: 0.7051729	 time: 737
+Attribute Induction current progress: 0.72423166	 time: 815
+Attribute Induction current progress: 0.74329036	 time: 846
+Attribute Induction current progress: 0.7623491	 time: 695
+Attribute Induction current progress: 0.78140783	 time: 720
+Attribute Induction current progress: 0.80046654	 time: 714
+Attribute Induction current progress: 0.8195253	 time: 732
+Attribute Induction current progress: 0.838584	 time: 743
+Attribute Induction current progress: 0.85764277	 time: 733
+Attribute Induction current progress: 0.8767015	 time: 743
+Attribute Induction current progress: 0.8957602	 time: 777
+Attribute Induction current progress: 0.91481894	 time: 754
+Attribute Induction current progress: 0.93387765	 time: 669
+Attribute Induction current progress: 0.95293635	 time: 777
+Attribute Induction current progress: 0.9719951	 time: 721
+Attribute Induction current progress: 0.9910538	 time: 749
+84127 attribute based exttractions were found. 19 new exttractions were added. 1109 extractions in total. 
+elapse time: 358
+
+Value Induction current progress: 0.019058727	 time: 1183
+Value Induction current progress: 0.038117453	 time: 1183
+Value Induction current progress: 0.057176184	 time: 1125
+Value Induction current progress: 0.07623491	 time: 1071
+Value Induction current progress: 0.09529364	 time: 1097
+Value Induction current progress: 0.11435237	 time: 1050
+Value Induction current progress: 0.1334111	 time: 1061
+Value Induction current progress: 0.15246981	 time: 1074
+Value Induction current progress: 0.17152855	 time: 1096
+Value Induction current progress: 0.19058728	 time: 1120
+Value Induction current progress: 0.209646	 time: 1104
+Value Induction current progress: 0.22870474	 time: 1043
+Value Induction current progress: 0.24776345	 time: 1066
+Value Induction current progress: 0.2668222	 time: 1033
+Value Induction current progress: 0.28588092	 time: 1191
+Value Induction current progress: 0.30493963	 time: 1225
+Value Induction current progress: 0.32399836	 time: 1122
+Value Induction current progress: 0.3430571	 time: 1187
+Value Induction current progress: 0.36211583	 time: 1248
+Value Induction current progress: 0.38117456	 time: 1289
+Value Induction current progress: 0.40023327	 time: 1105
+Value Induction current progress: 0.419292	 time: 1110
+Value Induction current progress: 0.43835074	 time: 1062
+Value Induction current progress: 0.45740947	 time: 1183
+Value Induction current progress: 0.47646818	 time: 1262
+Value Induction current progress: 0.4955269	 time: 1241
+Value Induction current progress: 0.5145857	 time: 1319
+Value Induction current progress: 0.5336444	 time: 1155
+Value Induction current progress: 0.5527031	 time: 1102
+Value Induction current progress: 0.57176185	 time: 1008
+Value Induction current progress: 0.59082055	 time: 1200
+Value Induction current progress: 0.60987926	 time: 1191
+Value Induction current progress: 0.628938	 time: 1219
+Value Induction current progress: 0.6479967	 time: 1204
+Value Induction current progress: 0.6670555	 time: 1150
+Value Induction current progress: 0.6861142	 time: 1129
+Value Induction current progress: 0.7051729	 time: 1124
+Value Induction current progress: 0.72423166	 time: 1198
+Value Induction current progress: 0.74329036	 time: 1236
+Value Induction current progress: 0.7623491	 time: 1123
+Value Induction current progress: 0.78140783	 time: 1198
+Value Induction current progress: 0.80046654	 time: 1198
+Value Induction current progress: 0.8195253	 time: 1145
+Value Induction current progress: 0.838584	 time: 1089
+Value Induction current progress: 0.85764277	 time: 1079
+Value Induction current progress: 0.8767015	 time: 1156
+Value Induction current progress: 0.8957602	 time: 1184
+Value Induction current progress: 0.91481894	 time: 1136
+Value Induction current progress: 0.93387765	 time: 950
+Value Induction current progress: 0.95293635	 time: 1118
+Value Induction current progress: 0.9719951	 time: 1134
+Value Induction current progress: 0.9910538	 time: 1155
+113467 value based exttractions were found. 81 new exttractions were added. 1190 extractions in total. 
+elapse time: 545
+
+282 attributes in total. 427values in total. 1190 extractions in total. 
+3th iteration......
+elapse time: 1399
+
+783486 templates were found. 3 templates added. 53 templates in total. 
+elapse time: 45954
+
+Attribute Induction current progress: 0.019058727	 time: 1395
+Attribute Induction current progress: 0.038117453	 time: 1404
+Attribute Induction current progress: 0.057176184	 time: 1305
+Attribute Induction current progress: 0.07623491	 time: 1160
+Attribute Induction current progress: 0.09529364	 time: 1163
+Attribute Induction current progress: 0.11435237	 time: 1153
+Attribute Induction current progress: 0.1334111	 time: 1206
+Attribute Induction current progress: 0.15246981	 time: 1242
+Attribute Induction current progress: 0.17152855	 time: 1247
+Attribute Induction current progress: 0.19058728	 time: 1237
+Attribute Induction current progress: 0.209646	 time: 1257
+Attribute Induction current progress: 0.22870474	 time: 1214
+Attribute Induction current progress: 0.24776345	 time: 1263
+Attribute Induction current progress: 0.2668222	 time: 1244
+Attribute Induction current progress: 0.28588092	 time: 1152
+Attribute Induction current progress: 0.30493963	 time: 1201
+Attribute Induction current progress: 0.32399836	 time: 1213
+Attribute Induction current progress: 0.3430571	 time: 1199
+Attribute Induction current progress: 0.36211583	 time: 1230
+Attribute Induction current progress: 0.38117456	 time: 1206
+Attribute Induction current progress: 0.40023327	 time: 1145
+Attribute Induction current progress: 0.419292	 time: 1189
+Attribute Induction current progress: 0.43835074	 time: 1170
+Attribute Induction current progress: 0.45740947	 time: 1200
+Attribute Induction current progress: 0.47646818	 time: 1207
+Attribute Induction current progress: 0.4955269	 time: 1193
+Attribute Induction current progress: 0.5145857	 time: 1247
+Attribute Induction current progress: 0.5336444	 time: 1305
+Attribute Induction current progress: 0.5527031	 time: 1289
+Attribute Induction current progress: 0.57176185	 time: 1217
+Attribute Induction current progress: 0.59082055	 time: 1209
+Attribute Induction current progress: 0.60987926	 time: 1152
+Attribute Induction current progress: 0.628938	 time: 1141
+Attribute Induction current progress: 0.6479967	 time: 1137
+Attribute Induction current progress: 0.6670555	 time: 1134
+Attribute Induction current progress: 0.6861142	 time: 1210
+Attribute Induction current progress: 0.7051729	 time: 1216
+Attribute Induction current progress: 0.72423166	 time: 1324
+Attribute Induction current progress: 0.74329036	 time: 1373
+Attribute Induction current progress: 0.7623491	 time: 1167
+Attribute Induction current progress: 0.78140783	 time: 1221
+Attribute Induction current progress: 0.80046654	 time: 1163
+Attribute Induction current progress: 0.8195253	 time: 1208
+Attribute Induction current progress: 0.838584	 time: 1166
+Attribute Induction current progress: 0.85764277	 time: 1178
+Attribute Induction current progress: 0.8767015	 time: 1216
+Attribute Induction current progress: 0.8957602	 time: 1290
+Attribute Induction current progress: 0.91481894	 time: 1246
+Attribute Induction current progress: 0.93387765	 time: 1055
+Attribute Induction current progress: 0.95293635	 time: 1268
+Attribute Induction current progress: 0.9719951	 time: 1218
+Attribute Induction current progress: 0.9910538	 time: 1247
+92408 attribute based exttractions were found. 18 new exttractions were added. 1208 extractions in total. 
+elapse time: 591
+
+Value Induction current progress: 0.019058727	 time: 2323
+Value Induction current progress: 0.038117453	 time: 2398
+Value Induction current progress: 0.057176184	 time: 2206
+Value Induction current progress: 0.07623491	 time: 2068
+Value Induction current progress: 0.09529364	 time: 2141
+Value Induction current progress: 0.11435237	 time: 2018
+Value Induction current progress: 0.1334111	 time: 2015
+Value Induction current progress: 0.15246981	 time: 2101
+Value Induction current progress: 0.17152855	 time: 2098
+Value Induction current progress: 0.19058728	 time: 2176
+Value Induction current progress: 0.209646	 time: 2129
+Value Induction current progress: 0.22870474	 time: 1990
+Value Induction current progress: 0.24776345	 time: 2044
+Value Induction current progress: 0.2668222	 time: 1981
+Value Induction current progress: 0.28588092	 time: 2340
+Value Induction current progress: 0.30493963	 time: 2407
+Value Induction current progress: 0.32399836	 time: 2174
+Value Induction current progress: 0.3430571	 time: 2317
+Value Induction current progress: 0.36211583	 time: 2451
+Value Induction current progress: 0.38117456	 time: 2558
+Value Induction current progress: 0.40023327	 time: 2150
+Value Induction current progress: 0.419292	 time: 2167
+Value Induction current progress: 0.43835074	 time: 2053
+Value Induction current progress: 0.45740947	 time: 2329
+Value Induction current progress: 0.47646818	 time: 2524
+Value Induction current progress: 0.4955269	 time: 2471
+Value Induction current progress: 0.5145857	 time: 2647
+Value Induction current progress: 0.5336444	 time: 2246
+Value Induction current progress: 0.5527031	 time: 2142
+Value Induction current progress: 0.57176185	 time: 1945
+Value Induction current progress: 0.59082055	 time: 2393
+Value Induction current progress: 0.60987926	 time: 2371
+Value Induction current progress: 0.628938	 time: 2390
+Value Induction current progress: 0.6479967	 time: 2352
+Value Induction current progress: 0.6670555	 time: 2252
+Value Induction current progress: 0.6861142	 time: 2192
+Value Induction current progress: 0.7051729	 time: 2180
+Value Induction current progress: 0.72423166	 time: 2272
+Value Induction current progress: 0.74329036	 time: 2372
+Value Induction current progress: 0.7623491	 time: 2188
+Value Induction current progress: 0.78140783	 time: 2337
+Value Induction current progress: 0.80046654	 time: 2359
+Value Induction current progress: 0.8195253	 time: 2248
+Value Induction current progress: 0.838584	 time: 2160
+Value Induction current progress: 0.85764277	 time: 2147
+Value Induction current progress: 0.8767015	 time: 2285
+Value Induction current progress: 0.8957602	 time: 2328
+Value Induction current progress: 0.91481894	 time: 2235
+Value Induction current progress: 0.93387765	 time: 1855
+Value Induction current progress: 0.95293635	 time: 2166
+Value Induction current progress: 0.9719951	 time: 2200
+Value Induction current progress: 0.9910538	 time: 2257
+115547 value based exttractions were found. 1 new exttractions were added. 1209 extractions in total. 
+elapse time: 1047
+
+297 attributes in total. 428values in total. 1209 extractions in total. 
+4th iteration......
+elapse time: 1429
+
+789586 templates were found. 0 templates added. 53 templates in total. 
+elapse time: 44917
+
+Attribute Induction current progress: 0.019058727	 time: 1863
+Attribute Induction current progress: 0.038117453	 time: 1885
+Attribute Induction current progress: 0.057176184	 time: 1764
+Attribute Induction current progress: 0.07623491	 time: 1672
+Attribute Induction current progress: 0.09529364	 time: 1701
+Attribute Induction current progress: 0.11435237	 time: 1689
+Attribute Induction current progress: 0.1334111	 time: 1758
+Attribute Induction current progress: 0.15246981	 time: 1799
+Attribute Induction current progress: 0.17152855	 time: 1785
+Attribute Induction current progress: 0.19058728	 time: 1801
+Attribute Induction current progress: 0.209646	 time: 1816
+Attribute Induction current progress: 0.22870474	 time: 1765
+Attribute Induction current progress: 0.24776345	 time: 1837
+Attribute Induction current progress: 0.2668222	 time: 1789
+Attribute Induction current progress: 0.28588092	 time: 1641
+Attribute Induction current progress: 0.30493963	 time: 1699
+Attribute Induction current progress: 0.32399836	 time: 1761
+Attribute Induction current progress: 0.3430571	 time: 1691
+Attribute Induction current progress: 0.36211583	 time: 1745
+Attribute Induction current progress: 0.38117456	 time: 1760
+Attribute Induction current progress: 0.40023327	 time: 1635
+Attribute Induction current progress: 0.419292	 time: 1759
+Attribute Induction current progress: 0.43835074	 time: 1662
+Attribute Induction current progress: 0.45740947	 time: 1733
+Attribute Induction current progress: 0.47646818	 time: 1688
+Attribute Induction current progress: 0.4955269	 time: 1683
+Attribute Induction current progress: 0.5145857	 time: 1755
+Attribute Induction current progress: 0.5336444	 time: 1838
+Attribute Induction current progress: 0.5527031	 time: 1856
+Attribute Induction current progress: 0.57176185	 time: 1725
+Attribute Induction current progress: 0.59082055	 time: 1760
+Attribute Induction current progress: 0.60987926	 time: 1619
+Attribute Induction current progress: 0.628938	 time: 1599
+Attribute Induction current progress: 0.6479967	 time: 1614
+Attribute Induction current progress: 0.6670555	 time: 1605
+Attribute Induction current progress: 0.6861142	 time: 1660
+Attribute Induction current progress: 0.7051729	 time: 1695
+Attribute Induction current progress: 0.72423166	 time: 1880
+Attribute Induction current progress: 0.74329036	 time: 1937
+Attribute Induction current progress: 0.7623491	 time: 1656
+Attribute Induction current progress: 0.78140783	 time: 1728
+Attribute Induction current progress: 0.80046654	 time: 1672
+Attribute Induction current progress: 0.8195253	 time: 1711
+Attribute Induction current progress: 0.838584	 time: 1623
+Attribute Induction current progress: 0.85764277	 time: 1623
+Attribute Induction current progress: 0.8767015	 time: 1765
+Attribute Induction current progress: 0.8957602	 time: 1865
+Attribute Induction current progress: 0.91481894	 time: 1795
+Attribute Induction current progress: 0.93387765	 time: 1479
+Attribute Induction current progress: 0.95293635	 time: 1811
+Attribute Induction current progress: 0.9719951	 time: 1763
+Attribute Induction current progress: 0.9910538	 time: 1797
+92623 attribute based exttractions were found. 1 new exttractions were added. 1210 extractions in total. 
+elapse time: 849
+
+Value Induction current progress: 0.019058727	 time: 3818
+Value Induction current progress: 0.038117453	 time: 3836
+Value Induction current progress: 0.057176184	 time: 3630
+Value Induction current progress: 0.07623491	 time: 3463
+Value Induction current progress: 0.09529364	 time: 3532
+Value Induction current progress: 0.11435237	 time: 3327
+Value Induction current progress: 0.1334111	 time: 3346
+Value Induction current progress: 0.15246981	 time: 3482
+Value Induction current progress: 0.17152855	 time: 3455
+Value Induction current progress: 0.19058728	 time: 3599
+Value Induction current progress: 0.209646	 time: 3517
+Value Induction current progress: 0.22870474	 time: 3261
+Value Induction current progress: 0.24776345	 time: 3355
+Value Induction current progress: 0.2668222	 time: 3236
+Value Induction current progress: 0.28588092	 time: 3899
+Value Induction current progress: 0.30493963	 time: 4005
+Value Induction current progress: 0.32399836	 time: 3603
+Value Induction current progress: 0.3430571	 time: 3879
+Value Induction current progress: 0.36211583	 time: 4099
+Value Induction current progress: 0.38117456	 time: 4275
+Value Induction current progress: 0.40023327	 time: 3602
+Value Induction current progress: 0.419292	 time: 3528
+Value Induction current progress: 0.43835074	 time: 3346
+Value Induction current progress: 0.45740947	 time: 3870
+Value Induction current progress: 0.47646818	 time: 4253
+Value Induction current progress: 0.4955269	 time: 4162
+Value Induction current progress: 0.5145857	 time: 4448
+Value Induction current progress: 0.5336444	 time: 3754
+Value Induction current progress: 0.5527031	 time: 3502
+Value Induction current progress: 0.57176185	 time: 3180
+Value Induction current progress: 0.59082055	 time: 3924
+Value Induction current progress: 0.60987926	 time: 3931
+Value Induction current progress: 0.628938	 time: 3987
+Value Induction current progress: 0.6479967	 time: 3947
+Value Induction current progress: 0.6670555	 time: 3788
+Value Induction current progress: 0.6861142	 time: 3619
+Value Induction current progress: 0.7051729	 time: 3612
+Value Induction current progress: 0.72423166	 time: 3785
+Value Induction current progress: 0.74329036	 time: 3986
+Value Induction current progress: 0.7623491	 time: 3625
+Value Induction current progress: 0.78140783	 time: 3861
+Value Induction current progress: 0.80046654	 time: 3907
+Value Induction current progress: 0.8195253	 time: 3745
+Value Induction current progress: 0.838584	 time: 3562
+Value Induction current progress: 0.85764277	 time: 3562
+Value Induction current progress: 0.8767015	 time: 3815
+Value Induction current progress: 0.8957602	 time: 3895
+Value Induction current progress: 0.91481894	 time: 3734
+Value Induction current progress: 0.93387765	 time: 3028
+Value Induction current progress: 0.95293635	 time: 3614
+Value Induction current progress: 0.9719951	 time: 3657
+Value Induction current progress: 0.9910538	 time: 3716
+121164 value based exttractions were found. 7 new exttractions were added. 1217 extractions in total. 
+elapse time: 1700
+
+297 attributes in total. 431values in total. 1217 extractions in total. 
+long wait.....it's finished!....

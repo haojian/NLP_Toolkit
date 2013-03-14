@@ -116,9 +116,7 @@ public class TextUtil {
 	
 	public static Template patternExtraction(Value val, Attribute attr, String sent){
 		if(sent.contains(val.get_txt()) && sent.contains(attr.get_txt())){
-			sent = sent.replace(val.get_txt(), "-~-#VALUE#-~-");
-			sent = sent.replace(attr.get_txt(), "-~-#ATTRIBUTE#-~-");
-			String[] tmp = sent.split("-~-");
+			String[] tmp = sent.replace(val.get_txt(), "-~-#VALUE#-~-").replace(attr.get_txt(), "-~-#ATTRIBUTE#-~-").split("-~-");
 			int minDistIndex = -1;
 			
 			for(int i= 0 ; i<tmp.length; i++){
@@ -148,11 +146,34 @@ public class TextUtil {
 				res.add(tmp[minDistIndex-1]);
 				res.add(tmp[minDistIndex]);
 				res.add(tmp[minDistIndex+1]);
+				return new Template(res);
 			}
-			else
-				res.addAll(Arrays.asList(tmp));
+			else{
+				//EXTRACTIONEXPANDDISTTHRESHOLD
+				if(minDistIndex != -1){
+					//System.out.println(tmp.length + "\t" + minDistIndex);
+					if(minDistIndex>=2){
+						String[] subsnaps = tmp[minDistIndex-1].split(" ");
+						if(subsnaps.length > 3)
+							tmp[minDistIndex-1] = subsnaps[subsnaps.length-3] + " " +  subsnaps[subsnaps.length-2] + " " + subsnaps[subsnaps.length-1];
+						res.add(tmp[minDistIndex - 2]);
+					}
+					res.add(tmp[minDistIndex-1]);
+					res.add(tmp[minDistIndex]);
+					res.add(tmp[minDistIndex+1]);
+					if(minDistIndex<= tmp.length -3){
+						String[] subsnaps = tmp[minDistIndex + 2].split(" ");
+						if(subsnaps.length > 3)
+							tmp[minDistIndex + 2] = subsnaps[0] + " " +  subsnaps[1] + " " + subsnaps[2];
+						res.add(tmp[minDistIndex + 2]);
+					}
+					
+					return new Template(res);
 
-			return new Template(res);
+				}
+			}
+			return null;
+
 		}
 		else 
 			return null;
