@@ -120,6 +120,78 @@ public class TextUtil {
 			int minDistIndex = -1;
 			
 			for(int i= 0 ; i<tmp.length; i++){
+				if(tmp[i].equals("#VALUE#") && IfVailidSpliting(tmp, i)){
+					for(int j = (i+1); j<tmp.length; j++){
+						if(tmp[j].equals("#ATTRIBUTE#") && IfVailidSpliting(tmp, j)){
+							if(j == (i+2)){
+								if(minDistIndex == -1 || tmp[minDistIndex].split(" ").length > tmp[i+1].split(" ").length)
+									minDistIndex = i+1;
+							}
+						}
+					}
+				}else if(tmp[i].equals("#ATTRIBUTE#") && IfVailidSpliting(tmp, i)){
+					for(int j = (i+1); j<tmp.length; j++){
+						if(tmp[j].equals("#VALUE#")  && IfVailidSpliting(tmp, j)){
+							if(j == (i+2))
+								if(minDistIndex == -1 ||  tmp[minDistIndex].split(" ").length > tmp[i+1].split(" ").length)
+									minDistIndex = i+1;
+						}
+					}
+				}else{
+					//tmp[i] = Pattern.quote(tmp[i]);
+				}
+			}
+			ArrayList<String> res = new ArrayList<String>();
+			if(minDistIndex != -1 && tmp[minDistIndex].split(" ").length > ParameterSetting.EXTRACTIONDISTANCETHRESHOLD){
+				res.add(tmp[minDistIndex-1]);
+				res.add(tmp[minDistIndex]);
+				res.add(tmp[minDistIndex+1]);
+				return new Template(res);
+			}
+			else{
+				if(minDistIndex != -1){
+					if(minDistIndex>=2){
+						String[] subsnaps = tmp[minDistIndex-1].split(" ");
+						if(subsnaps.length > 3)
+							tmp[minDistIndex-1] = subsnaps[subsnaps.length-3] + " " +  subsnaps[subsnaps.length-2] + " " + subsnaps[subsnaps.length-1];
+						res.add(tmp[minDistIndex - 2]);
+					}
+					res.add(tmp[minDistIndex-1]);
+					res.add(tmp[minDistIndex]);
+					res.add(tmp[minDistIndex+1]);
+					if(minDistIndex<= tmp.length -3){
+						String[] subsnaps = tmp[minDistIndex + 2].split(" ");
+						if(subsnaps.length > 3)
+							tmp[minDistIndex + 2] = subsnaps[0] + " " +  subsnaps[1] + " " + subsnaps[2];
+						res.add(tmp[minDistIndex + 2]);
+					}
+					
+					return new Template(res);
+
+				}
+			}
+			return null;
+
+		}
+		else 
+			return null;
+		
+	}
+	
+	public static boolean IfVailidSpliting(String[] splitted, int i){
+		if(i >=1 && splitted[i-1].length() != 0 && Character.isAlphabetic(splitted[i-1].charAt(splitted[i-1].length()-1)))
+			return false;
+		if(i <= splitted.length-2 && splitted[i+1].length() != 0 && Character.isAlphabetic(splitted[i+1].charAt(0)))
+			return false;
+		return true;
+	}
+	
+	public static Template patternExtraction_v1(Value val, Attribute attr, String sent){
+		if(sent.contains(val.get_txt()) && sent.contains(attr.get_txt())){
+			String[] tmp = sent.replace(val.get_txt(), "-~-#VALUE#-~-").replace(attr.get_txt(), "-~-#ATTRIBUTE#-~-").split("-~-");
+			int minDistIndex = -1;
+			
+			for(int i= 0 ; i<tmp.length; i++){
 				if(tmp[i].equals("#VALUE#")){
 					for(int j = (i+1); j<tmp.length; j++){
 						if(tmp[j].equals("#ATTRIBUTE#")){

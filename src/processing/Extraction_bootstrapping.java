@@ -115,7 +115,7 @@ public class Extraction_bootstrapping {
 		int lastIterationSize = -1;
 		int lastAttrListSize = -1;
 		int lastValListSize = -1;
-		while(extractionMap.size() != lastIterationSize && attrList.size() !=  lastAttrListSize && valList.size() != lastValListSize){
+		while(extractionMap.size() != lastIterationSize || attrList.size() !=  lastAttrListSize || valList.size() != lastValListSize){
 			System.out.println(iterationIndex + "th iteration......" );
 			lastIterationSize = extractionMap.size();
 			lastAttrListSize = attrList.size();
