@@ -54,7 +54,6 @@ public class SeedGenerator {
 			if(tmp.getName().split("_").length != 3)
 				continue;
 			LoadRevTxtProccessedData(tmp);
-			//break;
 		}
 		System.err.println("Processing loaded files.....");
 		SortSeedsDict();
@@ -78,9 +77,12 @@ public class SeedGenerator {
 				}else if(line.trim().equals("------------")){
 					//do nothing.
 				}else{
+					if(line.contains("appos(onions-20, http"))
+						System.out.println("debugged");
 					String[] parsed = TextUtil.ExtractDependentPair(line);
 					if(parsed != null && parsed.length == 3 && parsed[0].equals("amod")){
-						//System.out.println(parsed[2] + "\t" + parsed[1]);
+						System.out.println(parsed[2] + "\t" + parsed[1]);
+						
 						if(TextUtil.IfHighQualitySpelling(parsed[1]) && TextUtil.IfHighQualitySpelling(parsed[2])){
 							if(!StopwordsFilter.getInstance().isStopWords(parsed[1]) && !StopwordsFilter.getInstance().isStopWords(parsed[2])){
 								SeedsDictExtraction(parsed[2], parsed[1]);
@@ -90,6 +92,7 @@ public class SeedGenerator {
 				}
 			}
 		} catch (Exception e) {
+			
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}

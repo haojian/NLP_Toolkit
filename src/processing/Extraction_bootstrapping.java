@@ -32,7 +32,7 @@ public class Extraction_bootstrapping {
 	}
 	
 	private Map<Template, Integer> templateMap;
-	private Map<Extraction, Integer> extractionMap;
+	private Map<Extraction, ArrayList<Integer>> extractionMap;
 	private Map<String, Integer> attrList;
 	private Map<String, Integer> valList;
 	//private ArrayList<String> attrList;
@@ -49,22 +49,11 @@ public class Extraction_bootstrapping {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		for(File input : DataManager.getInstance().getFilesUnderFolder(ParameterSetting.PATHTOCRAWLEDDATA)){
-			if(input.getName().split("_").length != 3)
-				continue;
-			long startTime = System.currentTimeMillis();
-			ArrayList<String> tmp =  DataManager.getInstance().getSentencesInFile(input);
-			int size = tmp.size();
-			Extraction_bootstrapping.getInstance().UpdateCorpus(tmp, input.getName());
-			long ellapse = System.currentTimeMillis() - startTime;
-			System.out.println(input.getName() + " \t " + size + " Execution time: " + ellapse);
-			//break;
-		}
-		Extraction_bootstrapping.getInstance().StartProcess();
+
 	}
 	
 	public Extraction_bootstrapping(){
-		extractionMap = new HashMap<Extraction, Integer>();
+		extractionMap = new HashMap<Extraction, ArrayList<Integer>>();
 		templateMap = new HashMap<Template, Integer>();
 		corpus = new ArrayList<SentenceEntry>();
 		attrList = new HashMap<String, Integer>();
@@ -84,7 +73,7 @@ public class Extraction_bootstrapping {
 				if(res.length != (ParameterSetting.MAXSEEDSADJ + 1))
 					continue;
 				for(int i=1; i<ParameterSetting.MAXSEEDSADJ; i++){
-					extractionMap.put(new Extraction(res[i], res[0], 0), 0);
+					extractionMap.put(new Extraction(res[i], res[0], 0), new ArrayList<Integer>());
 					if(!valList.containsKey(res[i])){
 						valList.put(res[i], 0);
 					}
@@ -99,9 +88,8 @@ public class Extraction_bootstrapping {
 		}
 		System.err.println("Init seed dict.....  Size : " + extractionMap.size());
 	}
-	
+	int i = 0;
 	public void UpdateCorpus(ArrayList<String> sents, String filename){
-		int i = 0;
 		for(String sent: sents){
 			String tmp = TextUtil.TextPreProcessing(sent);
 			corpus.add(new SentenceEntry(tmp, i, filename));
@@ -111,7 +99,6 @@ public class Extraction_bootstrapping {
 	}
 	
 	public void StartProcess(){
-		//if((ArrayList<String> res = TextUtil.patternExtraction(val, attr, sent))
 		int lastIterationSize = -1;
 		int lastAttrListSize = -1;
 		int lastValListSize = -1;
@@ -137,7 +124,7 @@ public class Extraction_bootstrapping {
 	public void ValueInduction(){
 		int i = 0;
 		int presize = extractionMap.size();
-		Map<Extraction, Integer> cacheMap = new HashMap<Extraction, Integer>();
+		Map<Extraction,  ArrayList<Integer>> cacheMap = new HashMap<Extraction,  ArrayList<Integer>>();
 		long progressReportor = 0;
 		for(SentenceEntry sentEntry: corpus){
 			progressReportor++;
@@ -162,24 +149,36 @@ public class Extraction_bootstrapping {
 
 			for(Extraction extraction : extractionsInSent){
 				i++;
-				if(cacheMap.containsKey(extraction))
-					cacheMap.put(extraction, cacheMap.get(extraction) + 1);
-				else
-					cacheMap.put(extraction, 1);
+				if(extractionMap.containsKey(extraction)){
+					if(!extractionMap.get(extraction).contains(sentEntry.UniqueID)){
+						extractionMap.get(extraction).add(sentEntry.UniqueID);
+					}
+					continue;
+				}
+				if(cacheMap.containsKey(extraction)){
+					cacheMap.get(extraction).add(sentEntry.UniqueID);
+				}
+				else{
+					cacheMap.put(extraction, new ArrayList<Integer>());
+					cacheMap.get(extraction).add(sentEntry.UniqueID);
+				}
 			}
 		}
 		
-		for(Iterator<Map.Entry<Extraction,Integer>> it = cacheMap.entrySet().iterator(); it.hasNext();){
-			Map.Entry<Extraction,Integer> e = it.next();
-			if(e.getValue() < bootstrapping_cutoff)
+		for(Iterator<Map.Entry<Extraction, ArrayList<Integer>>> it = cacheMap.entrySet().iterator(); it.hasNext();){
+			Map.Entry<Extraction,ArrayList<Integer>> e = it.next();
+			if(e.getValue().size() < bootstrapping_cutoff)
 				it.remove();
 		}
 		
-		for(Map.Entry<Extraction, Integer> entry : cacheMap.entrySet()){
-			if(extractionMap.containsKey(entry.getKey()))
-				extractionMap.put(entry.getKey(), entry.getValue() + extractionMap.get(entry.getKey()));
-			else
-				extractionMap.put(entry.getKey(), entry.getValue());
+		for(Map.Entry<Extraction, ArrayList<Integer>> entry : cacheMap.entrySet()){
+			if(extractionMap.containsKey(entry.getKey())){
+				extractionMap.get(entry.getKey()).addAll(entry.getValue());
+			}
+			else{
+				extractionMap.put(entry.getKey(), new ArrayList<Integer>());
+				extractionMap.get(entry.getKey()).addAll(entry.getValue());
+			}
 		}
 		System.out.println( i+ " value based exttractions were found. " + (extractionMap.size() - presize) + " new exttractions were added. " + extractionMap.size() + " extractions in total. ");
 		return;
@@ -188,7 +187,7 @@ public class Extraction_bootstrapping {
 	public void AttributeInduction(){
 		int i = 0;
 		int presize = extractionMap.size();
-		Map<Extraction, Integer> cacheMap = new HashMap<Extraction, Integer>();
+		Map<Extraction, ArrayList<Integer>> cacheMap = new HashMap<Extraction, ArrayList<Integer>>();
 		
 		long progressReportor = 0;
 		for(SentenceEntry sentEntry: corpus){
@@ -213,28 +212,36 @@ public class Extraction_bootstrapping {
 			}
 			for(Extraction extraction : extractionsInSent){
 				i++;
-				if(sentEntry.ExtractedLists.contains(extraction)){
+				if(extractionMap.containsKey(extraction)){
+					if(!extractionMap.get(extraction).contains(sentEntry.UniqueID)){
+						extractionMap.get(extraction).add(sentEntry.UniqueID);
+					}
 					continue;
 				}
+
 				if(cacheMap.containsKey(extraction)){
-					cacheMap.put(extraction, cacheMap.get(extraction) + 1);
+					cacheMap.get(extraction).add(sentEntry.UniqueID);
 				}
 				else{
-					cacheMap.put(extraction, 1);
+					cacheMap.put(extraction, new ArrayList<Integer>());
+					cacheMap.get(extraction).add(sentEntry.UniqueID);
 				}
 			}
 		}
-		for(Iterator<Map.Entry<Extraction,Integer>> it = cacheMap.entrySet().iterator(); it.hasNext();){
-			Map.Entry<Extraction,Integer> e = it.next();
-			if(e.getValue() < bootstrapping_cutoff)
+		for(Iterator<Map.Entry<Extraction,ArrayList<Integer>>> it = cacheMap.entrySet().iterator(); it.hasNext();){
+			Map.Entry<Extraction,ArrayList<Integer>> e = it.next();
+			if(e.getValue().size() < bootstrapping_cutoff)
 				it.remove();
 		}
 		
-		for(Map.Entry<Extraction, Integer> entry : cacheMap.entrySet()){
-			if(extractionMap.containsKey(entry.getKey()))
-				extractionMap.put(entry.getKey(), entry.getValue() + extractionMap.get(entry.getKey()));
-			else
-				extractionMap.put(entry.getKey(), entry.getValue());
+		for(Map.Entry<Extraction, ArrayList<Integer>> entry : cacheMap.entrySet()){
+			if(extractionMap.containsKey(entry.getKey())){
+				extractionMap.get(entry.getKey()).addAll(entry.getValue());
+			}
+			else{
+				extractionMap.put(entry.getKey(), new ArrayList<Integer>());
+				extractionMap.get(entry.getKey()).addAll(entry.getValue());
+			}
 		}
 		
 		System.out.println( i+ " attribute based exttractions were found. " + (extractionMap.size() - presize) + " new exttractions were added. " + extractionMap.size() + " extractions in total. ");
@@ -294,9 +301,9 @@ public class Extraction_bootstrapping {
 	public void UpdateToNewIteration(){
 		attrList.clear();
 		valList.clear();
-		for(Iterator<Map.Entry<Extraction, Integer>> it = extractionMap.entrySet().iterator(); it.hasNext();){
-			Map.Entry<Extraction, Integer> e = it.next();
-			if(e.getValue()< ParameterSetting.BOOTSTRAPPINGTHRESHOLD){
+		for(Iterator<Map.Entry<Extraction, ArrayList<Integer>>> it = extractionMap.entrySet().iterator(); it.hasNext();){
+			Map.Entry<Extraction, ArrayList<Integer>> e = it.next();
+			if(e.getValue().size() < ParameterSetting.BOOTSTRAPPINGTHRESHOLD){
 				it.remove();
 				continue;
 			}
@@ -341,8 +348,18 @@ public class Extraction_bootstrapping {
 		
 		IOOperator.getInstance().writeToFile(iterationIndex + ".txt", "============Extraction============\n", true);
 		
-		for(Iterator<Map.Entry<Extraction, Integer>> it = extractionMap.entrySet().iterator(); it.hasNext();){
-			Map.Entry<Extraction, Integer> entry = it.next();
+		for(Iterator<Map.Entry<Extraction, ArrayList<Integer>>> it = extractionMap.entrySet().iterator(); it.hasNext();){
+			Map.Entry<Extraction, ArrayList<Integer>> entry = it.next();
+			IOOperator.getInstance().writeToFile(iterationIndex + ".txt", entry.getKey().toString() + "\t" + entry.getValue() + "\n", true);
+		}
+	}
+	
+	public void WriteResulttoFile(){
+		for(Iterator<Map.Entry<Extraction, ArrayList<Integer>>> it = extractionMap.entrySet().iterator(); it.hasNext();){
+			Map.Entry<Extraction, ArrayList<Integer>> entry = it.next();
+			for(Integer i : entry.getValue()){
+				IOOperator.getInstance().writeToFile(ParameterSetting.PATHTOOUTPUT + "/" + corpus.get(i).FileName, entry.getKey().toString() + "\t" + i.toString() + "\n", true);
+			}
 			IOOperator.getInstance().writeToFile(iterationIndex + ".txt", entry.getKey().toString() + "\t" + entry.getValue() + "\n", true);
 		}
 	}

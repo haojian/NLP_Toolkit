@@ -14,7 +14,6 @@ public class SentenceEntry {
 	public Map<Template, Extraction> Extractionmap;
 	
 	public String FileName = "";
-	public ArrayList<Extraction> ExtractedLists;
 	
 	
 	public SentenceEntry(String sent, int id, String filename){
@@ -23,7 +22,6 @@ public class SentenceEntry {
 		Extractionmap = new HashMap<Template, Extraction>();
 		CandidateValues = new ArrayList<String>();
 		CandidateAttribute = new  ArrayList<String>();
-		ExtractedLists = new ArrayList<Extraction>();
 		UniqueID = id;
 		FileName = filename;
 	}
@@ -34,7 +32,5 @@ public class SentenceEntry {
 
 	public void set_senttxt(String _senttxt) {
 		this._senttxt = _senttxt;
-	}
-	
-	
+	}	
 }

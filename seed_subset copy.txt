@@ -1,4 +1,3 @@
-
 food	good	great	mexican	amazing
 place	great	good	best	favorite
 sauce	hot	red	spicy	dipping

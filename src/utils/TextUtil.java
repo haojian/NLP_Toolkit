@@ -264,10 +264,14 @@ public class TextUtil {
 			int leftBracketIndex = input.indexOf("(");
 			res[0] =  TextPreProcessing(input.substring(0, leftBracketIndex));
 			int firsthyphenIndex = input.indexOf('-', leftBracketIndex);
+			if(firsthyphenIndex < 0)
+				return null;
 			res[1] = TextPreProcessing(input.substring(leftBracketIndex+1 , firsthyphenIndex));
 			
 			int commaIndex = input.indexOf(",");
 			int righthyphenIndex = input.indexOf('-', commaIndex);
+			if(righthyphenIndex < 0)
+				return null;
 			res[2] = TextPreProcessing(input.substring(commaIndex+1, righthyphenIndex));
 			return res;
 		} 

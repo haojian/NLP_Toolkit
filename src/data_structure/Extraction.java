@@ -11,14 +11,11 @@ public class Extraction {
 	private int customizedHashCode = -1;
 	private boolean ifHashed = false;
 	
-	public ArrayList<Integer> CurIterAssociatedSents;
-	
 	
 	public Extraction(String value, String attribute, int occurance){
 		this.setVal(new Value(value));
 		this.setAttr(new Attribute(attribute));
 		this.setNumberofoccurances(occurance);
-		CurIterAssociatedSents = new ArrayList<Integer>();
 	}
 	
 	public Value getVal() {

@@ -22,7 +22,7 @@ public class DataManager {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		for(File input : DataManager.getInstance().getFilesUnderFolder(ParameterSetting.PATHTOCRAWLEDDATA)){
+		for(File input : DataManager.getInstance().getFilesUnderFolder(ParameterSetting.PATHTOCRAWLEDDATA2)){
 			if(input.getName().split("_").length != 3)
 				continue;
 			long startTime = System.currentTimeMillis();
@@ -31,9 +31,11 @@ public class DataManager {
 			Extraction_bootstrapping.getInstance().UpdateCorpus(tmp, input.getName());
 			long ellapse = System.currentTimeMillis() - startTime;
 			System.out.println(input.getName() + " \t " + size + " Execution time: " + ellapse);
+
 			//break;
 		}
 		Extraction_bootstrapping.getInstance().StartProcess();
+		Extraction_bootstrapping.getInstance().WriteResulttoFile();
 		System.out.println("long wait.....it's finished!....");
 	}
 	
