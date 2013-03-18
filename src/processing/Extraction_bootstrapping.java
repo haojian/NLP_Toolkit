@@ -55,7 +55,7 @@ public class Extraction_bootstrapping {
 			long startTime = System.currentTimeMillis();
 			ArrayList<String> tmp =  DataManager.getInstance().getSentencesInFile(input);
 			int size = tmp.size();
-			Extraction_bootstrapping.getInstance().UpdateCorpus(tmp);
+			Extraction_bootstrapping.getInstance().UpdateCorpus(tmp, input.getName());
 			long ellapse = System.currentTimeMillis() - startTime;
 			System.out.println(input.getName() + " \t " + size + " Execution time: " + ellapse);
 			//break;
@@ -100,11 +100,11 @@ public class Extraction_bootstrapping {
 		System.err.println("Init seed dict.....  Size : " + extractionMap.size());
 	}
 	
-	public void UpdateCorpus(ArrayList<String> sents){
+	public void UpdateCorpus(ArrayList<String> sents, String filename){
 		int i = 0;
 		for(String sent: sents){
 			String tmp = TextUtil.TextPreProcessing(sent);
-			corpus.add(new SentenceEntry(tmp, i));
+			corpus.add(new SentenceEntry(tmp, i, filename));
 			i++;
 		}
 		System.out.println("Corpus updated at size: "  + corpus.size());

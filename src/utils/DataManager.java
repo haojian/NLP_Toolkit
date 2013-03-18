@@ -28,7 +28,7 @@ public class DataManager {
 			long startTime = System.currentTimeMillis();
 			ArrayList<String> tmp =  DataManager.getInstance().getSentencesInFile(input);
 			int size = tmp.size();
-			Extraction_bootstrapping.getInstance().UpdateCorpus(tmp);
+			Extraction_bootstrapping.getInstance().UpdateCorpus(tmp, input.getName());
 			long ellapse = System.currentTimeMillis() - startTime;
 			System.out.println(input.getName() + " \t " + size + " Execution time: " + ellapse);
 			//break;

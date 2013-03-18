@@ -13,21 +13,19 @@ public class SentenceEntry {
 	
 	public Map<Template, Extraction> Extractionmap;
 	
-	public SentenceEntry(String sent){
-		set_senttxt(sent);
-		CandidateTemplates = new ArrayList<Template>();
-		Extractionmap = new HashMap<Template, Extraction>();
-		CandidateValues = new ArrayList<String>();
-		CandidateAttribute = new  ArrayList<String>();
-	}
+	public String FileName = "";
+	public ArrayList<Extraction> ExtractedLists;
 	
-	public SentenceEntry(String sent, int id){
+	
+	public SentenceEntry(String sent, int id, String filename){
 		set_senttxt(sent);
 		CandidateTemplates = new ArrayList<Template>();
 		Extractionmap = new HashMap<Template, Extraction>();
 		CandidateValues = new ArrayList<String>();
 		CandidateAttribute = new  ArrayList<String>();
+		ExtractedLists = new ArrayList<Extraction>();
 		UniqueID = id;
+		FileName = filename;
 	}
 
 	public String get_senttxt() {
