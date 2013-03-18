@@ -39,7 +39,7 @@ public class Extraction_bootstrapping {
 	//private ArrayList<String> valList;
 	
 	private int bootstrapping_cutoff = ParameterSetting.BOOTSTRAPPINGTHRESHOLD;
-	private ArrayList<SentenceEntry> corpus;
+	public ArrayList<SentenceEntry> corpus;
 	
 	int iterationIndex = 0;
 

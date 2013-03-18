@@ -34,6 +34,7 @@ public class DataManager {
 
 			//break;
 		}
+		//System.out.println(Extraction_bootstrapping.getInstance().corpus.get(229554).UniqueID+"\t" + Extraction_bootstrapping.getInstance().corpus.get(229554).get_senttxt());
 		Extraction_bootstrapping.getInstance().StartProcess();
 		Extraction_bootstrapping.getInstance().WriteResulttoFile();
 		System.out.println("long wait.....it's finished!....");
