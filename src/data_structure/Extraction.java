@@ -1,5 +1,7 @@
 package data_structure;
 
+import java.util.ArrayList;
+
 import utils.TextUtil;
 
 public class Extraction {
@@ -9,20 +11,14 @@ public class Extraction {
 	private int customizedHashCode = -1;
 	private boolean ifHashed = false;
 	
-	public Extraction(){
-		
-	}
+	public ArrayList<Integer> CurIterAssociatedSents;
 	
-	public Extraction(String value, String attribute){
-		this.setVal(new Value(value));
-		this.setAttr(new Attribute(attribute));
-		this.setNumberofoccurances(1);
-	}
 	
 	public Extraction(String value, String attribute, int occurance){
 		this.setVal(new Value(value));
 		this.setAttr(new Attribute(attribute));
 		this.setNumberofoccurances(occurance);
+		CurIterAssociatedSents = new ArrayList<Integer>();
 	}
 	
 	public Value getVal() {

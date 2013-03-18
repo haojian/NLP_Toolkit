@@ -213,10 +213,15 @@ public class Extraction_bootstrapping {
 			}
 			for(Extraction extraction : extractionsInSent){
 				i++;
-				if(cacheMap.containsKey(extraction))
+				if(sentEntry.ExtractedLists.contains(extraction)){
+					continue;
+				}
+				if(cacheMap.containsKey(extraction)){
 					cacheMap.put(extraction, cacheMap.get(extraction) + 1);
-				else
+				}
+				else{
 					cacheMap.put(extraction, 1);
+				}
 			}
 		}
 		for(Iterator<Map.Entry<Extraction,Integer>> it = cacheMap.entrySet().iterator(); it.hasNext();){
