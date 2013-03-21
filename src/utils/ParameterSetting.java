@@ -17,6 +17,7 @@ public class ParameterSetting {
 	public static String PATHTOCRAWLEDDATA = "resources" + File.separator + "RevTxt" + File.separator + "crawleddata";
 	public static String PATHTOCRAWLEDDATA1 = "resources" + File.separator + "RevTxt" + File.separator + "crawleddata1";
 	public static String PATHTOCRAWLEDDATA2 = "resources" + File.separator + "RevTxt" + File.separator + "crawleddata2";
+	public static String PATHTOCRAWLEDDATA3 = "resources" + File.separator + "RevTxt" + File.separator + "crawleddata3";
 	public static String PATHTOOUTPUT = "output";
 	public static String PATHTOLOG = "./log.txt";
 	public static String PATHTODEBUG = "./debug.txt";

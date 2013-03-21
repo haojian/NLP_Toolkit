@@ -1,13 +1,19 @@
 package utils;
 
+import java.io.BufferedWriter;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.OutputStreamWriter;
+import java.io.UnsupportedEncodingException;
 
 public class IOOperator {
 	private static IOOperator singleton;
 	private FileWriter writer;
 	public String writeToFilePath;
-
+	private BufferedWriter out;
+	
 	public IOOperator(){
 		writeToFilePath = "";
 	}
@@ -33,6 +39,18 @@ public class IOOperator {
 			writer.write(content);
 			writer.close();
 		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+	
+	public void writeToFileUTF8(String filename, String content, boolean isappend){
+		try {
+			 out = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(filename), "UTF-8"));
+			
+			 out.write(content);
+			 out.close();
+		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}

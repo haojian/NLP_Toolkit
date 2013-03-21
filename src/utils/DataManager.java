@@ -22,7 +22,7 @@ public class DataManager {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		for(File input : DataManager.getInstance().getFilesUnderFolder(ParameterSetting.PATHTOCRAWLEDDATA2)){
+		for(File input : DataManager.getInstance().getFilesUnderFolder(ParameterSetting.PATHTOCRAWLEDDATA3)){
 			if(input.getName().split("_").length != 3)
 				continue;
 			long startTime = System.currentTimeMillis();
