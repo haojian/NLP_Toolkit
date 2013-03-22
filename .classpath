@@ -2,7 +2,6 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="/Users/snz5pal/Documents/hajigit/NLP_Toolkit/libraries/postgresql-9.2-1002.jdbc4.jar"/>
 	<classpathentry kind="lib" path="/Users/snz5pal/Documents/hajigit/NLP_Toolkit/libraries/apachecommon/commons-collections-3.2.1-javadoc.jar"/>
 	<classpathentry kind="lib" path="/Users/snz5pal/Documents/hajigit/NLP_Toolkit/libraries/apachecommon/commons-collections-3.2.1-sources.jar"/>
 	<classpathentry kind="lib" path="/Users/snz5pal/Documents/hajigit/NLP_Toolkit/libraries/apachecommon/commons-collections-3.2.1.jar"/>
@@ -15,5 +14,6 @@
 	<classpathentry kind="lib" path="/Users/snz5pal/Documents/hajigit/NLP_Toolkit/libraries/opennlp/opennlp-maxent-3.0.2-incubating.jar"/>
 	<classpathentry kind="lib" path="/Users/snz5pal/Documents/hajigit/NLP_Toolkit/libraries/opennlp/opennlp-tools-1.5.2-incubating.jar"/>
 	<classpathentry kind="lib" path="/Users/snz5pal/Documents/hajigit/NLP_Toolkit/libraries/opennlp/opennlp-uima-1.5.2-incubating.jar"/>
+	<classpathentry kind="lib" path="/Users/snz5pal/Documents/hajigit/NLP_Toolkit/libraries/postgresql-9.1-903.jdbc4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

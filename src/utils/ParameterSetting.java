@@ -23,6 +23,8 @@ public class ParameterSetting {
 	public static String PATHTODEBUG = "./debug.txt";
 	public static String PATHTOSEEDFILE = "./seed.txt";
 	public static String PATHTOITERATIONRESULTDIR = "./Iterations";
+	public static String PATHTOTMPDIR1 = "Sample output for different iteration/03212013/output";
+	public static String PATHTOTMPDIR2 = "Sample output for different iteration/03212013/crawleddata3";
 	
 	//REGX String variables
 	public static String REGXWORDPATTERN_V1 = "(.*)";

@@ -2,6 +2,7 @@ package utils;
 
 import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.util.ArrayList;
 
@@ -22,6 +23,7 @@ public class DataManager {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		/*
 		for(File input : DataManager.getInstance().getFilesUnderFolder(ParameterSetting.PATHTOCRAWLEDDATA3)){
 			if(input.getName().split("_").length != 3)
 				continue;
@@ -38,9 +40,11 @@ public class DataManager {
 		Extraction_bootstrapping.getInstance().StartProcess();
 		Extraction_bootstrapping.getInstance().WriteResulttoFile();
 		System.out.println("long wait.....it's finished!....");
+		*/
+		FileToSql(ParameterSetting.PATHTOTMPDIR1, ParameterSetting.PATHTOTMPDIR2);
 	}
 	
-	public File[] getFilesUnderFolder(String pathToDir){
+	public static File[] getFilesUnderFolder(String pathToDir){
 		File dir = new File(pathToDir);
 		if(!dir.isDirectory()){
 			System.out.println("input path need to be a path to directory!");
@@ -84,5 +88,68 @@ public class DataManager {
 			e.printStackTrace();
 		}
 		return null;
+	}
+	
+	static int counter = 0;
+	static DBUtil db1;
+	public static void FileToSql(String extractionpath, String sentpath){
+		System.setProperty("file.encoding","UTF-8");
+		
+		db1 = new DBUtil();
+		db1.execute("DROP TABLE extractions;");
+		String sql = "CREATE TABLE extractions ( value text, attr text, sentindex bigint);";
+		db1.execute(sql);// create the table
+		File[] extractionlists = getFilesUnderFolder(extractionpath);
+		for(File input : extractionlists){
+			ExtractionsToSQL(input);
+		}
+		File[] sentlists = getFilesUnderFolder(extractionpath);
+		for(File input : sentlists){
+			SentsToSQL(input);
+		}
+		db1.rundown();
+	}
+	
+	public static void SentsToSQL(File input){
+		try {
+			
+			BufferedReader br = new BufferedReader(new FileReader(input));
+			String line = "";
+			while((line = br.readLine()) != null){
+				String infos[] = line.split("\t");
+				if(infos.length == 3){
+					String sql = "INSERT INTO extractions ( value, attr, sentindex )" + " VALUES ( '" + infos[0] + "', '" + infos[1] + "', "+ infos[2] + ");";
+					db1.executeUpdateSQL(sql);
+					counter++;
+				}
+			}
+			
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		System.err.println("% end..." + counter);
+		
+	}
+	public static void ExtractionsToSQL(File input){
+		try {
+			
+			BufferedReader br = new BufferedReader(new FileReader(input));
+			
+			String line = "";
+			while((line = br.readLine()) != null){
+				String infos[] = line.split("\t");
+				if(infos.length == 3){
+					String sql = "INSERT INTO extractions ( value, attr, sentindex )" + " VALUES ( '" + infos[0] + "', '" + infos[1] + "', "+ infos[2] + ");";
+					db1.executeUpdateSQL(sql);
+					counter++;
+				}
+			}
+			
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		System.err.println("% end..." + counter);
 	}
 }
