@@ -10,7 +10,8 @@ public class SentenceEntry {
 	public ArrayList<String> CandidateValues;
 	public ArrayList<String> CandidateAttribute;
 	public int UniqueID = 0;
-	
+	public int RevIndex = -1;
+	public double RevRating = -1;
 	public Map<Template, Extraction> Extractionmap;
 	
 	public String FileName = "";

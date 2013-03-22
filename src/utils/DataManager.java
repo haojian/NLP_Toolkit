@@ -6,6 +6,8 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.util.ArrayList;
 
+import data_structure.SentenceEntry;
+
 import processing.Extraction_bootstrapping;
 import processing.SentenceSplitter;
 
@@ -103,6 +105,8 @@ public class DataManager {
 		for(File input : extractionlists){
 			ExtractionsToSQL(input);
 		}
+		db1.execute("DROP TABLE sentences;");
+		db1.execute("CREATE TABLE sentences ( sent_index bigint, sent_txt text, revindex bigint, revrating, double);");// create the table
 		File[] sentlists = getFilesUnderFolder(extractionpath);
 		for(File input : sentlists){
 			SentsToSQL(input);
@@ -110,32 +114,68 @@ public class DataManager {
 		db1.rundown();
 	}
 	
+	static int sentsCounter = 0;
 	public static void SentsToSQL(File input){
-		try {
+		if(!input.exists())
+			return;
+		ArrayList<SentenceEntry> res = new ArrayList<SentenceEntry>();
+		try{
 			
-			BufferedReader br = new BufferedReader(new FileReader(input));
-			String line = "";
-			while((line = br.readLine()) != null){
-				String infos[] = line.split("\t");
-				if(infos.length == 3){
-					String sql = "INSERT INTO extractions ( value, attr, sentindex )" + " VALUES ( '" + infos[0] + "', '" + infos[1] + "', "+ infos[2] + ");";
-					db1.executeUpdateSQL(sql);
-					counter++;
+			BufferedReader buReader = new BufferedReader(new FileReader(input));
+			String tmp="";
+			int i = -1;
+			double currating = -1;
+			for(String s = buReader.readLine(); s!= null; s= buReader.readLine()){
+				if(s.startsWith("###")){
+					if(tmp.length() == 0){
+						i++;
+						currating = Double.valueOf(tmp.split("\t")[3]);
+						continue;
+					}
+					ArrayList<String> sentences = SentenceSplitter.getInstance().sentence_split(tmp);
+					for(String sent: sentences){
+						SentenceEntry curSent = new SentenceEntry(sent, sentsCounter, input.getName());
+						curSent.RevIndex = i;
+						curSent.RevRating = currating;
+						sentsCounter++;
+						res.add(curSent);
+					}
+					
+					tmp = "";
+					i++;
+					currating = Double.valueOf(tmp.split("\t")[3]);
+				}
+				else{
+					tmp += s;
 				}
 			}
-			
-		} catch (Exception e) {
+			// flush the last result to output file.
+			if(!tmp.isEmpty()){
+				ArrayList<String> sentences = SentenceSplitter.getInstance().sentence_split(tmp);
+				for(String sent: sentences){
+					SentenceEntry curSent = new SentenceEntry(sent, sentsCounter, input.getName());
+					curSent.RevIndex = i;
+					curSent.RevRating = currating;
+					sentsCounter++;
+					res.add(curSent);
+				}
+				tmp = "";
+			}
+		}catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
+		}
+		//store the res data in to sql.
+		for(SentenceEntry sentEntry: res){
+			String sql = "INSERT INTO sentences ( sent_index , sent_txt , revindex , revrating )" + " VALUES ( " + sentEntry.UniqueID + ", '" + sentEntry.get_senttxt() + "', "+ sentEntry.RevIndex+ " , " + sentEntry.RevRating + ");";
+			db1.executeUpdateSQL(sql);
 		}
 		System.err.println("% end..." + counter);
 		
 	}
 	public static void ExtractionsToSQL(File input){
 		try {
-			
 			BufferedReader br = new BufferedReader(new FileReader(input));
-			
 			String line = "";
 			while((line = br.readLine()) != null){
 				String infos[] = line.split("\t");
@@ -145,8 +185,7 @@ public class DataManager {
 					counter++;
 				}
 			}
-			
-		} catch (Exception e) {
+		}catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
