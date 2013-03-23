@@ -98,16 +98,17 @@ public class DataManager {
 		System.setProperty("file.encoding","UTF-8");
 		
 		db1 = new DBUtil();
+		/*
 		db1.execute("DROP TABLE extractions;");
 		String sql = "CREATE TABLE extractions ( value text, attr text, sentindex bigint);";
 		db1.execute(sql);// create the table
 		File[] extractionlists = getFilesUnderFolder(extractionpath);
 		for(File input : extractionlists){
 			ExtractionsToSQL(input);
-		}
+		}*/
 		db1.execute("DROP TABLE sentences;");
-		db1.execute("CREATE TABLE sentences ( sent_index bigint, sent_txt text, revindex bigint, revrating, double);");// create the table
-		File[] sentlists = getFilesUnderFolder(extractionpath);
+		db1.execute("CREATE TABLE sentences ( sent_index bigint, sent_txt text, revindex bigint, revrating numeric, filename text);");// create the table
+		File[] sentlists = getFilesUnderFolder(sentpath);
 		for(File input : sentlists){
 			SentsToSQL(input);
 		}
@@ -129,7 +130,7 @@ public class DataManager {
 				if(s.startsWith("###")){
 					if(tmp.length() == 0){
 						i++;
-						currating = Double.valueOf(tmp.split("\t")[3]);
+						currating = Double.valueOf(s.split("\t")[3]);
 						continue;
 					}
 					ArrayList<String> sentences = SentenceSplitter.getInstance().sentence_split(tmp);
@@ -143,7 +144,10 @@ public class DataManager {
 					
 					tmp = "";
 					i++;
-					currating = Double.valueOf(tmp.split("\t")[3]);
+					if(s.split("\t").length != 13)
+						System.out.println(s.split("\t").length + "\t"+ s);
+					
+					currating = Double.valueOf(s.split("\t")[3]);
 				}
 				else{
 					tmp += s;
@@ -167,12 +171,13 @@ public class DataManager {
 		}
 		//store the res data in to sql.
 		for(SentenceEntry sentEntry: res){
-			String sql = "INSERT INTO sentences ( sent_index , sent_txt , revindex , revrating )" + " VALUES ( " + sentEntry.UniqueID + ", '" + sentEntry.get_senttxt() + "', "+ sentEntry.RevIndex+ " , " + sentEntry.RevRating + ");";
+			String sql = "INSERT INTO sentences ( sent_index , sent_txt , revindex , revrating, filename )" + " VALUES ( " + sentEntry.UniqueID + ", '" + TextUtil.Encode(sentEntry.get_senttxt()) + "', "+ sentEntry.RevIndex+ " , " + sentEntry.RevRating + ", '" + TextUtil.Encode(sentEntry.FileName) + "');";
 			db1.executeUpdateSQL(sql);
 		}
 		System.err.println("% end..." + counter);
 		
 	}
+	
 	public static void ExtractionsToSQL(File input){
 		try {
 			BufferedReader br = new BufferedReader(new FileReader(input));
@@ -190,5 +195,9 @@ public class DataManager {
 			e.printStackTrace();
 		}
 		System.err.println("% end..." + counter);
+	}
+	
+	public static void OutputDataFile(){
+		  
 	}
 }

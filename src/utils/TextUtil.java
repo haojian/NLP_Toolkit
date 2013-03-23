@@ -1,5 +1,8 @@
 package utils;
 
+import java.io.UnsupportedEncodingException;
+import java.net.URLDecoder;
+import java.net.URLEncoder;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.regex.Matcher;
@@ -23,6 +26,26 @@ public class TextUtil {
 	public static void main(String[] args){
 		//regexTest();
 		SentenceToWords("For one of my birthday dinners, my best friend decided to either buy me this pricey fringe leather skirt from Zara or take me out to dinner.");
+	}
+	
+	static String Encode(String before) {
+		String after = null;
+		try {
+			after = URLEncoder.encode(before, "UTF-8");
+		} catch (UnsupportedEncodingException e) {
+			e.printStackTrace();
+		}
+		return after;
+	}
+	
+	static String decode(String original){
+		String result = null;
+		try{
+			result = URLDecoder.decode(original, "UTF-8");
+		} catch (UnsupportedEncodingException e) {
+			e.printStackTrace();
+		}
+		return result;
 	}
 	
 	public static String joinStringArrayList(ArrayList<String> list){
