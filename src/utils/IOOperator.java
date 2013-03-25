@@ -46,7 +46,7 @@ public class IOOperator {
 	
 	public void writeToFileUTF8(String filename, String content, boolean isappend){
 		try {
-			 out = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(filename), "UTF-8"));
+			 out = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(filename, isappend), "UTF-8"));
 			
 			 out.write(content);
 			 out.close();

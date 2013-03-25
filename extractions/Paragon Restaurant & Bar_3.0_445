@@ -1,0 +1,1160 @@
+####0	4.0	430629	430639
+####1	2.0	430640	430645
+####2	3.0	430646	430651
+####3	2.0	430652	430661
+####4	5.0	430662	430665
+####5	1.0	430666	430677
+####6	2.0	430680	430679
+####7	3.0	430681	430688
+####8	3.0	430689	430694
+####9	5.0	430695	430708
+####10	4.0	430709	430714
+####11	2.0	430715	430722
+####12	4.0	430723	430732
+####13	4.0	430733	430737
+####14	5.0	430738	430739
+####15	3.0	430740	430747
+####17	2.0	430762	430767
+####16	2.0	430748	430761
+####19	4.0	430771	430775
+####18	3.0	430768	430770
+####21	2.0	430781	430800
+####20	3.0	430780	430779
+####23	4.0	430802	430826
+####22	5.0	430801	0
+####25	1.0	430834	430840
+####24	4.0	430827	430833
+####27	4.0	430846	430858
+####26	4.0	430841	430845
+####29	5.0	430865	430868
+####28	3.0	430859	430864
+####31	1.0	430874	430880
+####30	3.0	430869	430873
+####34	4.0	430900	430901
+####35	3.0	430902	430904
+####32	4.0	430881	430895
+####33	4.0	430896	430899
+####38	4.0	430928	430931
+####39	3.0	430932	430936
+####36	2.0	430905	430915
+####37	3.0	430916	430927
+####42	3.0	430950	430971
+####43	4.0	430972	430976
+####40	4.0	430937	430938
+####41	4.0	430939	430949
+####46	3.0	430989	431000
+####47	4.0	431001	431006
+####44	3.0	430977	430981
+####45	4.0	430982	430988
+####51	3.0	431047	431057
+####50	4.0	431037	431046
+####49	5.0	431034	431033
+####48	2.0	431007	431019
+####55	3.0	431096	431107
+####54	5.0	431091	431095
+####53	2.0	431069	431090
+####52	2.0	431058	431068
+####59	1.0	431134	431142
+####58	4.0	431133	431132
+####57	4.0	431111	431127
+####56	4.0	431108	431110
+####63	4.0	431162	431166
+####62	4.0	431159	431161
+####61	3.0	431149	431158
+####60	4.0	431143	431148
+####68	3.0	431210	431225
+####69	4.0	431226	431241
+####70	3.0	431242	431271
+####71	4.0	431272	431279
+####64	2.0	431167	431180
+####65	4.0	431185	431200
+####66	2.0	431201	431208
+####67	4.0	431209	0
+####76	4.0	431314	431329
+####77	4.0	431333	431335
+####78	3.0	431336	431339
+####79	3.0	431340	431355
+####72	4.0	431280	431297
+####73	2.0	431298	431302
+####74	5.0	431303	431310
+####75	4.0	431311	431313
+####85	4.0	431421	431439
+####84	4.0	431411	431420
+####87	1.0	431452	431460
+####86	3.0	431440	431451
+####81	3.0	431375	431383
+####80	4.0	431356	431374
+####83	5.0	431394	431410
+####82	2.0	431384	431393
+####93	4.0	431503	431509
+####92	4.0	431499	431502
+####95	3.0	431522	431536
+####94	3.0	431510	431521
+####89	4.0	431469	431471
+####88	2.0	431461	431468
+####91	2.0	431490	431498
+####90	3.0	431472	431489
+####102	4.0	431570	431579
+####103	4.0	431580	431587
+####100	4.0	431559	431562
+####101	4.0	431563	431569
+####98	3.0	431545	431551
+####99	4.0	431552	431557
+####96	2.0	431537	431542
+####97	4.0	431543	431544
+####110	4.0	431651	431667
+####111	1.0	431668	431677
+####108	4.0	431625	431633
+####109	5.0	431634	431650
+####106	4.0	431606	431614
+####107	4.0	431615	431624
+####104	3.0	431588	431596
+####105	3.0	431597	431605
+####119	5.0	431715	431719
+####118	2.0	431711	431714
+####117	4.0	431706	431710
+####116	2.0	431699	431705
+####115	4.0	431693	431698
+####114	2.0	431690	431692
+####113	4.0	431686	431689
+####112	5.0	431678	431685
+####127	2.0	431791	431797
+####126	4.0	431782	431790
+####125	4.0	431773	431781
+####124	4.0	431768	431772
+####123	3.0	431766	431767
+####122	3.0	431741	431765
+####121	3.0	431726	431740
+####120	2.0	431720	431725
+####137	4.0	431887	431892
+####136	3.0	431881	431886
+####139	3.0	431899	431902
+####138	4.0	431893	431898
+####141	4.0	431924	431938
+####140	3.0	431903	431923
+####143	4.0	431956	431963
+####142	3.0	431939	431955
+####129	4.0	431817	431826
+####128	3.0	431798	431816
+####131	5.0	431840	431846
+####130	4.0	431827	431839
+####133	4.0	431860	431866
+####132	3.0	431847	431859
+####135	3.0	431872	431880
+####134	3.0	431867	431871
+####152	4.0	432029	432033
+####153	4.0	432034	432040
+####154	4.0	432041	432058
+####155	4.0	432059	432073
+####156	3.0	432074	432075
+####157	4.0	432076	432078
+####158	1.0	432079	432086
+####159	3.0	432087	432089
+####144	4.0	431964	431969
+####145	4.0	431974	431978
+####146	4.0	431979	431983
+####147	3.0	431984	431993
+####148	4.0	431994	431998
+####149	2.0	431999	432000
+####150	3.0	432001	432025
+####151	4.0	432026	432028
+####171	3.0	432189	432195
+####170	4.0	432187	432188
+####169	5.0	432184	432186
+####168	3.0	432167	432183
+####175	3.0	432213	432219
+####174	3.0	432212	432211
+####173	2.0	432200	432205
+####172	4.0	432196	432199
+####163	3.0	432105	432107
+####162	2.0	432101	432104
+####161	2.0	432096	432100
+####160	4.0	432090	432095
+####167	5.0	432162	432166
+####166	3.0	432131	432153
+####165	1.0	432127	432130
+####164	3.0	432108	432126
+####186	4.0	432309	432314
+####187	3.0	432315	432317
+####184	3.0	432294	432296
+####185	3.0	432297	432308
+####190	2.0	432344	432346
+####191	3.0	432347	432353
+####188	3.0	432318	432340
+####189	4.0	432341	432343
+####178	4.0	432254	432266
+####179	2.0	432267	432273
+####176	4.0	432220	432228
+####177	1.0	432229	432253
+####182	1.0	432286	432288
+####183	2.0	432289	432293
+####180	3.0	432274	0
+####181	4.0	432275	432285
+####205	1.0	432453	432479
+####207	5.0	432483	432500
+####206	3.0	432480	432482
+####201	2.0	432431	432433
+####200	3.0	432418	432430
+####203	3.0	432448	432452
+####202	3.0	432434	432438
+####197	3.0	432397	432399
+####196	3.0	432390	432396
+####199	2.0	432405	432417
+####198	3.0	432400	432404
+####193	2.0	432369	432371
+####192	3.0	432354	432368
+####195	3.0	432380	432389
+####194	4.0	432372	432379
+####220	4.0	432593	432623
+####221	3.0	432624	432630
+####222	5.0	432631	432636
+####223	3.0	432637	432640
+####216	4.0	432550	432562
+####217	2.0	432563	432578
+####218	3.0	432579	432583
+####219	2.0	432584	432592
+####212	4.0	432518	432524
+####213	3.0	432525	432534
+####214	1.0	432535	432544
+####215	4.0	432545	432549
+####208	2.0	432501	432504
+####209	5.0	432505	432507
+####210	4.0	432508	432510
+####211	4.0	432511	432517
+####239	1.0	432757	432764
+####238	2.0	432750	432756
+####237	3.0	432736	432749
+####236	5.0	432727	432735
+####235	2.0	432712	432726
+####234	2.0	432709	432711
+####233	3.0	432703	432708
+####232	4.0	432696	432702
+####231	3.0	432693	432695
+####230	4.0	432683	432692
+####229	4.0	432671	432682
+####228	3.0	432666	432670
+####227	4.0	432660	432665
+####226	3.0	432651	432659
+####225	4.0	432650	0
+####224	3.0	432641	432649
+####254	2.0	432869	432872
+####252	3.0	432848	432855
+####253	2.0	432861	432868
+####250	3.0	432844	432846
+####251	3.0	432847	0
+####248	1.0	432828	432837
+####249	3.0	432838	432843
+####246	1.0	432815	432823
+####247	3.0	432824	432827
+####244	3.0	432801	432811
+####245	4.0	432812	432814
+####242	4.0	432789	432795
+####243	3.0	432796	432800
+####240	2.0	432768	432785
+####241	3.0	432786	432788
+####275	3.0	432999	433000
+####274	3.0	432995	432998
+####272	4.0	432990	432994
+####279	3.0	433033	433040
+####278	4.0	433029	433032
+####277	2.0	433007	433028
+####276	4.0	433001	433006
+####283	3.0	433053	433055
+####282	4.0	433049	433052
+####281	4.0	433046	433048
+####280	4.0	433041	433045
+####287	5.0	433093	0
+####286	5.0	433082	433092
+####285	1.0	433072	433081
+####284	1.0	433056	433071
+####258	1.0	432886	432887
+####259	4.0	432888	432892
+####256	4.0	432873	432884
+####257	4.0	432885	0
+####262	4.0	432913	432914
+####263	4.0	432915	432924
+####260	4.0	432893	432904
+####261	4.0	432905	432912
+####266	3.0	432945	432967
+####267	3.0	432968	432969
+####264	4.0	432925	432941
+####265	2.0	432942	432944
+####270	4.0	432974	432983
+####271	3.0	432984	432989
+####268	3.0	432970	0
+####269	4.0	432971	432973
+####305	5.0	433208	433212
+####304	4.0	433201	433207
+####307	4.0	433217	433227
+####306	5.0	433213	433216
+####309	4.0	433230	433231
+####308	4.0	433228	433229
+####311	4.0	433233	433234
+####310	4.0	433232	0
+####313	3.0	433254	433253
+####312	4.0	433235	433244
+####315	3.0	433257	433260
+####314	3.0	433255	433256
+####317	4.0	433264	433266
+####316	4.0	433261	433263
+####319	3.0	433274	433277
+####318	4.0	433267	433273
+####288	4.0	433094	433101
+####289	2.0	433102	433107
+####290	3.0	433108	433118
+####291	4.0	433119	433123
+####292	3.0	433124	433130
+####293	3.0	433131	433138
+####294	4.0	433139	433146
+####295	1.0	433147	433152
+####296	3.0	433153	433157
+####297	4.0	433158	433163
+####298	4.0	433164	433177
+####299	3.0	433178	433181
+####300	4.0	433182	433184
+####301	4.0	433185	433187
+####302	4.0	433188	433194
+####303	3.0	433195	433200
+####343	2.0	433377	433383
+late	minutes	433381
+tasting	menu	433378
+minutes	late	433381
+jus	tasted	433380
+menu	tasting	433378
+york	new	433381
+####342	3.0	433375	433376
+try	place	433376
+####341	4.0	433372	433374
+morimoto	chef	433374
+pleasant	surprise	433372
+chef	morimoto	433374
+####340	2.0	433371	0
+####339	5.0	433366	433370
+tasting	menu	433368
+reasonable	amount	433366
+menu	tasting	433368
+####338	4.0	433365	0
+####337	3.0	433363	433364
+####336	3.0	433359	433362
+reservations	made	433362
+made	reservations	433362
+table	open	433362
+reservation	made	433362
+night	friday	433362
+asian	fusion	433361
+friday	night	433362
+open	table	433362
+best	meals	433360
+best	meal	433360
+meal	best	433360
+meals	best	433360
+####351	3.0	433422	433425
+tartare	toro	433424
+pretty	cool	433422
+cool	pretty	433422
+####350	3.0	433416	433421
+staff	friendly	433417
+friendly	staff	433417
+entire	restaurant	433418
+####349	3.0	433410	433415
+####348	3.0	433407	433409
+definitely	try	433408
+####347	3.0	433398	433406
+king	crab	433401
+definitely	return	433398
+chef	iron	433406
+sorely	disappointed	433399
+iced	tea	433405
+iron	chef	433406
+excellent	experience	433399
+beef	carpaccio	433401
+poor	service	433402
+king	spicy	433401
+tea	iced	433405
+udon	noodles	433401
+spicy	king	433401
+crab	king	433401
+return	definitely	433398
+carpaccio	beef	433401
+####346	2.0	433393	433397
+back	went	433393
+excellent	service	433397
+japanese	style	433396
+unique	experience	433395
+balanced	flavor	433396
+went	back	433393
+style	japanese	433396
+experience	unique	433395
+balanced	flavors	433396
+####345	3.0	433388	433392
+back	coming	433389
+served	food	433389
+meal	great	433391
+great	experience	433392
+work	dinner	433389
+experience	great	433392
+coming	back	433389
+eat	experience	433392
+great	meal	433391
+eat	meal	433391
+lunch	menu	433389
+food	served	433389
+menu	lunch	433389
+####344	3.0	433384	433387
+better	tastes	433385
+tastes	better	433385
+sandwich	taste	433385
+fish	sandwich	433384
+fish	sandwich	433385
+beef	bowl	433387
+excessive	amount	433386
+####326	3.0	433293	433299
+####327	2.0	433302	433301
+####324	4.0	433290	433291
+####325	2.0	433292	0
+####322	2.0	433284	433286
+####323	4.0	433287	433289
+####320	3.0	433278	433282
+####321	1.0	433283	0
+####334	2.0	433338	433349
+star	review	433339
+star	review	433341
+tar	review	433339
+review	star	433339
+review	star	433341
+better	bit	433340
+fast	food	433342
+food	fast	433342
+fish	quality	433346
+toro	tartare	433349
+nyc	restaurant	433340
+better	food	433340
+teriyaki	sauce	433343
+food	better	433340
+tartare	toro	433349
+kobe	beef	433343
+quality	fish	433346
+bit	better	433340
+####335	3.0	433350	433358
+wasabi	fresh	433350
+fresh	wasabi	433350
+oily	bit	433352
+olive	oil	433352
+####332	3.0	433325	433327
+right	direction	433326
+chinese	broccoli	433325
+broccoli	chinese	433325
+####333	3.0	433328	433337
+fashioned	old	433332
+old	fashioned	433332
+strawberry	cheesecake	433329
+mexican	place	433332
+right	flavor	433332
+cheesecake	strawberry	433329
+strawberry	cheese	433329
+fashion	old	433332
+####330	4.0	433310	433313
+waygu	beef	433312
+####331	3.0	433314	433324
+morimoto	sashimi	433320
+business	dinner	433318
+weeks	two	433317
+dining	restaurants	433317
+tomato	sauce	433322
+dining	fine	433317
+two	weeks	433317
+platter	sashimi	433320
+sashimi	morimoto	433320
+dinner	business	433318
+dining	restaurant	433317
+bass	sea	433323
+sauce	tomato	433322
+sashimi	platter	433320
+####328	3.0	433303	433304
+sashimi	salad	433303
+different	entrees	433303
+angry	chicken	433303
+bass	sea	433303
+####329	2.0	433305	433309
+morimoto	chef	433306
+feel	guilty	433308
+guilty	feel	433308
+eel	guilty	433308
+chef	morimoto	433306
+####373	3.0	433574	433581
+chicken	ramen	433577
+spicy	shrimp	433575
+warm	chocolate	433579
+good	ridiculously	433577
+cake	chocolate	433579
+dressing	ranch	433575
+dressing	ranch	433576
+late	cake	433579
+rock	shrimp	433574
+shrimp	spicy	433575
+ranch	dressing	433575
+ranch	dressing	433576
+soup	ramen	433577
+chocolate	cake	433579
+ate	cake	433579
+ramen	chicken	433577
+fresh	tasting	433574
+ramen	soup	433577
+chocolate	warm	433579
+ridiculously	good	433577
+tempura	shrimp	433575
+tempura	shrimp	433574
+shrimp	tempura	433574
+shrimp	tempura	433575
+tasting	fresh	433574
+####372	3.0	433572	433573
+foie	oyster	433573
+oyster	foie	433573
+gras	foie	433573
+####375	4.0	433601	433603
+king	crab	433601
+toro	tartare	433601
+toro	tartare	433602
+king	spicy	433601
+definitely	try	433602
+main	course	433603
+tartare	toro	433601
+tartare	toro	433602
+gras	foie	433601
+gras	foie	433602
+spicy	king	433601
+crab	king	433601
+bass	sea	433603
+try	definitely	433602
+####374	4.0	433582	433600
+places	favorite	433585
+restaurant	japanese	433587
+special	event	433589
+tastes	amazing	433594
+savory	food	433591
+side	pricey	433589
+pleasantly	surprised	433584
+better	part	433593
+good	choice	433589
+favorite	places	433585
+amazing	tastes	433594
+amazing	taste	433594
+smaller	portions	433587
+favorite	place	433585
+opened	place	433594
+choice	good	433589
+york	new	433585
+japanese	restaurant	433587
+pricey	side	433589
+beautiful	space	433586
+####369	3.0	433554	433559
+japanese	place	433556
+place	japanese	433556
+decent	restaurant	433556
+####368	3.0	433548	433553
+back	went	433550
+toro	tartare	433552
+mediocre	food	433548
+nyc	restaurant	433548
+experience	sushi	433551
+eat	sushi	433551
+tartare	toro	433552
+sushi	experience	433551
+went	back	433550
+great	sushi	433551
+sushi	great	433551
+####371	3.0	433567	433571
+sushi	spots	433567
+tartar	toro	433571
+white	lily	433571
+spot	sushi	433567
+sushi	spot	433567
+####370	4.0	433560	433566
+fish	raw	433565
+raw	fish	433565
+####381	5.0	433621	433623
+####380	2.0	433614	433620
+####383	4.0	433633	433640
+sauce	soy	433634
+third	course	433637
+teriyaki	sauce	433640
+oyster	foie	433639
+gras	foie	433639
+gras	foie	433640
+soy	sauce	433634
+olive	oil	433634
+####382	4.0	433624	433632
+sauce	soy	433632
+tasted	good	433631
+fraiche	creme	433629
+tartar	tuna	433629
+good	pretty	433624
+pretty	good	433624
+cherry	tomatoes	433632
+good	tasted	433631
+soy	sauce	433632
+olive	oil	433632
+####377	3.0	433605	433606
+red	curtains	433606
+####376	4.0	433604	0
+####379	4.0	433609	433613
+####378	2.0	433607	433608
+left	side	433607
+####356	2.0	433485	433487
+experience	dining	433487
+best	sushi	433486
+experience	sushi	433486
+walk	away	433486
+coast	east	433486
+east	coast	433486
+away	walk	433486
+sushi	experience	433486
+notch	top	433487
+spend	money	433486
+sushi	best	433486
+dining	experience	433487
+####357	3.0	433488	433489
+mixed	green	433489
+####358	2.0	433490	433496
+king	crab	433495
+calamari	salad	433495
+tasted	great	433494
+spot	date	433492
+king	spicy	433495
+love	place	433493
+date	great	433492
+great	tasted	433494
+spicy	king	433495
+date	spot	433492
+great	date	433492
+crab	king	433495
+####359	2.0	433497	433513
+vanilla	ice	433504
+ganache	chocolate	433499
+tasting	menu	433508
+decorated	nicely	433512
+boyfriend	ordered	433498
+menu	tasting	433508
+ordered	boyfriend	433498
+####352	2.0	433443	433442
+####353	3.0	433444	433449
+three	ways	433446
+three	way	433446
+write	home	433447
+####354	1.0	433450	433477
+experience	dining	433467
+chef	iron	433471
+daikon	pickled	433470
+area	eating	433467
+iron	chef	433471
+dipping	sauces	433452
+desserts	two	433458
+good	damn	433459
+great	dining	433467
+dessert	person	433459
+good	taste	433475
+bar	sushi	433464
+pickled	daikon	433470
+two	desserts	433458
+fish	dish	433471
+brulee	creme	433458
+brulee	creme	433460
+wagyu	beef	433470
+dipping	sauce	433452
+taste	good	433475
+sushi	bar	433464
+sauces	dipping	433452
+damn	good	433459
+got	friend	433474
+dining	great	433467
+dinner	birthday	433476
+white	fish	433470
+friend	got	433474
+birthday	dinner	433476
+eating	area	433467
+roe	salmon	433470
+dish	fish	433471
+duck	duck	433463
+dining	experience	433467
+####355	4.0	433478	433484
+acquired	taste	433479
+japanese	food	433482
+red	taste	433479
+tuna	sashimi	433484
+ambiance	great	433481
+great	ambiance	433481
+nice	try	433479
+food	japanese	433482
+eat	ambiance	433481
+sashimi	tuna	433484
+####364	3.0	433536	433538
+red	soup	433536
+####365	5.0	433539	433540
+room	dining	433540
+dining	room	433540
+downstairs	bar	433540
+####366	2.0	433541	433545
+make	reservations	433545
+reservations	make	433545
+better	tasted	433543
+experience	different	433542
+different	experience	433542
+tasted	better	433543
+####367	5.0	433546	433547
+side	plus	433546
+plus	side	433546
+####360	1.0	433514	433518
+cake	chocolate	433517
+combination	good	433514
+nice	waitress	433514
+good	combination	433514
+chocolate	cake	433517
+nice	wait	433514
+interesting	combination	433515
+####361	4.0	433519	433523
+wanted	place	433521
+morimoto	chef	433519
+chef	iron	433519
+iron	chef	433519
+bar	sushi	433519
+love	place	433521
+sushi	bar	433519
+chef	morimoto	433519
+####362	2.0	433524	433532
+good	food	433524
+food	good	433524
+high	expectations	433525
+expectations	high	433525
+white	lilly	433531
+####363	3.0	433533	433535
+back	brought	433534
+coming	kept	433533
+brought	back	433534
+kept	coming	433533
+####410	3.0	433808	433817
+super	high	433808
+high	super	433808
+prices	high	433808
+mediocre	food	433808
+beef	carpaccio	433814
+tartar	toro	433811
+main	course	433816
+boyfriend	ordered	433810
+high	prices	433808
+ordered	boyfriend	433810
+carpaccio	beef	433814
+####411	4.0	433818	433822
+soup	noodle	433822
+restaurants	korean	433820
+similar	dish	433820
+ramen	noodle	433822
+korean	restaurant	433820
+noodle	soup	433822
+korean	restaurants	433820
+duck	duck	433821
+noodle	ramen	433822
+####408	4.0	433796	433800
+best	version	433798
+traditional	sushi	433798
+place	good	433797
+california	roll	433799
+downstairs	bar	433797
+crab	roll	433799
+good	place	433797
+####409	5.0	433801	433807
+fixe	menu	433804
+amazingly	good	433807
+ponzu	sauce	433807
+fish	special	433806
+####414	3.0	433832	433842
+sooo	good	433832
+ice	cream	433836
+cream	ice	433836
+white	sesame	433836
+seated	promptly	433841
+ganache	chocolate	433836
+beautiful	people	433841
+definitely	recommended	433839
+cooked	perfectly	433835
+perfectly	cooked	433835
+sesame	black	433836
+sesame	black	433838
+lack	sesame	433838
+cherry	tomatoes	433835
+waygu	beef	433835
+sesame	ice	433836
+saturday	night	433841
+night	saturday	433841
+black	sesame	433838
+good	sooo	433832
+promptly	seated	433841
+####415	4.0	433843	433847
+good	night	433844
+night	good	433844
+sea	urchin	433843
+urchin	sea	433843
+gras	foie	433843
+####412	3.0	433823	433828
+different	story	433827
+beautiful	decor	433825
+japanese	style	433827
+fish	dish	433823
+story	different	433827
+dish	fish	433823
+style	japanese	433827
+awesome	restaurant	433827
+####413	3.0	433829	433831
+####402	4.0	433740	433746
+morimoto	chef	433743
+bar	sushi	433743
+steep	bit	433746
+brulee	creme	433741
+definitely	worth	433746
+steep	price	433746
+sushi	bar	433743
+worth	definitely	433746
+recommend	sitting	433743
+bit	expensive	433744
+expensive	bit	433744
+chef	morimoto	433743
+####403	4.0	433747	433755
+network	food	433751
+food	favorite	433751
+thank	goodness	433753
+ago	years	433752
+food	network	433751
+fish	fresh	433748
+rocks	place	433747
+fresh	fish	433748
+come	back	433752
+goodness	thank	433753
+back	come	433752
+years	ago	433752
+favorite	food	433751
+####400	3.0	433737	0
+####401	3.0	433738	433739
+cheesecake	tofu	433739
+tofu	cheese	433739
+tofu	cheesecake	433739
+####406	5.0	433780	433786
+presented	beautifully	433780
+pieces	sushi	433781
+sushi	pieces	433781
+####407	3.0	433787	433795
+good	old	433790
+lack	cod	433788
+old	good	433790
+cod	black	433788
+good	food	433787
+soy	milk	433788
+enjoy	good	433787
+reasonable	prices	433787
+food	good	433787
+prices	reasonable	433787
+milk	soy	433788
+black	cod	433788
+better	version	433794
+####404	5.0	433756	433758
+free	parking	433757
+saturday	night	433757
+night	saturday	433757
+####405	2.0	433759	433779
+presented	beautifully	433771
+toro	tartare	433769
+toro	tartare	433770
+nyc	restaurant	433760
+tar	toro	433769
+tar	toro	433770
+seated	promptly	433761
+minutes	ago	433761
+prompt	seated	433761
+tartar	toro	433769
+tartar	toro	433770
+tartare	toro	433769
+tartare	toro	433770
+gras	foie	433779
+nice	extremely	433776
+tart	toro	433769
+tart	toro	433770
+promptly	seated	433761
+extremely	nice	433776
+####395	5.0	433708	433718
+good	night	433713
+expected	better	433709
+night	good	433713
+chef	iron	433717
+iron	chef	433717
+back	came	433710
+pretty	excited	433716
+quality	food	433709
+excited	pretty	433716
+bit	disappointed	433718
+came	back	433710
+quality	better	433709
+bill	came	433708
+disappointed	bit	433718
+young	man	433711
+food	quality	433709
+better	quality	433709
+water	glass	433711
+came	bill	433708
+glass	water	433711
+####394	4.0	433699	433707
+sauce	oyster	433704
+morimoto	sashimi	433699
+nice	presentation	433699
+oyster	sauce	433704
+salmon	skin	433706
+mon	skin	433706
+skin	salmon	433706
+japanese	food	433703
+food	japanese	433703
+sashimi	morimoto	433699
+gras	foie	433704
+sashimi	plate	433699
+plate	sashimi	433699
+presentation	nice	433699
+####393	2.0	433691	433698
+bar	sushi	433694
+water	glasses	433696
+seated	immediately	433692
+sushi	bar	433694
+glasses	water	433696
+immediately	seated	433692
+glass	water	433696
+####392	3.0	433687	433690
+experience	dining	433687
+recent	trip	433688
+lovely	restaurant	433687
+wonderful	experience	433688
+experience	wonderful	433688
+dining	experience	433687
+####399	1.0	433730	433736
+wasabi	noodles	433731
+wasabi	noodles	433732
+places	sushi	433733
+lobster	salad	433730
+lobster	salad	433732
+kobe	steak	433736
+sushi	places	433733
+noodles	wasabi	433731
+noodles	wasabi	433732
+sushi	place	433733
+####398	3.0	433727	433729
+tasting	best	433727
+best	tasting	433727
+teriyaki	sauce	433728
+gras	foie	433727
+####397	3.0	433724	433726
+morimoto	chef	433726
+bar	sushi	433726
+sushi	bar	433726
+part	best	433726
+chef	morimoto	433726
+best	part	433726
+####396	5.0	433719	433723
+chef	iron	433723
+iron	chef	433723
+better	japanese	433720
+good	food	433719
+####387	5.0	433661	433664
+tasting	menu	433664
+extra	bowl	433663
+bell	taco	433661
+taco	bell	433661
+menu	tasting	433664
+####386	2.0	433650	433660
+red	sugar	433655
+sugar	powdered	433655
+flank	steak	433650
+powdered	sugar	433655
+####385	2.0	433646	433649
+main	course	433649
+####384	3.0	433641	433645
+japanese	sushi	433644
+sushi	japanese	433644
+snapper	red	433642
+snapper	red	433644
+red	snapper	433642
+red	snapper	433644
+####391	4.0	433682	433686
+solid	service	433684
+####390	5.0	433676	433681
+morimoto	chef	433679
+chef	iron	433679
+iron	chef	433679
+dining	experiences	433679
+japanese	food	433679
+food	japanese	433679
+experiences	dining	433679
+great	food	433679
+food	great	433679
+chef	morimoto	433679
+dining	experience	433679
+####389	3.0	433673	433675
+####388	5.0	433665	433672
+chef	iron	433670
+iron	chef	433670
+tasting	menu	433670
+pleasantly	surprised	433666
+toilet	seat	433666
+thoroughly	impressed	433665
+menu	tasting	433670
+####440	2.0	433959	433964
+culinary	experience	433959
+####441	5.0	433965	433970
+ginger	sauce	433966
+####442	1.0	433971	433990
+better	word	433983
+ball	rice	433984
+morimoto	sashimi	433987
+eel	sauce	433984
+different	sauces	433986
+ice	balls	433984
+sashimi	morimoto	433987
+different	sauce	433986
+sauces	different	433986
+rice	balls	433984
+balls	rice	433984
+####443	3.0	433991	433994
+sauce	spicy	433993
+pizza	tuna	433991
+rock	shrimp	433992
+rock	shrimp	433993
+rock	shrimp	433994
+amount	good	433991
+wasabi	sauce	433993
+enjoy	did	433994
+sauce	wasabi	433993
+spicy	sauce	433993
+tuna	pizza	433991
+good	amount	433991
+did	enjoy	433994
+####444	3.0	433995	433998
+####432	2.0	433938	433939
+king	crab	433939
+red	miso	433939
+half	shell	433939
+japanese	egg	433938
+japanese	eggplant	433938
+shell	half	433939
+crab	king	433939
+bass	sea	433938
+####433	1.0	433940	433944
+place	amazing	433944
+ice	cream	433940
+cream	ice	433940
+walk	away	433943
+cinnamon	apple	433940
+miso	soup	433943
+bento	box	433943
+japanese	place	433943
+place	best	433942
+away	walk	433943
+soup	miso	433943
+amazing	place	433944
+best	restaurant	433942
+place	japanese	433943
+best	place	433942
+teriyaki	beef	433943
+####434	1.0	433945	433946
+####435	4.0	433947	0
+####436	5.0	433948	433949
+rolls	salmon	433949
+mon	rolls	433949
+bento	box	433949
+spicy	salmon	433949
+incredibly	rich	433948
+salmon	rolls	433949
+####437	4.0	433950	0
+####438	3.0	433951	433954
+chef	iron	433952
+iron	chef	433952
+bento	box	433951
+chef	restaurant	433952
+####439	4.0	433955	433958
+king	crab	433955
+best	friend	433957
+broth	miso	433955
+recommend	highly	433957
+highly	recommend	433957
+cant	remember	433955
+cod	black	433955
+big	bowl	433955
+friend	best	433957
+king	spicy	433955
+miso	broth	433955
+black	cod	433955
+bowl	big	433955
+spicy	king	433955
+crab	king	433955
+####425	5.0	433919	433918
+####424	3.0	433907	0
+####427	3.0	433923	433926
+####426	3.0	433920	433922
+dish	came	433922
+tartar	tuna	433920
+came	dish	433922
+####429	4.0	433931	0
+####428	5.0	433927	433930
+came	dishes	433927
+yellow	tail	433929
+low	tail	433929
+dishes	came	433927
+tail	yellow	433929
+####431	3.0	433933	433937
+king	crab	433937
+pizza	tuna	433936
+king	spicy	433937
+spicy	king	433937
+tuna	pizza	433936
+crab	king	433937
+####430	1.0	433932	0
+####417	3.0	433861	433866
+king	crab	433866
+pizza	tuna	433866
+tuna	pizza	433866
+crab	king	433866
+####416	2.0	433848	433860
+amount	good	433858
+selection	good	433851
+fresh	tasted	433850
+good	amount	433858
+good	selection	433851
+####419	4.0	433872	433883
+chinese	food	433872
+restaurant	japanese	433873
+food	chinese	433872
+fusion	asian	433876
+authentic	japanese	433878
+asian	fusion	433876
+done	right	433876
+right	done	433876
+rest	japanese	433873
+bass	sea	433872
+japanese	authentic	433878
+japanese	restaurant	433873
+####418	1.0	433871	433870
+####421	2.0	433886	433890
+good	dessert	433889
+sashimi	salad	433887
+main	course	433887
+pretty	darn	433887
+darn	pretty	433887
+####420	4.0	433884	433885
+stars	food	433885
+stars	service	433885
+####423	3.0	433902	433906
+combo	great	433903
+super	close	433905
+great	combo	433903
+eat	combo	433903
+####422	3.0	433891	433901
+toro	tartare	433900
+tasting	menu	433898
+companion	dining	433901
+tartare	toro	433900
+kobe	beef	433901
+dining	companion	433901
+beef	bowl	433891
+menu	tasting	433898

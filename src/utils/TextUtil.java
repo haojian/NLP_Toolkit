@@ -28,7 +28,7 @@ public class TextUtil {
 		SentenceToWords("For one of my birthday dinners, my best friend decided to either buy me this pricey fringe leather skirt from Zara or take me out to dinner.");
 	}
 	
-	static String Encode(String before) {
+	public static String Encode(String before) {
 		String after = null;
 		try {
 			after = URLEncoder.encode(before, "UTF-8");
@@ -38,7 +38,7 @@ public class TextUtil {
 		return after;
 	}
 	
-	static String decode(String original){
+	public static String decode(String original){
 		String result = null;
 		try{
 			result = URLDecoder.decode(original, "UTF-8");

@@ -32,6 +32,15 @@ public class Logger {
 		return res;
 	}
 	
+	public static int counter = 0;
+	public void IncreaseCounter(){
+		counter++;
+		if(counter == 1000 ){
+			System.out.println("1000 processed");
+			counter = 0;
+		}
+	}
+	
 	
 	public void reportProcess(long donepart, long all, String event){
 		float precess = donepart/all;

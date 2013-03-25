@@ -25,6 +25,7 @@ public class ParameterSetting {
 	public static String PATHTOITERATIONRESULTDIR = "./Iterations";
 	public static String PATHTOTMPDIR1 = "Sample output for different iteration/03212013/output";
 	public static String PATHTOTMPDIR2 = "Sample output for different iteration/03212013/crawleddata3";
+	public static String PATHTOEXTRACTIONWITHRATING = "extractions";
 	
 	//REGX String variables
 	public static String REGXWORDPATTERN_V1 = "(.*)";

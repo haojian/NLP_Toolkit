@@ -1,0 +1,6133 @@
+####0	4.0	752539	752546
+####1	4.0	752547	752554
+####2	4.0	752555	752580
+####3	4.0	752583	752585
+####4	1.0	752586	752597
+####5	4.0	752598	752609
+####6	1.0	752610	752617
+####7	4.0	752618	752635
+####8	5.0	752636	752648
+####9	3.0	752649	752655
+####10	4.0	752656	752667
+####11	3.0	752668	752679
+####12	4.0	752680	752707
+####13	5.0	752708	752711
+####14	4.0	752712	752727
+####15	5.0	752728	752731
+####17	3.0	752744	0
+####16	4.0	752732	752743
+####19	5.0	752749	752754
+####18	1.0	752745	752748
+####21	3.0	752758	752766
+####20	5.0	752755	752757
+####23	5.0	752768	752769
+####22	5.0	752767	0
+####25	3.0	752780	752785
+####24	2.0	752770	752779
+####27	1.0	752792	752795
+####26	4.0	752786	752791
+####29	4.0	752812	752821
+####28	3.0	752796	752811
+####31	1.0	752824	752848
+####30	4.0	752822	752823
+####34	4.0	752862	752866
+####35	5.0	752867	752881
+####32	4.0	752849	752859
+####33	4.0	752860	752861
+####38	3.0	752897	752902
+####39	3.0	752903	752924
+####36	4.0	752882	752887
+####37	3.0	752888	752896
+####42	5.0	752949	752960
+####43	5.0	752961	752963
+####40	4.0	752925	752938
+####41	3.0	752939	752948
+####46	3.0	752969	752987
+####47	5.0	752988	752990
+####44	5.0	752964	0
+####45	3.0	752965	752968
+####51	4.0	753024	753031
+####50	5.0	753023	0
+####49	4.0	753021	753022
+####48	5.0	752991	753020
+####55	2.0	753074	753080
+####54	4.0	753060	753073
+####53	4.0	753042	753059
+####52	4.0	753032	753041
+####59	4.0	753131	753143
+####58	2.0	753117	753130
+####57	3.0	753096	753116
+####56	3.0	753081	753095
+####63	4.0	753178	753193
+####62	2.0	753158	753177
+####61	4.0	753150	753157
+####60	4.0	753144	753149
+####68	3.0	753242	753246
+####69	4.0	753247	753252
+####70	2.0	753253	753264
+####71	5.0	753265	753271
+####64	3.0	753194	753216
+####65	4.0	753217	753219
+####66	4.0	753220	753235
+####67	3.0	753236	753241
+####76	5.0	753333	753349
+####77	5.0	753350	753355
+####78	3.0	753356	753366
+####79	5.0	753367	753371
+####72	4.0	753272	753286
+####73	1.0	753287	753304
+####74	5.0	753305	753314
+####75	2.0	753315	753332
+####85	3.0	753406	753413
+####84	4.0	753398	753405
+####87	5.0	753416	753423
+####86	3.0	753414	753415
+####81	4.0	753388	753390
+####80	5.0	753372	753387
+####83	4.0	753396	753397
+####82	4.0	753391	753395
+####93	5.0	753490	753506
+####92	3.0	753481	753489
+####95	4.0	753514	753520
+####94	4.0	753507	753513
+####89	4.0	753441	753464
+####88	4.0	753424	753440
+####91	4.0	753477	753480
+####90	4.0	753468	753476
+####102	4.0	753578	753603
+####103	5.0	753604	753606
+####100	4.0	753570	753572
+####101	5.0	753573	753577
+####98	4.0	753548	753554
+####99	4.0	753555	753569
+####96	2.0	753521	753530
+####97	4.0	753531	753547
+####110	5.0	753644	753645
+####111	2.0	753646	753652
+####108	4.0	753638	753640
+####109	4.0	753641	753643
+####106	4.0	753630	753636
+####107	5.0	753637	0
+####104	5.0	753607	753622
+####105	3.0	753623	753629
+####119	4.0	753741	753743
+####118	4.0	753724	753740
+####117	5.0	753715	753722
+####116	5.0	753690	753714
+####115	4.0	753686	753689
+####114	5.0	753671	753685
+####113	4.0	753662	753670
+####112	4.0	753653	753661
+####127	4.0	753829	753836
+####126	5.0	753806	753828
+####125	5.0	753797	753805
+####124	3.0	753781	753796
+####123	3.0	753779	753780
+####122	4.0	753770	753778
+####121	5.0	753753	753769
+####120	5.0	753744	753752
+####137	3.0	753909	753927
+####136	4.0	753900	753908
+####139	4.0	753954	753960
+####138	3.0	753928	753953
+####141	3.0	753970	753973
+####140	5.0	753961	753966
+####143	1.0	753981	753986
+####142	5.0	753974	753980
+####129	4.0	753845	753851
+####128	1.0	753837	753844
+####131	5.0	753867	0
+####130	5.0	753852	753866
+####133	3.0	753871	753876
+####132	5.0	753868	753870
+####135	2.0	753891	753899
+####134	4.0	753877	753890
+####152	4.0	754051	754056
+####153	4.0	754057	754065
+####154	4.0	754066	754073
+####155	3.0	754074	754082
+####156	5.0	754083	754091
+####157	4.0	754092	754100
+####158	4.0	754101	754109
+####159	5.0	754110	754117
+####144	3.0	753987	753994
+####145	5.0	753995	754006
+####146	1.0	754007	754008
+####147	3.0	754009	754015
+####148	3.0	754020	754027
+####149	4.0	754028	754031
+####150	5.0	754032	754042
+####151	4.0	754043	754050
+####171	5.0	754272	754273
+####170	4.0	754266	754271
+####169	4.0	754227	754265
+####168	3.0	754221	754226
+####175	4.0	754310	754316
+####174	4.0	754300	754309
+####173	4.0	754288	754299
+####172	3.0	754274	754287
+####163	5.0	754142	754163
+####162	5.0	754136	754141
+####161	2.0	754128	754135
+####160	4.0	754118	754127
+####167	3.0	754208	754220
+####166	3.0	754196	754200
+####165	5.0	754168	754195
+####164	4.0	754165	754167
+####186	1.0	754420	754430
+####187	4.0	754431	754434
+####184	4.0	754400	754410
+####185	4.0	754411	754419
+####190	5.0	754454	754455
+####191	5.0	754456	754460
+####188	4.0	754435	754442
+####189	5.0	754443	754453
+####178	5.0	754338	754347
+####179	5.0	754348	754349
+####176	4.0	754317	754323
+####177	4.0	754324	754337
+####182	4.0	754381	754392
+####183	4.0	754393	754399
+####180	5.0	754350	754374
+####181	5.0	754375	754380
+####205	4.0	754612	754630
+####204	5.0	754609	754611
+####207	4.0	754634	754639
+####206	3.0	754631	754633
+####201	5.0	754580	754583
+####200	4.0	754561	754579
+####203	1.0	754595	754608
+####202	5.0	754584	754594
+####197	5.0	754522	754529
+####196	2.0	754516	754521
+####199	5.0	754539	754560
+####198	3.0	754530	754538
+####193	5.0	754481	754488
+####192	3.0	754461	754480
+####195	4.0	754505	754515
+####194	3.0	754489	754497
+####220	5.0	754732	754738
+####221	5.0	754739	754749
+####222	4.0	754750	754758
+####223	5.0	754759	754771
+####216	5.0	754696	754706
+####217	4.0	754707	754715
+####218	4.0	754716	754720
+####219	5.0	754721	754731
+####212	5.0	754676	754682
+####213	4.0	754683	754687
+####214	1.0	754688	754691
+####215	5.0	754692	754695
+####208	4.0	754640	754642
+####209	5.0	754643	754655
+####210	4.0	754656	754661
+####211	4.0	754662	754675
+####239	5.0	754951	754955
+####238	4.0	754938	754950
+####237	5.0	754928	754937
+####236	2.0	754913	754927
+####235	4.0	754906	754910
+####234	4.0	754895	754905
+####233	2.0	754876	754894
+####232	4.0	754866	754875
+####231	4.0	754849	754865
+####230	5.0	754838	754848
+####229	3.0	754822	754837
+####228	3.0	754821	0
+####227	4.0	754813	754820
+####226	4.0	754807	754812
+####225	4.0	754801	754806
+####224	3.0	754772	754800
+####254	4.0	755114	755131
+####255	5.0	755132	755136
+####252	3.0	755089	755099
+####253	3.0	755100	755113
+####250	4.0	755074	755076
+####251	5.0	755077	755088
+####248	5.0	755055	755062
+####249	4.0	755064	755073
+####246	4.0	755034	755045
+####247	4.0	755046	755054
+####244	4.0	755000	755019
+####245	5.0	755020	755033
+####242	5.0	754972	754981
+####243	3.0	754982	754999
+####240	2.0	754956	754963
+####241	5.0	754964	754971
+####275	5.0	755321	755325
+burger	truffle	755323
+truffle	burger	755323
+getting	problem	755321
+reasonable	amount	755321
+problem	getting	755321
+####274	3.0	755315	755320
+super	soft	755318
+flavors	great	755318
+great	flavor	755318
+amazing	burger	755316
+soft	super	755318
+great	flavors	755318
+seasoned	meat	755318
+pricey	bit	755320
+bit	pricey	755320
+####273	3.0	755307	755314
+potatoes	sweet	755313
+tastes	amazing	755311
+burger	taste	755309
+love	love	755310
+amazing	tastes	755311
+sweet	potatoes	755313
+####272	5.0	755303	755306
+burger	umami	755305
+umami	burger	755305
+####279	4.0	755364	755382
+small	side	755365
+sweet	potato	755374
+bomb	diggity	755375
+side	small	755365
+fries	potato	755374
+potato	sweet	755374
+onion	tempura	755376
+manly	burger	755365
+appetite	big	755365
+definitely	worth	755366
+homemade	ketchup	755375
+fountain	drinks	755381
+worth	definitely	755366
+brown	sugar	755375
+melts	literally	755367
+big	appetite	755365
+door	seating	755380
+outdoor	seating	755380
+potato	fries	755374
+tempura	onion	755376
+seating	outdoor	755380
+literally	melts	755367
+rings	onion	755376
+####278	4.0	755360	755363
+recommend	highly	755363
+highly	recommend	755363
+umami	burger	755363
+burger	truffle	755361
+truffle	burger	755361
+different	sauces	755361
+good	especially	755361
+different	sauce	755361
+umami	burgers	755363
+sauces	different	755361
+truffle	fries	755361
+especially	good	755361
+####277	2.0	755336	755359
+cream	sandwich	755351
+ice	cream	755351
+cream	ice	755351
+burger	umami	755345
+burger	umami	755347
+umami	burger	755345
+umami	burger	755347
+burger	truffle	755343
+burger	truffle	755346
+burger	truffle	755348
+good	service	755352
+truffle	burger	755343
+truffle	burger	755346
+truffle	burger	755348
+sure	make	755352
+great	experience	755341
+meal	delicious	755342
+cream	sandwiches	755351
+top	two	755336
+top	two	755338
+experience	great	755341
+sandwiches	cream	755351
+service	good	755352
+great	service	755349
+service	great	755349
+delicious	meal	755342
+two	top	755336
+two	top	755338
+make	sure	755352
+####276	4.0	755326	755335
+ice	cream	755332
+cream	ice	755332
+available	tables	755335
+san	cream	755332
+fries	came	755327
+turkey	burger	755331
+room	back	755335
+previous	review	755326
+back	room	755335
+top	two	755335
+spicy	turkey	755331
+two	top	755335
+turkey	spicy	755331
+house	full	755334
+burger	turkey	755331
+rings	onion	755327
+full	house	755334
+####283	4.0	755407	755408
+buds	taste	755408
+good	eat	755408
+people	think	755407
+think	people	755407
+####282	5.0	755403	755406
+cheaper	price	755405
+future	near	755403
+customer	service	755406
+pretty	tasty	755405
+tasty	pretty	755405
+service	customer	755406
+angeles	los	755403
+####281	2.0	755396	755402
+dipping	sauces	755400
+umami	burger	755402
+sweet	potato	755399
+fries	potato	755399
+potato	sweet	755399
+dipping	sauce	755400
+stand	people	755402
+sauces	dipping	755400
+umami	burgers	755402
+sauce	dipping	755400
+red	onion	755399
+potato	fries	755399
+rings	onion	755399
+####280	3.0	755383	755395
+burger	joint	755384
+burger	umami	755395
+umami	burger	755395
+guy	friends	755386
+pretty	cool	755383
+earth	burger	755387
+cool	pretty	755383
+joint	burger	755384
+####287	3.0	755451	755463
+recommend	highly	755463
+triple	pork	755462
+delicious	absolutely	755460
+highly	recommend	755463
+steep	bit	755453
+getting	recommend	755463
+steep	prices	755453
+recommend	getting	755463
+pork	burger	755462
+absolutely	delicious	755460
+burger	pork	755462
+####286	3.0	755438	755450
+signature	umami	755448
+parmesan	crisp	755450
+burger	joint	755438
+burger	joint	755439
+burger	umami	755441
+burger	umami	755443
+burger	umami	755448
+burger	umami	755449
+triple	pork	755443
+triple	pork	755448
+stilton	burger	755448
+stilton	burger	755443
+umami	burger	755441
+umami	burger	755443
+umami	burger	755448
+umami	burger	755449
+umami	signature	755448
+lets	start	755444
+crisp	parmesan	755450
+super	crispy	755446
+burger	pork	755443
+burger	pork	755448
+roasted	tomato	755450
+best	burger	755448
+burger	best	755448
+crispy	super	755446
+joint	burger	755439
+joint	burger	755438
+rings	onion	755443
+rings	onion	755447
+####285	3.0	755423	755437
+rich	super	755423
+bottom	bun	755424
+burger	umami	755427
+burger	umami	755428
+months	ago	755426
+back	went	755427
+umami	burger	755427
+umami	burger	755428
+super	rich	755423
+cheddar	cheese	755430
+small	bite	755423
+strings	onion	755430
+caramelized	onions	755429
+ago	months	755426
+bite	small	755423
+couple	friends	755427
+went	back	755427
+fifth	taste	755436
+roasted	tomato	755429
+####284	4.0	755409	755422
+type	different	755411
+blown	away	755409
+cream	sandwich	755411
+ice	cream	755411
+cream	ice	755411
+burger	umami	755409
+san	cream	755411
+umami	burger	755409
+burger	truffle	755421
+different	types	755411
+sandwich	cream	755411
+truffle	burger	755421
+huge	fan	755410
+gourmet	burger	755414
+cream	sandwiches	755411
+sandwiches	cream	755411
+gourmet	burgers	755414
+away	blown	755409
+types	different	755411
+fan	huge	755410
+####258	5.0	755154	755163
+####259	3.0	755164	755173
+####256	5.0	755137	755147
+####257	5.0	755148	755153
+####262	3.0	755187	755189
+####263	4.0	755190	755206
+####260	5.0	755174	755179
+####261	4.0	755180	755186
+####266	4.0	755236	755242
+####267	5.0	755243	755262
+####264	5.0	755207	755228
+####265	3.0	755229	755235
+####270	5.0	755291	755289
+####271	4.0	755292	755302
+burger	umami	755300
+burger	umami	755301
+umami	burger	755300
+umami	burger	755301
+absolutely	perfect	755296
+perfect	absolutely	755296
+####268	4.0	755263	755266
+####269	5.0	755267	755276
+####305	4.0	755614	755621
+umami	flavor	755621
+rare	medium	755614
+burger	umami	755619
+umami	burger	755619
+onions	grilled	755620
+onions	grilled	755621
+grilled	onions	755620
+grilled	onions	755621
+slightly	salty	755621
+salty	slightly	755621
+better	burger	755618
+####304	5.0	755603	755613
+wait	long	755609
+ice	cream	755603
+cream	ice	755603
+burger	umami	755604
+finally	got	755612
+umami	burger	755604
+vanilla	ice	755603
+burger	truffle	755613
+ground	beef	755613
+got	finally	755612
+patty	beef	755613
+truffle	burger	755613
+truffle	cheese	755613
+cheese	truffle	755613
+beef	ground	755613
+greasy	side	755608
+truffle	sauce	755613
+kept	thinking	755612
+big	parties	755610
+brioche	bun	755613
+pork	burger	755611
+part	big	755610
+long	wait	755609
+burger	pork	755611
+parties	big	755610
+####307	2.0	755627	755634
+quality	good	755628
+rare	medium	755628
+burger	umami	755630
+burger	umami	755632
+good	quality	755628
+umami	burger	755630
+umami	burger	755632
+higher	rating	755628
+eat	lunch	755630
+ordered	table	755632
+quality	meats	755628
+table	ordered	755632
+meats	quality	755628
+####306	5.0	755622	755626
+cheap	pretty	755624
+pretty	cheap	755624
+fried	potatoes	755622
+smushed	potatoes	755622
+####309	3.0	755656	755662
+burger	umami	755662
+burger	taste	755661
+salty	super	755660
+umami	burger	755662
+burger	truffle	755662
+truffle	burger	755662
+super	salty	755660
+####308	2.0	755635	755655
+dish	side	755641
+cream	sandwich	755645
+cream	sandwich	755646
+ice	cream	755645
+ice	cream	755646
+ice	cream	755647
+cream	ice	755647
+cream	ice	755645
+cream	ice	755646
+burger	umami	755636
+burger	umami	755637
+burger	umami	755652
+san	cream	755645
+especially	loved	755635
+umami	burger	755636
+umami	burger	755637
+umami	burger	755652
+different	things	755636
+probably	won	755650
+vanilla	ice	755647
+simply	delicious	755644
+sandwich	cream	755645
+sandwich	cream	755646
+onion	tempura	755638
+give	definitely	755652
+best	onion	755638
+definitely	give	755652
+velvet	red	755645
+velvet	red	755646
+velvet	red	755647
+totally	different	755636
+things	different	755636
+red	velvet	755645
+red	velvet	755646
+red	velvet	755647
+cream	sandwiches	755645
+come	back	755637
+come	back	755650
+two	ordered	755645
+cake	velvet	755646
+sandwiches	cream	755645
+side	dish	755641
+best	definitely	755638
+back	come	755637
+back	come	755650
+definitely	best	755638
+red	two	755645
+pepper	black	755642
+onion	best	755638
+loved	especially	755635
+delicious	simply	755644
+black	pepper	755642
+ordered	two	755645
+tempura	onion	755638
+smushed	potatoes	755641
+different	totally	755636
+velvet	cake	755646
+deep	fried	755640
+rings	onion	755638
+####311	4.0	755673	755681
+burger	umami	755673
+fast	food	755675
+umami	burger	755673
+sweet	potato	755677
+burger	truffle	755673
+food	fast	755675
+fries	potato	755677
+potato	sweet	755677
+truffle	burger	755673
+umami	ketchup	755678
+umami	ketchup	755679
+good	way	755679
+ketchup	umami	755678
+ketchup	umami	755679
+sauce	barbecue	755679
+garlic	aioli	755678
+aioli	garlic	755678
+cinnamon	sugar	755678
+potato	fries	755677
+way	good	755679
+barbecue	sauce	755679
+####310	5.0	755663	755672
+hours	three	755667
+monday	evening	755672
+hours	ago	755667
+tiny	place	755669
+place	tiny	755669
+worth	hassle	755670
+bucket	list	755671
+come	back	755666
+back	come	755666
+three	hours	755667
+valet	parking	755668
+####313	4.0	755690	755696
+bad	service	755690
+burger	umami	755695
+apple	sauce	755695
+umami	burger	755695
+sweet	potato	755695
+burger	truffle	755695
+belly	pork	755692
+fries	potato	755695
+potato	sweet	755695
+taste	fresh	755692
+veggie	burger	755693
+sauce	apple	755695
+bell	pork	755692
+truffle	burger	755695
+umami	ketchup	755695
+fresh	taste	755692
+crazy	delicious	755696
+pork	belly	755692
+pickle	plate	755695
+service	bad	755690
+potato	fries	755695
+earth	burger	755694
+####312	4.0	755682	755689
+bad	service	755683
+burger	joint	755687
+veggie	burger	755689
+good	experience	755682
+service	bad	755683
+didn	waitress	755687
+joint	burger	755687
+####315	5.0	755705	755716
+super	duper	755705
+joints	burger	755714
+side	dishes	755708
+love	burger	755712
+dirt	cheap	755705
+manly	burger	755710
+side	dish	755708
+duper	super	755705
+burger	joints	755714
+great	ingredients	755707
+dishes	side	755708
+####314	4.0	755697	755704
+bacon	cheese	755703
+star	five	755704
+ive	star	755704
+manly	burger	755703
+five	star	755704
+pickle	plate	755697
+good	ingredients	755701
+####317	4.0	755733	755737
+triple	pork	755733
+beef	burger	755735
+best	decision	755733
+pork	burger	755733
+pork	burger	755735
+texture	perfect	755737
+perfect	texture	755737
+burger	pork	755733
+burger	pork	755735
+####316	4.0	755717	755732
+burger	good	755720
+sweet	potato	755730
+fries	potato	755730
+potato	sweet	755730
+great	things	755731
+pretty	standard	755732
+good	burger	755720
+umami	ketchup	755730
+standard	fare	755732
+thin	great	755731
+things	great	755731
+eat	things	755731
+shy	away	755728
+ketchup	umami	755730
+garlic	aioli	755732
+unami	burger	755719
+aioli	garlic	755732
+fare	standard	755732
+potato	fries	755730
+standard	pretty	755732
+####319	5.0	755746	755748
+exceptional	service	755747
+mouth	watering	755747
+####318	1.0	755738	755745
+burger	umami	755738
+burger	umami	755740
+umami	burger	755738
+umami	burger	755740
+umami	burger	755744
+sweet	potato	755742
+thank	goodness	755743
+fries	potato	755742
+potato	sweet	755742
+goodness	thank	755743
+succulent	pork	755742
+perfectly	tender	755745
+umami	burgers	755744
+pork	burger	755742
+tender	perfectly	755745
+burger	pork	755742
+potato	fries	755742
+####288	3.0	755464	755476
+heart	attack	755469
+burger	umami	755474
+umami	burger	755474
+burger	truffle	755474
+onion	tempura	755474
+truffle	burger	755474
+favorite	least	755464
+green	tea	755472
+huge	ass	755469
+iced	green	755472
+tea	green	755472
+ass	burger	755469
+tempura	onion	755474
+least	favorite	755464
+green	iced	755472
+rings	onion	755474
+####289	5.0	755477	755485
+big	deal	755479
+style	dining	755477
+deal	big	755479
+onion	tempura	755482
+absolutely	fantastic	755483
+definitely	better	755485
+better	definitely	755485
+wasn	service	755480
+absolutely	fan	755483
+tempura	onion	755482
+fantastic	absolutely	755483
+rings	onion	755482
+rings	onion	755485
+####290	5.0	755486	755490
+burger	umami	755488
+umami	burger	755488
+sauce	extra	755487
+extra	sauce	755487
+small	amount	755486
+regular	burger	755489
+good	way	755490
+savory	taste	755489
+amount	small	755486
+way	good	755490
+####291	5.0	755491	755516
+network	food	755504
+network	food	755505
+meaty	taste	755492
+meaty	taste	755496
+burger	umami	755494
+burger	umami	755497
+burger	umami	755504
+burger	umami	755506
+burger	umami	755511
+burger	taste	755494
+umami	burger	755494
+umami	burger	755497
+umami	burger	755504
+umami	burger	755506
+umami	burger	755511
+burger	truffle	755496
+burger	truffle	755491
+burger	truffle	755494
+joints	burger	755508
+definitely	deserves	755505
+unique	taste	755497
+truffle	burger	755491
+truffle	burger	755494
+truffle	burger	755496
+food	network	755505
+sauce	house	755507
+sauce	house	755512
+overall	great	755499
+socal	burger	755506
+taste	unique	755497
+great	food	755499
+truffle	sauce	755492
+great	overall	755499
+house	sauce	755507
+house	sauce	755512
+oil	truffle	755514
+sauce	truffle	755492
+jus	cooked	755495
+truffle	oil	755514
+food	great	755499
+fries	cheese	755514
+burger	joints	755508
+people	two	755498
+cheese	fries	755514
+definitely	delicious	755500
+two	people	755498
+deserves	definitely	755505
+####292	4.0	755517	755519
+good	service	755518
+chill	place	755518
+good	pretty	755518
+pretty	good	755518
+service	good	755518
+pit	stop	755519
+####293	5.0	755520	755524
+coke	mexican	755520
+coke	mexican	755521
+thin	super	755522
+caprese	salad	755523
+water	glasses	755522
+super	thin	755522
+glasses	water	755522
+heirloom	tomatoes	755524
+mexican	coke	755520
+mexican	coke	755521
+burrata	cheese	755524
+####294	4.0	755525	755531
+truffle	glaze	755529
+burger	truffle	755528
+caprese	salad	755526
+truffle	burger	755528
+truffle	cheese	755529
+cheese	truffle	755529
+enjoy	did	755531
+disappointing	bit	755530
+did	enjoy	755531
+####296	4.0	755533	755554
+patty	burger	755537
+burger	good	755538
+burger	good	755539
+parmesan	crisp	755534
+fries	french	755547
+burger	umami	755533
+french	fries	755547
+umami	burger	755533
+burger	truffle	755535
+burger	truffle	755537
+carmelized	onions	755534
+good	burger	755538
+good	burger	755539
+truffle	burger	755535
+truffle	burger	755537
+amount	good	755548
+manly	burger	755542
+umami	ketchup	755534
+crisp	parmesan	755534
+ketchup	umami	755534
+good	amount	755548
+shiitake	mushroom	755534
+eat	two	755544
+rings	onion	755550
+roasted	tomatoes	755534
+####297	5.0	755555	755558
+person	table	755557
+rings	onion	755557
+####298	3.0	755559	755568
+burger	umami	755561
+umami	burger	755561
+sweet	potato	755568
+fries	potato	755568
+potato	sweet	755568
+unique	taste	755565
+pretty	excited	755560
+small	portions	755561
+excited	pretty	755560
+wait	awhile	755559
+taste	unique	755565
+awhile	wait	755559
+portions	small	755561
+cooked	beef	755565
+potato	fries	755568
+tiny	burger	755567
+####299	3.0	755569	755572
+mediocre	service	755571
+####300	4.0	755573	755578
+head	back	755577
+burger	umami	755577
+tasting	burger	755576
+umami	burger	755577
+greasy	food	755578
+mediocre	food	755575
+situation	parking	755575
+definitely	tasty	755577
+small	portions	755575
+find	street	755573
+parking	situation	755575
+bigger	portions	755576
+street	find	755573
+parking	street	755573
+portions	small	755575
+street	parking	755573
+back	head	755577
+####301	5.0	755579	755584
+burger	umami	755580
+umami	burger	755580
+visit	second	755579
+small	place	755581
+original	location	755580
+second	visit	755579
+place	small	755581
+outdoor	seating	755581
+seating	outdoor	755581
+####302	3.0	755585	755593
+food	came	755585
+truffle	glaze	755586
+burger	truffle	755586
+patty	beef	755586
+truffle	burger	755586
+truffle	cheese	755586
+soft	bun	755586
+truffle	flavor	755588
+bun	soft	755586
+####303	4.0	755594	755602
+flavor	combination	755595
+burger	umami	755596
+combination	flavor	755595
+umami	burger	755596
+monkey	cake	755596
+monkey	cake	755597
+monkey	cake	755598
+monkey	cake	755599
+great	crust	755600
+did	try	755599
+cake	monkey	755596
+cake	monkey	755597
+cake	monkey	755598
+cake	monkey	755599
+try	did	755599
+overly	sweet	755601
+garlic	aioli	755595
+perfectly	fine	755595
+aioli	garlic	755595
+sweet	overly	755601
+interesting	flavor	755595
+freshly	made	755597
+apple	pie	755599
+pie	apple	755599
+####343	5.0	755958	755968
+rare	medium	755968
+parmesan	crisp	755968
+burger	umami	755968
+bottles	two	755961
+umami	burger	755968
+onions	grilled	755968
+roasted	oven	755968
+made	ketchup	755966
+grilled	onions	755968
+crisp	parmesan	755968
+parking	lot	755958
+garlic	aioli	755966
+parking	street	755959
+lot	parking	755958
+rare	burger	755968
+aioli	garlic	755966
+stuff	good	755961
+roasted	tomato	755968
+street	parking	755959
+good	stuff	755961
+####341	3.0	755953	755957
+burger	umami	755953
+umami	burger	755953
+rest	small	755954
+restaurant	small	755954
+small	restaurant	755954
+big	problem	755957
+night	friday	755953
+friday	night	755953
+things	good	755955
+mall	restaurant	755954
+come	things	755955
+good	things	755955
+things	come	755955
+####340	4.0	755947	755952
+enjoy	eating	755951
+burger	gourmet	755948
+place	burger	755948
+place	new	755952
+burger	place	755948
+gourmet	burger	755948
+new	place	755952
+thoroughly	enjoy	755951
+eating	enjoy	755951
+####339	4.0	755944	755946
+dipping	sauces	755945
+dipping	sauce	755945
+sauces	dipping	755945
+####338	5.0	755938	755943
+big	deal	755941
+parmesan	crisp	755942
+side	dishes	755943
+deal	big	755941
+onion	tempura	755943
+small	portions	755939
+side	dish	755943
+crisp	parmesan	755942
+portions	small	755939
+tempura	onion	755943
+dishes	side	755943
+rings	onion	755943
+####337	5.0	755921	755937
+salad	potato	755921
+burger	better	755927
+sweet	potato	755921
+sweet	potato	755935
+made	actually	755935
+grilled	cheese	755933
+office	burger	755934
+fries	potato	755935
+potato	sweet	755921
+potato	sweet	755935
+pot	sweet	755921
+pot	sweet	755935
+meh	food	755928
+potato	salad	755921
+cheese	grilled	755933
+better	burger	755927
+end	meal	755926
+potato	fries	755935
+natural	flavor	755922
+actually	made	755935
+####336	4.0	755912	755920
+things	make	755913
+super	soft	755913
+recent	memory	755919
+pork	cooked	755915
+potatoes	mashed	755917
+soft	bun	755913
+cooked	perfectly	755912
+perfectly	cooked	755912
+fried	mashed	755917
+soft	super	755913
+mashed	potatoes	755917
+chunks	large	755914
+large	chunks	755914
+make	things	755913
+bun	soft	755913
+cooked	pork	755915
+####351	4.0	756049	756061
+cream	sandwich	756061
+ice	cream	756061
+burger	umami	756050
+onion	battered	756059
+umami	burger	756050
+burger	truffle	756051
+belly	pork	756050
+truffle	burger	756051
+add	flavor	756054
+cake	monkey	756061
+umami	ketchup	756061
+kinds	different	756049
+cream	sandwiches	756061
+orders	two	756058
+liquor	malt	756059
+sandwiches	cream	756061
+pork	belly	756050
+order	two	756058
+dijon	mustard	756061
+belly	burger	756050
+ketchup	umami	756061
+two	orders	756058
+different	kinds	756049
+red	onion	756059
+different	three	756049
+mexican	coke	756060
+battered	onion	756059
+three	different	756049
+rings	onion	756059
+####350	5.0	756041	756048
+####349	2.0	756025	756040
+signature	umami	756031
+two	burgers	756030
+parmesan	crisp	756034
+burger	umami	756031
+burger	umami	756033
+hatch	burger	756032
+umami	burger	756031
+umami	burger	756033
+sweet	potato	756036
+cherry	black	756025
+fries	potato	756036
+potato	sweet	756036
+tater	tots	756037
+red	sweet	756036
+house	made	756033
+green	chiles	756033
+come	back	756038
+umami	signature	756031
+order	two	756030
+back	come	756038
+main	course	756026
+crisp	parmesan	756034
+cherry	soda	756025
+people	think	756040
+fries	cut	756036
+pickle	plate	756028
+two	burger	756030
+cut	fries	756036
+think	people	756040
+burgers	two	756030
+potato	fries	756036
+two	order	756030
+made	house	756033
+####348	4.0	756007	756024
+burger	joint	756018
+onion	tempura	756013
+server	came	756022
+price	tag	756015
+came	server	756022
+tag	price	756015
+saturday	night	756021
+night	saturday	756021
+tempura	onion	756013
+joint	burger	756018
+rings	onion	756013
+####347	1.0	755999	756006
+small	side	756000
+date	night	756005
+night	date	756005
+small	sides	756000
+small	portion	756000
+portion	small	756000
+jalapeno	ranch	756002
+sides	small	756000
+skinny	fries	756001
+earth	burger	756005
+earth	burger	756006
+####346	3.0	755987	755998
+patty	burger	755992
+lettuce	butter	755992
+veggie	burger	755990
+ago	weeks	755989
+cal	burger	755996
+super	excited	755993
+weeks	ago	755989
+earth	burger	755992
+excited	super	755993
+####345	5.0	755978	755986
+good	service	755978
+good	money	755983
+rushed	feel	755978
+feel	rushed	755978
+####344	4.0	755969	755977
+cream	sandwich	755977
+trip	second	755977
+ice	cream	755977
+fries	french	755977
+cream	ice	755977
+onion	battered	755973
+bottles	two	755977
+hatch	burger	755971
+french	fries	755977
+perfect	size	755975
+companions	dining	755976
+monkey	cake	755977
+thick	cut	755972
+future	near	755977
+cake	monkey	755977
+feeling	leave	755976
+cream	sandwiches	755977
+second	trip	755977
+liquor	malt	755973
+cal	burger	755971
+sandwiches	cream	755977
+battered	beer	755973
+dining	companions	755976
+size	perfect	755975
+cut	thick	755972
+red	onion	755973
+leave	feeling	755976
+burger	pork	755971
+battered	onion	755973
+beer	battered	755973
+rings	onion	755973
+rings	onion	755977
+####326	1.0	755804	755820
+tasty	burger	755812
+seated	right	755819
+free	parking	755817
+burger	joint	755810
+burger	umami	755815
+tiny	place	755819
+place	tiny	755819
+umami	burger	755815
+onion	tempura	755806
+late	lunch	755815
+manly	burger	755811
+away	right	755819
+three	times	755804
+parking	lot	755817
+good	tastes	755819
+small	location	755814
+tastes	good	755819
+lot	parking	755817
+lunch	late	755815
+mexican	coke	755805
+right	seated	755819
+times	three	755804
+tempura	onion	755806
+right	away	755819
+joint	burger	755810
+rings	onion	755806
+####327	4.0	755821	755837
+coke	mexican	755831
+rare	medium	755821
+parmesan	crisp	755823
+burger	umami	755821
+triple	pork	755824
+iced	tea	755826
+iced	tea	755828
+umami	burger	755821
+orange	soda	755834
+corn	syrup	755835
+onion	tempura	755825
+cooked	meat	755821
+syrup	corn	755835
+ate	half	755822
+tea	iced	755826
+tea	iced	755828
+overly	sweet	755833
+crisp	parmesan	755823
+pork	burger	755824
+meat	cooked	755821
+sweet	overly	755833
+mexican	coke	755831
+burger	pork	755824
+cane	sugar	755833
+cane	sugar	755834
+tempura	onion	755825
+rings	onion	755825
+####324	2.0	755785	755792
+place	burger	755791
+burger	places	755791
+burger	place	755791
+great	food	755788
+food	great	755788
+####325	4.0	755793	755803
+side	note	755795
+note	side	755795
+####322	5.0	755770	755780
+take	advantage	755771
+fast	pretty	755775
+wasn	wait	755776
+place	burger	755774
+good	service	755776
+burger	place	755774
+advantage	take	755771
+night	sat	755776
+recommend	trying	755777
+pretty	fast	755775
+place	bad	755774
+service	good	755776
+got	soggy	755775
+recommend	definitely	755777
+holy	shit	755779
+bad	place	755774
+trying	recommend	755777
+definitely	recommend	755777
+soggy	got	755775
+####323	4.0	755781	755784
+####320	4.0	755749	755760
+perfect	mix	755755
+tots	cheesy	755753
+delicious	absolutely	755751
+sweet	potato	755752
+burger	truffle	755759
+fries	potato	755752
+potato	sweet	755752
+cheesy	tots	755753
+vegetarian	options	755756
+truffle	burger	755759
+huge	fan	755756
+manly	burger	755756
+nacho	cheese	755753
+strings	onion	755756
+brown	sugar	755752
+impeccable	service	755760
+mix	perfect	755755
+absolutely	delicious	755751
+potato	fries	755752
+fan	huge	755756
+####321	4.0	755761	755769
+spot	lunch	755762
+beet	salad	755766
+beet	salad	755768
+gourmet	burger	755763
+gourmet	burgers	755763
+lunch	spot	755762
+regular	fries	755766
+nice	compliment	755768
+####334	4.0	755885	755895
+home	got	755887
+please	check	755886
+left	full	755890
+going	back	755892
+delicious	burger	755890
+tasted	food	755888
+tasted	good	755888
+believe	hype	755894
+back	going	755892
+got	home	755887
+hype	believe	755894
+good	tasted	755888
+size	portion	755888
+food	tasted	755888
+food	taste	755888
+burger	delicious	755890
+best	burger	755891
+burger	best	755891
+portion	size	755888
+full	left	755890
+####335	5.0	755896	755911
+salad	potato	755908
+burger	umami	755896
+feet	away	755901
+umami	burger	755896
+sweet	potato	755908
+potato	sweet	755908
+tried	finally	755898
+manly	burger	755908
+entire	experience	755900
+socal	burger	755908
+finally	tried	755898
+good	pretty	755906
+pretty	good	755906
+watermelon	rind	755906
+potato	salad	755908
+finish	start	755900
+valet	parking	755901
+####332	4.0	755864	755875
+blown	away	755873
+sweet	potato	755872
+burger	truffle	755872
+fries	potato	755872
+potato	sweet	755872
+low	expectations	755873
+truffle	burger	755872
+right	side	755868
+manly	burger	755875
+umami	ketchup	755872
+good	sign	755871
+night	friday	755870
+come	back	755866
+friday	night	755870
+sign	good	755871
+back	come	755866
+side	order	755865
+order	side	755865
+ketchup	umami	755872
+away	blown	755873
+least	say	755867
+potato	fries	755872
+skinny	fries	755872
+bright	side	755868
+say	least	755867
+zero	wait	755870
+rings	onion	755872
+####333	4.0	755876	755884
+burger	umami	755876
+burger	umami	755879
+burger	umami	755881
+tasted	food	755882
+umami	burger	755876
+umami	burger	755879
+umami	burger	755881
+burger	truffle	755876
+burger	truffle	755878
+truffle	burger	755876
+truffle	burger	755878
+terrible	service	755883
+customer	service	755883
+food	tasted	755882
+food	taste	755882
+skinny	fries	755881
+service	customer	755883
+####330	4.0	755852	755855
+####331	5.0	755856	755863
+bacon	smoked	755859
+burger	truffle	755858
+burger	truffle	755856
+truffle	burger	755856
+truffle	burger	755858
+cheddar	cheese	755859
+manly	burger	755856
+manly	burger	755859
+smoked	bacon	755859
+cheese	cheddar	755859
+####328	4.0	755838	755845
+fat	ass	755840
+####329	5.0	755846	755851
+onion	tempura	755851
+garlic	aioli	755850
+tempura	batter	755851
+aioli	garlic	755850
+fat	fries	755846
+tempura	onion	755851
+rings	onion	755851
+####373	4.0	756215	756217
+pork	burger	756216
+burger	pork	756216
+####372	4.0	756213	756214
+####375	4.0	756227	756231
+small	size	756228
+burger	truffle	756229
+truffle	burger	756229
+size	small	756228
+half	eating	756229
+eating	half	756229
+pork	burger	756231
+burger	pork	756231
+rings	onion	756230
+####374	4.0	756218	756226
+sauce	aioli	756220
+aioli	sauce	756220
+skinny	fries	756221
+rings	onion	756225
+####369	5.0	756188	756198
+afternoon	sunday	756191
+good	damn	756190
+lacking	service	756195
+burger	truffle	756197
+sunday	afternoon	756191
+truffle	burger	756197
+pretty	packed	756191
+packed	place	756191
+damn	good	756190
+packed	pretty	756191
+cramped	bit	756192
+best	burger	756189
+burger	best	756189
+####368	4.0	756179	756187
+ordering	two	756180
+eating	stop	756179
+top	eating	756179
+stop	eating	756179
+burger	umami	756181
+umami	burger	756181
+cheese	parmesan	756183
+peppers	bell	756183
+bell	peppers	756183
+american	cheese	756183
+melted	cheese	756183
+eat	two	756187
+cheese	melted	756183
+parmesan	cheese	756183
+####371	3.0	756207	756212
+rare	medium	756208
+####370	4.0	756199	756206
+late	minutes	756204
+triple	pork	756200
+later	minutes	756204
+patty	beef	756206
+truffle	cheese	756206
+cheese	truffle	756206
+hot	damn	756205
+arrives	food	756204
+truffle	oil	756206
+pork	burger	756200
+minutes	later	756204
+damn	hot	756205
+burger	pork	756200
+arrive	food	756204
+rings	onion	756202
+####381	4.0	756269	756277
+month	ago	756276
+burger	joint	756275
+die	hard	756273
+foodie	friend	756276
+burger	fan	756273
+fancy	burger	756275
+two	months	756275
+months	two	756275
+joint	burger	756275
+rings	onion	756271
+####380	3.0	756256	756268
+burger	umami	756259
+burger	umami	756262
+umami	burger	756259
+umami	burger	756262
+sweet	potato	756256
+went	finally	756259
+fries	potato	756256
+potato	sweet	756256
+cal	burger	756265
+try	place	756261
+finally	went	756259
+potato	fries	756256
+####383	4.0	756283	756289
+food	comes	756285
+burger	umami	756289
+umami	burger	756289
+comes	food	756285
+socal	burger	756289
+come	back	756283
+isn	place	756284
+back	come	756283
+blue	cheese	756289
+place	isn	756284
+####382	4.0	756278	756282
+parking	lot	756279
+lot	parking	756279
+hard	parking	756282
+####377	3.0	756232	756238
+####379	4.0	756245	756255
+salad	potato	756245
+bottom	line	756247
+stilton	burger	756255
+sweet	potato	756245
+fee	corkage	756245
+potato	sweet	756245
+room	back	756245
+back	room	756245
+good	service	756247
+place	good	756245
+corkage	fee	756245
+balanced	flavor	756254
+things	good	756245
+service	good	756247
+potato	salad	756245
+menu	special	756251
+part	best	756249
+valet	service	756246
+good	things	756245
+special	menu	756251
+best	part	756249
+good	place	756245
+####378	4.0	756239	756244
+burger	joint	756240
+hatch	burger	756241
+patty	beef	756241
+green	chili	756241
+red	meat	756239
+meat	red	756239
+eat	red	756239
+joint	burger	756240
+####356	5.0	756084	756095
+doesn	place	756091
+date	night	756090
+night	date	756090
+hot	damn	756086
+quick	service	756092
+damn	hot	756086
+service	quick	756092
+real	actually	756090
+ate	night	756090
+rings	onion	756088
+####357	5.0	756096	756100
+away	took	756096
+iced	tea	756100
+decent	burger	756099
+tea	iced	756100
+took	away	756096
+####358	4.0	756101	756108
+rare	medium	756108
+truffle	glaze	756108
+burger	truffle	756107
+mediocre	food	756102
+truffle	burger	756107
+truffle	cheese	756108
+working	people	756103
+super	close	756103
+cheese	truffle	756108
+people	working	756103
+####359	4.0	756109	756113
+signature	umami	756109
+burger	umami	756109
+triple	pork	756111
+sauce	aioli	756112
+umami	burger	756109
+aioli	sauce	756112
+umami	signature	756109
+pork	burger	756111
+ground	pork	756112
+burger	pork	756111
+####352	4.0	756062	756065
+roasted	garlic	756062
+garlic	aioli	756062
+aioli	garlic	756062
+valet	parking	756063
+####353	5.0	756066	756072
+please	take	756071
+burger	gourmet	756071
+eat	service	756069
+gourmet	burger	756071
+great	service	756069
+people	think	756072
+service	great	756069
+think	people	756072
+burger	spot	756071
+people	know	756072
+know	people	756072
+####354	4.0	756073	756079
+umami	taste	756075
+perfect	combination	756073
+nice	beer	756077
+fifth	taste	756075
+fifth	taste	756079
+combination	perfect	756073
+####355	4.0	756080	756083
+high	marks	756083
+####364	5.0	756136	756141
+onion	battered	756141
+hatch	burger	756141
+burger	truffle	756141
+different	types	756141
+joints	burger	756140
+truffle	burger	756141
+love	burger	756140
+dipping	sauce	756136
+different	options	756140
+sauce	dipping	756136
+burger	joints	756140
+ordered	friend	756141
+battered	onion	756141
+friend	ordered	756141
+rings	onion	756141
+####365	5.0	756142	756155
+shitake	mushroom	756151
+signature	umami	756150
+rare	medium	756151
+limited	amount	756149
+overall	taste	756154
+burger	umami	756147
+burger	umami	756148
+burger	umami	756150
+burger	taste	756154
+umami	burger	756147
+umami	burger	756148
+umami	burger	756150
+different	types	756142
+carmelized	onions	756151
+place	burger	756146
+cheese	parmesan	756151
+burger	place	756146
+medium	cooked	756151
+good	pretty	756152
+umami	signature	756150
+pretty	good	756152
+side	order	756150
+fries	cut	756150
+order	side	756150
+cooked	medium	756151
+cut	fries	756150
+thin	cut	756150
+parmesan	cheese	756151
+roasted	tomato	756151
+nice	crunchy	756154
+crispy	cheese	756154
+types	different	756142
+####366	5.0	756156	756164
+group	small	756163
+small	group	756163
+fries	cut	756156
+cut	fries	756156
+thin	cut	756156
+best	burger	756157
+burger	best	756157
+####367	5.0	756175	756178
+cold	served	756175
+sweet	potato	756176
+fries	potato	756176
+potato	sweet	756176
+pot	sweet	756176
+served	cold	756175
+sauce	bbq	756178
+interesting	flavor	756177
+potato	fries	756176
+bbq	sauce	756178
+####360	5.0	756114	0
+####361	4.0	756115	756128
+dry	bit	756121
+mind	paying	756125
+paying	mind	756125
+sweet	potato	756116
+fries	potato	756116
+potato	sweet	756116
+monkey	cake	756119
+velvet	red	756119
+velvet	red	756121
+cake	monkey	756119
+umami	ketchup	756117
+red	velvet	756119
+red	velvet	756121
+customer	service	756128
+cake	velvet	756119
+cake	velvet	756121
+ketchup	umami	756117
+old	school	756123
+parking	street	756125
+diet	coke	756123
+valet	parking	756124
+potato	fries	756116
+whip	cream	756121
+service	customer	756128
+street	parking	756125
+school	old	756123
+bit	dry	756121
+velvet	cake	756119
+velvet	cake	756121
+####362	4.0	756129	756133
+unique	menu	756130
+####363	4.0	756134	756135
+tasted	fresh	756134
+fresh	tasted	756134
+salt	sea	756135
+####410	5.0	756488	756495
+triple	pork	756491
+onion	tempura	756493
+onion	green	756491
+green	onion	756491
+pork	burger	756491
+burger	pork	756491
+skinny	fries	756495
+tempura	onion	756493
+rings	onion	756493
+####411	4.0	756496	756501
+burger	umami	756496
+umami	burger	756496
+burger	truffle	756496
+truffle	burger	756496
+come	back	756496
+back	come	756496
+home	made	756499
+made	home	756499
+####408	3.0	756464	756470
+bacon	cheese	756470
+sweet	potato	756465
+potato	sweet	756465
+burger	cheese	756470
+quality	meat	756470
+manly	burger	756470
+pot	sweet	756465
+meat	quality	756470
+chips	potato	756465
+quality	better	756470
+better	quality	756470
+potato	chips	756465
+####409	4.0	756471	756487
+back	coming	756473
+rare	medium	756472
+burger	good	756472
+fries	french	756471
+burger	umami	756487
+hatch	burger	756484
+french	fries	756471
+fellow	yelper	756474
+stilton	burger	756479
+right	way	756478
+weeks	later	756474
+umami	burger	756487
+minutes	five	756475
+good	burger	756472
+cooked	perfectly	756472
+roasted	oven	756478
+socal	burger	756477
+perfectly	cooked	756472
+good	pretty	756486
+pretty	good	756486
+coming	back	756473
+later	weeks	756474
+garlic	aioli	756471
+medium	perfectly	756472
+five	minutes	756475
+perfectly	medium	756472
+aioli	garlic	756471
+roasted	tomato	756478
+####414	4.0	756514	756515
+####415	3.0	756516	756522
+lettuce	butter	756517
+burger	umami	756520
+burger	umami	756521
+triple	pork	756520
+triple	pork	756521
+crazy	flavor	756521
+umami	burger	756520
+umami	burger	756521
+socal	burger	756517
+socal	burger	756521
+butter	lettuce	756517
+caramelized	onions	756517
+american	cheese	756517
+pork	burger	756520
+pork	burger	756521
+burger	pork	756520
+burger	pork	756521
+dried	tomato	756517
+####412	4.0	756502	756506
+told	waiter	756502
+waiter	told	756502
+####413	2.0	756507	756513
+yummy	yummy	756508
+excited	place	756509
+diet	coke	756511
+couple	friends	756510
+place	excited	756509
+####402	4.0	756427	756428
+burger	fan	756427
+####403	4.0	756429	756439
+coke	mexican	756439
+burger	joint	756435
+early	arrived	756432
+found	parking	756431
+night	friday	756432
+small	pretty	756430
+seated	immediately	756433
+find	street	756430
+friday	night	756432
+parking	lot	756430
+street	find	756430
+parking	street	756430
+lot	parking	756430
+mexican	coke	756439
+pretty	small	756430
+parking	found	756431
+immediately	seated	756433
+joint	burger	756435
+arrived	early	756432
+####400	4.0	756403	756414
+buds	taste	756409
+bottom	bun	756405
+different	burger	756403
+cream	sandwich	756411
+ice	cream	756411
+cream	ice	756411
+burger	umami	756406
+umami	burger	756406
+better	way	756410
+different	burgers	756403
+monkey	cake	756411
+cake	monkey	756411
+bet	way	756410
+bleu	cheese	756404
+cream	sandwiches	756411
+different	sides	756403
+sandwiches	cream	756411
+way	better	756410
+different	side	756403
+rings	onion	756407
+####401	3.0	756415	756426
+compliment	great	756425
+burger	umami	756419
+triple	pork	756420
+great	compliment	756425
+umami	burger	756419
+special	sauce	756421
+great	taste	756425
+blue	cheese	756425
+tender	meat	756415
+meat	tender	756415
+pork	burger	756420
+mouth	watering	756419
+burger	pork	756420
+tender	pork	756421
+pork	tender	756421
+sauce	special	756421
+####406	4.0	756456	756461
+fatty	pork	756456
+pork	fatty	756456
+rings	onion	756457
+####407	5.0	756462	756463
+####404	4.0	756440	756448
+peppers	chili	756448
+sweet	potato	756441
+potato	sweet	756441
+spicy	chili	756441
+pepper	chili	756441
+pepper	chili	756443
+pepper	chili	756448
+chili	pepper	756441
+chili	pepper	756443
+chips	potato	756441
+pork	burger	756441
+burger	pork	756441
+chili	peppers	756448
+potato	chips	756441
+rings	onion	756441
+####405	4.0	756449	756455
+triple	pork	756452
+good	way	756454
+pork	burger	756452
+burger	pork	756452
+way	good	756454
+####395	3.0	756371	756379
+gave	finally	756376
+yelp	reviews	756379
+finally	gave	756376
+best	burger	756377
+burger	best	756377
+distance	walking	756378
+reviews	yelp	756379
+####394	4.0	756363	756370
+smaller	groups	756367
+monkey	cake	756364
+reservations	take	756366
+recommend	going	756367
+party	large	756367
+going	recommend	756367
+velvet	red	756364
+cake	monkey	756364
+take	reservations	756366
+red	velvet	756364
+table	hard	756367
+small	fairly	756366
+large	party	756367
+fairly	small	756366
+####393	4.0	756362	0
+####392	5.0	756359	756361
+tomato	sauce	756361
+umami	ketchup	756359
+ketchup	umami	756359
+sauce	tomato	756361
+####399	3.0	756398	756402
+burger	umami	756400
+stilton	burger	756402
+umami	burger	756400
+awhile	back	756400
+went	recently	756402
+best	burger	756399
+burger	best	756399
+recently	went	756402
+####398	4.0	756395	756397
+parmesan	crisp	756395
+sweet	potato	756397
+fries	potato	756397
+potato	sweet	756397
+crisp	parmesan	756395
+potato	fries	756397
+####397	4.0	756385	756394
+say	try	756394
+burger	umami	756389
+delicious	burger	756389
+umami	burger	756389
+taste	sweet	756390
+definitely	worth	756387
+worth	definitely	756387
+sweet	taste	756390
+sweeter	side	756393
+####396	3.0	756380	756384
+big	mac	756384
+burger	umami	756381
+umami	burger	756381
+onion	tempura	756381
+small	portions	756380
+half	price	756384
+liquor	malt	756381
+liquor	tempura	756381
+large	fries	756384
+portions	small	756380
+price	half	756384
+miso	burger	756381
+tempura	onion	756381
+####387	4.0	756319	756324
+burger	umami	756324
+umami	burger	756324
+manly	burger	756324
+####386	4.0	756314	756318
+####385	4.0	756300	756313
+different	burger	756301
+recommend	highly	756306
+highly	recommend	756306
+beef	burger	756305
+patty	beef	756311
+cooked	perfectly	756312
+sucks	parking	756306
+perfectly	cooked	756312
+perfect	cooked	756312
+blue	cheese	756301
+medium	perfectly	756312
+pork	burger	756304
+perfectly	medium	756312
+burger	pork	756304
+best	burger	756308
+burger	best	756308
+angeles	los	756311
+parking	sucks	756306
+rings	onion	756302
+####384	4.0	756290	756299
+burger	umami	756297
+umami	burger	756297
+socal	burger	756290
+island	dressing	756291
+crispy	slightly	756295
+slightly	crispy	756295
+thousand	island	756291
+based	sauce	756291
+crispy	cheese	756299
+sauce	based	756291
+####391	5.0	756351	756358
+dipping	sauces	756358
+dipping	sauce	756358
+sauces	dipping	756358
+garlic	aioli	756358
+sauce	dipping	756358
+aioli	garlic	756358
+rings	onion	756356
+####390	4.0	756343	756350
+burger	good	756349
+triple	pork	756343
+stilton	burger	756346
+good	burger	756349
+enjoy	did	756346
+did	enjoy	756346
+####389	4.0	756334	756342
+fries	french	756342
+triple	pork	756341
+french	fries	756342
+valet	guy	756338
+stilton	burger	756341
+found	street	756337
+side	note	756340
+super	nice	756339
+garlic	aioli	756341
+parking	street	756337
+aioli	garlic	756341
+street	parking	756337
+nice	super	756339
+rings	onion	756342
+####388	4.0	756325	756333
+rare	medium	756326
+fries	french	756328
+burger	umami	756325
+burger	taste	756327
+french	fries	756328
+umami	burger	756325
+manly	burger	756325
+manly	burger	756327
+umami	ketchup	756330
+isn	wait	756332
+ketchup	umami	756330
+rings	onion	756328
+rings	onion	756329
+####440	3.0	756693	756702
+salad	potato	756693
+burger	joint	756699
+burger	umami	756701
+umami	burger	756701
+roasted	garlic	756693
+sushi	restaurant	756699
+foodie	friends	756702
+come	back	756702
+probably	come	756702
+restaurant	sushi	756699
+back	come	756702
+potato	salad	756693
+joint	burger	756699
+####441	4.0	756703	756707
+best	bet	756707
+bet	best	756707
+sure	make	756707
+ahead	call	756707
+call	ahead	756707
+make	sure	756707
+####442	2.0	756708	756728
+free	parking	756725
+free	parking	756726
+burger	umami	756709
+burger	umami	756728
+umami	burger	756709
+umami	burger	756728
+old	days	756717
+burger	gourmet	756715
+burger	cheese	756710
+gourmet	burger	756715
+cheese	burger	756710
+super	nice	756718
+favorite	burger	756714
+days	old	756717
+blue	cheese	756710
+burger	favorite	756714
+super	super	756718
+nice	super	756718
+####443	4.0	756729	756736
+umami	taste	756729
+burger	umami	756729
+culinary	experience	756732
+tasting	burger	756731
+umami	burger	756729
+absolute	favorite	756734
+onion	tempura	756734
+monkey	cake	756732
+cake	monkey	756732
+worth	mentioning	756730
+favorite	absolute	756734
+mentioning	worth	756730
+pay	attention	756730
+real	sugar	756732
+tempura	onion	756734
+rings	onion	756734
+rings	onion	756735
+####444	5.0	756737	756744
+burger	umami	756742
+triple	pork	756740
+umami	burger	756742
+amount	right	756739
+pork	ground	756740
+right	amount	756739
+fresh	ground	756740
+favorite	burger	756738
+face	open	756737
+smoked	bacon	756740
+meyer	lemon	756737
+pork	burger	756740
+burger	favorite	756738
+burger	pork	756740
+####445	4.0	756745	756751
+two	burgers	756747
+burger	better	756750
+burger	good	756746
+lettuce	butter	756748
+good	burger	756746
+house	made	756748
+socal	burger	756749
+socal	burger	756750
+socal	burger	756748
+butter	lettuce	756748
+yes	say	756751
+caramelized	onions	756748
+two	burger	756747
+sauce	good	756746
+better	burger	756750
+burgers	two	756747
+made	house	756748
+good	sauce	756746
+dried	tomato	756748
+####446	5.0	756752	756759
+intense	flavor	756758
+delicious	absolutely	756759
+stilton	burger	756756
+intense	flavors	756758
+minutes	away	756753
+away	minutes	756753
+socal	burger	756752
+favorite	burger	756757
+favorite	second	756757
+caramelized	onions	756756
+blue	cheese	756756
+blue	cheese	756758
+second	favorite	756757
+absolutely	delicious	756759
+burger	favorite	756757
+####447	3.0	756760	756764
+truffle	glaze	756760
+burger	umami	756763
+stilton	burger	756760
+umami	burger	756763
+burger	truffle	756760
+onions	grilled	756763
+cheese	parmesan	756763
+truffle	burger	756760
+truffle	cheese	756760
+truffle	flavor	756761
+shiitake	mushrooms	756763
+burger	came	756760
+cheese	truffle	756760
+grilled	onions	756763
+signature	burger	756764
+burger	signature	756764
+parmesan	cheese	756763
+dried	tomato	756763
+####432	4.0	756646	756650
+juicy	flavor	756650
+triple	pork	756649
+loved	absolutely	756647
+love	pork	756650
+profile	flavor	756649
+pork	burger	756649
+burger	pork	756649
+earthy	flavor	756646
+absolutely	loved	756647
+####433	4.0	756651	756660
+cream	sandwich	756653
+ice	cream	756653
+ice	cream	756654
+cream	ice	756653
+cream	ice	756654
+burger	umami	756651
+burger	umami	756656
+umami	burger	756651
+umami	burger	756656
+burger	truffle	756651
+sandwich	cream	756653
+truffle	burger	756651
+gourmet	burger	756655
+found	place	756657
+gourmet	burgers	756655
+ago	days	756659
+delicious	cream	756654
+days	ago	756659
+toffee	ice	756653
+toffee	ice	756654
+saturday	night	756660
+night	saturday	756660
+soft	opening	756659
+fat	fries	756652
+ice	toffee	756653
+ice	toffee	756654
+####434	4.0	756661	756666
+parking	lot	756663
+lot	parking	756663
+valet	service	756664
+####435	4.0	756667	756672
+king	lot	756667
+restaurant	korean	756669
+restaurant	small	756667
+small	restaurant	756667
+korean	restaurant	756669
+parking	lot	756667
+lot	parking	756667
+white	guy	756672
+####436	3.0	756673	756676
+culver	city	756673
+isn	place	756676
+####437	4.0	756677	756681
+dish	side	756680
+coke	mexican	756681
+burger	joint	756677
+corn	syrup	756681
+side	dishes	756680
+burger	gourmet	756678
+good	price	756678
+syrup	corn	756681
+gourmet	burger	756678
+gourmet	burger	756679
+gourmet	burgers	756679
+side	dish	756680
+price	good	756678
+mexican	coke	756681
+cane	sugar	756681
+dishes	side	756680
+joint	burger	756677
+####438	4.0	756682	756683
+salad	potato	756683
+coke	mexican	756683
+burger	umami	756683
+specialty	house	756683
+umami	burger	756683
+side	dishes	756682
+roasted	garlic	756683
+side	dish	756682
+potato	salad	756683
+mexican	coke	756683
+dishes	side	756682
+####439	5.0	756684	756692
+probably	won	756692
+cheese	parmesan	756687
+fried	cheese	756687
+roasted	oven	756687
+roasted	oven	756691
+umami	ketchup	756687
+ketchup	umami	756687
+juicy	burger	756690
+parmesan	cheese	756687
+dried	tomatoes	756687
+cheese	fried	756687
+dried	sun	756687
+roasted	tomatoes	756687
+roasted	tomatoes	756691
+####425	5.0	756593	0
+####424	4.0	756586	756592
+burger	umami	756587
+burger	umami	756589
+delicious	burger	756589
+umami	burger	756587
+umami	burger	756589
+burger	truffle	756590
+truffle	burger	756590
+cooked	meat	756586
+customer	service	756588
+come	back	756586
+back	come	756586
+meat	cooked	756586
+burger	delicious	756589
+service	customer	756588
+####427	2.0	756598	756599
+burger	umami	756599
+back	went	756599
+umami	burger	756599
+went	back	756599
+####426	3.0	756594	756597
+fast	food	756594
+food	fast	756594
+finish	eating	756597
+small	bit	756594
+bit	small	756594
+fancy	burger	756594
+rings	onion	756595
+####429	5.0	756606	756629
+cut	hand	756626
+rare	medium	756619
+parmesan	crisp	756619
+burger	umami	756606
+burger	umami	756618
+triple	pork	756624
+tasting	burger	756621
+umami	burger	756606
+umami	burger	756607
+umami	burger	756611
+umami	burger	756618
+high	ceiling	756612
+cooked	perfectly	756621
+ceiling	high	756612
+perfectly	cooked	756621
+homemade	ketchup	756619
+crispy	fries	756627
+fries	steak	756628
+caramelized	onions	756619
+multiple	times	756608
+crisp	parmesan	756619
+white	paper	756614
+fries	cut	756626
+brioche	bun	756619
+pork	burger	756624
+stand	food	756613
+cut	fries	756626
+shiitake	mushroom	756619
+hand	cut	756626
+burger	pork	756624
+steak	fries	756628
+####428	4.0	756600	756605
+burger	umami	756605
+umami	burger	756605
+####431	4.0	756641	756645
+triple	pork	756643
+recent	visit	756643
+burger	truffle	756643
+burger	truffle	756644
+truffle	burger	756643
+truffle	burger	756644
+truffle	cheese	756644
+cheese	truffle	756644
+pork	burger	756643
+burger	pork	756643
+####430	1.0	756630	756640
+restaurant	japanese	756631
+burger	umami	756632
+burger	umami	756638
+stilton	burger	756631
+umami	burger	756632
+umami	burger	756638
+fee	corkage	756633
+burger	truffle	756636
+onion	tempura	756631
+truffle	burger	756636
+strong	flavor	756635
+strong	flavors	756635
+liquor	malt	756631
+liquor	tempura	756631
+corkage	fee	756633
+caramelized	onions	756631
+blue	cheese	756631
+tempura	onion	756631
+japanese	restaurant	756631
+rings	onion	756631
+####417	4.0	756540	756541
+piping	hot	756541
+hot	piping	756541
+####416	4.0	756523	756539
+come	definitely	756532
+burger	umami	756534
+burger	umami	756537
+onion	battered	756527
+perfect	portion	756523
+umami	burger	756534
+umami	burger	756537
+burger	truffle	756537
+portion	perfect	756523
+better	way	756534
+onion	tempura	756537
+felt	pretty	756524
+truffle	burger	756537
+side	pricey	756526
+come	back	756532
+liquor	malt	756527
+liquor	malt	756537
+kinda	hard	756531
+liquor	tempura	756537
+better	lot	756528
+order	two	756525
+back	come	756532
+way	better	756534
+parking	lot	756531
+lunch	having	756534
+tad	bit	756526
+busy	night	756536
+smaller	side	756523
+lot	parking	756531
+having	lunch	756534
+lunch	service	756534
+red	onion	756527
+definitely	come	756532
+thin	minutes	756534
+night	busy	756536
+dang	pretty	756524
+two	order	756525
+tempura	onion	756537
+smushed	potatoes	756537
+smushed	potatoes	756538
+lot	better	756528
+battered	onion	756527
+pricey	side	756526
+rings	onion	756527
+rings	onion	756537
+####419	3.0	756547	756558
+rich	super	756549
+truffle	glaze	756550
+burger	truffle	756549
+truffle	burger	756549
+super	rich	756549
+customer	service	756553
+best	burgers	756555
+better	version	756547
+melted	cheese	756550
+coming	home	756549
+cheese	melted	756550
+service	customer	756553
+best	burger	756555
+burgers	best	756555
+rings	onion	756551
+####418	4.0	756542	756546
+dish	side	756545
+sauce	barbeque	756545
+touch	nice	756543
+side	dish	756545
+barbeque	sauce	756545
+perfect	side	756545
+nice	touch	756543
+rings	onion	756544
+####421	5.0	756570	756575
+triple	pork	756574
+real	sugar	756574
+pork	burger	756574
+burger	pork	756574
+rings	onion	756574
+####420	4.0	756559	756569
+burger	umami	756559
+burger	umami	756561
+triple	pork	756565
+umami	burger	756559
+umami	burger	756561
+umami	burger	756564
+took	forever	756566
+forever	took	756566
+experience	overall	756564
+good	experience	756560
+meat	eating	756563
+overall	experience	756564
+eating	meat	756563
+pork	burger	756565
+experience	good	756560
+burger	pork	756565
+stopped	eating	756567
+stopped	eating	756568
+####423	4.0	756582	756585
+king	lot	756584
+restaurant	business	756585
+right	lot	756584
+parking	lot	756584
+lot	right	756584
+lot	parking	756584
+####422	4.0	756576	756581
+rare	medium	756577
+rare	medium	756579
+rare	burger	756579
+####478	5.0	757025	757029
+damn	tasty	757029
+secret	menu	757025
+burger	cheese	757027
+freshly	squeezed	757027
+cheese	burger	757027
+green	tea	757027
+watermelon	juice	757027
+iced	green	757027
+tea	green	757027
+tasty	damn	757029
+green	iced	757027
+####479	2.0	757030	757031
+tastes	good	757030
+####476	4.0	756998	757012
+burger	joint	757010
+burger	umami	757002
+umami	burger	757002
+special	trip	757006
+fried	cheese	757003
+great	looked	757005
+tiny	restaurant	756998
+burger	experience	757009
+restaurant	tiny	756998
+looked	great	757005
+fan	big	757004
+cheese	fried	757003
+big	fan	757004
+trip	special	757006
+joint	burger	757010
+####477	4.0	757013	757024
+fries	french	757020
+idea	good	757017
+french	fries	757020
+come	people	757016
+parking	lot	757013
+lot	parking	757013
+pricey	food	757019
+good	idea	757017
+steak	fries	757020
+####474	5.0	756988	756991
+pretty	filling	756989
+find	hard	756988
+pretty	hard	756988
+hard	pretty	756988
+parking	street	756988
+street	parking	756988
+####475	4.0	756992	756997
+home	got	756995
+burger	umami	756994
+umami	burger	756994
+don	people	756996
+joints	burger	756996
+good	freaking	756995
+japanese	food	756996
+got	home	756995
+food	japanese	756996
+good	tastes	756995
+pork	burger	756994
+burger	joints	756996
+burger	pork	756994
+people	don	756996
+joint	burger	756996
+freaking	good	756995
+####472	5.0	756979	756985
+best	burgers	756981
+good	flavor	756980
+high	quality	756980
+quality	high	756980
+flavor	good	756980
+best	burger	756981
+burger	best	756981
+burgers	best	756981
+####473	4.0	756986	756987
+####470	5.0	756947	756970
+experience	dining	756950
+butter	peanut	756967
+words	two	756966
+truffle	glaze	756953
+delicious	absolutely	756957
+flavor	rich	756957
+hatch	burger	756959
+stilton	burger	756955
+two	words	756966
+burger	truffle	756953
+longer	bit	756954
+truffle	burger	756953
+truffle	cheese	756953
+velvet	red	756967
+manly	burger	756962
+red	velvet	756967
+great	burger	756966
+green	chiles	756959
+come	back	756968
+favorite	burger	756956
+favorite	burger	756965
+cheese	truffle	756953
+caramelized	onions	756955
+back	come	756968
+rich	flavor	756957
+come	visit	756947
+blue	cheese	756955
+blue	cheese	756957
+burger	great	756966
+peanut	butter	756967
+oil	truffle	756954
+shoestring	fries	756951
+truffle	oil	756954
+absolutely	delicious	756957
+burger	favorite	756956
+burger	favorite	756965
+dining	experience	756950
+####471	5.0	756971	756978
+good	damn	756976
+table	open	756972
+burger	truffle	756974
+truffle	burger	756974
+tiny	super	756972
+open	table	756972
+rush	hour	756973
+damn	good	756976
+hour	rush	756973
+super	tiny	756972
+####468	5.0	756937	756942
+buds	taste	756938
+side	sweet	756939
+unique	flavor	756938
+sweet	side	756939
+flavor	unique	756938
+garlic	aioli	756941
+aioli	garlic	756941
+####469	5.0	756943	756946
+buds	taste	756944
+free	refills	756943
+####466	5.0	756929	756930
+tots	cheesy	756929
+burger	umami	756930
+umami	burger	756930
+cheesy	tots	756929
+ahi	burger	756929
+original	umami	756930
+####467	4.0	756931	756933
+tots	cheesy	756932
+juicy	flavor	756933
+good	concept	756932
+sweet	potato	756932
+fries	potato	756932
+potato	sweet	756932
+cheesy	tots	756932
+onion	tempura	756932
+brown	sugar	756932
+onion	ring	756932
+cheesy	goodness	756932
+skinny	fries	756932
+tempura	onion	756932
+rings	onion	756932
+####464	4.0	756916	756919
+amazing	burger	756918
+blue	cheese	756916
+blue	cheese	756917
+blue	cheese	756918
+blue	cheese	756919
+main	ingredient	756917
+####465	5.0	756920	756928
+slightly	sweet	756920
+onion	battered	756921
+small	menu	756927
+unique	flavor	756924
+small	pretty	756925
+flavor	unique	756924
+specials	menu	756928
+end	ordered	756920
+red	onion	756921
+menu	small	756927
+ordered	friend	756920
+sweet	slightly	756920
+pretty	small	756925
+battered	onion	756921
+lightly	sweet	756920
+friend	ordered	756920
+rings	onion	756921
+####463	2.0	756913	756915
+burger	joint	756913
+burger	umami	756915
+stilton	burger	756915
+umami	burger	756915
+burger	truffle	756915
+truffle	burger	756915
+amazing	burger	756913
+manly	burger	756915
+####462	5.0	756907	756912
+going	back	756908
+king	lot	756908
+eat	service	756912
+back	going	756908
+night	thursday	756912
+thursday	night	756912
+great	service	756912
+parking	lot	756908
+service	great	756912
+wasn	place	756907
+lot	parking	756908
+####461	3.0	756899	756906
+good	luck	756899
+burger	joint	756903
+empty	table	756904
+room	back	756902
+back	room	756902
+good	food	756900
+come	back	756905
+back	come	756905
+luck	good	756899
+luc	good	756899
+joint	burger	756903
+####460	3.0	756888	756898
+burger	umami	756893
+burger	umami	756895
+burger	umami	756897
+umami	burger	756893
+umami	burger	756895
+umami	burger	756897
+sweet	potato	756897
+fries	potato	756897
+potato	sweet	756897
+come	back	756889
+come	back	756894
+back	come	756889
+back	come	756894
+wax	paper	756890
+wax	paper	756891
+months	couple	756889
+couple	months	756889
+potato	fries	756897
+####459	4.0	756865	756887
+umami	taste	756873
+burger	better	756868
+burger	umami	756871
+umami	burger	756871
+burger	truffle	756871
+space	parking	756887
+place	burger	756868
+burger	place	756868
+truffle	burger	756871
+getting	recommend	756873
+recommend	getting	756873
+busy	night	756886
+standing	people	756886
+people	standing	756886
+better	burger	756868
+interesting	dish	756872
+night	busy	756886
+horrible	service	756865
+tried	three	756878
+####458	3.0	756857	756864
+burger	umami	756861
+umami	burger	756861
+large	plate	756863
+plate	large	756863
+####457	4.0	756850	756856
+hard	way	756850
+diet	coke	756850
+####456	3.0	756833	756849
+burger	umami	756842
+valet	guy	756836
+umami	burger	756842
+burger	truffle	756841
+burger	truffle	756844
+burger	truffle	756839
+truffle	burger	756839
+truffle	burger	756841
+truffle	burger	756844
+took	forever	756837
+forever	took	756837
+brioche	bun	756846
+high	expectations	756841
+best	burger	756839
+expectations	high	756841
+burger	best	756839
+####455	3.0	756828	756832
+stars	three	756828
+three	stars	756828
+star	three	756828
+####454	3.0	756821	756827
+phone	cell	756821
+entire	restaurant	756825
+food	isn	756824
+isn	food	756824
+king	back	756821
+####453	3.0	756814	756820
+two	burgers	756814
+triple	pork	756819
+iced	tea	756817
+iced	tea	756818
+back	came	756820
+two	ordered	756814
+came	back	756820
+burger	came	756816
+tea	iced	756818
+tea	iced	756817
+waiter	came	756820
+red	two	756814
+two	burger	756814
+pork	burger	756819
+burgers	two	756814
+came	waiter	756820
+burger	pork	756819
+ordered	two	756814
+####452	4.0	756805	756813
+late	minutes	756811
+fries	tasted	756813
+fries	thin	756805
+fries	thin	756811
+back	came	756811
+later	minutes	756811
+came	back	756811
+thin	fries	756805
+thin	fries	756811
+dijon	mustard	756805
+garlic	aioli	756805
+fries	taste	756813
+thick	fries	756806
+minutes	later	756811
+aioli	garlic	756805
+rings	onion	756805
+rings	onion	756809
+rings	onion	756813
+####451	5.0	756790	756804
+burger	umami	756797
+umami	burger	756797
+burger	truffle	756797
+truffle	burger	756797
+different	wait	756796
+good	way	756795
+different	waiters	756796
+truffle	sauce	756800
+entire	restaurant	756803
+sauce	truffle	756800
+way	good	756795
+####450	5.0	756784	756789
+seated	immediately	756784
+waiting	people	756784
+people	waiting	756784
+seated	got	756787
+inches	away	756788
+got	seated	756787
+people	wait	756784
+immediately	seated	756784
+####449	2.0	756783	756782
+####448	4.0	756765	756767
+fellow	diners	756767
+####508	5.0	757235	0
+####509	4.0	757236	0
+####510	5.0	757237	757247
+buds	taste	757238
+home	way	757244
+blown	away	757245
+stars	three	757242
+three	star	757242
+manly	burger	757238
+west	side	757244
+three	stars	757242
+extremely	dry	757239
+away	blown	757245
+way	home	757244
+####511	5.0	757248	757276
+home	got	757260
+two	burgers	757254
+two	burgers	757255
+two	burgers	757256
+two	burgers	757262
+fries	french	757261
+french	fries	757261
+burger	truffle	757265
+truffle	burger	757263
+truffle	burger	757265
+afternoon	late	757253
+touch	nice	757253
+did	waitress	757275
+two	buns	757264
+got	home	757260
+onion	ring	757272
+two	burger	757254
+two	burger	757255
+two	burger	757256
+two	burger	757262
+burgers	two	757254
+burgers	two	757255
+burgers	two	757256
+burgers	two	757262
+late	afternoon	757253
+nice	touch	757253
+rings	onion	757254
+rings	onion	757255
+rings	onion	757256
+rings	onion	757261
+rings	onion	757262
+rings	onion	757271
+rings	onion	757272
+####504	5.0	757216	757224
+fries	thin	757218
+perfection	cooked	757216
+right	size	757218
+chunks	huge	757217
+actually	liked	757222
+onion	ring	757223
+onion	ring	757224
+thin	fries	757218
+size	right	757218
+garlic	aioli	757219
+batter	tempura	757223
+tempura	batter	757223
+jalapeno	ranch	757219
+liked	actually	757222
+aioli	garlic	757219
+ring	onion	757223
+ring	onion	757224
+huge	chunks	757217
+thousand	island	757221
+rings	onion	757222
+####505	3.0	757225	757232
+fries	french	757231
+french	fries	757231
+tater	tots	757231
+tater	tots	757232
+good	burger	757226
+thick	cut	757231
+fries	cut	757228
+fries	cut	757231
+super	crispy	757231
+cut	thick	757231
+cut	fries	757228
+cut	fries	757229
+cut	fries	757231
+good	burgers	757226
+crispy	super	757231
+####506	5.0	757233	0
+####507	5.0	757234	0
+####500	4.0	757178	757184
+bottom	line	757184
+plus	tip	757184
+perfection	cooked	757183
+thick	cut	757181
+manly	burger	757179
+cut	fresh	757183
+fries	steak	757181
+fries	cut	757183
+cut	thick	757181
+fresh	cut	757183
+thick	fries	757182
+cut	fries	757183
+steak	fries	757181
+skinny	fries	757181
+####501	4.0	757185	757193
+come	early	757193
+sweet	potato	757188
+fries	potato	757188
+friend	old	757186
+potato	sweet	757188
+wait	worth	757187
+onion	tempura	757188
+definitely	worth	757187
+say	people	757189
+old	friend	757186
+half	wait	757193
+worth	wait	757187
+worth	definitely	757187
+early	come	757193
+things	good	757186
+people	say	757189
+good	things	757186
+wait	half	757193
+potato	fries	757188
+tempura	onion	757188
+rings	onion	757188
+####502	5.0	757194	757197
+iced	tea	757197
+burger	truffle	757194
+tater	tots	757196
+truffle	burger	757194
+definitely	tasty	757195
+worth	mentioning	757197
+definitely	worth	757197
+mentioning	worth	757197
+tea	iced	757197
+worth	definitely	757197
+green	tea	757196
+iced	green	757196
+tea	green	757196
+oil	truffle	757195
+truffle	oil	757195
+green	iced	757196
+####503	5.0	757198	757215
+ricotta	cheese	757213
+soo	good	757198
+overall	taste	757213
+burger	umami	757202
+burger	umami	757211
+triple	pork	757202
+umami	burger	757202
+umami	burger	757211
+umami	burger	757200
+burger	truffle	757211
+monkey	cake	757202
+truffle	burger	757211
+velvet	red	757202
+cake	monkey	757202
+good	soo	757198
+red	velvet	757202
+night	friday	757198
+come	back	757200
+burger	came	757213
+friday	night	757198
+pretty	tasty	757210
+back	come	757200
+tasty	pretty	757210
+oil	truffle	757213
+truffle	oil	757213
+pork	burger	757202
+part	best	757214
+burger	pork	757202
+earth	burger	757212
+best	part	757214
+####496	3.0	757148	757154
+plus	tip	757153
+sweet	potato	757149
+fries	potato	757149
+potato	sweet	757149
+umami	ketchup	757149
+umami	ketchup	757151
+ketchup	umami	757149
+ketchup	umami	757151
+total	bill	757153
+potato	fries	757149
+####497	4.0	757155	757156
+burger	good	757155
+burger	truffle	757156
+good	burger	757155
+truffle	burger	757156
+####498	4.0	757157	757160
+cream	sandwich	757158
+ice	cream	757158
+ice	cream	757159
+cream	ice	757159
+cream	ice	757158
+nice	service	757160
+san	cream	757158
+sandwich	cream	757158
+caramel	ice	757158
+caramel	ice	757159
+ice	caramel	757158
+ice	caramel	757159
+salted	caramel	757158
+salted	caramel	757159
+caramel	salted	757158
+caramel	salted	757159
+####499	3.0	757161	757177
+price	reasonable	757173
+cane	pure	757175
+good	service	757172
+sounds	weird	757169
+manly	burger	757165
+cherry	pie	757168
+customer	service	757177
+service	good	757172
+great	food	757171
+weird	sounds	757169
+eat	food	757171
+reasonable	price	757173
+food	great	757171
+awesome	flavor	757163
+cane	sugar	757175
+service	customer	757177
+reasonable	rice	757173
+rings	onion	757176
+####493	4.0	757117	757128
+burger	umami	757125
+umami	burger	757125
+disappointing	pretty	757126
+veggie	burger	757126
+tasted	good	757118
+small	portions	757126
+did	food	757128
+good	tasted	757118
+good	tastes	757119
+food	didn	757128
+tastes	good	757119
+portions	small	757126
+order	fries	757126
+didn	food	757128
+thousand	reviews	757124
+####492	4.0	757104	757116
+burger	good	757106
+burger	umami	757110
+sauce	aioli	757107
+umami	burger	757110
+aioli	sauce	757107
+sweet	potato	757108
+fries	potato	757108
+potato	sweet	757108
+good	burger	757106
+garlic	aioli	757107
+aioli	garlic	757107
+potato	fries	757108
+good	burgers	757106
+####495	4.0	757132	757147
+rare	medium	757143
+burger	umami	757143
+tiny	place	757143
+hatch	burger	757141
+mind	paying	757140
+place	tiny	757143
+paying	mind	757140
+umami	burger	757143
+probably	won	757142
+burger	truffle	757147
+burger	truffle	757134
+flavors	great	757134
+truffle	burger	757134
+truffle	burger	757147
+great	flavor	757134
+fries	steak	757141
+great	food	757140
+eat	food	757140
+great	flavors	757134
+food	great	757140
+limited	seating	757143
+steak	fries	757141
+rings	onion	757141
+####494	3.0	757129	757131
+joints	burger	757130
+burger	joints	757130
+####489	4.0	757087	757091
+hash	potato	757087
+later	minutes	757087
+later	minutes	757090
+great	looking	757090
+potato	hash	757087
+minutes	later	757087
+minutes	later	757090
+brown	hash	757087
+rings	onion	757088
+####488	2.0	757085	757086
+####491	4.0	757102	757103
+rare	medium	757103
+medium	cooked	757103
+cooked	medium	757103
+####490	3.0	757092	757101
+####485	4.0	757069	757079
+standing	right	757069
+small	room	757072
+####484	4.0	757065	757068
+####487	2.0	757084	0
+####486	4.0	757080	757083
+late	minutes	757083
+probably	won	757080
+later	minutes	757083
+minutes	later	757083
+####481	2.0	757038	757051
+probably	won	757050
+great	place	757045
+good	mood	757049
+place	date	757045
+super	clean	757045
+place	great	757045
+clean	super	757045
+date	place	757045
+mood	good	757049
+rings	onion	757040
+####480	3.0	757032	757037
+pretty	awesome	757034
+sauce	garlic	757037
+fries	steak	757035
+fries	taste	757037
+garlic	sauce	757037
+awesome	pretty	757034
+steak	fries	757035
+####483	4.0	757060	757064
+####482	4.0	757052	757059
+burger	good	757056
+place	burger	757053
+good	burger	757056
+burger	place	757053
+long	ass	757053
+better	things	757053
+weird	kinda	757053
+decent	service	757056
+kinda	weird	757053
+two	types	757054
+ass	long	757053
+things	better	757053
+types	two	757054
+####550	2.0	757603	757604
+mouth	water	757604
+####551	4.0	757605	757635
+good	decision	757621
+free	parking	757618
+burger	umami	757611
+burger	umami	757626
+burger	umami	757631
+hatch	burger	757627
+umami	burger	757611
+umami	burger	757626
+umami	burger	757631
+burger	truffle	757611
+truffle	burger	757611
+equally	good	757632
+manly	burger	757629
+nice	change	757624
+super	nice	757605
+place	date	757622
+favorite	least	757630
+change	nice	757624
+dish	signature	757631
+parking	street	757619
+smaller	side	757629
+signature	dish	757631
+street	parking	757619
+nice	meal	757635
+date	place	757622
+least	favorite	757630
+nice	super	757605
+high	class	757623
+rings	onion	757611
+rings	onion	757634
+####548	4.0	757592	757596
+coke	mexican	757596
+garlic	aioli	757593
+aioli	garlic	757593
+mexican	coke	757596
+####549	3.0	757597	757602
+burger	umami	757601
+umami	burger	757601
+good	way	757599
+garlic	aioli	757597
+price	worth	757600
+bad	taste	757597
+aioli	garlic	757597
+taste	bad	757597
+worth	price	757600
+way	good	757599
+####546	1.0	757585	757587
+order	full	757585
+orders	two	757587
+plates	two	757585
+two	plates	757585
+two	orders	757587
+full	order	757585
+####547	4.0	757588	757591
+####544	4.0	757566	757576
+wanted	place	757570
+burger	better	757574
+better	bit	757574
+burger	umami	757567
+umami	burger	757567
+concept	great	757571
+cal	burger	757575
+years	old	757576
+old	years	757576
+con	great	757571
+mushroom	burger	757574
+signature	burger	757573
+burger	signature	757573
+better	burger	757574
+eat	concept	757571
+great	concept	757571
+bit	better	757574
+####545	4.0	757577	757584
+saturday	nights	757582
+night	saturday	757582
+####558	5.0	757654	757658
+####559	4.0	757659	757661
+standing	right	757660
+contact	eye	757660
+notice	did	757660
+make	eye	757660
+did	notice	757660
+####556	4.0	757650	757651
+got	friend	757650
+friend	got	757650
+pork	burger	757650
+fan	big	757651
+burger	pork	757650
+big	fan	757651
+####557	5.0	757652	757653
+burger	umami	757652
+umami	burger	757652
+pork	burger	757653
+meat	flavor	757653
+burger	pork	757653
+####554	5.0	757641	757643
+burger	umami	757641
+umami	burger	757641
+####555	3.0	757644	757649
+mustard	spicy	757649
+spicy	mustard	757649
+isn	place	757644
+burger	came	757648
+pickle	plate	757647
+place	isn	757644
+####552	5.0	757636	0
+####553	4.0	757637	757640
+coke	mexican	757640
+quick	bite	757637
+burger	umami	757640
+hatch	burger	757640
+umami	burger	757640
+bite	quick	757637
+manly	burger	757640
+mexican	coke	757640
+####567	5.0	757699	0
+####566	5.0	757695	757698
+seat	outdoor	757696
+sea	outdoor	757696
+finally	called	757697
+door	seating	757696
+outdoor	seating	757696
+long	side	757696
+seating	outdoor	757696
+####565	5.0	757688	757694
+away	take	757691
+pretty	quick	757690
+parking	street	757690
+busy	night	757690
+night	busy	757690
+people	two	757691
+take	away	757691
+valet	parking	757694
+quick	pretty	757690
+two	people	757691
+street	parking	757690
+####564	5.0	757684	757687
+amount	right	757684
+burger	places	757687
+burger	place	757687
+price	tag	757686
+right	amount	757684
+cooked	perfectly	757684
+perfectly	cooked	757684
+tag	price	757686
+perfect	harmony	757685
+####563	4.0	757680	757683
+tots	cheesy	757682
+burger	umami	757681
+umami	burger	757681
+cheesy	tots	757682
+socal	burger	757681
+####562	5.0	757679	0
+####561	4.0	757675	757678
+####560	5.0	757662	757674
+triple	pork	757668
+joints	burger	757672
+hour	lunch	757664
+mediocre	service	757664
+three	types	757669
+great	service	757665
+write	home	757671
+service	great	757665
+probably	wait	757664
+pork	burger	757668
+lunch	hour	757664
+burger	joints	757672
+burger	pork	757668
+####575	5.0	757810	757833
+burger	umami	757815
+did	look	757811
+fast	food	757816
+umami	burger	757815
+sweet	potato	757817
+tomato	sauce	757823
+efficient	service	757824
+food	fast	757816
+fries	potato	757817
+potato	sweet	757817
+veggie	burger	757814
+orders	side	757815
+interesting	taste	757812
+umami	ketchup	757823
+customer	service	757832
+ordered	friends	757815
+ketchup	umami	757823
+garlic	aioli	757823
+jalapeno	ranch	757823
+friends	ordered	757815
+aioli	garlic	757823
+sauce	tomato	757823
+people	nice	757832
+potato	fries	757817
+skinny	fries	757815
+earth	burger	757810
+service	customer	757832
+distinct	taste	757812
+rings	onion	757818
+####574	5.0	757804	757809
+good	overall	757808
+burger	good	757806
+meaty	taste	757807
+burger	umami	757807
+triple	pork	757806
+umami	burger	757807
+good	burger	757806
+good	experience	757808
+overall	good	757808
+love	sauce	757807
+pork	burger	757806
+experience	good	757808
+burger	pork	757806
+####573	4.0	757780	757803
+decor	great	757799
+better	bet	757793
+back	coming	757789
+burger	umami	757786
+burger	umami	757791
+burger	umami	757802
+burger	umami	757803
+triple	pork	757802
+umami	burger	757786
+umami	burger	757791
+umami	burger	757802
+umami	burger	757803
+fee	corkage	757796
+better	make	757787
+patty	beef	757803
+make	better	757787
+side	best	757783
+garlic	flavor	757785
+great	decor	757799
+food	delicious	757801
+extra	points	757796
+garlic	aoli	757796
+decent	burger	757796
+corkage	fee	757796
+coming	back	757789
+people	think	757791
+executed	perfectly	757787
+executed	perfectly	757788
+garlic	aioli	757783
+garlic	aioli	757784
+annoying	bit	757800
+home	made	757780
+best	side	757783
+delicious	food	757801
+pork	burger	757802
+made	home	757780
+residential	area	757798
+valet	service	757798
+aioli	garlic	757783
+aioli	garlic	757784
+think	people	757791
+sweet	bun	757803
+burger	pork	757802
+cane	sugar	757796
+friend	came	757797
+crispy	cheese	757803
+tuesday	night	757797
+rings	onion	757793
+rings	onion	757796
+####572	4.0	757771	757779
+shitake	mushroom	757778
+truffle	glaze	757774
+burger	umami	757777
+umami	burger	757777
+burger	truffle	757774
+burger	truffle	757771
+burger	truffle	757772
+truffle	burger	757771
+truffle	burger	757772
+truffle	burger	757774
+truffle	cheese	757774
+great	flavor	757772
+burger	came	757774
+cheese	truffle	757774
+flavor	great	757772
+greasy	bit	757776
+####571	5.0	757764	757770
+take	advantage	757765
+burger	umami	757767
+burger	umami	757768
+burger	umami	757769
+umami	burger	757767
+umami	burger	757768
+umami	burger	757769
+burger	truffle	757769
+truffle	burger	757769
+advantage	take	757765
+cooked	perfectly	757770
+perfectly	cooked	757770
+dinner	crowd	757765
+parking	street	757765
+street	parking	757765
+####570	5.0	757756	757763
+patty	beef	757759
+homemade	ketchup	757763
+best	burgers	757758
+batter	tempura	757761
+tempura	batter	757761
+best	burger	757758
+burgers	best	757758
+angeles	los	757758
+rings	onion	757760
+####569	5.0	757749	757755
+orders	drink	757751
+menu	dessert	757754
+sauce	fish	757749
+different	servers	757754
+ketchup	taste	757749
+dessert	menu	757754
+entirely	different	757754
+drink	orders	757751
+fish	sauce	757749
+####568	2.0	757744	757748
+high	extremely	757746
+burger	umami	757744
+burger	umami	757746
+umami	burger	757744
+umami	burger	757746
+homemade	ketchup	757747
+write	home	757747
+high	expectations	757746
+extremely	high	757746
+expectations	high	757746
+rings	onion	757747
+####516	3.0	757291	757320
+things	make	757296
+truck	taco	757305
+coke	mexican	757304
+burger	umami	757293
+umami	burger	757293
+umami	burger	757315
+fee	corkage	757303
+made	definitely	757300
+definitely	deserves	757313
+bar	table	757306
+eat	anymore	757295
+took	friends	757303
+amazing	burger	757315
+definitely	enjoyed	757318
+come	back	757295
+awesome	sauce	757298
+corkage	fee	757303
+friends	took	757303
+big	group	757306
+comes	back	757292
+back	come	757295
+main	street	757319
+taco	truck	757305
+definitely	made	757300
+crowd	big	757309
+sauce	awesome	757298
+enjoyed	food	757318
+group	big	757306
+big	crowd	757309
+make	things	757296
+fan	big	757299
+mexican	coke	757304
+big	fan	757299
+back	comes	757292
+deserves	definitely	757313
+####517	4.0	757321	757340
+signature	umami	757322
+two	burgers	757336
+back	coming	757337
+rare	medium	757332
+burger	umami	757322
+burger	umami	757340
+umami	burger	757322
+umami	burger	757340
+monkey	cake	757334
+monkey	cake	757335
+cake	monkey	757334
+cake	monkey	757335
+sized	pieces	757328
+umami	signature	757322
+definitely	did	757328
+brea	location	757326
+coming	back	757337
+did	definitely	757328
+tiny	pieces	757334
+two	burger	757336
+took	waiter	757327
+doesn	food	757325
+waiter	took	757327
+cut	fries	757328
+burgers	two	757336
+angeles	los	757324
+####518	1.0	757341	757366
+awesome	burger	757344
+dish	side	757341
+bad	service	757345
+burger	umami	757356
+fast	pretty	757347
+umami	burger	757356
+manly	burger	757350
+manly	burger	757351
+manly	burger	757354
+manly	burger	757366
+pretty	fast	757347
+minute	wait	757346
+side	dish	757341
+great	food	757345
+great	service	757345
+service	great	757345
+service	bad	757345
+garlic	aioli	757359
+food	great	757345
+pretty	big	757341
+aioli	garlic	757359
+miso	burger	757351
+perfect	touch	757354
+big	pretty	757341
+fat	fries	757352
+rings	onion	757352
+rings	onion	757358
+rings	onion	757361
+rings	onion	757362
+####519	4.0	757368	757377
+good	luck	757372
+king	lot	757372
+fried	onions	757376
+manly	burger	757376
+parking	lot	757372
+luck	good	757372
+luc	good	757372
+quick	service	757370
+lot	parking	757372
+pork	burger	757375
+service	quick	757370
+burger	pork	757375
+free	dessert	757374
+####512	3.0	757277	757282
+taken	care	757277
+####513	4.0	757283	757286
+mind	wait	757285
+good	food	757285
+waiting	mind	757285
+food	good	757285
+wait	mind	757285
+mind	waiting	757285
+service	waiter	757285
+waiter	service	757285
+####515	4.0	757287	757290
+food	comes	757288
+burger	umami	757287
+umami	burger	757287
+comes	food	757288
+orders	side	757288
+side	orders	757288
+rings	onion	757288
+rings	onion	757287
+####524	5.0	757435	757440
+take	advantage	757438
+amazing	flavors	757435
+office	burger	757440
+nice	bottle	757438
+veggie	burger	757438
+monkey	cake	757437
+home	run	757436
+advantage	take	757438
+cake	monkey	757437
+run	home	757436
+definitely	worth	757439
+worth	definitely	757439
+flavors	amazing	757435
+amazing	flavor	757435
+####525	5.0	757441	757446
+good	way	757442
+come	close	757444
+close	come	757444
+way	good	757442
+####526	5.0	757447	757450
+month	ago	757447
+burger	umami	757449
+umami	burger	757449
+pretty	darn	757450
+darn	pretty	757450
+best	burger	757448
+burger	best	757448
+####527	5.0	757451	757455
+burger	joint	757453
+king	lot	757454
+best	bet	757454
+bet	best	757454
+come	back	757451
+back	come	757451
+parking	lot	757454
+parking	street	757454
+lot	parking	757454
+street	parking	757454
+joint	burger	757453
+####520	5.0	757378	757388
+amazing	food	757383
+decided	finally	757384
+finally	decided	757384
+burger	truffle	757384
+different	types	757388
+truffle	burger	757384
+super	nice	757386
+batter	tempura	757379
+wide	variety	757388
+tempura	batter	757379
+food	amazing	757383
+nice	super	757386
+types	different	757388
+rings	onion	757379
+####521	5.0	757389	757412
+walked	back	757396
+coffee	toffee	757391
+burger	umami	757394
+delicious	absolutely	757404
+stilton	burger	757403
+umami	burger	757394
+carmelized	onions	757403
+place	burger	757410
+seated	promptly	757402
+burger	place	757410
+main	dining	757411
+huge	fan	757390
+bit	crowded	757412
+good	side	757390
+favorite	new	757410
+bleu	cheese	757403
+wait	staff	757402
+favorite	burger	757410
+room	dining	757411
+staff	wait	757402
+dining	room	757411
+side	good	757390
+toffee	coffee	757391
+absolutely	delicious	757404
+new	favorite	757410
+burger	favorite	757410
+crowded	bit	757412
+promptly	seated	757402
+real	actually	757389
+fan	huge	757390
+rings	onion	757390
+####522	4.0	757413	757422
+burger	umami	757419
+umami	burger	757419
+onion	tempura	757413
+onion	tempura	757416
+manly	burger	757413
+manly	burger	757415
+socal	burger	757414
+liquor	malt	757416
+thick	fries	757413
+fifth	taste	757418
+tempura	onion	757413
+tempura	onion	757416
+rings	onion	757413
+rings	onion	757416
+####523	3.0	757423	757434
+santa	monica	757424
+burger	umami	757434
+umami	burger	757434
+burger	truffle	757423
+veggie	burger	757434
+better	way	757424
+truffle	burger	757423
+half	eat	757423
+saying	kept	757424
+extremely	full	757431
+good	pretty	757429
+pretty	good	757429
+way	better	757424
+try	place	757432
+eat	half	757423
+incredibly	tasty	757434
+rings	onion	757434
+####533	5.0	757491	757499
+cane	pure	757492
+cane	pure	757497
+thick	fries	757499
+cane	sugar	757492
+cane	sugar	757497
+####532	3.0	757490	0
+####535	5.0	757506	757510
+sizes	portion	757507
+burger	truffle	757510
+truffle	burger	757510
+huge	burger	757508
+####534	5.0	757500	757505
+did	make	757500
+make	did	757500
+liquor	malt	757503
+liquor	malt	757505
+rings	onion	757503
+####529	5.0	757468	757469
+amazing	burger	757469
+####528	4.0	757456	757467
+cut	hand	757462
+signature	umami	757457
+rare	medium	757467
+burger	joint	757463
+burger	umami	757457
+burger	umami	757458
+umami	burger	757457
+umami	burger	757458
+onion	tempura	757462
+cheese	shredded	757461
+socal	burger	757459
+socal	burger	757456
+good	experience	757466
+good	pretty	757463
+liquor	malt	757462
+umami	signature	757457
+pretty	good	757463
+liquor	tempura	757462
+caramelized	onions	757456
+caramelized	onions	757460
+nice	thin	757461
+shredded	cheese	757461
+fries	cut	757462
+lightly	crispy	757464
+end	ordered	757462
+pork	burger	757456
+crispy	slightly	757464
+cut	fries	757462
+hand	cut	757462
+experience	good	757466
+burger	pork	757456
+slightly	crispy	757464
+ordered	friend	757462
+tempura	onion	757462
+friend	ordered	757462
+joint	burger	757463
+rings	onion	757462
+rings	onion	757465
+####531	2.0	757475	757489
+coke	mexican	757486
+iced	tea	757485
+iced	tea	757486
+delicious	burger	757478
+burger	truffle	757477
+corn	syrup	757489
+thin	good	757476
+truffle	burger	757477
+mmm	good	757482
+syrup	corn	757489
+good	pretty	757476
+tea	iced	757486
+tea	iced	757485
+pretty	good	757476
+garlic	aioli	757484
+pretty	damn	757484
+burger	delicious	757478
+aioli	garlic	757484
+damn	pretty	757484
+mexican	coke	757486
+done	perfectly	757479
+perfectly	done	757479
+####530	5.0	757470	757474
+burger	truffle	757470
+burger	truffle	757471
+truffle	burger	757470
+truffle	burger	757471
+manly	burger	757474
+####541	5.0	757546	757552
+tots	cheesy	757547
+burger	truffle	757549
+cheesy	tots	757547
+thin	good	757551
+truffle	burger	757549
+favorite	least	757546
+got	friend	757546
+friend	got	757546
+least	favorite	757546
+rings	onion	757547
+####540	4.0	757534	757545
+delicious	burger	757542
+burger	truffle	757545
+truffle	burger	757545
+####543	2.0	757562	757565
+burger	good	757562
+fries	french	757565
+french	fries	757565
+good	burger	757562
+great	burger	757563
+style	french	757565
+burger	great	757563
+eat	burger	757563
+french	style	757565
+####542	5.0	757553	757561
+burger	good	757561
+burger	umami	757559
+umami	burger	757559
+good	burger	757561
+huge	fan	757553
+cooked	perfectly	757554
+perfectly	cooked	757554
+favorite	burger	757556
+small	bit	757555
+came	away	757553
+bit	small	757555
+burger	favorite	757556
+burger	joints	757559
+fan	huge	757553
+####537	4.0	757517	757520
+holy	cow	757518
+####536	4.0	757511	757516
+burger	umami	757516
+umami	burger	757516
+amount	right	757513
+huge	pile	757512
+right	amount	757513
+####539	4.0	757527	757533
+turkey	burger	757528
+sauce	bbq	757528
+miso	burger	757528
+bbq	sauce	757528
+####538	5.0	757521	757526
+savory	dish	757521
+two	burgers	757525
+burger	umami	757526
+umami	burger	757526
+two	ordered	757525
+amazing	freaking	757521
+red	two	757525
+two	burger	757525
+freaking	amazing	757521
+original	umami	757526
+caramelized	onion	757526
+burgers	two	757525
+roasted	tomato	757526
+ordered	two	757525
+####610	4.0	758106	758107
+####611	3.0	758108	758115
+rare	medium	758115
+damn	tasty	758113
+best	burgers	758112
+grilled	meat	758109
+tasty	damn	758113
+best	burger	758112
+burger	best	758112
+burgers	best	758112
+####608	5.0	758075	758078
+####609	3.0	758079	758105
+afternoon	friday	758098
+burger	good	758099
+actually	pretty	758081
+burger	umami	758090
+pretty	actually	758081
+umami	burger	758090
+sweet	potato	758090
+burger	truffle	758090
+later	minutes	758085
+ago	years	758103
+fries	potato	758090
+potato	sweet	758090
+good	burger	758099
+truffle	burger	758090
+believe	hype	758097
+friday	afternoon	758098
+minute	wait	758083
+main	room	758105
+got	back	758082
+good	pretty	758081
+hype	believe	758097
+back	got	758082
+pretty	good	758081
+empty	tables	758105
+years	ago	758103
+lunch	having	758082
+having	lunch	758082
+five	minutes	758099
+minutes	later	758085
+people	two	758101
+potato	fries	758090
+two	people	758101
+tiny	portions	758095
+rings	onion	758090
+rings	onion	758091
+####614	5.0	758123	758129
+cut	hand	758124
+two	burgers	758124
+burger	umami	758124
+hatch	burger	758123
+good	damn	758126
+umami	burger	758124
+fries	thin	758124
+sweet	potato	758124
+fries	potato	758124
+potato	sweet	758124
+perfection	cooked	758125
+monkey	cake	758126
+cake	monkey	758126
+green	chili	758123
+thin	fries	758124
+damn	good	758126
+fries	cut	758124
+pretty	damn	758126
+cut	fries	758124
+hand	cut	758124
+burgers	two	758124
+damn	pretty	758126
+potato	fries	758124
+rings	onion	758124
+####615	4.0	758130	758133
+####613	5.0	758116	758122
+mustard	spicy	758119
+perfection	cooked	758121
+wait	worth	758116
+cooked	meat	758121
+spicy	mustard	758119
+plate	came	758120
+green	chili	758122
+worth	wait	758116
+meat	tasted	758121
+pickle	plate	758120
+meat	cooked	758121
+red	four	758119
+came	plate	758120
+####618	3.0	758140	758149
+cheese	cream	758140
+joints	burger	758144
+good	cheese	758140
+beet	salad	758145
+definitely	wasn	758143
+cream	cheese	758140
+good	pretty	758145
+french	fry	758144
+pretty	good	758145
+oil	truffle	758148
+oil	truffle	758145
+truffle	oil	758145
+truffle	oil	758148
+burger	joints	758144
+####619	4.0	758150	758158
+root	beer	758152
+burger	umami	758154
+write	review	758155
+delicious	burger	758158
+umami	burger	758154
+tater	tots	758157
+rings	onion	758157
+####616	3.0	758134	758137
+burger	umami	758134
+burger	umami	758136
+umami	burger	758134
+umami	burger	758136
+good	burger	758134
+good	pretty	758134
+pretty	good	758134
+####617	4.0	758138	758139
+####622	4.0	758173	758180
+getting	suggest	758177
+good	darn	758178
+sweet	potato	758173
+fries	potato	758173
+potato	sweet	758173
+extra	napkins	758177
+pot	sweet	758173
+pricey	place	758179
+darn	good	758178
+fellow	yelpers	758179
+suggest	getting	758177
+potato	fries	758173
+####623	5.0	758181	758182
+signature	burger	758181
+burger	signature	758181
+gonna	try	758181
+####620	4.0	758159	758168
+decided	finally	758165
+burger	umami	758164
+umami	burger	758164
+finally	decided	758165
+place	decided	758165
+walking	past	758165
+decided	place	758165
+####621	4.0	758169	758172
+four	different	758171
+hatch	burger	758169
+different	types	758171
+green	chili	758171
+different	four	758171
+types	different	758171
+####627	4.0	758207	758210
+####626	5.0	758202	758206
+ingredients	quality	758205
+savory	side	758202
+good	burger	758202
+did	taste	758202
+main	dining	758206
+good	pretty	758202
+pretty	good	758202
+tucked	away	758206
+dining	space	758206
+quality	ingredients	758205
+taste	did	758202
+####625	4.0	758188	758201
+signature	umami	758199
+big	deal	758196
+burger	umami	758189
+burger	umami	758192
+burger	umami	758195
+burger	umami	758199
+side	sweet	758196
+stilton	burger	758199
+umami	burger	758189
+umami	burger	758192
+umami	burger	758195
+umami	burger	758199
+small	size	758201
+deal	big	758196
+onion	tempura	758199
+manly	burger	758191
+manly	burger	758192
+manly	burger	758189
+sweet	side	758196
+wife	got	758199
+size	small	758201
+come	back	758193
+umami	signature	758199
+got	wife	758199
+back	come	758193
+tempura	onion	758199
+rings	onion	758199
+####624	2.0	758183	758187
+back	coming	758185
+sweet	potato	758184
+fries	potato	758184
+potato	sweet	758184
+coming	worth	758185
+umami	ketchup	758184
+worth	coming	758185
+coming	back	758185
+ketchup	umami	758184
+garlic	aoili	758184
+try	place	758183
+potato	fries	758184
+rings	onion	758184
+####631	3.0	758243	758261
+root	beer	758254
+triple	pork	758243
+tater	tots	758252
+place	deserves	758258
+pork	ground	758246
+onion	tempura	758253
+deserves	place	758258
+back	patio	758256
+indoor	seating	758256
+truffle	sauce	758261
+sauce	truffle	758261
+pork	burger	758243
+ground	pork	758246
+diet	coke	758255
+burger	pork	758243
+tempura	onion	758253
+rings	onion	758253
+####630	5.0	758222	758242
+coffee	toffee	758236
+cream	sandwich	758236
+ice	cream	758236
+ice	cream	758238
+cream	ice	758238
+cream	ice	758236
+burger	umami	758226
+burger	umami	758228
+burger	umami	758240
+hatch	burger	758225
+pieces	small	758223
+umami	burger	758226
+umami	burger	758228
+umami	burger	758240
+rave	people	758233
+burger	truffle	758242
+later	minutes	758230
+sandwich	cream	758236
+cream	filling	758238
+truffle	burger	758242
+yelp	reviews	758227
+pie	small	758223
+small	ass	758230
+best	burgers	758233
+excited	place	758227
+side	order	758228
+order	side	758228
+told	waiter	758239
+way	best	758232
+waiter	told	758239
+small	pieces	758223
+ass	burger	758230
+toffee	ice	758236
+toffee	coffee	758236
+seated	got	758228
+minutes	later	758230
+decent	pretty	758229
+place	excited	758227
+got	seated	758228
+friend	told	758227
+place	called	758239
+best	burger	758233
+end	told	758227
+best	way	758232
+burgers	best	758233
+called	place	758239
+rings	onion	758228
+rings	onion	758234
+rings	onion	758235
+reviews	yelp	758227
+ice	toffee	758236
+####629	5.0	758215	758221
+coke	mexican	758218
+burger	truffle	758215
+place	needs	758221
+truffle	burger	758215
+needs	place	758221
+gourmet	burgers	758217
+mexican	coke	758218
+####628	3.0	758211	758214
+groups	big	758213
+great	place	758213
+eat	place	758213
+big	groups	758213
+place	great	758213
+group	big	758213
+####635	2.0	758297	758298
+getting	seated	758298
+seated	getting	758298
+####634	3.0	758291	758296
+root	beer	758294
+finally	getting	758292
+orange	soda	758294
+mins	later	758295
+getting	seated	758292
+seated	getting	758292
+pretty	sure	758295
+sure	pretty	758295
+####633	3.0	758275	758290
+burger	umami	758279
+burger	umami	758281
+burger	umami	758288
+finally	got	758288
+arrive	early	758277
+umami	burger	758279
+umami	burger	758281
+umami	burger	758288
+burger	truffle	758279
+burger	truffle	758282
+got	finally	758288
+truffle	burger	758279
+truffle	burger	758282
+sure	make	758277
+absolutely	incredible	758281
+small	location	758277
+parking	street	758278
+cheese	flavor	758275
+make	sure	758277
+street	parking	758278
+best	burger	758285
+best	burger	758289
+burger	best	758285
+burger	best	758289
+####632	5.0	758262	758267
+food	came	758262
+came	quickly	758262
+quality	great	758263
+quickly	came	758262
+eat	quality	758263
+great	experience	758265
+experience	great	758265
+great	quality	758263
+great	service	758262
+service	great	758262
+ice	great	758262
+came	food	758262
+####639	5.0	758311	758314
+fast	food	758312
+food	fast	758312
+burger	gourmet	758312
+gourmet	burger	758312
+solid	restaurant	758312
+####638	4.0	758306	758310
+fries	came	758307
+sweet	potato	758307
+mediocre	food	758309
+fries	potato	758307
+potato	sweet	758307
+place	burger	758310
+burger	place	758310
+luke	warm	758307
+regular	fries	758308
+potato	fries	758307
+rings	onion	758307
+####637	3.0	758301	758305
+burger	truffle	758303
+extra	plate	758301
+came	finally	758303
+truffle	burger	758303
+looked	delicious	758303
+delicious	looked	758303
+finally	came	758303
+garlic	aioli	758301
+brioche	bun	758304
+aioli	garlic	758301
+####636	3.0	758299	758300
+late	minutes	758300
+mins	later	758299
+later	minutes	758300
+minutes	later	758300
+####576	5.0	757834	757845
+burger	umami	757835
+burger	umami	757837
+umami	burger	757835
+umami	burger	757837
+sweet	potato	757837
+sweet	potato	757839
+burger	truffle	757837
+potato	sweet	757837
+potato	sweet	757839
+veggie	burger	757842
+truffle	burger	757837
+chips	potato	757837
+chips	potato	757839
+meat	juicy	757838
+juicy	meat	757838
+salty	meat	757838
+potato	chips	757837
+potato	chips	757839
+####577	4.0	757846	757848
+####578	3.0	757849	757857
+buds	taste	757857
+burger	umami	757850
+umami	burger	757850
+burger	truffle	757853
+burger	truffle	757849
+truffle	burger	757849
+truffle	burger	757853
+dipping	sauce	757852
+fries	steak	757852
+fries	cut	757850
+fries	cut	757851
+sauce	dipping	757852
+cut	fries	757850
+cut	fries	757851
+meat	juicy	757855
+ordered	friend	757850
+steak	fries	757852
+juicy	meat	757855
+friend	ordered	757850
+####579	4.0	757858	757865
+onion	tempura	757863
+bleu	cheese	757860
+side	plus	757863
+got	soggy	757864
+burger	fan	757858
+burger	fan	757865
+plus	side	757863
+diet	coke	757862
+tempura	onion	757863
+soggy	got	757864
+rings	onion	757863
+####580	3.0	757866	757873
+####581	2.0	757874	757878
+burger	umami	757874
+umami	burger	757874
+####582	4.0	757879	757881
+burger	umami	757880
+umami	burger	757880
+great	care	757880
+####583	5.0	757882	757889
+juicy	flavor	757882
+doesn	place	757889
+soft	bun	757883
+umami	ketchup	757885
+caramelized	onions	757882
+caramelized	onions	757884
+dijon	mustard	757885
+ketchup	umami	757885
+place	doesn	757889
+garlic	aioli	757885
+aioli	garlic	757885
+bun	soft	757883
+savory	flavor	757884
+rings	onion	757887
+####584	3.0	757890	757894
+main	dining	757890
+room	dining	757890
+dining	room	757890
+####585	5.0	757895	757899
+good	old	757899
+old	good	757899
+flavors	great	757895
+fashioned	old	757899
+eat	flavors	757895
+price	tag	757896
+great	flavor	757895
+huge	fan	757899
+homemade	ketchup	757899
+old	fashioned	757899
+tag	price	757896
+great	flavors	757895
+flavor	great	757895
+amazing	looked	757898
+fat	fries	757897
+looked	amazing	757898
+fan	huge	757899
+rings	onion	757898
+####586	5.0	757900	757903
+triple	pork	757903
+pork	burger	757903
+burger	pork	757903
+####587	5.0	757904	757909
+dinner	rush	757908
+rush	dinner	757908
+####588	4.0	757910	0
+####589	4.0	757911	757917
+stars	three	757913
+parking	spot	757914
+three	stars	757913
+parking	lot	757914
+lot	parking	757914
+star	three	757913
+rated	place	757912
+parking	spots	757914
+####590	4.0	757918	757921
+cut	hand	757921
+triple	pork	757921
+small	place	757920
+small	bit	757920
+bit	small	757920
+fries	cut	757921
+pork	burger	757921
+cut	fries	757921
+hand	cut	757921
+place	small	757920
+burger	pork	757921
+####591	4.0	757922	757925
+minutes	ten	757925
+later	minutes	757925
+ten	minutes	757925
+minutes	later	757925
+####593	4.0	757934	757938
+sure	make	757936
+parking	lot	757935
+lot	parking	757935
+make	sure	757936
+####592	1.0	757926	757933
+away	blocks	757931
+blocks	away	757931
+####595	4.0	757954	757957
+cut	hand	757955
+onion	tempura	757955
+monkey	cake	757957
+cake	monkey	757957
+umami	ketchup	757956
+fries	cut	757955
+ketchup	umami	757956
+cut	fries	757955
+hand	cut	757955
+tempura	onion	757955
+rings	onion	757955
+####594	5.0	757939	757953
+two	burgers	757940
+rare	medium	757953
+parmesan	crisp	757943
+burger	joint	757944
+burger	umami	757943
+combo	great	757944
+hatch	burger	757945
+stilton	burger	757948
+umami	burger	757943
+burger	truffle	757941
+belly	pork	757944
+pork	ground	757944
+truffle	burger	757941
+quality	meat	757948
+regular	menu	757941
+bread	toasted	757942
+manly	burger	757946
+meat	quality	757948
+fresh	ground	757944
+fresh	ground	757953
+socal	burger	757947
+green	chiles	757945
+pork	belly	757944
+high	quality	757948
+crisp	parmesan	757943
+belly	burger	757944
+two	burger	757940
+great	combo	757944
+toasted	bread	757942
+ground	pork	757944
+burgers	two	757940
+miso	burger	757950
+quality	high	757948
+joint	burger	757944
+####597	5.0	757965	757972
+burger	umami	757969
+minutes	couple	757971
+umami	burger	757969
+know	food	757965
+parking	lot	757971
+couple	minutes	757971
+lot	parking	757971
+valet	parking	757970
+####596	4.0	757958	757964
+joint	food	757960
+santa	monica	757962
+food	joint	757960
+full	half	757964
+fast	food	757960
+food	fast	757960
+room	dining	757961
+monica	santa	757962
+dining	room	757961
+half	full	757964
+water	glass	757964
+probably	find	757959
+white	truffles	757963
+glass	water	757964
+####599	4.0	757979	757986
+sauce	spicy	757986
+amazing	flavors	757985
+burger	umami	757981
+umami	burger	757981
+damn	tasty	757982
+belly	pork	757983
+slightly	spicy	757986
+pork	belly	757983
+hot	damn	757981
+flavors	amazing	757985
+belly	burger	757983
+garlic	aioli	757980
+spicy	sauce	757986
+incredibly	rich	757985
+spicy	slightly	757986
+damn	hot	757981
+aioli	garlic	757980
+tasty	damn	757982
+amazing	flavor	757985
+####598	5.0	757973	757978
+house	salad	757974
+onion	tempura	757977
+liquor	malt	757977
+liquor	tempura	757977
+salad	house	757974
+tempura	onion	757977
+rings	onion	757977
+####601	4.0	757998	758001
+burger	gourmet	758000
+ground	beef	758001
+gourmet	burger	758000
+gets	soggy	757998
+beef	ground	758001
+####600	4.0	757987	757997
+come	definitely	757992
+cream	sandwich	757989
+ice	cream	757989
+ice	cream	757990
+cream	ice	757989
+cream	ice	757990
+san	cream	757989
+best	things	757988
+sandwich	cream	757989
+thin	best	757988
+gourmet	burger	757991
+experience	overall	757993
+cream	sandwiches	757989
+homemade	ketchup	757995
+come	back	757992
+sandwiches	cream	757989
+gourmet	burgers	757991
+french	macarons	757990
+back	come	757992
+say	honestly	757988
+things	best	757988
+macarons	french	757990
+overall	experience	757993
+definitely	come	757992
+honestly	say	757988
+####603	5.0	758004	758013
+rare	medium	758013
+burger	umami	758007
+tasting	burger	758007
+umami	burger	758007
+tasting	great	758007
+medium	cooked	758013
+fresh	ground	758012
+cooked	medium	758013
+signature	burger	758004
+signature	burger	758009
+burger	signature	758004
+burger	signature	758009
+great	tasting	758007
+roasted	tomatoes	758012
+####602	2.0	758002	758003
+best	burger	758003
+burger	best	758003
+####605	4.0	758018	758022
+burger	truffle	758021
+truffle	burger	758021
+limited	seating	758020
+####604	5.0	758014	758017
+bad	service	758015
+service	bad	758015
+####607	3.0	758072	758074
+nice	glass	758073
+####606	5.0	758026	758071
+experience	dining	758048
+did	love	758058
+different	burger	758034
+burger	good	758051
+burger	good	758063
+burger	umami	758026
+burger	umami	758031
+burger	umami	758036
+burger	umami	758041
+burger	umami	758046
+burger	umami	758056
+burger	umami	758068
+turkey	burger	758063
+tasting	burger	758055
+umami	burger	758026
+umami	burger	758031
+umami	burger	758036
+umami	burger	758041
+umami	burger	758046
+umami	burger	758056
+umami	burger	758068
+place	burger	758050
+onion	tempura	758043
+onion	tempura	758064
+different	burgers	758034
+good	burger	758051
+good	burger	758063
+burger	place	758050
+truffle	cheese	758057
+terrible	service	758066
+umami	ketchup	758034
+tasting	best	758055
+best	tasting	758055
+good	pretty	758045
+liquor	malt	758043
+cheese	truffle	758057
+dont	care	758051
+pretty	good	758045
+liquor	tempura	758043
+comes	back	758071
+ketchup	umami	758034
+good	money	758051
+stars	two	758066
+outdoor	seating	758030
+roasted	tomato	758058
+best	burger	758026
+tempura	onion	758064
+tempura	onion	758043
+burger	best	758026
+dining	experience	758048
+back	comes	758071
+seating	outdoor	758030
+two	stars	758066
+burger	turkey	758063
+rings	onion	758043
+rings	onion	758055
+rings	onion	758061
+rings	onion	758064
+####687	4.0	758628	758633
+burger	truffle	758631
+truffle	burger	758631
+water	glasses	758630
+glasses	water	758630
+valet	service	758633
+####686	4.0	758618	758627
+two	got	758625
+triple	pork	758622
+onion	battered	758625
+hatch	burger	758619
+beef	burger	758624
+burger	truffle	758619
+fried	food	758626
+truffle	burger	758619
+got	two	758625
+roasted	oven	758618
+sides	two	758625
+onion	green	758622
+two	side	758625
+battered	beer	758625
+green	onion	758622
+pork	burger	758622
+red	onion	758625
+food	fried	758626
+burger	pork	758622
+two	sides	758625
+battered	onion	758625
+beer	battered	758625
+rings	onion	758625
+roasted	tomatoes	758618
+####685	4.0	758611	758617
+parmesan	crisp	758615
+burger	umami	758614
+umami	burger	758614
+socal	burger	758617
+crisp	parmesan	758615
+####684	4.0	758604	758610
+seated	right	758605
+stilton	burger	758609
+carmelized	onions	758610
+away	right	758605
+seated	got	758605
+right	seated	758605
+got	seated	758605
+right	away	758605
+####683	4.0	758602	758603
+burger	umami	758603
+fellow	yelper	758603
+back	went	758603
+umami	burger	758603
+went	back	758603
+####682	5.0	758601	0
+####681	4.0	758583	758600
+root	beer	758590
+made	finally	758587
+coke	mexican	758590
+burger	joint	758588
+burger	umami	758590
+burger	umami	758592
+hatch	burger	758590
+hatch	burger	758593
+umami	burger	758590
+umami	burger	758592
+veggie	burger	758585
+finally	made	758587
+sooooo	good	758593
+small	menu	758589
+velvet	red	758598
+red	velvet	758598
+type	place	758588
+nice	date	758588
+cool	looking	758588
+ring	onion	758597
+mexican	coke	758590
+good	sooooo	758593
+distinct	taste	758583
+joint	burger	758588
+rings	onion	758597
+####680	4.0	758575	758582
+restaurant	japanese	758579
+stilton	burger	758575
+veggie	burger	758581
+onion	tempura	758578
+monkey	cake	758581
+quality	meat	758581
+cake	monkey	758581
+meat	quality	758581
+rest	japanese	758579
+tempura	onion	758578
+japanese	restaurant	758579
+rings	onion	758578
+rings	onion	758582
+####679	3.0	758570	758574
+probably	won	758574
+great	burger	758570
+great	burgers	758570
+####678	2.0	758553	758569
+joint	food	758553
+food	joint	758553
+burger	good	758564
+burger	umami	758568
+delicious	burger	758566
+fast	food	758553
+umami	burger	758568
+food	fast	758553
+good	burger	758564
+big	bucks	758565
+two	bites	758556
+equally	delicious	758566
+caramelized	onions	758557
+great	food	758565
+burger	experience	758564
+crisp	parmesan	758554
+eat	food	758565
+food	great	758565
+burger	delicious	758566
+roasted	tomato	758554
+bites	two	758556
+####677	4.0	758548	758552
+burger	umami	758548
+burger	umami	758550
+fries	truffle	758549
+umami	burger	758548
+umami	burger	758550
+sweet	potato	758550
+fries	potato	758550
+potato	sweet	758550
+definitely	wasn	758552
+truffle	fries	758549
+potato	fries	758550
+####676	4.0	758543	758547
+decided	finally	758546
+burger	umami	758546
+umami	burger	758546
+finally	decided	758546
+favorite	burger	758543
+isn	place	758543
+burger	favorite	758543
+valet	parking	758547
+####675	5.0	758542	0
+####674	4.0	758541	0
+####673	5.0	758534	758540
+sweet	potato	758535
+sauce	extra	758539
+fries	potato	758535
+potato	sweet	758535
+extra	sauce	758539
+valet	parking	758538
+potato	fries	758535
+####672	1.0	758532	758533
+####702	5.0	758730	758732
+coke	mexican	758730
+good	coffee	758731
+coffee	good	758731
+mexican	coke	758730
+####703	3.0	758733	758738
+quickly	pretty	758733
+amazing	burger	758735
+pretty	quickly	758733
+red	pretty	758733
+####700	4.0	758716	758718
+king	delicious	758718
+delicious	freaking	758718
+freaking	delicious	758718
+####701	3.0	758719	758729
+salad	potato	758724
+couple	bites	758721
+sweet	potato	758726
+potato	sweet	758726
+carmelized	onions	758719
+bites	couple	758721
+night	friday	758719
+chips	potato	758726
+hours	later	758721
+good	sides	758723
+potato	salad	758724
+usually	don	758724
+later	hours	758721
+don	usually	758724
+potato	chips	758726
+####698	5.0	758682	758711
+umami	flavor	758682
+burger	umami	758683
+did	look	758684
+subtle	flavor	758690
+umami	burger	758683
+sweet	potato	758710
+sweet	potato	758711
+come	usually	758700
+fries	potato	758710
+fries	potato	758711
+potato	sweet	758711
+burger	gourmet	758684
+onion	tempura	758709
+white	castle	758701
+roasted	garlic	758711
+bite	size	758699
+gourmet	burger	758684
+gourmet	burger	758695
+flavors	subtle	758690
+good	way	758707
+japanese	people	758689
+liquor	malt	758709
+gourmet	burgers	758695
+liquor	tempura	758709
+subtle	flavors	758690
+usually	come	758700
+garlic	aioli	758711
+people	japanese	758689
+hearty	food	758690
+pork	burger	758693
+signature	burger	758683
+burger	signature	758683
+jalapeno	ranch	758711
+aioli	garlic	758711
+burger	pork	758693
+potato	fries	758710
+potato	fries	758711
+roasted	tomato	758705
+earth	burger	758703
+way	good	758707
+tempura	onion	758709
+angeles	los	758695
+size	bite	758699
+rings	onion	758692
+rings	onion	758709
+rings	onion	758711
+####699	5.0	758712	758715
+cream	sandwich	758714
+ice	cream	758714
+cream	ice	758714
+kick	ass	758714
+sandwich	cream	758714
+ass	kick	758714
+simply	taste	758712
+dijon	mustard	758712
+thousand	island	758712
+####696	3.0	758673	758678
+good	food	758674
+food	good	758674
+red	meat	758676
+meat	red	758676
+####697	2.0	758679	758681
+####694	4.0	758658	758666
+valet	guy	758659
+valet	guy	758660
+two	times	758658
+night	friday	758658
+friendly	super	758658
+friday	night	758658
+times	two	758658
+valet	service	758661
+super	friendly	758658
+####695	2.0	758667	758672
+burger	umami	758671
+umami	burger	758671
+burger	truffle	758672
+small	place	758667
+meat	taste	758672
+truffle	burger	758672
+green	peppers	758671
+huge	line	758667
+meat	tasted	758672
+line	huge	758667
+lines	huge	758667
+huge	lines	758667
+juicy	burger	758672
+ordered	friend	758672
+cooked	beef	758671
+friend	ordered	758672
+####692	4.0	758650	758654
+buds	taste	758651
+pictures	taking	758653
+burger	umami	758651
+umami	burger	758651
+fries	thin	758654
+sweet	potato	758654
+delicious	flavor	758651
+fries	potato	758654
+potato	sweet	758654
+delicious	flavors	758651
+cooked	perfectly	758651
+perfectly	cooked	758651
+thin	fries	758654
+flavors	delicious	758651
+####693	4.0	758655	758657
+delicious	absolutely	758655
+sweet	potato	758656
+fries	potato	758656
+potato	sweet	758656
+brown	sugar	758656
+absolutely	delicious	758655
+potato	fries	758656
+####690	3.0	758641	758642
+tots	cheesy	758642
+burger	umami	758641
+hatch	burger	758641
+turkey	burger	758642
+umami	burger	758641
+cheesy	tots	758642
+spicy	turkey	758642
+turkey	spicy	758642
+burger	turkey	758642
+####691	4.0	758643	758649
+right	near	758646
+tots	cheesy	758643
+burger	umami	758649
+turkey	burger	758643
+umami	burger	758649
+cane	pure	758644
+cheesy	tots	758643
+spicy	turkey	758643
+turkey	spicy	758643
+cane	sugar	758644
+burger	turkey	758643
+####688	4.0	758634	758636
+sizes	portion	758635
+small	side	758635
+burger	umami	758636
+umami	burger	758636
+side	small	758635
+away	blocks	758634
+two	blocks	758634
+two	hour	758634
+blocks	two	758634
+blocks	away	758634
+####689	5.0	758637	758640
+burger	umami	758639
+good	darn	758640
+umami	burger	758639
+side	expensive	758639
+job	good	758640
+sides	two	758639
+expensive	side	758639
+darn	good	758640
+pretty	darn	758640
+good	job	758640
+two	sides	758639
+darn	pretty	758640
+####653	5.0	758395	758398
+food	took	758397
+fries	came	758398
+veggie	burger	758398
+took	forever	758397
+regular	burger	758398
+forever	took	758397
+took	food	758397
+####652	5.0	758391	758394
+properly	cooked	758392
+####654	3.0	758399	758411
+shitake	mushroom	758406
+going	back	758399
+burger	umami	758403
+umami	burger	758403
+good	burger	758402
+clean	plate	758411
+great	touch	758404
+back	going	758399
+texture	crispy	758404
+plate	clean	758411
+crispy	texture	758404
+####649	5.0	758380	758382
+burger	umami	758381
+umami	burger	758381
+####648	3.0	758379	0
+####651	4.0	758387	758390
+nice	flavor	758388
+burger	umami	758390
+umami	burger	758390
+flavor	nice	758388
+fried	cheese	758390
+good	pretty	758388
+pretty	good	758388
+nice	flavors	758388
+earth	burger	758387
+cheese	fried	758390
+####650	4.0	758383	758386
+special	requests	758386
+####645	5.0	758357	758365
+tasty	burger	758359
+burger	good	758357
+good	damn	758357
+good	burger	758357
+damn	good	758357
+pretty	damn	758357
+damn	pretty	758357
+good	burgers	758357
+####644	5.0	758353	758356
+good	service	758356
+food	bad	758356
+service	good	758356
+bad	food	758356
+####647	3.0	758372	758378
+side	street	758373
+street	side	758373
+pretty	tasty	758374
+tasty	pretty	758374
+best	burger	758378
+burger	best	758378
+rings	onion	758376
+####646	5.0	758366	758371
+real	quick	758369
+####641	4.0	758331	758334
+burger	umami	758332
+umami	burger	758332
+customer	service	758332
+service	customer	758332
+####640	4.0	758330	758329
+####643	2.0	758352	0
+####642	2.0	758335	758351
+burger	umami	758349
+iced	tea	758342
+turkey	burger	758346
+umami	burger	758349
+umami	ketchup	758349
+ago	weeks	758335
+tea	iced	758342
+room	temperature	758349
+diet	coke	758340
+weeks	ago	758335
+burger	turkey	758346
+####668	4.0	758511	758513
+sooo	good	758511
+twenty	minutes	758513
+packed	place	758512
+place	packed	758512
+good	sooo	758511
+####669	4.0	758514	758518
+burger	umami	758517
+umami	burger	758517
+####670	4.0	758519	758522
+subtle	flavor	758521
+cooked	perfectly	758519
+flavors	subtle	758521
+subtle	flavors	758521
+####671	4.0	758523	758528
+burger	umami	758525
+umami	burger	758525
+sweet	potato	758528
+fries	potato	758528
+potato	sweet	758528
+socal	burger	758528
+red	onion	758523
+potato	fries	758528
+best	burger	758526
+burger	best	758526
+rings	onion	758523
+####664	4.0	758463	758464
+####665	1.0	758465	758473
+afternoon	sunday	758468
+patty	burger	758473
+triple	pork	758466
+finally	got	758467
+sunday	afternoon	758468
+star	extra	758465
+got	finally	758467
+cheddar	cheese	758470
+manly	burger	758470
+gourmet	burger	758465
+packed	place	758468
+strings	onion	758470
+gourmet	burgers	758465
+place	packed	758468
+did	give	758465
+extra	star	758465
+####666	4.0	758474	758493
+burger	good	758485
+burger	good	758477
+burger	umami	758475
+burger	umami	758488
+burger	umami	758492
+triple	pork	758488
+good	damn	758477
+umami	burger	758475
+umami	burger	758488
+umami	burger	758492
+sweet	potato	758479
+sweet	potato	758480
+sweet	potato	758493
+burger	truffle	758488
+fries	potato	758493
+fries	potato	758479
+fries	potato	758480
+potato	sweet	758493
+potato	sweet	758479
+potato	sweet	758480
+onion	tempura	758479
+onion	tempura	758480
+good	burger	758477
+good	burger	758485
+truffle	burger	758488
+best	onion	758480
+manly	burger	758474
+pot	sweet	758493
+favorite	burger	758487
+spot	good	758485
+damn	good	758477
+batter	tempura	758481
+tempura	batter	758481
+burger	spot	758486
+burger	favorite	758487
+onion	best	758480
+potato	fries	758479
+potato	fries	758480
+potato	fries	758493
+tempura	onion	758479
+tempura	onion	758480
+good	spot	758485
+rings	onion	758479
+rings	onion	758480
+rings	onion	758483
+####667	4.0	758494	758510
+worth	trying	758498
+burger	umami	758501
+sauce	aioli	758503
+umami	burger	758501
+aioli	sauce	758503
+sweet	potato	758494
+fries	potato	758494
+potato	sweet	758494
+hour	happy	758510
+thin	good	758508
+happy	hour	758510
+trying	worth	758498
+roasted	garlic	758503
+totally	worth	758498
+homemade	ketchup	758503
+worth	totally	758498
+great	service	758496
+service	great	758496
+garlic	aioli	758503
+aioli	garlic	758503
+ice	great	758496
+potato	fries	758494
+####660	2.0	758430	758438
+portion	good	758435
+sat	night	758436
+sizes	portion	758435
+cream	sandwich	758434
+burger	good	758430
+ice	cream	758434
+cream	ice	758434
+dipping	sauces	758432
+good	damn	758430
+sweet	potato	758432
+super	heavy	758431
+super	heavy	758434
+burger	truffle	758431
+fries	potato	758432
+sandwich	cream	758434
+good	burger	758430
+put	simply	758430
+truffle	burger	758431
+great	staff	758436
+night	sat	758436
+dipping	sauce	758432
+good	portion	758435
+doesn	restaurant	758433
+sauces	dipping	758432
+damn	good	758430
+simply	put	758430
+potato	fries	758432
+staff	great	758436
+rings	onion	758432
+####661	4.0	758439	758443
+seated	right	758443
+away	right	758443
+thin	walking	758440
+right	seated	758443
+distance	walking	758440
+right	away	758443
+####662	3.0	758444	758454
+rare	medium	758454
+triple	pork	758446
+triple	pork	758452
+good	choice	758451
+added	pork	758452
+pork	burger	758446
+burger	pork	758446
+choice	good	758451
+####663	4.0	758455	758462
+small	bite	758456
+bite	small	758456
+oil	truffle	758459
+truffle	oil	758459
+stomach	space	758460
+rings	onion	758457
+####656	4.0	758412	758414
+love	fries	758414
+####657	4.0	758415	758417
+notch	top	758416
+####658	4.0	758418	758422
+fee	corkage	758420
+come	back	758422
+side	plus	758420
+corkage	fee	758420
+back	come	758422
+plus	side	758420
+####659	3.0	758423	758429
+burger	truffle	758425
+truffle	burger	758425
+find	street	758428
+street	find	758428
+parking	street	758428
+limited	seating	758426
+street	parking	758428
+####747	5.0	758981	758986
+buds	taste	758982
+relatively	small	758986
+place	good	758982
+good	place	758982
+####746	5.0	758979	758980
+####745	4.0	758974	758978
+perfect	portion	758974
+portion	perfect	758974
+size	portion	758974
+portion	size	758974
+rings	onion	758975
+####744	4.0	758971	758973
+definitely	taste	758972
+liquor	malt	758972
+note	side	758972
+size	portion	758973
+taste	definitely	758972
+portion	size	758973
+rings	onion	758972
+####751	4.0	758997	759019
+burger	umami	759000
+finally	got	759009
+umami	burger	759000
+got	finally	759009
+service	experience	759000
+table	minutes	759004
+gets	place	759008
+customer	service	759000
+wait	staff	759012
+staff	wait	759012
+seated	got	759009
+truck	food	758998
+got	seated	759009
+service	customer	759000
+food	truck	758998
+move	people	759014
+place	gets	759008
+####750	5.0	758989	758996
+network	food	758990
+joint	food	758995
+completely	full	758996
+food	joint	758995
+fries	tasted	758995
+burger	umami	758990
+burger	umami	758991
+fast	food	758995
+umami	burger	758990
+umami	burger	758991
+food	fast	758995
+enjoy	did	758995
+fries	taste	758995
+skinny	fries	758995
+best	burger	758989
+burger	best	758989
+full	completely	758996
+did	enjoy	758995
+rings	onion	758995
+####749	4.0	758988	0
+####748	4.0	758987	0
+####739	2.0	758935	758939
+star	five	758935
+orange	county	758937
+five	star	758935
+small	bottle	758935
+county	orange	758937
+good	choices	758936
+choices	good	758936
+unami	burger	758937
+choice	good	758936
+####738	5.0	758928	758934
+soo	good	758933
+roasted	garlic	758932
+good	soo	758933
+manly	burger	758931
+best	meat	758930
+####737	3.0	758927	0
+####736	4.0	758921	758926
+burger	truffle	758926
+truffle	burger	758926
+liked	place	758921
+unami	burger	758926
+####743	4.0	758958	758970
+star	review	758965
+better	places	758964
+burger	good	758963
+hatch	burger	758969
+overpriced	way	758962
+places	better	758964
+burger	places	758964
+good	burger	758963
+place	better	758964
+better	place	758964
+say	honestly	758968
+way	way	758962
+solely	based	758965
+honestly	say	758968
+####742	5.0	758952	758957
+sweet	onions	758954
+garlic	aioli	758957
+cut	thick	758955
+sweet	onion	758954
+aioli	garlic	758957
+rings	onion	758954
+####741	4.0	758943	758951
+food	came	758951
+came	right	758945
+two	burgers	758947
+came	quickly	758951
+coke	mexican	758943
+burger	umami	758944
+triple	pork	758947
+quickly	came	758951
+found	street	758946
+umami	burger	758944
+sunday	night	758945
+mind	open	758944
+right	came	758945
+night	sunday	758945
+rush	hour	758945
+parking	lot	758946
+two	burger	758947
+hour	rush	758945
+parking	street	758946
+soft	drinks	758948
+burgers	two	758947
+mexican	coke	758943
+burger	pork	758947
+valet	parking	758946
+came	food	758951
+street	parking	758946
+open	mind	758944
+####740	4.0	758940	758942
+good	feeling	758940
+feel	good	758940
+####762	4.0	759067	759078
+early	lunch	759078
+burger	joint	759076
+finally	got	759077
+tater	tots	759067
+good	taste	759071
+got	finally	759077
+sure	made	759078
+made	sure	759078
+taste	good	759071
+lunch	early	759078
+####763	4.0	759079	759080
+burger	umami	759080
+umami	burger	759080
+burger	truffle	759080
+truffle	burger	759080
+seated	immediately	759079
+smushed	potatoes	759080
+immediately	seated	759079
+####760	1.0	759054	759063
+come	definitely	759058
+completely	satisfied	759063
+sizes	portion	759062
+coke	mexican	759056
+glass	bottle	759057
+perfect	size	759062
+burger	places	759061
+onion	tempura	759058
+did	taste	759057
+bottle	glass	759057
+burger	place	759061
+top	three	759061
+gourmet	burger	759060
+come	back	759058
+complain	people	759062
+gourmet	burgers	759060
+back	come	759058
+size	perfect	759062
+definitely	come	759058
+satisfied	completely	759063
+mexican	coke	759056
+tempura	onion	759058
+portion	size	759062
+taste	did	759057
+rings	onion	759058
+####761	4.0	759064	759066
+burger	umami	759065
+umami	burger	759065
+peak	hours	759064
+come	back	759065
+hours	peak	759064
+back	come	759065
+portobello	mushroom	759066
+mushroom	portobello	759066
+original	umami	759065
+####766	4.0	759096	759109
+dont	understand	759101
+long	lines	759099
+great	things	759106
+understand	dont	759101
+thin	great	759106
+things	great	759106
+eat	things	759106
+best	burger	759102
+burger	best	759102
+####767	3.0	759110	759126
+love	fries	759116
+umami	ketchup	759120
+socal	burger	759111
+bleu	cheese	759110
+bland	pretty	759119
+ketchup	taste	759120
+ketchup	taste	759122
+caramelized	onions	759110
+dijon	mustard	759121
+pretty	bland	759119
+sweet	bit	759113
+bit	sweet	759113
+rings	onion	759118
+####764	4.0	759081	759090
+great	side	759090
+parmesan	crisp	759085
+burger	umami	759084
+umami	burger	759084
+burger	truffle	759081
+star	extra	759087
+onions	grilled	759085
+patty	beef	759081
+patty	beef	759085
+truffle	burger	759081
+nice	contrast	759085
+potatoes	taste	759089
+grilled	onions	759085
+crisp	parmesan	759085
+pretty	delicious	759086
+melted	cheese	759081
+fried	potatoes	759089
+brioche	bun	759081
+brioche	bun	759087
+truffle	oil	759081
+delicious	pretty	759086
+buttery	toast	759081
+contrast	nice	759085
+cheese	melted	759081
+smushed	potatoes	759088
+extra	star	759087
+####765	3.0	759092	759095
+eat	service	759093
+good	food	759093
+good	experience	759093
+food	good	759093
+great	service	759093
+service	great	759093
+experience	good	759093
+####754	4.0	759029	759032
+tiny	side	759030
+room	dining	759030
+way	better	759029
+dining	room	759030
+####755	4.0	759033	759039
+stilton	burger	759036
+place	needs	759037
+visit	second	759034
+different	wait	759034
+needs	place	759037
+back	patio	759033
+different	waiters	759034
+second	visit	759034
+burger	pork	759036
+####752	4.0	759020	759021
+great	place	759020
+eat	place	759020
+place	great	759020
+####753	5.0	759022	759028
+fee	corkage	759026
+small	place	759028
+two	wait	759028
+top	five	759024
+corkage	fee	759026
+mall	place	759028
+place	small	759028
+wait	two	759028
+share	tables	759028
+rings	onion	759025
+####758	5.0	759048	759049
+lovers	meat	759048
+burger	umami	759048
+umami	burger	759048
+clear	steer	759048
+meat	lovers	759048
+####759	3.0	759050	759053
+triple	pork	759051
+sandwich	pork	759051
+good	alternative	759051
+pork	sandwich	759051
+####756	2.0	759040	759045
+presentation	food	759044
+burger	joint	759042
+burger	joint	759040
+burger	joint	759041
+burger	umami	759045
+umami	burger	759045
+food	fast	759044
+pleasantly	surprised	759041
+high	quality	759044
+food	presentation	759044
+quality	high	759044
+tiny	burger	759040
+joint	burger	759041
+joint	burger	759042
+joint	burger	759040
+####757	4.0	759046	759047
+burger	good	759047
+good	burger	759047
+good	burgers	759047
+####713	4.0	758804	0
+####712	4.0	758795	758803
+tasty	burger	758801
+sweet	potato	758796
+sweet	potato	758797
+burger	truffle	758797
+fries	potato	758797
+fries	potato	758796
+potato	sweet	758796
+potato	sweet	758797
+tater	tots	758797
+truffle	burger	758797
+pot	sweet	758796
+potato	fries	758796
+potato	fries	758797
+####715	3.0	758813	0
+####714	4.0	758805	758812
+burger	umami	758808
+burger	umami	758811
+umami	burger	758808
+umami	burger	758811
+group	large	758809
+people	ordered	758811
+small	joint	758809
+large	group	758809
+pricey	bit	758807
+bit	pricey	758807
+####717	3.0	758819	758823
+burger	umami	758819
+umami	burger	758819
+dried	tomatoes	758821
+####716	5.0	758814	758818
+soo	good	758818
+burger	truffle	758814
+truffle	burger	758814
+good	soo	758818
+####719	5.0	758830	758833
+back	came	758833
+burger	truffle	758831
+truffle	burger	758831
+came	back	758833
+####718	4.0	758824	758829
+burger	truffle	758827
+truffle	burger	758827
+red	taste	758825
+good	pretty	758824
+pretty	good	758824
+blue	cheese	758825
+rings	onion	758828
+####705	3.0	758741	758742
+good	damn	758741
+damn	good	758741
+####704	5.0	758739	758740
+####707	5.0	758747	758758
+signature	umami	758748
+take	advantage	758758
+burger	umami	758748
+hatch	burger	758748
+umami	burger	758748
+different	types	758748
+onion	tempura	758756
+advantage	take	758758
+cooked	perfectly	758750
+additional	flavor	758758
+perfectly	cooked	758750
+liquor	malt	758756
+umami	signature	758748
+take	did	758758
+liquor	tempura	758756
+heaven	pure	758753
+did	take	758758
+fifth	taste	758752
+tempura	onion	758756
+stopped	eating	758754
+types	different	758748
+rings	onion	758756
+####706	5.0	758743	758746
+####709	4.0	758781	758784
+spending	money	758782
+red	four	758782
+####708	3.0	758759	758780
+experience	dining	758766
+reading	reviews	758761
+burger	umami	758761
+dipping	sauces	758779
+umami	burger	758761
+sweet	potato	758775
+fries	potato	758775
+veggie	burger	758769
+veggie	burger	758780
+tater	tots	758775
+wrong	order	758779
+order	wrong	758779
+dipping	sauce	758779
+definitely	lived	758762
+sauces	dipping	758779
+sauce	dipping	758779
+unami	burger	758760
+potato	fries	758775
+dining	experience	758766
+angeles	los	758766
+lived	definitely	758762
+####711	4.0	758789	758794
+cream	sandwich	758793
+ice	cream	758793
+ice	cream	758794
+cream	ice	758793
+cream	ice	758794
+san	cream	758793
+chocolate	hazelnut	758794
+sandwich	cream	758793
+cream	sandwiches	758793
+good	pretty	758793
+sandwiches	cream	758793
+pretty	good	758793
+hazelnut	chocolate	758794
+####710	5.0	758785	758788
+experience	dining	758785
+going	back	758787
+back	going	758787
+dining	experience	758785
+####728	4.0	758868	758882
+root	beer	758880
+liked	especially	758877
+fries	french	758878
+burger	umami	758873
+french	fries	758878
+umami	burger	758873
+fried	onions	758877
+tastes	delicious	758880
+manly	burger	758877
+crispy	fried	758877
+fried	crispy	758877
+onion	ring	758879
+especially	liked	758877
+rings	onion	758879
+####729	3.0	758883	758885
+####730	4.0	758892	758891
+####731	4.0	758893	758894
+####732	4.0	758895	0
+####733	5.0	758896	758902
+place	burger	758896
+unique	flavor	758899
+bit	soggy	758900
+california	southern	758896
+soggy	bit	758900
+flavors	unique	758899
+unique	flavors	758899
+####734	5.0	758903	758906
+burger	joint	758904
+burger	umami	758905
+umami	burger	758905
+good	pretty	758904
+asian	flavor	758906
+pretty	good	758904
+joint	burger	758904
+####735	5.0	758907	758920
+coke	mexican	758911
+cream	sandwich	758912
+ice	cream	758912
+cream	ice	758912
+san	cream	758912
+burger	truffle	758909
+yummy	burger	758920
+boyfriend	got	758908
+tater	tots	758912
+sandwich	cream	758912
+truffle	burger	758909
+small	restaurant	758917
+cream	sandwiches	758912
+peak	hours	758919
+sandwiches	cream	758912
+hours	peak	758919
+pastrami	burger	758908
+got	boyfriend	758908
+tight	seating	758916
+mexican	coke	758911
+####720	4.0	758836	758835
+####721	4.0	758838	758839
+cream	sandwich	758838
+ice	cream	758838
+ice	cream	758839
+cream	ice	758838
+cream	ice	758839
+san	cream	758838
+sandwich	cream	758838
+cream	sandwiches	758838
+sandwiches	cream	758838
+####722	4.0	758840	758845
+ice	cream	758840
+cream	ice	758840
+office	burger	758844
+good	experience	758842
+experience	good	758842
+back	twice	758840
+####723	5.0	758846	758855
+patty	burger	758848
+burger	better	758854
+sweet	potato	758851
+burger	truffle	758846
+fries	potato	758851
+potato	sweet	758851
+truffle	burger	758846
+oil	truffle	758849
+truffle	oil	758849
+better	burger	758854
+good	seasoning	758852
+texture	perfect	758847
+perfect	texture	758847
+potato	fries	758851
+rings	onion	758851
+####724	4.0	758856	758860
+ways	great	758859
+burger	umami	758857
+hatch	burger	758860
+umami	burger	758857
+great	food	758859
+eat	food	758859
+food	great	758859
+####725	5.0	758861	0
+####726	1.0	758862	758864
+####727	3.0	758865	758867
+####800	1.0	759287	759295
+stars	four	759292
+burger	truffle	759293
+burger	truffle	759291
+star	five	759290
+truffle	burger	759291
+truffle	burger	759293
+stars	five	759290
+best	burgers	759290
+white	truffle	759291
+four	stars	759292
+great	fries	759291
+star	four	759292
+ive	stars	759290
+best	burger	759290
+five	stars	759290
+burger	best	759290
+burgers	best	759290
+####791	3.0	759257	759258
+quick	bite	759257
+bite	quick	759257
+####790	4.0	759251	759256
+burger	umami	759254
+umami	burger	759254
+burger	truffle	759254
+mind	open	759256
+truffle	burger	759254
+poor	service	759252
+experience	overall	759253
+good	food	759252
+good	food	759253
+reviews	star	759252
+great	food	759252
+star	reviews	759252
+overall	experience	759253
+gras	fois	759251
+best	burger	759255
+burger	best	759255
+open	mind	759256
+####789	3.0	759248	759250
+burger	umami	759248
+burger	umami	759249
+umami	burger	759248
+umami	burger	759249
+burger	truffle	759248
+burger	truffle	759250
+truffle	burger	759248
+truffle	burger	759250
+rich	flavor	759250
+rich	flavors	759250
+####788	4.0	759244	759247
+super	special	759244
+good	value	759247
+parking	street	759245
+value	good	759247
+valet	parking	759244
+street	parking	759245
+####787	4.0	759242	759243
+small	things	759243
+####786	5.0	759237	759241
+rare	medium	759240
+sweet	potato	759241
+fries	potato	759241
+potato	sweet	759241
+medium	cooked	759240
+garlic	aioli	759241
+cooked	medium	759240
+aioli	garlic	759241
+skinny	fries	759241
+####785	4.0	759222	759236
+two	burgers	759234
+fries	tasted	759231
+burger	umami	759225
+burger	umami	759230
+umami	burger	759225
+umami	burger	759230
+sweet	potato	759231
+sweet	potato	759234
+burger	truffle	759230
+fries	potato	759231
+fries	potato	759234
+potato	sweet	759231
+potato	sweet	759234
+space	parking	759229
+truffle	burger	759230
+better	tasted	759231
+pot	sweet	759231
+pot	sweet	759234
+good	pretty	759222
+parking	space	759229
+bet	tasted	759231
+two	burger	759234
+super	awesome	759227
+fries	taste	759231
+kinda	small	759229
+small	kinda	759229
+burgers	two	759234
+awesome	super	759227
+tasted	better	759231
+valet	parking	759223
+potato	fries	759231
+potato	fries	759234
+####784	5.0	759220	759221
+better	way	759221
+bet	way	759221
+made	ketchup	759220
+made	ketchup	759221
+way	better	759221
+####799	5.0	759285	759286
+####798	4.0	759280	759284
+santa	monica	759283
+burger	truffle	759280
+truffle	burger	759280
+place	better	759283
+better	place	759283
+monica	santa	759283
+small	lot	759284
+valet	parking	759284
+lot	small	759284
+smushed	potatoes	759281
+####797	2.0	759274	759279
+awesome	burger	759279
+santa	monica	759279
+burger	taste	759277
+monica	santa	759279
+burger	experience	759276
+garlic	aioli	759274
+stellar	service	759277
+aioli	garlic	759274
+smushed	potatoes	759274
+####796	1.0	759273	0
+####795	4.0	759270	759272
+burger	umami	759271
+umami	burger	759271
+burger	truffle	759270
+truffle	burger	759270
+truffle	cheese	759271
+oil	truffle	759271
+cooked	medium	759270
+truffle	oil	759271
+####794	4.0	759266	759269
+burger	joint	759269
+burger	umami	759268
+umami	burger	759268
+smushed	potatoes	759267
+joint	burger	759269
+####793	4.0	759264	759265
+coke	mexican	759265
+cherry	black	759265
+good	start	759264
+cherry	soda	759265
+star	good	759264
+mexican	coke	759265
+start	good	759264
+####792	5.0	759259	759263
+pork	burger	759259
+burger	pork	759259
+####774	4.0	759161	759162
+table	open	759162
+open	table	759162
+####775	3.0	759163	759177
+find	better	759176
+cream	sandwich	759177
+ice	cream	759177
+cream	ice	759177
+burger	umami	759172
+better	find	759176
+triple	pork	759177
+umami	burger	759172
+fries	thin	759175
+friend	thought	759164
+burger	truffle	759164
+joints	burger	759166
+better	way	759176
+sandwich	cream	759177
+small	place	759169
+truffle	burger	759164
+did	come	759163
+unique	combination	759171
+small	menu	759170
+cooked	meat	759173
+tasting	best	759164
+best	tasting	759164
+night	friday	759167
+dipping	sauce	759175
+garlic	aoli	759175
+definitely	try	759166
+night	dinner	759167
+friday	night	759167
+thin	fries	759175
+thought	friend	759164
+come	did	759163
+pork	burger	759177
+meat	cooked	759173
+sauce	dipping	759175
+place	small	759169
+total	bill	759176
+burger	joints	759166
+burger	pork	759177
+menu	small	759170
+####772	5.0	759154	759157
+left	satisfied	759157
+####773	4.0	759158	759160
+oily	bit	759158
+####770	3.0	759141	759139
+####771	2.0	759142	759153
+buds	taste	759143
+actually	taste	759150
+triple	pork	759152
+burger	truffle	759142
+truffle	burger	759142
+great	flavor	759152
+dry	super	759142
+taste	actually	759150
+super	dry	759142
+super	juicy	759150
+pork	burger	759152
+juicy	super	759150
+burger	pork	759152
+free	dessert	759146
+####768	4.0	759127	759129
+good	lemonade	759128
+lemon	strawberry	759128
+strawberry	lemonade	759128
+lemonade	strawberry	759128
+####769	5.0	759130	759135
+burger	truffle	759133
+place	burger	759135
+burger	place	759135
+truffle	burger	759133
+come	back	759131
+back	come	759131
+mixed	feelings	759132
+####782	3.0	759211	759214
+burger	umami	759214
+umami	burger	759214
+####783	4.0	759215	759219
+sweet	potato	759218
+fries	potato	759218
+potato	sweet	759218
+burger	places	759216
+burger	place	759216
+cooked	perfectly	759217
+nice	texture	759215
+pot	sweet	759218
+perfectly	cooked	759217
+perfect	cooked	759217
+texture	nice	759215
+potato	fries	759218
+####780	3.0	759194	759202
+definitely	return	759201
+burger	truffle	759202
+truffle	burger	759202
+great	experience	759199
+overall	great	759199
+cola	coca	759194
+experience	great	759199
+small	bottle	759194
+total	food	759195
+great	overall	759199
+eat	experience	759199
+fountain	soda	759194
+return	definitely	759201
+valet	parking	759196
+valet	parking	759198
+rings	onion	759202
+rings	onion	759194
+####781	4.0	759203	759210
+review	full	759210
+good	taste	759203
+full	review	759210
+taste	good	759203
+####778	4.0	759186	759188
+sooo	good	759188
+cream	sandwich	759187
+cream	sandwich	759188
+ice	cream	759187
+ice	cream	759188
+cream	ice	759188
+cream	ice	759187
+san	cream	759188
+sandwich	cream	759188
+tried	finally	759187
+onion	tempura	759186
+cream	sandwiches	759187
+finally	tried	759187
+sandwiches	cream	759187
+super	crispy	759186
+good	sooo	759188
+tempura	onion	759186
+crispy	super	759186
+rings	onion	759186
+####779	5.0	759189	759193
+cut	hand	759190
+aioli	sauce	759191
+pricy	side	759193
+fries	cut	759190
+garlic	aioli	759191
+garlic	aioli	759192
+thick	fries	759190
+cut	fries	759190
+hand	cut	759190
+aioli	garlic	759192
+aioli	garlic	759191
+thousand	island	759191
+####776	4.0	759178	759182
+afternoon	sunday	759180
+sunday	afternoon	759180
+####777	4.0	759183	759185
+triple	pork	759183
+pork	burger	759183
+burger	pork	759183

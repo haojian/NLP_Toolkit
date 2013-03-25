@@ -10,6 +10,7 @@ public class Extraction {
 	private int numberofoccurances;
 	private int customizedHashCode = -1;
 	private boolean ifHashed = false;
+	private int sentIndex = -1;
 	
 	
 	public Extraction(String value, String attribute, int occurance){
@@ -66,5 +67,13 @@ public class Extraction {
 		if(target.getAttr().get_txt().equals(this.getAttr().get_txt()) && target.getVal().get_txt().equals(this.getVal().get_txt()))
 			return true;
 		return false;
+	}
+
+	public int getSentIndex() {
+		return sentIndex;
+	}
+
+	public void setSentIndex(int sentIndex) {
+		this.sentIndex = sentIndex;
 	}
 }
