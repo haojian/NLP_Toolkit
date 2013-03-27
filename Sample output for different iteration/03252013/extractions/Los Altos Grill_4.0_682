@@ -1,0 +1,4172 @@
+####0	4.0	370386	370391
+####1	4.0	370392	370412
+####2	3.0	370413	370428
+####3	3.0	370429	370439
+####4	4.0	370440	370450
+####5	2.0	370451	370468
+####6	5.0	370469	370484
+####7	4.0	370485	370499
+####8	5.0	370500	370510
+####9	3.0	370511	370527
+####10	5.0	370528	370538
+####11	2.0	370539	370558
+####12	1.0	370559	370596
+####13	3.0	370597	370614
+####14	5.0	370615	370640
+####15	4.0	370641	370652
+####17	4.0	370657	370662
+####16	4.0	370653	370656
+####19	3.0	370666	370682
+####18	5.0	370663	370665
+####21	5.0	370698	370702
+####20	5.0	370683	370697
+####23	2.0	370705	370706
+####22	3.0	370703	370704
+####25	3.0	370713	370716
+####24	4.0	370707	370712
+####27	5.0	370720	370723
+####26	4.0	370717	370719
+####29	1.0	370758	370769
+####28	3.0	370724	370757
+####31	1.0	370787	370794
+####30	5.0	370770	370776
+####34	4.0	370819	370837
+####35	3.0	370838	370840
+####32	5.0	370795	370809
+####33	5.0	370810	370818
+####38	5.0	370848	370851
+####39	4.0	370852	370854
+####36	2.0	370841	370842
+####37	3.0	370843	370847
+####42	4.0	370868	370874
+####43	4.0	370875	370879
+####40	5.0	370855	370862
+####41	3.0	370863	370867
+####46	1.0	370913	370925
+####47	4.0	370926	370939
+####44	4.0	370885	370903
+####45	5.0	370904	370912
+####51	4.0	370997	371014
+####50	4.0	370992	370996
+####49	4.0	370985	370991
+####48	4.0	370940	370966
+####55	4.0	371047	371060
+####54	4.0	371046	0
+####53	5.0	371031	371045
+####52	4.0	371015	371030
+####59	5.0	371076	371078
+####58	5.0	371073	371075
+####57	5.0	371065	371072
+####56	5.0	371061	371064
+####63	5.0	371117	371128
+####62	4.0	371101	371116
+####61	4.0	371089	371100
+####60	5.0	371079	371088
+####68	5.0	371195	371197
+####69	5.0	371198	371199
+####70	4.0	371200	371220
+####71	1.0	371221	371229
+####64	4.0	371129	371139
+####65	1.0	371140	371144
+####66	1.0	371145	371161
+####67	4.0	371190	371194
+####76	2.0	371277	371287
+####77	4.0	371288	371293
+####78	5.0	371294	371298
+####79	3.0	371299	371303
+####72	4.0	371230	371240
+####73	4.0	371241	371249
+####74	5.0	371250	371259
+####75	4.0	371260	371276
+####85	3.0	371333	371340
+####84	4.0	371325	371332
+####87	3.0	371364	371366
+####86	4.0	371341	371363
+####81	5.0	371311	371313
+####80	4.0	371304	371310
+####83	1.0	371318	371324
+####82	4.0	371314	371317
+####93	5.0	371421	371445
+####92	4.0	371411	371420
+####95	4.0	371463	371474
+####94	4.0	371446	371462
+####89	3.0	371377	371389
+####88	3.0	371367	371376
+####91	5.0	371396	371410
+####90	5.0	371390	371395
+####102	4.0	371551	371571
+####103	5.0	371578	371596
+####100	4.0	371510	371535
+####101	4.0	371536	371550
+####98	1.0	371486	371505
+####99	4.0	371506	371509
+####96	2.0	371481	371480
+####97	4.0	371482	371485
+####110	5.0	371708	371714
+####111	3.0	371715	371738
+####108	3.0	371669	371683
+####109	3.0	371684	371707
+####106	5.0	371620	371654
+####107	4.0	371655	371668
+####104	3.0	371597	371607
+####105	1.0	371608	371619
+####119	4.0	371826	371833
+####118	4.0	371821	371825
+####117	4.0	371817	371820
+####116	4.0	371802	371816
+####115	4.0	371785	371801
+####114	5.0	371777	371784
+####113	4.0	371764	371776
+####112	3.0	371739	371763
+####127	5.0	371949	371953
+####126	4.0	371937	371948
+####125	4.0	371926	371936
+####124	4.0	371891	371925
+####123	4.0	371881	371890
+####122	5.0	371866	371880
+####121	1.0	371847	371865
+####120	5.0	371834	371846
+####137	4.0	372100	372110
+####136	3.0	372088	372099
+####139	4.0	372179	372188
+####138	4.0	372111	372178
+####141	4.0	372196	372205
+####140	5.0	372189	372195
+####143	5.0	372226	372231
+####142	3.0	372206	372225
+####129	4.0	371988	371999
+####128	4.0	371954	371987
+####131	1.0	372002	372009
+####130	5.0	372000	372001
+####133	4.0	372035	372072
+####132	4.0	372010	372034
+####135	4.0	372082	372087
+####134	4.0	372073	372081
+####152	4.0	372346	372350
+####153	4.0	372351	372366
+####154	4.0	372367	372381
+####155	2.0	372382	372388
+####156	4.0	372389	372397
+####157	5.0	372398	372406
+####158	5.0	372407	372420
+####159	4.0	372421	372428
+####144	5.0	372232	372251
+####145	4.0	372252	372263
+####146	5.0	372264	372269
+####147	2.0	372270	372294
+####148	1.0	372295	372307
+####149	4.0	372308	372315
+####150	5.0	372326	372343
+####151	5.0	372344	372345
+####171	4.0	372549	372562
+####170	4.0	372540	372548
+####169	5.0	372530	372539
+####168	4.0	372521	372529
+####175	3.0	372589	372602
+####174	5.0	372579	372588
+####173	4.0	372572	372578
+####172	5.0	372563	372571
+####163	5.0	372467	372476
+####162	5.0	372458	372466
+####161	5.0	372438	372457
+####160	5.0	372429	372437
+####167	4.0	372514	372520
+####166	3.0	372510	372513
+####165	5.0	372499	372509
+####164	3.0	372477	372498
+####186	4.0	372728	372730
+####187	3.0	372731	372738
+####184	1.0	372681	372703
+####185	4.0	372704	372727
+####190	4.0	372786	372792
+####191	2.0	372793	372809
+####188	5.0	372739	372757
+####189	5.0	372758	372785
+####178	5.0	372617	372632
+####179	3.0	372633	372646
+####176	5.0	372603	372610
+####177	4.0	372611	372616
+####182	5.0	372673	372676
+####183	4.0	372677	372680
+####180	4.0	372659	372664
+####181	5.0	372665	372672
+####205	5.0	372998	373003
+####204	3.0	372985	372997
+####207	4.0	373013	373016
+####206	4.0	373004	373012
+####201	5.0	372944	372949
+####200	3.0	372938	372943
+####203	2.0	372981	372984
+####202	5.0	372950	372980
+####197	4.0	372897	372918
+####196	3.0	372883	372890
+####199	5.0	372925	372937
+####198	3.0	372919	372924
+####193	4.0	372825	372844
+####192	4.0	372810	372824
+####195	5.0	372867	372882
+####194	4.0	372845	372866
+####220	5.0	373187	373192
+####221	3.0	373193	373200
+####222	4.0	373201	373237
+####223	4.0	373238	373245
+####216	4.0	373142	373154
+####217	3.0	373155	373162
+####218	3.0	373163	373178
+####219	3.0	373179	373186
+####212	4.0	373066	373073
+####213	1.0	373074	373086
+####214	4.0	373087	373118
+####215	4.0	373119	373128
+####208	4.0	373017	373027
+####209	5.0	373046	373047
+####210	4.0	373048	373053
+####211	4.0	373054	373065
+####239	4.0	373414	373420
+####238	4.0	373407	373413
+####237	3.0	373394	373406
+####236	5.0	373374	373393
+####235	5.0	373365	373373
+####234	3.0	373361	373364
+####233	4.0	373356	373360
+####232	5.0	373346	373355
+####231	4.0	373319	373345
+####230	5.0	373303	373318
+####229	5.0	373290	373302
+####228	4.0	373286	373289
+####227	4.0	373282	373285
+####226	3.0	373278	373281
+####225	2.0	373250	373277
+####224	4.0	373246	373249
+####254	5.0	373560	373565
+####255	4.0	373566	373574
+####252	4.0	373545	373551
+####253	4.0	373552	373559
+####250	5.0	373521	373528
+####251	5.0	373529	373544
+####248	5.0	373496	373510
+####249	5.0	373511	373520
+####246	4.0	373487	373492
+####247	5.0	373493	373495
+####244	5.0	373445	373458
+####245	4.0	373459	373468
+####242	5.0	373436	373437
+####243	5.0	373438	373444
+####240	3.0	373421	373428
+####241	4.0	373429	373435
+####275	5.0	373756	373766
+####274	3.0	373751	373755
+####273	4.0	373736	373750
+####272	4.0	373733	373735
+####279	3.0	373808	373830
+####278	3.0	373796	373807
+####277	3.0	373782	373795
+####276	4.0	373767	373781
+####283	4.0	373869	373881
+####282	5.0	373861	373868
+####281	3.0	373854	373860
+####280	3.0	373831	373853
+####287	4.0	373912	373933
+####286	3.0	373902	373911
+####285	4.0	373892	373901
+####284	3.0	373882	373891
+####258	4.0	373591	373593
+####259	5.0	373594	373601
+####256	3.0	373575	373587
+####257	5.0	373588	373590
+####262	1.0	373633	373653
+####263	1.0	373654	373666
+####260	5.0	373602	373619
+####261	4.0	373620	373632
+####266	4.0	373684	373689
+####267	4.0	373693	373695
+####264	3.0	373667	373671
+####265	2.0	373672	373683
+####270	2.0	373713	373721
+####271	5.0	373722	373732
+####268	5.0	373696	373706
+####269	5.0	373707	373712
+####305	4.0	374098	374102
+####304	4.0	374084	374097
+####307	2.0	374108	374119
+####306	5.0	374103	374107
+####309	2.0	374124	374134
+####308	3.0	374120	374123
+####311	5.0	374145	374147
+####310	5.0	374135	374144
+####313	2.0	374159	374168
+####312	3.0	374148	374158
+####315	5.0	374178	374180
+####314	5.0	374169	374177
+####317	5.0	374193	374195
+####316	4.0	374181	374192
+####319	5.0	374202	374215
+####318	4.0	374196	374201
+####288	4.0	373934	373936
+####289	2.0	373937	373959
+####290	1.0	373960	373962
+####291	3.0	373963	373970
+####292	5.0	373971	373977
+####293	3.0	373983	373993
+####294	4.0	373994	374004
+####295	5.0	374005	374010
+####296	5.0	374011	374015
+####297	4.0	374016	374037
+####298	5.0	374038	374049
+####299	3.0	374050	374056
+####300	5.0	374057	374067
+####301	4.0	374068	374072
+####302	4.0	374073	374077
+####303	3.0	374078	374083
+####343	4.0	374517	374535
+####342	5.0	374507	374516
+####341	5.0	374497	374506
+####340	4.0	374488	374496
+####339	4.0	374479	374487
+####338	4.0	374469	374478
+####337	5.0	374459	374468
+####336	4.0	374453	374458
+####351	4.0	374613	374615
+####350	4.0	374601	374612
+####349	4.0	374599	374600
+####348	4.0	374588	374598
+####347	4.0	374566	374587
+####346	4.0	374554	374565
+####345	5.0	374544	374553
+####344	4.0	374536	374543
+####326	4.0	374293	374313
+####327	3.0	374314	374329
+####324	4.0	374284	374286
+####325	4.0	374287	374292
+####322	5.0	374261	374264
+####323	2.0	374265	374275
+####320	1.0	374216	374251
+####321	4.0	374252	374260
+####334	4.0	374410	374421
+####335	4.0	374422	374452
+####332	5.0	374397	374404
+####333	4.0	374405	374409
+####330	5.0	374376	374384
+####331	5.0	374385	374396
+####328	4.0	374334	374335
+####329	4.0	374336	374375
+####373	4.0	374782	374783
+come	back	374783
+back	come	374783
+####372	5.0	374777	374781
+definitely	order	374780
+lamb	chops	374777
+lamb	chops	374780
+birthday	meal	374781
+chops	lamb	374777
+chops	lamb	374780
+order	definitely	374780
+####375	4.0	374794	374814
+meat	fell	374809
+greek	best	374812
+eat	fell	374809
+best	friend	374801
+two	seats	374801
+awesome	food	374808
+friend	best	374801
+high	end	374798
+lamb	chops	374814
+seats	two	374801
+special	fish	374802
+fell	meat	374809
+rest	best	374805
+end	high	374798
+greek	food	374812
+find	place	374803
+best	restaurant	374805
+food	greek	374812
+chops	lamb	374814
+food	awesome	374808
+fish	special	374802
+dining	place	374798
+mouth	watering	374814
+best	greek	374812
+restaurant	best	374805
+####374	4.0	374784	374793
+excellent	service	374785
+great	food	374785
+beautiful	place	374785
+wonderful	experience	374788
+experience	wonderful	374788
+food	great	374785
+favorite	items	374792
+####369	3.0	374756	374759
+miles	away	374756
+group	large	374757
+great	service	374757
+large	group	374757
+service	great	374757
+ice	great	374757
+####368	4.0	374747	374755
+experience	dining	374754
+private	room	374755
+regular	old	374751
+spot	great	374747
+bar	seat	374749
+eat	great	374747
+great	spot	374747
+eat	spot	374747
+great	great	374747
+actual	restaurant	374755
+seat	bar	374749
+dining	experience	374754
+####371	5.0	374773	374776
+grilled	octopus	374773
+special	appetizer	374773
+octopus	grilled	374773
+appetizer	special	374773
+spectacular	food	374776
+olive	oil	374775
+####370	1.0	374760	374772
+experience	dining	374762
+extremely	fresh	374761
+ridiculously	delicious	374771
+great	dining	374762
+fresh	extremely	374761
+cakes	zucchini	374768
+roasted	oven	374767
+meal	delicious	374771
+staff	friendly	374771
+friendly	staff	374771
+great	food	374762
+bay	area	374769
+dining	great	374762
+delicious	meal	374771
+food	great	374762
+large	number	374765
+stomach	space	374772
+area	bay	374769
+dining	experience	374762
+####381	4.0	374849	374857
+ago	years	374856
+restaurant	favorite	374854
+favorite	restaurant	374854
+grilled	fish	374850
+two	times	374857
+chop	lamb	374851
+lamb	chop	374851
+years	ago	374856
+times	two	374857
+fish	grilled	374850
+ears	ago	374856
+####380	4.0	374841	374848
+cakes	zucchini	374847
+amazing	meal	374848
+favorite	restaurant	374845
+restaurants	favorite	374845
+amazing	simply	374846
+picky	eater	374843
+please	try	374847
+numerous	times	374842
+favorite	restaurants	374845
+simply	amazing	374846
+####383	2.0	374866	374878
+grilled	octopus	374871
+free	street	374878
+lamb	dishes	374870
+lamb	dishes	374872
+recent	visit	374866
+octopus	grilled	374871
+running	late	374867
+lamb	dish	374870
+lamb	dish	374872
+room	dining	374875
+half	hour	374868
+hour	half	374868
+late	hour	374869
+dining	room	374875
+parking	street	374878
+nearby	parking	374878
+extra	half	374868
+street	parking	374878
+####382	4.0	374858	374865
+room	dining	374865
+open	spot	374865
+different	restaurant	374860
+dining	room	374865
+tuesday	night	374859
+####377	3.0	374815	374821
+grilled	octopus	374817
+service	staff	374820
+lentil	soup	374817
+octopus	grilled	374817
+perfection	cooked	374817
+grilled	pita	374818
+great	desserts	374821
+divine	food	374820
+great	service	374820
+service	great	374820
+greek	food	374818
+dessert	great	374821
+staff	service	374820
+food	greek	374818
+pita	grilled	374818
+eat	desserts	374821
+####379	5.0	374832	374840
+special	occasion	374833
+francisco	san	374834
+occasion	special	374833
+best	restaurants	374834
+restaurants	best	374834
+quiet	dinner	374840
+pricier	side	374835
+great	food	374832
+rest	best	374834
+exceptional	service	374832
+place	perfect	374833
+best	restaurant	374834
+food	great	374832
+red	meat	374837
+meat	red	374837
+perfect	place	374833
+company	good	374840
+restaurant	best	374834
+good	company	374840
+best	known	374837
+####378	4.0	374822	374831
+best	friend	374827
+definitely	order	374826
+superb	food	374825
+try	going	374831
+grilled	calamari	374828
+wonderful	atmosphere	374822
+great	place	374823
+eat	place	374823
+style	family	374826
+friend	best	374827
+eat	date	374823
+lamb	shank	374829
+calamari	grilled	374828
+amazing	looked	374831
+family	style	374826
+place	great	374823
+great	date	374823
+order	definitely	374826
+looked	amazing	374831
+shank	lamb	374829
+going	try	374831
+####356	5.0	374650	374662
+####357	5.0	374663	374666
+####358	4.0	374667	374669
+####359	3.0	374670	374680
+####352	4.0	374616	374620
+####353	4.0	374621	374634
+####354	5.0	374635	374643
+####355	1.0	374644	374649
+####364	3.0	374713	374723
+big	meat	374718
+hot	sand	374719
+try	gotta	374719
+small	two	374720
+totally	worth	374722
+rib	eye	374718
+worth	totally	374722
+two	small	374720
+eye	rib	374718
+great	treat	374717
+salmon	smoked	374716
+gotta	try	374719
+blood	orange	374716
+orange	blood	374716
+parking	street	374723
+smoked	salmon	374716
+greek	coffee	374719
+small	things	374720
+street	parking	374723
+coffee	greek	374719
+####365	3.0	374724	374733
+ago	years	374733
+good	cheese	374727
+fried	cheese	374727
+lamb	chops	374733
+grilled	lamb	374733
+rich	side	374729
+years	ago	374733
+lamb	grilled	374733
+chops	lamb	374733
+cheese	fried	374727
+####366	3.0	374734	374737
+grilled	octopus	374737
+finally	got	374734
+octopus	grilled	374737
+got	finally	374734
+place	date	374735
+date	place	374735
+####367	3.0	374738	374746
+heirloom	tomato	374739
+totally	made	374740
+totally	worth	374741
+worth	totally	374741
+special	place	374743
+pistachio	ice	374742
+place	special	374743
+write	home	374739
+tomato	salad	374739
+####360	4.0	374688	374697
+full	meal	374693
+full	meal	374695
+meal	full	374693
+meal	full	374695
+tasty	food	374697
+beautiful	decor	374697
+great	choice	374688
+cakes	zucchini	374693
+eat	choice	374688
+review	great	374696
+good	pretty	374693
+pretty	good	374693
+great	service	374694
+service	great	374694
+greek	food	374689
+eat	reviews	374696
+reviews	great	374696
+food	greek	374689
+food	tasty	374697
+great	reviews	374696
+olive	oil	374689
+choice	great	374688
+####361	4.0	374698	374699
+multiple	visits	374699
+####362	4.0	374700	374704
+greek	restaurant	374700
+good	portions	374702
+awesome	food	374702
+long	bar	374701
+seating	area	374701
+restaurant	greek	374700
+area	seating	374701
+delicious	side	374701
+food	awesome	374702
+####363	4.0	374705	374712
+ice	cream	374708
+cream	ice	374708
+recent	memory	374710
+best	dinner	374710
+wonderful	meal	374708
+baklava	ice	374708
+meal	wonderful	374708
+portion	large	374707
+lamb	shank	374707
+perfect	end	374708
+dinner	birthday	374709
+birthday	dinner	374709
+large	portion	374707
+shank	lamb	374707
+####410	4.0	375109	375117
+best	lamb	375117
+lamb	best	375117
+lamb	chops	375117
+water	glasses	375112
+chop	lamb	375117
+star	place	375116
+glasses	water	375112
+chops	lamb	375117
+greek	coffee	375110
+coffee	greek	375110
+####411	5.0	375118	375134
+grilled	octopus	375122
+rare	medium	375120
+crisp	crust	375119
+extra	order	375133
+order	extra	375133
+alto	palo	375129
+private	rooms	375129
+octopus	grilled	375122
+rooms	dining	375129
+medium	cooked	375120
+dining	rooms	375129
+heavy	sauce	375121
+meal	delicious	375123
+strong	flavor	375121
+lamb	chops	375119
+strong	flavors	375121
+away	take	375121
+chop	lamb	375118
+pickled	vegetables	375118
+lamb	chop	375118
+great	sense	375124
+octopus	salad	375122
+downtown	palo	375129
+delicious	meal	375123
+reasonably	priced	375131
+cooked	medium	375120
+chops	lamb	375119
+vegetables	pickled	375118
+salad	octopus	375122
+savory	taste	375121
+priced	reasonably	375131
+take	away	375121
+brown	golden	375120
+lunch	business	375122
+####408	4.0	375077	375097
+experience	dining	375094
+recommended	highly	375096
+fries	french	375084
+french	fries	375084
+good	damn	375085
+fried	smelts	375083
+heavy	dish	375092
+best	lamb	375087
+cakes	zucchini	375086
+awesome	food	375095
+order	dessert	375093
+server	came	375080
+highly	recommended	375096
+came	server	375080
+lamb	chops	375087
+chop	lamb	375087
+grilled	lamb	375087
+kinda	place	375097
+great	service	375095
+damn	good	375085
+loud	pretty	375095
+lamb	grilled	375087
+chops	lamb	375087
+food	awesome	375095
+dessert	order	375093
+dining	experience	375094
+####409	4.0	375098	375108
+calamari	fried	375102
+fried	calamari	375102
+cakes	zucchini	375101
+cal	fried	375102
+lamb	shank	375105
+small	plates	375099
+salad	greek	375101
+greek	salad	375101
+shank	lamb	375105
+plates	small	375099
+####414	2.0	375154	375156
+great	choice	375156
+good	reason	375154
+eat	choice	375156
+reason	good	375154
+dinner	birthday	375155
+birthday	dinner	375155
+choice	great	375156
+####415	4.0	375157	375161
+special	occasion	375159
+greek	restaurant	375161
+occasion	special	375159
+restaurant	greek	375161
+####412	5.0	375135	375146
+meal	course	375136
+back	coming	375137
+best	restaurants	375144
+going	back	375142
+culinary	experience	375142
+restaurants	best	375144
+cakes	zucchini	375145
+excellent	service	375142
+fried	cheese	375138
+bread	pita	375138
+five	course	375136
+back	going	375142
+night	friday	375135
+easily	best	375144
+roasted	prawns	375138
+mint	yogurt	375146
+friday	night	375135
+grilled	meatballs	375138
+grilled	meatballs	375141
+riblets	lamb	375138
+riblets	lamb	375141
+bad	meal	375143
+crispy	crust	375146
+coming	back	375137
+pita	bread	375138
+meal	bad	375143
+calamari	stuffed	375138
+stuffed	calamari	375138
+course	meal	375136
+french	restaurant	375136
+crust	crispy	375146
+best	restaurant	375144
+lamb	riblets	375138
+lamb	riblets	375141
+course	five	375136
+####413	5.0	375147	375153
+consistently	good	375152
+good	bet	375152
+ambiance	great	375151
+delicious	salad	375148
+great	ambiance	375151
+pay	attention	375150
+octopus	salad	375148
+rich	dish	375149
+good	consistently	375152
+salad	octopus	375148
+####402	4.0	375016	375032
+ice	cream	375026
+ice	cream	375027
+reservations	made	375021
+cream	ice	375026
+cream	ice	375027
+going	back	375018
+delicious	absolutely	375028
+made	reservations	375021
+weeks	two	375021
+great	table	375021
+pairing	wine	375025
+wine	pairing	375025
+sundae	cream	375026
+back	going	375018
+superb	service	375024
+two	weeks	375021
+selection	wine	375029
+lamb	shank	375017
+definitely	try	375017
+experience	fantastic	375019
+wine	selection	375029
+fantastic	experience	375019
+cream	sundae	375026
+absolutely	delicious	375028
+valet	parking	375019
+entire	night	375032
+fresh	cream	375027
+shank	lamb	375017
+try	definitely	375017
+fran	san	375030
+####403	4.0	375033	375049
+greek	best	375033
+francisco	san	375033
+right	size	375039
+great	company	375033
+entire	meal	375033
+size	right	375039
+greek	food	375033
+got	definitely	375041
+definitely	got	375041
+food	greek	375033
+best	greek	375033
+company	great	375033
+####400	2.0	375010	375012
+####401	4.0	375013	375015
+best	meals	375015
+best	meal	375015
+meal	best	375015
+meals	best	375015
+####406	5.0	375068	0
+####407	5.0	375069	375076
+tuna	ahi	375070
+grilled	ahi	375070
+mediterranean	food	375073
+boyfriend	took	375073
+selection	wine	375075
+wine	selection	375075
+ahi	tuna	375070
+took	boyfriend	375073
+####404	5.0	375050	375055
+different	completely	375051
+completely	different	375051
+flavor	different	375051
+lamb	shank	375054
+tomato	based	375050
+different	flavor	375051
+different	layers	375052
+based	sauce	375050
+sauce	based	375050
+shank	lamb	375054
+####405	5.0	375056	375067
+pieces	small	375065
+grilled	calamari	375062
+grilled	calamari	375063
+made	place	375060
+good	food	375061
+entire	meal	375066
+iced	lamb	375067
+calamari	grilled	375062
+calamari	grilled	375063
+melted	cheese	375062
+small	pieces	375065
+olives	black	375065
+cheese	melted	375062
+####395	5.0	374978	374990
+idea	good	374982
+side	expensive	374989
+bread	pita	374984
+packed	place	374982
+definitely	worth	374989
+decor	nice	374979
+definitely	place	374986
+definitely	try	374989
+expensive	side	374989
+worth	definitely	374989
+place	packed	374982
+food	love	374986
+pita	bread	374984
+greek	food	374986
+got	friend	374988
+salad	greek	374983
+friend	got	374988
+going	worth	374989
+love	food	374986
+place	definitely	374986
+food	greek	374986
+good	idea	374982
+greek	salad	374983
+try	definitely	374989
+nice	decor	374979
+worth	going	374989
+####394	4.0	374966	374977
+service	wonderful	374974
+heavy	meal	374973
+great	place	374975
+mint	tea	374973
+heavy	pretty	374973
+lamb	chops	374977
+good	food	374976
+pretty	heavy	374973
+fresh	fish	374970
+chop	lamb	374977
+top	restaurant	374975
+dessert	fan	374971
+definitely	feel	374975
+wonderful	service	374974
+special	occassion	374975
+place	great	374975
+top	restaurants	374975
+chops	lamb	374977
+####393	5.0	374957	374965
+greek	best	374960
+stars	four	374958
+stars	three	374958
+bread	pita	374964
+three	stars	374958
+goat	stew	374957
+pita	bread	374964
+different	dip	374963
+best	greek	374960
+####392	4.0	374944	374956
+grilled	octopus	374955
+zucchini	cake	374955
+ring	lunch	374948
+octopus	grilled	374955
+good	service	374954
+lunch	special	374944
+generous	portions	374956
+special	lunch	374944
+good	pretty	374944
+waiter	recommended	374955
+recommended	waiter	374955
+pretty	good	374944
+plan	ahead	374951
+thank	god	374946
+pleasant	experience	374952
+dish	beef	374944
+hours	two	374950
+ahead	plan	374951
+beef	dish	374944
+two	hours	374950
+####399	4.0	375008	375009
+####398	4.0	375004	375007
+private	room	375005
+####397	4.0	374996	375001
+private	room	375000
+alto	palo	374996
+lamb	chops	374997
+beautiful	restaurant	375001
+dish	signature	374997
+chops	lamb	374997
+signature	dish	374997
+####396	4.0	374991	374995
+####387	4.0	374900	374908
+roasted	beets	374903
+fried	smelts	374904
+lamb	chops	374902
+lamb	chops	374905
+grilled	lamb	374905
+best	desserts	374906
+riblets	lamb	374905
+dessert	best	374906
+clean	flavors	374907
+lamb	grilled	374905
+clean	flavor	374907
+chops	lamb	374905
+chops	lamb	374902
+lamb	riblets	374905
+####386	2.0	374896	374899
+fries	french	374897
+french	fries	374897
+greek	coffee	374898
+coffee	greek	374898
+####385	4.0	374890	374895
+bread	pita	374895
+burger	lamb	374895
+pita	bread	374895
+lamb	burger	374895
+####384	4.0	374879	374889
+grilled	octopus	374882
+great	ambience	374889
+food	incredible	374889
+ambience	great	374889
+cake	chocolate	374884
+octopus	grilled	374882
+late	cake	374884
+red	lamb	374882
+red	lamb	374883
+lamb	dish	374883
+lamb	chops	374883
+lamb	skewers	374883
+chocolate	cake	374884
+riblets	lamb	374882
+great	service	374889
+service	great	374889
+incredible	food	374889
+dish	signature	374883
+lots	parking	374879
+flourless	chocolate	374884
+chops	lamb	374883
+signature	dish	374883
+lamb	riblets	374882
+parking	lots	374879
+####391	4.0	374927	374943
+alto	palo	374937
+alto	palo	374938
+throw	away	374940
+grilled	pita	374943
+excellent	service	374934
+eat	service	374933
+pork	special	374935
+bread	pita	374943
+special	pork	374935
+great	location	374939
+beautiful	restaurant	374934
+come	back	374927
+back	come	374927
+big	piece	374943
+great	service	374933
+place	decided	374938
+pita	bread	374943
+service	great	374933
+downtown	palo	374938
+decided	place	374938
+lunch	menu	374941
+pita	grilled	374943
+location	great	374939
+valet	parking	374940
+menu	lunch	374941
+sister	restaurant	374937
+sister	restaurant	374938
+####390	5.0	374918	374926
+better	service	374923
+nice	ambiance	374919
+francisco	san	374921
+review	full	374920
+ice	ambiance	374919
+selection	wine	374918
+full	review	374920
+wine	selection	374918
+service	better	374923
+great	food	374924
+overall	service	374923
+food	great	374924
+ambiance	nice	374919
+####389	5.0	374915	374917
+back	coming	374915
+friendly	super	374916
+coming	back	374915
+super	friendly	374916
+####388	5.0	374909	374914
+greek	restaurant	374913
+greek	best	374913
+nice	lunch	374912
+lamb	shank	374914
+restaurant	greek	374913
+best	greek	374913
+shank	lamb	374914
+####440	4.0	375364	375374
+back	coming	375366
+different	cuts	375373
+end	places	375370
+end	place	375370
+deal	good	375364
+great	flavor	375374
+super	good	375364
+good	super	375364
+high	end	375367
+high	end	375370
+roasted	potatoes	375374
+fast	service	375365
+coming	back	375366
+end	high	375367
+end	high	375370
+value	better	375369
+flavor	great	375374
+usually	end	375371
+walked	away	375370
+good	deal	375364
+better	value	375369
+####441	2.0	375375	375380
+flavors	different	375375
+different	cuts	375375
+spot	great	375377
+slightly	different	375375
+great	spot	375377
+eat	spot	375377
+seasoned	perfectly	375375
+perfectly	seasoned	375375
+different	flavor	375375
+different	textures	375375
+different	flavors	375375
+####442	4.0	375381	375390
+full	meal	375381
+experience	dining	375389
+dry	bit	375384
+meal	full	375381
+seated	promptly	375388
+good	dining	375389
+prompt	seated	375388
+grilled	veggies	375384
+greek	food	375387
+good	greek	375387
+food	greek	375387
+yummy	super	375383
+fan	big	375387
+super	yummy	375383
+olive	oil	375390
+promptly	seated	375388
+big	fan	375387
+dining	experience	375389
+bit	dry	375384
+####443	4.0	375391	375399
+lamb	chops	375394
+chop	lamb	375394
+grilled	lamb	375394
+goat	stew	375397
+lamb	grilled	375394
+chops	lamb	375394
+nice	combo	375393
+####444	3.0	375400	375405
+ice	cream	375404
+cream	ice	375404
+baklava	ice	375404
+better	lot	375403
+greek	place	375403
+bet	lot	375403
+lot	better	375403
+####445	5.0	375406	375410
+plus	tip	375406
+heard	good	375408
+things	good	375408
+greek	food	375408
+food	greek	375408
+good	things	375408
+friend	came	375407
+####446	3.0	375411	375449
+service	wonderful	375429
+yummy	yummy	375442
+group	small	375428
+places	favorite	375428
+kalamata	pita	375434
+red	fish	375423
+evening	sunday	375443
+star	five	375425
+efficient	staff	375430
+room	back	375431
+great	place	375437
+back	room	375431
+companions	dining	375423
+sure	make	375436
+eat	place	375437
+meal	great	375441
+eat	job	375435
+way	perfect	375441
+night	friday	375448
+small	group	375428
+place	best	375427
+different	ones	375426
+friday	night	375448
+sunday	evening	375443
+lamb	shanks	375414
+divine	food	375438
+greek	place	375420
+waiting	people	375432
+small	plates	375439
+great	food	375445
+companion	dining	375423
+wonderful	service	375429
+eat	food	375445
+favorite	places	375428
+service	dinner	375427
+plate	small	375439
+mall	plates	375439
+job	great	375435
+dining	companions	375423
+great	meal	375441
+great	job	375435
+people	waiting	375432
+place	great	375437
+food	great	375445
+perfect	way	375441
+part	best	375439
+dinner	special	375428
+special	dinner	375428
+dinner	service	375427
+favorite	place	375428
+make	sure	375436
+best	place	375427
+greek	coffee	375426
+greek	coffee	375441
+people	wait	375432
+coffee	greek	375426
+coffee	greek	375441
+best	part	375439
+plates	small	375439
+####447	1.0	375450	375458
+especially	loved	375452
+main	entrees	375456
+greek	food	375454
+food	greek	375454
+loved	especially	375452
+ways	order	375454
+####432	5.0	375276	375278
+open	kitchen	375277
+seating	area	375276
+room	dining	375277
+area	seating	375276
+dining	room	375277
+kitchen	open	375277
+####433	2.0	375279	375282
+grilled	calamari	375281
+area	dining	375280
+dining	area	375280
+calamari	stuffed	375281
+calamari	grilled	375281
+stuffed	calamari	375281
+salad	greek	375281
+olives	black	375282
+greek	salad	375281
+unique	dish	375281
+####434	3.0	375283	375290
+tender	extremely	375284
+special	daily	375287
+roasted	potatoes	375283
+true	flavor	375286
+lightly	seasoned	375286
+daily	special	375287
+extremely	tender	375284
+seasoned	lightly	375286
+####435	4.0	375291	0
+####436	5.0	375292	375298
+eat	way	375294
+way	great	375294
+lamb	shank	375296
+bbq	flavor	375297
+flavor	bbq	375297
+great	way	375294
+shank	lamb	375296
+####437	4.0	375299	375333
+special	occasion	375301
+special	occasion	375303
+wine	list	375309
+occasion	special	375301
+occasion	special	375303
+fried	zucchini	375305
+thin	good	375325
+restaurant	nice	375325
+service	attentive	375324
+sure	make	375333
+excellent	service	375304
+similar	dish	375307
+bechamel	sauce	375331
+lamb	shank	375307
+iced	meat	375331
+attentive	service	375324
+goat	stew	375307
+riblets	lamb	375305
+riblets	lamb	375328
+order	two	375307
+dining	restaurant	375326
+nice	restaurant	375325
+ice	restaurant	375325
+list	wine	375309
+pretty	sure	375321
+make	sure	375333
+lamb	riblets	375305
+lamb	riblets	375328
+two	order	375307
+shank	lamb	375307
+giant	beans	375305
+sure	pretty	375321
+####438	5.0	375334	375351
+grilled	octopus	375351
+eggplant	dip	375351
+rare	medium	375339
+octopus	grilled	375351
+heavy	meal	375336
+probably	try	375346
+satisfying	meal	375334
+lamb	chops	375349
+good	experience	375342
+come	back	375344
+great	stuff	375336
+chop	lamb	375339
+lamb	chop	375339
+beautiful	interior	375343
+stuff	great	375336
+overly	sweet	375345
+back	come	375344
+greek	food	375348
+five	years	375347
+decent	service	375341
+years	five	375347
+food	greek	375348
+chops	lamb	375349
+experience	good	375342
+sweet	overly	375345
+isn	food	375343
+####439	3.0	375352	375363
+creamy	ice	375363
+lamb	meatballs	375354
+rare	medium	375356
+ice	cream	375361
+ice	cream	375362
+cream	ice	375361
+cream	ice	375362
+cream	ice	375363
+tomato	sauce	375354
+baklava	ice	375361
+pickled	veggies	375352
+bread	pita	375352
+main	dish	375356
+perfect	medium	375356
+lamb	chops	375356
+grilled	lamb	375354
+grilled	lamb	375356
+goat	stew	375357
+pita	bread	375352
+tender	super	375355
+meatballs	lamb	375354
+medium	perfect	375356
+lamb	grilled	375354
+lamb	grilled	375356
+veggies	pickled	375352
+ice	creamy	375363
+chops	lamb	375356
+super	tender	375355
+sauce	tomato	375354
+filo	dough	375363
+####425	5.0	375233	375239
+presented	beautifully	375236
+pudding	rice	375235
+back	soon	375237
+rice	pudding	375235
+lamb	chops	375235
+chop	lamb	375235
+room	dining	375237
+greek	food	375238
+dining	room	375237
+soon	back	375237
+salad	greek	375235
+private	dining	375237
+food	greek	375238
+chops	lamb	375235
+special	events	375237
+greek	salad	375235
+####424	5.0	375228	375232
+reservations	made	375231
+made	reservations	375231
+great	table	375232
+date	night	375231
+main	dining	375232
+nice	view	375232
+experience	overall	375229
+night	thursday	375231
+night	date	375231
+room	dining	375232
+dining	room	375232
+overall	experience	375229
+####427	4.0	375246	375252
+sea	grilled	375250
+grilled	sea	375250
+fried	cheese	375248
+lamb	chops	375250
+lamb	chops	375251
+snapper	red	375251
+two	ordered	375250
+grilled	lamb	375250
+orders	two	375250
+berkshire	pork	375250
+told	waitress	375251
+red	two	375250
+two	orders	375250
+chops	lamb	375250
+chops	lamb	375251
+waitress	told	375251
+red	snapper	375251
+cheese	fried	375248
+ordered	two	375250
+####426	4.0	375240	375245
+friends	two	375241
+good	damn	375244
+braised	lamb	375240
+totally	awesome	375244
+lamb	shank	375240
+two	friends	375241
+damn	good	375244
+feta	cheese	375245
+pretty	damn	375244
+damn	pretty	375244
+cheese	feta	375245
+shank	lamb	375240
+####429	5.0	375256	375268
+experience	dining	375258
+greek	restaurant	375261
+greek	best	375261
+watermelon	salad	375259
+recommend	highly	375267
+highly	recommend	375267
+lamb	chops	375259
+three	times	375265
+restaurant	greek	375261
+riblets	lamb	375267
+octopus	salad	375267
+octopus	salad	375268
+bay	area	375261
+thinking	stop	375259
+chops	lamb	375259
+salad	octopus	375267
+salad	octopus	375268
+stop	thinking	375259
+lamb	riblets	375267
+times	three	375265
+area	bay	375261
+dining	experience	375258
+best	greek	375261
+####428	5.0	375253	375255
+berkshire	pork	375253
+large	plate	375255
+plate	large	375255
+####431	4.0	375272	375275
+good	sense	375274
+dining	establishment	375274
+wooden	tables	375275
+tables	wooden	375275
+####430	5.0	375269	375271
+francisco	san	375270
+recent	trip	375270
+two	thumbs	375269
+thumbs	two	375269
+####416	4.0	375162	375164
+good	number	375163
+####419	3.0	375167	375184
+special	occasion	375176
+items	different	375175
+girl	birthday	375175
+occasion	special	375176
+ice	cream	375175
+cream	ice	375175
+cake	chocolate	375175
+meat	dishes	375174
+food	bad	375182
+meat	dish	375174
+small	portions	375183
+semolina	custard	375175
+party	ordered	375174
+birthday	girl	375175
+food	portions	375170
+shoulder	pork	375171
+good	pretty	375182
+small	bit	375183
+lamb	shank	375171
+nice	contrast	375174
+chocolate	cake	375175
+pretty	good	375182
+ordered	friends	375171
+bit	small	375183
+ordered	party	375174
+pistachio	ice	375175
+dishes	meat	375174
+wonderful	dinner	375176
+pretty	delicious	375182
+greek	food	375181
+pork	shoulder	375171
+different	items	375175
+food	greek	375181
+flourless	chocolate	375175
+bad	food	375182
+friends	ordered	375171
+contrast	nice	375174
+bass	sea	375173
+shank	lamb	375171
+portions	food	375170
+####418	2.0	375165	375166
+complimentary	bread	375166
+####421	5.0	375192	375216
+huge	portions	375207
+sauce	yogurt	375197
+sauce	yogurt	375206
+sauce	yogurt	375215
+good	taste	375213
+cakes	zucchini	375197
+cakes	zucchini	375198
+did	taste	375213
+meat	dish	375204
+fish	dish	375204
+shoulder	pork	375210
+shoulder	pork	375206
+taste	good	375213
+specials	menu	375205
+yogurt	sauce	375197
+yogurt	sauce	375206
+yogurt	sauce	375215
+riblets	lamb	375197
+riblets	lamb	375202
+pork	shoulder	375210
+pork	shoulder	375206
+mustard	greens	375206
+dish	fish	375204
+lamb	riblets	375197
+lamb	riblets	375202
+fatty	meat	375211
+olive	oil	375193
+taste	did	375213
+####420	4.0	375185	375191
+big	deal	375191
+deal	big	375191
+tasty	bread	375191
+dark	wood	375190
+####423	4.0	375222	375227
+food	came	375223
+came	food	375223
+####422	4.0	375217	375221
+pudding	rice	375218
+ice	cream	375217
+cream	ice	375217
+rice	pudding	375218
+dessert	selection	375221
+pistachio	ice	375217
+meyer	lemon	375217
+stuff	good	375217
+good	stuff	375217
+####478	5.0	375722	375724
+greek	restaurant	375724
+lamb	shank	375723
+restaurant	greek	375724
+shank	lamb	375723
+####479	4.0	375725	375731
+early	minutes	375730
+minutes	early	375730
+earl	minutes	375730
+####476	5.0	375678	375697
+grilled	octopus	375685
+grilled	octopus	375696
+tasty	food	375694
+nice	dinner	375682
+octopus	grilled	375685
+octopus	grilled	375696
+great	place	375692
+open	kitchen	375693
+pleasantly	surprised	375679
+better	suited	375682
+good	food	375688
+selection	wine	375697
+food	good	375688
+dinner	nice	375682
+wine	selection	375697
+riblets	lamb	375685
+pleasant	experience	375689
+place	great	375692
+lamb	riblets	375685
+kitchen	open	375693
+goat	cheese	375696
+####477	5.0	375698	375721
+experience	dining	375699
+occasion	special	375700
+cake	chocolate	375719
+late	cake	375719
+mediterranean	food	375701
+eat	date	375700
+lamb	chops	375708
+wednesday	night	375717
+wait	staff	375698
+staff	wait	375698
+chocolate	cake	375719
+date	great	375700
+special	occasions	375700
+flourless	chocolate	375719
+chops	lamb	375708
+great	date	375700
+moved	away	375704
+thin	minutes	375719
+cream	whipped	375719
+whipped	cream	375719
+dining	experience	375699
+occasions	special	375700
+noise	level	375721
+####474	5.0	375658	375669
+experience	dining	375658
+greek	restaurant	375667
+back	coming	375660
+white	wine	375663
+stars	three	375660
+price	tag	375661
+style	family	375663
+group	large	375663
+tag	price	375661
+three	stars	375660
+restaurant	greek	375667
+expensive	place	375668
+large	group	375663
+beach	north	375669
+north	beach	375669
+family	style	375663
+ice	tag	375661
+rice	tag	375661
+dining	experience	375658
+####475	5.0	375670	375676
+decor	great	375670
+order	different	375672
+different	things	375672
+great	decor	375670
+things	different	375672
+####472	5.0	375649	375650
+####473	5.0	375651	375657
+best	meat	375656
+expensive	food	375654
+####470	4.0	375643	375645
+lamb	chops	375643
+lamb	chops	375644
+chop	lamb	375644
+chops	lamb	375644
+chops	lamb	375643
+####471	3.0	375646	375648
+####468	5.0	375628	375632
+experience	dining	375630
+great	dining	375630
+finish	start	375630
+greek	food	375632
+dining	great	375630
+food	greek	375632
+dining	experience	375630
+ways	good	375632
+####469	5.0	375633	375642
+experience	dining	375633
+grilled	octopus	375641
+grilled	octopus	375642
+food	coma	375638
+octopus	grilled	375641
+octopus	grilled	375642
+special	occassion	375640
+heavy	food	375638
+stuff	good	375637
+olive	oil	375642
+dining	experience	375633
+good	stuff	375637
+####466	2.0	375586	375602
+francisco	san	375586
+extremely	friendly	375596
+pairing	wine	375588
+places	new	375587
+wine	pairing	375588
+future	near	375586
+mediterranean	food	375588
+mediterranean	food	375590
+new	place	375587
+eat	reviews	375591
+reviews	great	375591
+friendly	extremely	375596
+great	reviews	375591
+fan	big	375588
+friendly	wait	375596
+new	places	375587
+big	fan	375588
+####467	2.0	375603	375627
+greek	wine	375617
+greek	restaurant	375620
+pudding	rice	375618
+heirloom	tomato	375606
+wine	list	375627
+ice	cream	375618
+cream	ice	375618
+greek	wines	375617
+eat	atmosphere	375610
+best	bet	375618
+star	five	375625
+great	place	375610
+great	place	375623
+greek	cuisine	375621
+atmosphere	great	375610
+came	dishes	375609
+bet	best	375618
+excellent	service	375612
+sweet	cream	375618
+eat	place	375610
+eat	place	375623
+fava	beans	375613
+rice	pudding	375618
+lightly	battered	375613
+stars	five	375625
+cooked	perfectly	375605
+great	environment	375623
+cream	sweet	375618
+definitely	worth	375607
+perfectly	cooked	375605
+reasonable	prices	375612
+battered	lightly	375613
+restaurant	greek	375620
+worth	definitely	375607
+great	food	375623
+entree	dishes	375609
+eat	food	375623
+great	atmosphere	375610
+place	great	375610
+place	great	375623
+notch	top	375627
+entree	dish	375609
+good	greek	375621
+food	great	375623
+list	wine	375627
+dishes	came	375609
+ive	stars	375625
+five	stars	375625
+####464	4.0	375562	375577
+definitely	worth	375568
+worth	definitely	375568
+calamari	stuffed	375572
+stuffed	calamari	375572
+rich	dish	375564
+going	worth	375568
+giant	beans	375574
+worth	going	375568
+####465	3.0	375578	375585
+items	different	375579
+keep	coming	375582
+kalamata	pita	375585
+back	coming	375582
+eat	wine	375580
+wonderful	restaurant	375584
+greek	cuisine	375585
+good	food	375582
+food	good	375582
+wine	great	375580
+coming	back	375582
+notch	top	375579
+different	items	375579
+notch	service	375579
+great	wine	375580
+####463	5.0	375560	375561
+plate	cheese	375561
+cheese	plate	375561
+####462	4.0	375556	375559
+nice	place	375559
+place	nice	375559
+selection	wine	375558
+wine	selection	375558
+####461	4.0	375540	375555
+range	price	375541
+wine	list	375553
+wine	list	375541
+best	steak	375547
+grilled	fish	375548
+four	times	375545
+times	four	375545
+price	range	375541
+greek	food	375546
+fish	grilled	375548
+food	greek	375546
+list	wine	375553
+list	wine	375541
+odd	flavor	375554
+####460	5.0	375533	375539
+wine	list	375535
+place	date	375538
+date	great	375538
+list	wine	375535
+great	date	375538
+date	place	375538
+####459	5.0	375529	375532
+ice	cream	375531
+cream	ice	375531
+baklava	ice	375531
+tasting	great	375530
+lamb	chops	375529
+chops	lamb	375529
+short	ribs	375529
+short	ribs	375530
+great	tasting	375530
+####458	5.0	375525	375528
+roe	fish	375526
+amazing	freaking	375526
+freaking	amazing	375526
+####457	4.0	375519	375524
+francisco	san	375522
+rating	star	375520
+star	five	375520
+better	restaurant	375524
+great	place	375519
+date	night	375522
+eat	place	375519
+five	star	375520
+night	date	375522
+night	dinner	375522
+star	rating	375520
+dinner	night	375522
+favorite	food	375521
+place	great	375519
+####456	4.0	375517	375518
+####455	3.0	375508	375516
+grilled	octopus	375509
+greek	restaurant	375510
+greek	restaurants	375510
+octopus	grilled	375509
+cakes	zucchini	375509
+fairly	priced	375509
+grilled	artichokes	375509
+priced	fairly	375509
+artichokes	grilled	375509
+####454	5.0	375503	375507
+food	hot	375504
+high	end	375506
+hot	food	375504
+best	desserts	375503
+dessert	best	375503
+end	high	375506
+####453	2.0	375501	375502
+second	meal	375502
+####452	4.0	375489	375500
+back	coming	375498
+definitely	coming	375498
+menu	dessert	375497
+main	reason	375499
+riblets	lamb	375494
+dessert	menu	375497
+octopus	salad	375497
+coming	back	375498
+lunch	place	375491
+salad	octopus	375497
+lamb	riblets	375494
+soup	rice	375496
+chicken	rice	375496
+olive	oil	375495
+rice	soup	375496
+coming	definitely	375498
+####451	4.0	375487	0
+####450	1.0	375485	375486
+####449	4.0	375481	375484
+lentil	soup	375482
+roasted	prawns	375483
+red	nicely	375482
+####448	5.0	375459	375480
+roasted	beets	375478
+monday	afternoon	375470
+delicious	absolutely	375464
+group	ordered	375464
+baked	breads	375472
+sauce	yogurt	375479
+cakes	zucchini	375478
+cakes	zucchini	375479
+isn	parking	375475
+different	restaurants	375474
+lounge	area	375476
+large	open	375472
+gets	place	375469
+good	food	375460
+say	people	375461
+pretty	large	375479
+food	good	375460
+freshly	baked	375472
+yogurt	sauce	375479
+place	better	375463
+great	food	375463
+better	place	375463
+great	service	375469
+people	say	375461
+large	pretty	375479
+two	thumbs	375469
+service	great	375469
+thumbs	two	375469
+different	restaurant	375474
+good	atmosphere	375460
+parking	street	375475
+food	great	375463
+absolutely	delicious	375464
+ordered	group	375464
+street	parking	375475
+baked	bread	375472
+place	gets	375469
+####508	4.0	375971	375975
+nice	subtle	375971
+ice	cream	375974
+cream	ice	375974
+balance	right	375975
+subtle	flavor	375971
+vanilla	ice	375974
+right	balance	375975
+flavors	subtle	375971
+braised	greens	375972
+subtle	flavors	375971
+####509	4.0	375976	375978
+place	favorite	375976
+favorite	place	375976
+####510	4.0	375979	375987
+greek	best	375985
+eat	variety	375986
+great	variety	375986
+variety	great	375986
+star	restaurant	375985
+looking	good	375983
+restaurant	star	375985
+king	good	375983
+octopus	salad	375981
+good	looking	375983
+greek	food	375985
+dinner	birthday	375982
+food	greek	375985
+birthday	dinner	375982
+salad	octopus	375981
+best	greek	375985
+####511	4.0	375988	375996
+wanted	place	375994
+alto	palo	375994
+alto	palo	375995
+slightly	different	375995
+bread	pita	375996
+pita	bread	375996
+notch	top	375988
+sister	restaurant	375994
+####504	1.0	375951	375959
+experience	dining	375957
+feel	guilty	375951
+higher	end	375954
+lamb	chops	375959
+chop	lamb	375959
+guilty	feel	375951
+heirloom	tomatoes	375953
+end	restaurant	375954
+chops	lamb	375959
+dining	experience	375957
+####505	2.0	375960	375964
+####506	4.0	375965	375966
+grilled	meatballs	375966
+####507	3.0	375967	375970
+braised	greens	375969
+tomato	based	375968
+fan	big	375967
+based	sauce	375968
+big	fan	375967
+sauce	based	375968
+####500	3.0	375917	375927
+place	amazing	375926
+back	coming	375924
+good	friends	375917
+ago	years	375924
+evening	saturday	375917
+attentive	extremely	375920
+right	feel	375920
+coming	back	375924
+bay	area	375922
+years	ago	375924
+rotisserie	pork	375921
+friend	good	375917
+amazing	place	375926
+friends	good	375917
+extremely	attentive	375920
+area	bay	375922
+feel	right	375920
+saturday	evening	375917
+####501	2.0	375933	375935
+cakes	zucchini	375935
+octopus	salad	375934
+red	octopus	375934
+salad	octopus	375934
+####502	5.0	375936	375940
+spot	lunch	375937
+nice	place	375937
+place	nice	375937
+ice	place	375937
+greek	yogurt	375939
+bay	area	375938
+greek	food	375938
+lunch	spot	375937
+salad	greek	375939
+food	greek	375938
+greek	salad	375939
+area	bay	375938
+####503	5.0	375941	375950
+amazing	food	375946
+type	different	375947
+business	dinner	375945
+tomato	sauce	375949
+different	types	375947
+bread	pita	375947
+pita	bread	375947
+dinner	business	375945
+food	amazing	375946
+sauce	tomato	375949
+staff	attentive	375946
+greek	coffee	375942
+coffee	greek	375942
+types	different	375947
+attentive	staff	375946
+####496	4.0	375893	375897
+lamb	skewer	375896
+excellent	ice	375897
+perfection	cooked	375894
+excellent	service	375897
+nice	texture	375893
+good	pretty	375896
+lamb	shank	375894
+pretty	good	375896
+tender	super	375895
+super	tender	375895
+texture	nice	375893
+shank	lamb	375894
+####497	4.0	375898	375905
+large	parties	375900
+highly	suggest	375903
+food	incredible	375899
+alto	palo	375899
+good	meal	375900
+best	steak	375904
+service	experience	375899
+place	best	375899
+lamb	shank	375903
+greek	place	375904
+order	dinner	375903
+bay	area	375899
+parties	large	375900
+incredible	food	375899
+sauce	delicious	375903
+meal	good	375900
+suggest	highly	375903
+best	place	375899
+delicious	sauce	375903
+area	bay	375899
+sister	restaurant	375899
+shank	lamb	375903
+####498	1.0	375906	375909
+favorite	spots	375907
+great	place	375909
+favorite	spot	375907
+eat	place	375909
+greek	food	375906
+place	great	375909
+spots	favorite	375907
+food	greek	375906
+fan	big	375908
+big	fan	375908
+####499	5.0	375910	375916
+great	restaurant	375916
+great	restaurants	375916
+restaurants	great	375916
+star	five	375911
+big	restaurant	375915
+ive	star	375911
+five	star	375911
+octopus	appetizer	375912
+####493	4.0	375871	375876
+definitely	did	375872
+greek	food	375871
+definitely	didn	375872
+food	greek	375871
+####492	3.0	375860	375870
+red	dessert	375868
+friendly	waiter	375865
+brown	butter	375860
+good	soooo	375860
+atmosphere	great	375865
+great	experience	375864
+butternut	squash	375860
+dinner	great	375863
+experience	great	375864
+atmosphere	nice	375861
+nice	atmosphere	375861
+great	food	375861
+soooo	good	375860
+eat	food	375861
+eat	experience	375864
+great	atmosphere	375865
+ice	atmosphere	375861
+food	great	375861
+great	dinner	375863
+eat	dinner	375863
+feel	did	375862
+did	feel	375862
+####495	3.0	375885	375892
+romantic	date	375890
+great	place	375890
+favorite	restaurant	375886
+rehearsal	dinner	375891
+restaurants	favorite	375886
+amazing	simply	375892
+worth	making	375891
+absolutely	amazing	375888
+value	great	375892
+amazing	absolutely	375888
+greek	food	375888
+favorite	restaurants	375886
+place	great	375890
+food	greek	375888
+great	value	375892
+simply	amazing	375892
+####494	5.0	375877	375884
+occasion	special	375884
+red	wine	375879
+bottles	two	375879
+orders	side	375879
+wine	red	375879
+side	orders	375879
+lovely	restaurant	375882
+tried	two	375877
+special	occasions	375884
+two	tried	375877
+valet	parking	375883
+red	nicely	375879
+occasions	special	375884
+####489	3.0	375846	375849
+good	location	375849
+best	desserts	375847
+dessert	best	375847
+####488	1.0	375838	375845
+ice	way	375840
+hot	sand	375843
+pretty	cool	375843
+nice	way	375840
+way	nice	375840
+recommend	definitely	375839
+definitely	recommend	375839
+greek	coffee	375842
+coffee	greek	375842
+cool	pretty	375843
+####491	5.0	375855	375859
+pan	fried	375859
+nice	dinner	375858
+alto	palo	375856
+grilled	pita	375859
+lamb	chops	375855
+different	sauces	375859
+dinner	nice	375858
+fried	kefalograviera	375859
+different	sauce	375859
+top	spot	375857
+chops	lamb	375855
+sauces	different	375859
+pita	grilled	375859
+####490	3.0	375850	375854
+great	bar	375850
+friendly	server	375853
+goat	stew	375852
+bar	great	375850
+stuff	good	375854
+good	stuff	375854
+####485	1.0	375769	375770
+eat	atmosphere	375769
+atmosphere	great	375769
+food	delicious	375769
+great	atmosphere	375769
+delicious	food	375769
+####484	1.0	375760	375768
+amazing	food	375760
+francisco	san	375761
+francisco	san	375762
+going	back	375767
+back	soon	375767
+grilled	calamari	375763
+cakes	zucchini	375763
+brought	waiter	375764
+back	going	375767
+dish	favorite	375766
+wine	great	375760
+great	service	375760
+service	great	375760
+calamari	grilled	375763
+soon	back	375767
+slow	bit	375764
+soo	back	375767
+food	amazing	375760
+favorite	dish	375766
+great	wine	375760
+waiter	brought	375764
+####487	4.0	375780	375788
+citrus	flavor	375781
+tuna	ahi	375786
+melted	cheese	375783
+feta	cheese	375783
+ahi	tuna	375786
+cheese	melted	375783
+cheese	feta	375783
+olive	oil	375781
+####486	5.0	375771	375779
+favorite	two	375779
+made	finally	375771
+calamari	fried	375777
+late	dinner	375771
+fried	calamari	375777
+finally	made	375771
+roasted	oven	375777
+roasted	prawns	375777
+back	come	375771
+dinner	late	375771
+wood	oven	375777
+two	favorite	375779
+####481	5.0	375736	375743
+higher	side	375743
+eat	service	375736
+place	good	375742
+good	food	375742
+food	good	375742
+goat	stew	375738
+great	service	375736
+service	great	375736
+insanely	good	375738
+menu	lunch	375737
+dinner	menu	375737
+good	place	375742
+####480	4.0	375732	375735
+small	plates	375734
+pretty	great	375733
+plates	small	375734
+great	pretty	375733
+####483	5.0	375750	375759
+grilled	octopus	375754
+ending	perfect	375750
+ending	perfect	375759
+octopus	grilled	375754
+grilled	calamari	375754
+fantastic	place	375751
+perfect	service	375753
+perfect	ending	375750
+perfect	ending	375759
+service	perfect	375753
+place	fantastic	375751
+####482	4.0	375744	375749
+excellent	meal	375746
+best	lamb	375744
+sit	parking	375745
+situation	parking	375745
+lamb	best	375744
+lamb	chops	375744
+chop	lamb	375744
+parking	situation	375745
+blood	orange	375749
+orange	blood	375749
+chops	lamb	375744
+king	situation	375745
+####550	4.0	376259	376265
+dipping	sauce	376265
+awesome	side	376260
+greek	food	376259
+try	things	376264
+calamari	stuffed	376265
+stuffed	calamari	376265
+salad	greek	376265
+feta	cheese	376265
+food	greek	376259
+sauce	dipping	376265
+cheese	feta	376265
+greek	salad	376265
+####551	4.0	376266	376271
+wine	list	376271
+good	food	376268
+good	food	376270
+food	good	376268
+greek	yogurt	376266
+monday	night	376270
+pricey	bit	376268
+list	wine	376271
+crazy	busy	376270
+busy	crazy	376270
+yogurt	greek	376266
+bit	pricey	376268
+####548	1.0	376252	376256
+eat	wine	376252
+selection	wine	376252
+wine	selection	376252
+wine	great	376252
+check	came	376256
+came	check	376256
+free	dessert	376253
+great	wine	376252
+####549	4.0	376257	376258
+tonight	dinner	376258
+great	experience	376257
+definitely	worth	376257
+experience	great	376257
+worth	definitely	376257
+probably	wont	376257
+####546	4.0	376246	376248
+side	note	376246
+note	side	376246
+####547	4.0	376249	376251
+boyfriend	got	376250
+cooked	perfectly	376251
+lamb	chops	376250
+perfectly	cooked	376251
+special	fish	376249
+chops	lamb	376250
+fish	special	376249
+got	boyfriend	376250
+####544	5.0	376236	376239
+great	place	376238
+eat	place	376238
+eat	date	376238
+place	date	376238
+perfectly	tender	376236
+place	great	376238
+great	date	376238
+tender	perfectly	376236
+date	place	376238
+####545	5.0	376240	376245
+grilled	octopus	376241
+part	favorite	376243
+heirloom	tomato	376244
+extremely	good	376240
+octopus	grilled	376241
+absolute	favorite	376243
+favorite	absolute	376243
+good	extremely	376240
+notch	top	376245
+favorite	part	376243
+####558	4.0	376336	376340
+tasty	food	376336
+cakes	zucchini	376338
+calamari	stuffed	376340
+stuffed	calamari	376340
+food	tasty	376336
+####559	4.0	376341	376345
+cake	chocolate	376345
+late	cake	376345
+chocolate	cake	376345
+ate	cake	376345
+salad	greek	376341
+greek	salad	376341
+greek	coffee	376345
+coffee	greek	376345
+####556	4.0	376303	376326
+service	staff	376312
+special	occasion	376317
+private	room	376314
+occasion	special	376317
+recommend	highly	376318
+highly	recommend	376318
+full	half	376306
+private	rooms	376313
+looks	delicious	376303
+main	dining	376303
+lamb	chops	376315
+beautiful	restaurant	376311
+chop	lamb	376315
+room	dining	376303
+calamari	stuffed	376324
+dining	room	376303
+stuffed	calamari	376324
+staff	service	376312
+excellent	food	376314
+half	full	376306
+pricey	bit	376317
+chops	lamb	376315
+feel	good	376312
+good	feel	376312
+greek	coffee	376304
+coffee	greek	376304
+bit	pricey	376317
+####557	5.0	376327	376335
+things	two	376332
+huge	place	376332
+best	restaurant	376334
+thin	two	376332
+two	things	376332
+place	huge	376332
+restaurant	best	376334
+####554	4.0	376287	376292
+kalamata	pita	376289
+thin	super	376290
+tomato	sauce	376291
+thin	pizza	376290
+roasted	oven	376289
+roasted	prawns	376289
+decently	sized	376292
+super	thin	376290
+caramelized	onions	376290
+kokkari	potatoes	376289
+seasoned	nicely	376291
+wood	oven	376289
+sauce	tomato	376291
+nicely	seasoned	376291
+####555	4.0	376293	376302
+amazingly	flavor	376302
+special	daily	376294
+order	usually	376294
+good	pretty	376297
+pretty	good	376297
+goat	stew	376295
+goat	stew	376299
+goat	stew	376301
+soup	chicken	376298
+usually	order	376294
+tender	meat	376302
+meat	tender	376302
+daily	special	376294
+chicken	soup	376298
+people	two	376293
+two	people	376293
+flavorful	sauce	376302
+####552	4.0	376272	376281
+amazing	food	376276
+style	dining	376280
+sure	make	376281
+great	experience	376272
+recommend	trying	376280
+main	dish	376280
+eat	job	376273
+experience	great	376272
+things	good	376274
+great	food	376272
+eat	food	376272
+living	room	376277
+enjoy	truly	376279
+eat	experience	376272
+couple	times	376274
+job	great	376273
+large	room	376277
+style	tapas	376280
+great	job	376273
+food	great	376272
+main	dishes	376280
+trying	recommend	376280
+food	amazing	376276
+good	things	376274
+times	couple	376274
+make	sure	376281
+tapas	style	376280
+####553	4.0	376282	376286
+grilled	octopus	376285
+octopus	grilled	376285
+octopus	salad	376285
+bay	area	376282
+salad	octopus	376285
+olive	oil	376285
+area	bay	376282
+####567	4.0	376410	376418
+away	took	376412
+words	two	376416
+fried	zucchini	376411
+two	words	376416
+cakes	zucchini	376411
+natural	flavors	376412
+great	experience	376415
+experience	overall	376415
+lamb	shank	376416
+experience	great	376415
+took	away	376412
+eat	experience	376415
+overall	experience	376415
+natural	flavor	376412
+shank	lamb	376416
+####566	2.0	376407	376409
+lamb	shanks	376409
+tender	meat	376409
+meat	tender	376409
+dang	good	376407
+####565	4.0	376393	376406
+mall	portions	376404
+ice	cream	376401
+cream	ice	376401
+chicken	breast	376398
+half	chicken	376398
+baklava	ice	376401
+breast	chicken	376398
+chicken	half	376398
+small	portions	376404
+good	food	376393
+chop	lamb	376406
+lamb	chop	376406
+dry	chicken	376398
+lamb	skewers	376394
+portions	small	376404
+portion	small	376404
+basil	chicken	376397
+chicken	dry	376398
+####564	3.0	376382	376392
+great	restaurant	376388
+special	occasion	376392
+come	definitely	376392
+occasion	special	376392
+ice	cream	376384
+cream	ice	376384
+vanilla	ice	376384
+great	place	376389
+great	place	376391
+meal	delicious	376388
+groups	large	376389
+restaurant	great	376388
+pistachio	ice	376384
+delicious	meal	376388
+place	great	376391
+place	great	376389
+salty	side	376386
+definitely	come	376392
+bass	sea	376382
+bass	sea	376383
+olive	oil	376382
+large	groups	376389
+####563	4.0	376369	376381
+came	right	376373
+recommended	highly	376380
+specials	daily	376372
+got	husband	376380
+highly	recommended	376380
+eat	flavor	376376
+great	flavor	376376
+cooked	perfectly	376381
+right	came	376373
+away	right	376373
+overall	dish	376378
+night	friday	376369
+late	pretty	376369
+perfectly	cooked	376381
+texture	right	376377
+friday	night	376369
+night	went	376369
+right	texture	376377
+flavor	great	376376
+right	away	376373
+pretty	late	376369
+husband	got	376380
+####562	2.0	376360	376368
+worth	effort	376367
+great	wait	376361
+bring	people	376363
+orgasmic	experience	376366
+wait	staff	376361
+staff	wait	376361
+reasonably	priced	376362
+priced	reasonably	376362
+greek	coffee	376360
+coffee	greek	376360
+####561	5.0	376351	376359
+ice	cream	376355
+cream	ice	376355
+definitely	getting	376355
+perfection	cooked	376352
+lamb	chops	376352
+main	meal	376354
+bar	area	376351
+goat	stew	376358
+pistachio	ice	376355
+entire	bowl	376353
+chops	lamb	376352
+greek	coffee	376354
+area	bar	376351
+coffee	greek	376354
+filo	dough	376355
+####560	3.0	376346	376350
+####575	5.0	376456	376487
+restaurant	good	376468
+good	restaurant	376468
+experience	dining	376486
+special	occasion	376485
+occasion	special	376485
+cakes	zucchini	376465
+pricier	side	376463
+dining	best	376486
+burger	lamb	376466
+awesome	sauce	376479
+good	pretty	376473
+rest	good	376468
+pretty	good	376473
+great	service	376462
+main	course	376478
+best	dining	376486
+service	great	376462
+greek	food	376473
+taken	care	376484
+sauce	awesome	376479
+dinner	birthday	376485
+lamb	burger	376466
+food	greek	376473
+birthday	dinner	376485
+recommend	definitely	376485
+feeling	left	376463
+bass	sea	376474
+definitely	recommend	376485
+left	feeling	376463
+dining	experience	376486
+####574	4.0	376451	376455
+lamb	dish	376452
+####573	3.0	376444	376450
+grilled	octopus	376445
+rave	reviews	376449
+good	start	376448
+worth	money	376445
+cakes	zucchini	376445
+veggie	dishes	376445
+lamb	chops	376449
+expensive	restaurant	376445
+money	worth	376445
+veggie	dish	376445
+chops	lamb	376449
+texture	perfect	376446
+perfect	texture	376446
+start	good	376448
+####572	4.0	376438	376443
+good	right	376441
+####571	4.0	376434	376437
+late	minutes	376437
+lamb	meatballs	376435
+tomato	sauce	376435
+minutes	late	376437
+grilled	lamb	376435
+greek	yogurt	376435
+meatballs	lamb	376435
+lamb	grilled	376435
+sauce	tomato	376435
+yogurt	greek	376435
+####570	4.0	376426	376432
+definitely	return	376431
+small	plates	376427
+return	definitely	376431
+plates	small	376427
+####569	5.0	376421	376425
+####568	4.0	376419	376420
+####516	5.0	376030	376031
+####517	5.0	376032	376035
+####518	5.0	376039	376041
+bonus	points	376041
+romantic	dinner	376041
+points	bonus	376041
+####519	5.0	376042	376049
+fried	zucchini	376048
+food	incredible	376044
+cakes	zucchini	376048
+bread	pita	376048
+various	sauce	376048
+good	recommendations	376043
+pita	bread	376048
+greek	food	376045
+veggie	dish	376046
+incredible	food	376044
+food	greek	376045
+part	best	376048
+best	part	376048
+####512	4.0	375997	376000
+great	variety	375998
+variety	great	375998
+definitely	deserves	376000
+star	reviews	376000
+deserves	definitely	376000
+####513	4.0	376001	376003
+friendly	server	376001
+foodie	friend	376002
+best	food	376002
+####514	5.0	376004	376009
+ice	cream	376004
+cream	ice	376004
+fraiche	creme	376004
+bad	meal	376008
+meal	bad	376008
+meyer	lemon	376004
+greek	coffee	376004
+coffee	greek	376004
+####515	2.0	376010	376029
+make	reservations	376026
+community	table	376023
+private	room	376023
+recommended	highly	376018
+reservations	make	376026
+highly	recommended	376018
+bread	pita	376019
+lamb	chops	376015
+chop	lamb	376015
+pita	bread	376019
+appetizer	menu	376019
+great	selection	376012
+chops	lamb	376015
+selection	great	376012
+####524	5.0	376097	376101
+people	sitting	376097
+sitting	people	376097
+loud	place	376100
+place	loud	376100
+####525	3.0	376102	376106
+make	reservations	376106
+better	places	376104
+reservations	make	376106
+bottom	line	376104
+places	better	376104
+good	food	376104
+group	large	376102
+better	place	376104
+large	group	376102
+####526	5.0	376107	376109
+####527	4.0	376110	376118
+grilled	octopus	376110
+octopus	grilled	376110
+ice	touch	376112
+perfectly	grilled	376110
+touch	nice	376112
+bread	pita	376110
+lamb	shank	376110
+special	evening	376118
+pita	bread	376110
+greek	food	376112
+great	waiter	376115
+fresh	lemon	376110
+fantastic	food	376111
+food	greek	376112
+grilled	perfectly	376110
+nice	touch	376112
+shank	lamb	376110
+####520	4.0	376050	376057
+going	back	376051
+back	soon	376051
+ago	years	376056
+watching	people	376050
+back	going	376051
+dinner	full	376053
+years	ago	376056
+soon	back	376051
+full	dinner	376053
+eat	bite	376054
+best	seat	376050
+####521	5.0	376058	376084
+grilled	octopus	376074
+recommended	highly	376080
+octopus	grilled	376074
+able	finally	376070
+attentive	extremely	376077
+better	restaurant	376079
+great	place	376070
+greek	cuisine	376072
+great	things	376070
+highly	recommended	376080
+dining	fine	376072
+bread	pita	376068
+lamb	chops	376074
+lamb	chops	376084
+definitely	great	376076
+better	restaurants	376079
+selection	wine	376075
+chop	lamb	376074
+grilled	lamb	376074
+definitely	better	376071
+definitely	better	376079
+friends	new	376058
+better	definitely	376071
+better	definitely	376079
+wine	selection	376075
+things	great	376070
+red	appetizers	376074
+better	experience	376071
+top	place	376069
+pita	bread	376068
+lamb	grilled	376074
+place	perfect	376065
+place	great	376070
+chops	lamb	376074
+chops	lamb	376084
+new	friends	376058
+different	dip	376068
+pita	grilled	376074
+perfect	place	376065
+extremely	attentive	376077
+probably	best	376083
+finally	able	376070
+lamb	souvlaki	376066
+greek	coffee	376068
+coffee	greek	376068
+fine	dining	376072
+####522	4.0	376085	376086
+octopus	appetizer	376086
+####523	5.0	376087	376096
+large	table	376089
+menu	dessert	376093
+dessert	menu	376093
+table	large	376089
+####533	5.0	376148	376160
+grilled	octopus	376160
+couple	bites	376159
+pudding	rice	376149
+zucchini	cake	376157
+ice	cream	376157
+reservations	made	376155
+cream	ice	376157
+served	food	376152
+made	reservations	376155
+cake	chocolate	376149
+cake	chocolate	376148
+cake	chocolate	376150
+octopus	grilled	376160
+back	came	376160
+rice	pudding	376149
+fraiche	creme	376157
+bites	couple	376159
+solid	food	376152
+looking	food	376159
+came	back	376160
+chocolate	cake	376148
+chocolate	cake	376149
+chocolate	cake	376150
+octopus	appetizer	376160
+perfect	dessert	376149
+food	served	376152
+flourless	chocolate	376148
+food	solid	376152
+long	side	376149
+####532	3.0	376140	376147
+sat	night	376146
+food	came	376147
+fried	zucchini	376142
+recommended	highly	376141
+arrive	early	376145
+grilled	calamari	376143
+highly	recommended	376141
+perfect	timing	376146
+night	sat	376146
+food	delicious	376140
+bar	seats	376146
+weird	kinda	376143
+mint	yogurt	376142
+great	service	376140
+service	great	376140
+calamari	stuffed	376143
+small	portion	376144
+calamari	grilled	376143
+stuffed	calamari	376143
+seats	bar	376146
+delicious	food	376140
+kinda	weird	376143
+portion	small	376144
+came	food	376147
+####535	5.0	376189	376190
+entire	experience	376190
+people	different	376190
+different	people	376190
+####534	2.0	376161	376188
+service	made	376173
+private	room	376172
+private	room	376179
+best	dishes	376185
+alto	palo	376184
+pretty	rich	376181
+pretty	awesome	376162
+wait	people	376173
+service	attentive	376170
+sure	make	376178
+dishes	best	376185
+fried	cheese	376174
+enjoy	meal	376179
+packed	place	376188
+lamb	chops	376185
+come	back	376165
+chop	lamb	376185
+chop	lamb	376176
+lamb	chop	376176
+attentive	service	376170
+place	packed	376188
+back	come	376165
+bay	area	376184
+took	waiter	376178
+waiter	took	376178
+excellent	food	376170
+best	meal	376183
+dish	best	376185
+chops	lamb	376185
+awesome	pretty	376162
+make	sure	376178
+meal	best	376183
+cheese	fried	376174
+people	wait	376173
+area	bay	376184
+best	dish	376185
+####529	3.0	376122	376125
+zucchini	cake	376122
+zucchini	cake	376124
+sauce	yogurt	376125
+special	daily	376125
+sandwich	pork	376125
+two	dish	376123
+yogurt	sauce	376125
+pork	sandwich	376125
+daily	special	376125
+####528	4.0	376119	376121
+come	back	376120
+business	lunch	376119
+back	come	376120
+lunch	business	376119
+####531	3.0	376137	376139
+happy	birthday	376137
+birthday	happy	376137
+####530	5.0	376126	376136
+pudding	rice	376129
+pudding	rice	376130
+dishes	three	376128
+sauce	yogurt	376126
+previous	review	376133
+sure	made	376136
+made	sure	376136
+rice	pudding	376129
+rice	pudding	376130
+three	dishes	376128
+yogurt	sauce	376126
+great	service	376131
+service	great	376131
+ice	great	376131
+people	two	376128
+two	people	376128
+best	seat	376136
+three	dish	376128
+####541	4.0	376225	376227
+compliment	great	376225
+great	compliment	376225
+eat	compliment	376225
+meal	great	376225
+come	back	376227
+back	come	376227
+great	meal	376225
+eat	meal	376225
+####540	5.0	376219	376224
+different	things	376220
+sea	grilled	376223
+grilled	sea	376223
+things	different	376220
+order	did	376224
+did	order	376224
+bass	sea	376223
+####543	4.0	376231	376235
+star	five	376232
+stars	five	376232
+lamb	dish	376235
+give	five	376232
+ive	stars	376232
+five	stars	376232
+####542	4.0	376228	376230
+fantastic	place	376228
+care	took	376229
+took	care	376229
+place	fantastic	376228
+####537	4.0	376198	376203
+veggies	fresh	376201
+fresh	veggies	376201
+####536	2.0	376191	376197
+steamed	veggies	376192
+grilled	fish	376192
+fried	cheese	376193
+living	room	376196
+fish	grilled	376192
+ways	order	376191
+cheese	fried	376193
+olive	oil	376192
+####539	3.0	376211	376218
+crowded	pretty	376212
+pretty	crowded	376212
+fried	cheese	376218
+bar	menu	376212
+top	two	376217
+top	two	376211
+pretty	gets	376212
+two	top	376211
+two	top	376217
+cheese	fried	376218
+gets	pretty	376212
+####538	5.0	376204	376210
+times	good	376207
+good	times	376207
+top	two	376210
+two	top	376210
+####610	4.0	376779	376787
+ice	cream	376780
+cream	ice	376780
+nice	experience	376779
+ice	touch	376783
+touch	nice	376783
+happy	birthday	376782
+experience	nice	376779
+pistachio	ice	376780
+birthday	happy	376782
+nice	touch	376783
+greek	coffee	376784
+coffee	greek	376784
+ice	experience	376779
+####611	4.0	376788	376789
+####608	5.0	376769	376770
+####609	3.0	376771	376778
+greek	wine	376777
+greek	wine	376778
+dipping	sauce	376772
+lamb	meat	376775
+eye	steak	376773
+part	best	376771
+sauce	dipping	376772
+best	parts	376771
+####614	2.0	376801	376803
+ice	cream	376801
+cream	ice	376801
+recommend	highly	376802
+highly	recommend	376802
+excellent	experience	376801
+baklava	ice	376801
+experience	overall	376801
+overall	experience	376801
+####615	5.0	376804	376809
+eggplant	dip	376804
+greek	restaurant	376809
+red	wine	376807
+pickled	veggies	376805
+bread	pita	376805
+wine	red	376807
+restaurant	greek	376809
+goat	stew	376807
+pita	bread	376805
+veggies	pickled	376805
+####612	4.0	376791	376793
+recommended	highly	376791
+highly	recommended	376791
+####613	5.0	376794	376800
+wine	list	376796
+back	came	376800
+came	back	376800
+great	sense	376799
+list	wine	376796
+####618	4.0	376831	376840
+pudding	rice	376832
+pan	fried	376838
+braised	lamb	376840
+rice	pudding	376832
+special	requests	376834
+lamb	shank	376840
+fried	kefalograviera	376838
+dinner	birthday	376833
+birthday	dinner	376833
+shank	lamb	376840
+####619	4.0	376841	376849
+barely	finish	376845
+best	places	376847
+great	place	376849
+leave	room	376844
+eat	place	376849
+room	leave	376844
+great	greek	376849
+greek	food	376849
+place	eat	376849
+place	great	376849
+food	greek	376849
+places	best	376847
+best	place	376847
+####616	5.0	376810	376829
+pudding	rice	376813
+pudding	rice	376821
+probably	won	376812
+wait	service	376815
+cakes	zucchini	376822
+home	run	376814
+rice	pudding	376813
+rice	pudding	376821
+huge	fan	376822
+run	home	376814
+semolina	custard	376814
+bechamel	sauce	376811
+lamb	riblets	376822
+main	courses	376826
+fan	huge	376822
+####617	5.0	376830	0
+####622	5.0	376869	376876
+sweet	super	376872
+greek	food	376870
+parking	street	376871
+food	greek	376870
+super	sweet	376872
+street	parking	376871
+####623	2.0	376877	376893
+full	meal	376891
+make	reservations	376882
+meal	full	376891
+francisco	san	376877
+reservations	make	376882
+delicious	flavor	376893
+despite	wait	376884
+items	menu	376886
+good	service	376883
+nice	place	376877
+delicious	flavors	376893
+fried	cheese	376885
+lamb	chops	376882
+probably	going	376891
+good	food	376885
+place	nice	376877
+come	back	376891
+service	good	376883
+back	come	376891
+looked	good	376886
+good	looked	376886
+chops	lamb	376882
+menu	items	376886
+cheese	fried	376885
+flavors	delicious	376893
+amazing	cheese	376885
+olive	oil	376892
+####620	2.0	376850	376853
+francisco	san	376850
+cooked	perfectly	376852
+dish	favorite	376850
+perfectly	cooked	376852
+riblets	lamb	376850
+lamb	riblets	376850
+favorite	dish	376850
+####621	4.0	376854	376868
+greek	best	376867
+rave	reviews	376854
+different	types	376854
+visit	return	376865
+good	taste	376856
+return	visit	376865
+lamb	shank	376854
+lamb	shank	376855
+taste	good	376856
+main	course	376854
+greek	food	376867
+food	greek	376867
+worth	eating	376858
+two	different	376854
+eating	worth	376858
+best	greek	376867
+shank	lamb	376854
+shank	lamb	376855
+types	different	376854
+different	two	376854
+####627	5.0	376926	376963
+grilled	octopus	376948
+special	occasion	376962
+green	beans	376928
+occasion	special	376962
+food	comes	376943
+recommend	highly	376938
+highly	recommend	376938
+octopus	grilled	376948
+better	way	376926
+comes	food	376943
+special	daily	376948
+grilled	fish	376930
+grilled	fish	376948
+cooked	meat	376927
+wait	staff	376944
+huge	restaurant	376945
+regular	basis	376941
+way	better	376926
+place	perfect	376939
+notch	top	376943
+notch	top	376946
+fish	grilled	376930
+fish	grilled	376948
+meat	cooked	376927
+beans	green	376928
+super	cool	376956
+daily	special	376948
+perfect	place	376939
+cool	super	376956
+soup	rice	376948
+chicken	rice	376948
+rice	soup	376948
+perfect	location	376936
+roasted	tomatoes	376928
+####626	5.0	376906	376925
+grilled	octopus	376919
+bad	review	376908
+zucchini	cake	376917
+delicious	absolutely	376919
+delicious	absolutely	376922
+bottles	two	376912
+years	couple	376921
+octopus	grilled	376919
+ago	years	376921
+couple	years	376921
+perfectly	grilled	376922
+getting	hungry	376923
+card	credit	376915
+dinner	great	376915
+hungry	getting	376923
+years	ago	376921
+ate	dinner	376923
+great	dinner	376915
+absolutely	delicious	376919
+absolutely	delicious	376922
+grilled	perfectly	376922
+dinner	place	376913
+slightly	chewy	376922
+####625	4.0	376899	376905
+decent	service	376905
+olive	oil	376902
+####624	5.0	376894	376898
+bass	sea	376896
+####631	4.0	376977	376986
+experience	dining	376983
+open	air	376983
+best	restaurants	376978
+favorite	dining	376979
+restaurants	best	376978
+food	fantastic	376977
+braised	lamb	376985
+place	good	376981
+lamb	shank	376985
+impeccable	service	376982
+rest	best	376978
+fantastic	food	376977
+best	restaurant	376978
+dining	experience	376983
+shank	lamb	376985
+restaurant	best	376978
+good	place	376981
+####630	5.0	376973	376976
+lunch	date	376974
+lunch	special	376974
+lunch	special	376976
+meal	nice	376973
+special	lunch	376974
+special	lunch	376976
+nice	meal	376973
+favorite	lunch	376975
+####629	5.0	376969	376972
+places	favorite	376971
+favorite	places	376971
+special	occasions	376972
+favorite	place	376971
+occasions	special	376972
+####628	1.0	376964	376968
+decent	price	376968
+artichoke	grilled	376967
+grilled	artichoke	376967
+natural	flavors	376967
+quality	food	376967
+juice	lemon	376965
+lemon	juice	376965
+great	service	376968
+service	great	376968
+food	quality	376967
+mustard	greens	376966
+olive	oil	376965
+natural	flavor	376967
+####635	5.0	376998	0
+####634	5.0	376993	376997
+zucchini	cake	376996
+red	mine	376997
+red	duck	376996
+lamb	chops	376996
+hubby	ordered	376996
+come	back	376993
+lamb	shank	376994
+great	food	376995
+back	come	376993
+chops	lamb	376996
+shank	lamb	376994
+####633	3.0	376991	376992
+####632	5.0	376987	376990
+grilled	octopus	376988
+amount	right	376989
+right	amount	376989
+brussels	sprouts	376989
+blood	orange	376990
+orange	blood	376990
+lamb	riblets	376988
+olive	oil	376988
+####639	5.0	377008	377022
+grilled	octopus	377014
+super	delicious	377018
+super	delicious	377020
+zucchini	cake	377008
+back	coming	377010
+octopus	grilled	377014
+main	dish	377017
+main	dish	377020
+lamb	chops	377020
+delicious	super	377018
+delicious	super	377020
+love	place	377011
+coming	back	377010
+baked	feta	377008
+salad	greek	377009
+feta	cheese	377008
+way	best	377019
+chops	lamb	377020
+cheese	feta	377008
+greek	salad	377009
+best	way	377019
+####638	3.0	377004	377007
+come	definitely	377006
+come	back	377006
+back	come	377006
+definitely	come	377006
+####637	5.0	377000	377003
+ice	cream	377001
+ice	cream	377002
+ice	cream	377003
+cream	ice	377002
+cream	ice	377001
+cream	ice	377003
+probably	order	377003
+####636	4.0	376999	0
+####576	3.0	376488	376489
+real	star	376489
+####577	5.0	376490	376508
+traditional	dishes	376505
+traditional	dishes	376507
+community	table	376503
+greek	best	376496
+wine	list	376507
+kalamata	pita	376491
+fabulous	service	376495
+greek	cuisine	376490
+best	service	376507
+huge	fan	376500
+house	made	376492
+lamb	chops	376493
+service	best	376507
+grilled	lamb	376493
+traditional	dish	376505
+traditional	dish	376507
+wine	great	376507
+caramelized	onions	376491
+greek	food	376496
+greek	food	376504
+wonderful	food	376495
+lamb	grilled	376493
+salad	greek	376492
+food	wonderful	376495
+food	greek	376504
+food	greek	376496
+chops	lamb	376493
+list	wine	376507
+greek	salad	376492
+best	greek	376496
+made	house	376492
+back	asap	376501
+fan	huge	376500
+noise	level	376502
+great	wine	376507
+####578	4.0	376509	376514
+gets	crowded	376510
+beautiful	people	376510
+lamb	chops	376514
+chop	lamb	376514
+crowded	gets	376510
+chops	lamb	376514
+####579	4.0	376515	376525
+experience	dining	376522
+grilled	octopus	376523
+probably	won	376516
+octopus	grilled	376523
+service	amazing	376525
+grilled	fish	376524
+good	food	376525
+food	quality	376519
+amazing	service	376525
+fish	grilled	376524
+dining	experience	376522
+####580	5.0	376526	376533
+greek	restaurant	376531
+greek	best	376531
+spot	great	376533
+great	spot	376533
+eat	spot	376533
+restaurant	greek	376531
+great	food	376528
+food	great	376528
+best	greek	376531
+####581	5.0	376534	376539
+greek	wines	376537
+lamb	chops	376536
+chop	lamb	376536
+chops	lamb	376536
+####582	5.0	376540	0
+####583	5.0	376541	376552
+amazing	food	376542
+come	definitely	376545
+ice	cream	376544
+cream	ice	376544
+excellent	service	376552
+semolina	custard	376549
+lamb	chops	376543
+bday	dinner	376541
+rib	eye	376547
+come	back	376545
+eye	rib	376547
+riblets	lamb	376546
+pistachio	ice	376544
+back	come	376545
+main	course	376547
+special	occassion	376545
+greek	food	376552
+food	greek	376552
+chops	lamb	376543
+definitely	come	376545
+food	amazing	376542
+lamb	riblets	376546
+olive	oil	376548
+filo	dough	376544
+####584	5.0	376553	376554
+place	amazing	376554
+francisco	san	376553
+fried	smelts	376554
+favourite	restaurant	376553
+amazing	place	376554
+special	occasions	376553
+occasions	special	376553
+####585	4.0	376555	376557
+####586	5.0	376558	376560
+wanted	place	376560
+love	place	376560
+####587	5.0	376561	0
+####588	5.0	376562	376568
+good	pretty	376566
+pretty	good	376566
+####589	4.0	376569	376572
+####590	2.0	376573	376639
+amazing	food	376613
+experience	dining	376631
+greek	restaurant	376588
+greek	best	376585
+francisco	san	376639
+level	new	376639
+pan	fried	376614
+ice	cream	376618
+sorely	disappointed	376611
+recommended	highly	376589
+cream	ice	376618
+recommend	highly	376582
+group	ordered	376607
+highly	recommend	376582
+tried	ive	376575
+tried	ive	376579
+reasonable	pretty	376624
+recommend	place	376582
+restaurant	favorite	376629
+perfection	cooked	376635
+attentive	extremely	376613
+grilled	pita	376575
+better	food	376628
+favorite	restaurant	376629
+highly	recommended	376589
+red	lamb	376615
+cooked	food	376635
+hot	sand	376604
+eat	service	376628
+fried	cheese	376614
+food	comfort	376635
+mediterranean	food	376585
+copious	amount	376611
+lamb	chops	376578
+lamb	chops	376586
+lamb	chops	376603
+new	level	376639
+duck	confit	376600
+comfort	food	376635
+good	experience	376583
+wait	staff	376613
+business	lunch	376637
+grilled	lamb	376603
+romantic	dinner	376637
+kokkari	sundae	376579
+kokkari	sundae	376580
+room	dining	376631
+lamb	shank	376573
+lamb	shank	376574
+lamb	shank	376577
+staff	wait	376613
+mint	yogurt	376592
+restaurant	greek	376588
+grilled	meatballs	376592
+huge	open	376631
+copious	amounts	376611
+pistachio	ice	376618
+food	better	376628
+comfortable	atmosphere	376613
+great	service	376628
+great	greek	376626
+pretty	reasonable	376624
+service	great	376628
+attentive	wait	376613
+greek	food	376639
+dining	room	376631
+high	ceilings	376631
+lamb	grilled	376603
+salad	greek	376586
+eats	good	376608
+confit	duck	376600
+ive	tried	376575
+ive	tried	376579
+food	greek	376639
+chops	lamb	376578
+chops	lamb	376586
+chops	lamb	376603
+pita	grilled	376575
+online	menu	376607
+ordered	group	376607
+food	amazing	376613
+extremely	attentive	376613
+lamb	souvlaki	376586
+greek	salad	376586
+valet	parking	376624
+clay	pot	376587
+greek	coffee	376604
+greek	coffee	376619
+cheese	fried	376614
+good	eats	376608
+ceilings	high	376631
+coffee	greek	376604
+coffee	greek	376619
+dining	experience	376631
+best	greek	376585
+shank	lamb	376577
+shank	lamb	376573
+shank	lamb	376574
+filo	dough	376618
+lunch	business	376637
+####591	5.0	376640	376644
+pan	fried	376643
+food	incredible	376640
+artichoke	grilled	376640
+grilled	artichoke	376640
+eat	service	376644
+meat	eaters	376641
+eaters	meat	376641
+hearts	artichoke	376640
+great	food	376644
+great	service	376644
+fried	kefalograviera	376643
+service	great	376644
+eat	food	376644
+incredible	food	376640
+eat	meat	376641
+eater	meat	376641
+food	great	376644
+special	night	376640
+####593	4.0	376649	376651
+excellent	service	376649
+packed	place	376650
+place	packed	376650
+monday	night	376650
+####592	4.0	376645	376648
+amazing	flavors	376645
+mediterranean	food	376646
+flavors	amazing	376645
+notch	top	376648
+####595	4.0	376689	376691
+####594	5.0	376652	376688
+ice	cream	376659
+cream	ice	376659
+side	sweet	376682
+beautiful	decor	376667
+best	things	376658
+area	dining	376669
+ago	years	376665
+fat	pork	376658
+rooms	dining	376670
+atmosphere	great	376666
+thin	best	376658
+visit	second	376664
+hot	sand	376659
+dining	rooms	376670
+dining	area	376669
+pork	crispy	376658
+main	dish	376686
+semolina	custard	376659
+larger	parties	376669
+lamb	chops	376677
+sweet	side	376682
+good	size	376678
+come	back	376663
+grilled	lamb	376656
+berkshire	pork	376657
+greek	place	376654
+greek	yogurt	376681
+pistachio	ice	376659
+pork	fat	376658
+back	come	376663
+second	visit	376664
+years	ago	376665
+old	world	376660
+calamari	stuffed	376656
+things	best	376658
+high	ceilings	376667
+stuffed	calamari	376656
+lamb	grilled	376656
+times	better	376655
+great	atmosphere	376666
+private	dining	376670
+chops	lamb	376677
+better	times	376655
+main	dishes	376686
+ears	ago	376665
+crispy	pork	376658
+delicious	pork	376673
+greek	coffee	376659
+ceilings	high	376667
+nice	server	376685
+coffee	greek	376659
+yogurt	greek	376681
+####597	5.0	376697	376701
+####596	4.0	376692	376696
+meal	favorite	376692
+foodie	friend	376693
+months	later	376693
+favorite	meal	376692
+####599	5.0	376704	376717
+minutes	ten	376717
+packed	completely	376715
+completely	packed	376715
+tastes	exactly	376711
+best	things	376712
+good	meal	376708
+single	table	376717
+restaurant	favorite	376709
+cakes	zucchini	376714
+ten	minutes	376717
+favorite	restaurant	376709
+love	place	376709
+exactly	tastes	376711
+favorite	second	376709
+good	desserts	376705
+things	best	376712
+meal	good	376708
+second	favorite	376709
+####598	5.0	376702	376703
+####601	5.0	376725	376730
+good	side	376729
+fellow	yelpers	376729
+dear	friend	376729
+side	good	376729
+####600	5.0	376718	376724
+great	restaurant	376718
+literally	melted	376721
+good	sign	376718
+mouth	literally	376721
+sign	good	376718
+restaurant	great	376718
+eat	restaurant	376718
+melted	literally	376721
+rest	great	376718
+####603	5.0	376741	376746
+size	good	376744
+cooked	perfect	376744
+cakes	zucchini	376742
+good	size	376744
+perfect	cooked	376744
+####602	5.0	376731	376737
+going	back	376735
+fabulous	place	376736
+back	going	376735
+####605	4.0	376751	376752
+please	try	376752
+####604	5.0	376747	376750
+grilled	calamari	376747
+job	good	376749
+calamari	grilled	376747
+roe	salmon	376750
+good	job	376749
+####607	5.0	376765	376768
+greek	place	376766
+####606	5.0	376753	376764
+greek	restaurant	376759
+perfection	cooked	376757
+semolina	custard	376755
+two	bites	376762
+restaurant	greek	376759
+greek	coffee	376755
+coffee	greek	376755
+bites	two	376762
+####681	1.0	377385	377393
+restaurant	favorite	377385
+favorite	restaurant	377385
+nice	place	377386
+cooked	perfectly	377391
+perfectly	cooked	377391
+place	nice	377386
+excellent	quality	377390
+reasonably	priced	377390
+priced	reasonably	377390
+####680	4.0	377346	377367
+different	completely	377360
+francisco	san	377358
+recommend	highly	377366
+completely	different	377360
+highly	recommend	377366
+best	table	377367
+experience	restaurant	377347
+restaurant	experience	377347
+affordable	price	377355
+great	food	377358
+cozy	atmosphere	377352
+seated	near	377367
+dinner	eat	377366
+food	great	377358
+dish	best	377358
+eat	dinner	377366
+finally	experience	377348
+different	level	377360
+main	courses	377358
+best	dish	377358
+####679	5.0	377335	377345
+special	occasion	377338
+occasion	special	377338
+recommend	highly	377340
+highly	recommend	377340
+eat	atmosphere	377336
+parking	find	377341
+gets	crowded	377340
+atmosphere	great	377336
+group	dinner	377343
+fried	cheese	377345
+gets	place	377340
+find	parking	377341
+crowded	gets	377340
+great	atmosphere	377336
+big	parties	377343
+part	big	377343
+parties	big	377343
+cheese	fried	377345
+pretty	pricey	377337
+place	gets	377340
+pricey	pretty	377337
+####678	5.0	377333	377334
+selection	wine	377333
+wine	selection	377333
+impressive	pretty	377333
+####677	3.0	377325	377332
+francisco	san	377330
+best	restaurants	377330
+restaurants	best	377330
+cooked	perfectly	377325
+beat	hard	377332
+lamb	chops	377331
+perfectly	cooked	377325
+sweet	corn	377326
+cherry	tomatoes	377327
+best	restaurant	377330
+chops	lamb	377331
+####676	3.0	377321	377324
+heirloom	tomatoes	377321
+feta	cheese	377321
+cheese	feta	377321
+####675	3.0	377318	377320
+####674	4.0	377314	377317
+service	staff	377315
+ice	staff	377315
+staff	service	377315
+####673	2.0	377306	377313
+great	overall	377311
+####672	1.0	377293	377305
+good	fish	377303
+lamb	meatballs	377302
+zucchini	cake	377301
+cakes	zucchini	377299
+did	try	377298
+fish	fresh	377303
+try	did	377298
+lamb	chops	377298
+fresh	fish	377303
+reasonable	prices	377295
+prices	reasonable	377295
+meatballs	lamb	377302
+chops	lamb	377298
+red	meat	377296
+meat	red	377296
+goat	cheese	377302
+fillet	fish	377304
+cakes	crab	377300
+####653	4.0	377114	377121
+grilled	octopus	377117
+mouth	good	377121
+octopus	grilled	377117
+salad	greek	377117
+greek	salad	377117
+olive	oil	377119
+####652	4.0	377113	0
+####655	5.0	377127	377132
+leisurely	meal	377130
+bread	pita	377132
+style	family	377130
+lamb	chops	377132
+chop	lamb	377132
+pita	bread	377132
+family	style	377130
+chops	lamb	377132
+main	courses	377131
+####654	5.0	377122	377126
+ending	perfect	377124
+prices	high	377126
+meal	perfect	377124
+perfect	meal	377124
+end	ordered	377122
+place	perfect	377125
+high	prices	377126
+perfect	ending	377124
+perfect	place	377125
+ordered	friend	377122
+friend	ordered	377122
+####649	4.0	377107	0
+####648	2.0	377093	377106
+ice	cream	377105
+food	coma	377101
+back	went	377096
+greek	cuisine	377094
+salty	goodness	377098
+creams	ice	377105
+fried	cheese	377098
+coma	food	377101
+favorite	new	377093
+chilean	sea	377100
+new	favorite	377093
+bass	sea	377100
+went	back	377096
+cheese	fried	377098
+size	serving	377100
+serving	size	377100
+####651	5.0	377109	377112
+selection	good	377111
+lamb	chops	377111
+chops	lamb	377111
+good	selection	377111
+####650	4.0	377108	0
+####644	5.0	377060	377063
+grilled	pita	377061
+pita	grilled	377061
+####647	5.0	377075	377092
+grilled	octopus	377080
+half	bottle	377085
+considering	good	377085
+meal	course	377090
+good	lamb	377087
+good	lamb	377088
+good	dessert	377089
+generous	portion	377083
+octopus	grilled	377080
+grilled	calamari	377088
+date	night	377075
+wide	open	377092
+fried	cheese	377088
+space	open	377092
+relatively	quickly	377076
+good	pretty	377085
+pretty	good	377085
+goat	stew	377082
+main	course	377082
+calamari	grilled	377088
+course	meal	377090
+open	space	377092
+sweet	sweet	377089
+good	considering	377085
+cheese	fried	377088
+three	course	377090
+####646	5.0	377064	377074
+sauce	red	377067
+meal	great	377064
+cooked	perfectly	377071
+dish	taste	377070
+perfectly	cooked	377071
+absolutely	amazing	377069
+experience	fantastic	377074
+riblets	lamb	377067
+small	plates	377066
+fantastic	experience	377074
+amazing	absolutely	377069
+great	meat	377067
+great	meal	377064
+entrees	two	377066
+entrees	two	377069
+bass	sea	377071
+lamb	riblets	377067
+two	entrees	377066
+two	entrees	377069
+red	sauce	377067
+great	way	377067
+plates	small	377066
+####641	4.0	377028	377047
+wine	list	377039
+alto	palo	377029
+cake	chocolate	377046
+late	cake	377046
+great	place	377031
+bread	pita	377035
+love	love	377044
+braised	greens	377045
+good	food	377031
+chop	lamb	377030
+lamb	chop	377030
+sides	two	377042
+love	place	377028
+food	good	377031
+chocolate	cake	377046
+two	side	377042
+red	appetizers	377037
+ate	cake	377046
+pita	bread	377035
+stuffed	calamari	377036
+best	meal	377035
+part	best	377035
+list	wine	377039
+delightful	experience	377044
+two	sides	377042
+meal	best	377035
+greek	coffee	377046
+coffee	greek	377046
+sister	restaurant	377029
+best	part	377035
+####640	3.0	377023	377027
+love	place	377026
+love	place	377027
+special	occassion	377024
+####643	3.0	377053	377059
+roe	cod	377059
+insanely	good	377058
+####642	5.0	377048	377052
+great	service	377051
+service	great	377051
+ice	great	377051
+####668	3.0	377269	377274
+orgasmic	experience	377269
+romantic	place	377273
+####669	4.0	377275	377277
+alto	palo	377277
+####670	5.0	377278	377285
+lamb	chops	377285
+rib	eye	377285
+chop	lamb	377285
+eye	rib	377285
+impeccable	service	377281
+done	right	377278
+right	done	377278
+chops	lamb	377285
+lamb	special	377283
+####671	3.0	377291	377292
+excellent	ice	377291
+excellent	service	377291
+####664	5.0	377203	377205
+amazing	food	377204
+francisco	san	377203
+dipping	sauces	377204
+dining	experiences	377203
+dining	best	377203
+dipping	sauce	377204
+experiences	dining	377203
+sauces	dipping	377204
+best	meals	377204
+best	dining	377203
+best	meal	377204
+food	amazing	377204
+dining	experience	377203
+meals	best	377204
+####665	5.0	377206	377210
+grilled	octopus	377206
+culinary	experience	377210
+finally	got	377209
+octopus	grilled	377206
+cakes	zucchini	377206
+got	finally	377209
+riblets	lamb	377206
+excellent	food	377206
+lamb	riblets	377206
+####666	5.0	377211	377242
+special	occasion	377241
+part	favorite	377237
+francisco	san	377231
+wine	list	377235
+occasion	special	377241
+red	wine	377216
+kalamata	pita	377232
+recommend	highly	377220
+food	incredible	377211
+finally	got	377242
+highly	recommend	377220
+great	price	377235
+cake	chocolate	377229
+different	dish	377211
+great	night	377235
+worth	visit	377229
+great	place	377237
+fashioned	old	377215
+coming	kept	377242
+date	night	377237
+got	finally	377242
+pork	special	377226
+special	pork	377226
+single	dish	377226
+wine	red	377216
+beautiful	restaurant	377211
+old	fashioned	377215
+beautiful	presentation	377214
+night	date	377237
+left	satisfied	377221
+trying	different	377211
+chocolate	cake	377229
+dishes	different	377211
+riblets	lamb	377232
+wine	great	377235
+small	plates	377232
+big	group	377242
+definitely	suggest	377241
+incredible	food	377211
+night	great	377235
+place	great	377237
+list	wine	377235
+yelp	restaurant	377242
+group	big	377242
+different	dishes	377211
+favorite	part	377237
+lamb	riblets	377232
+kept	coming	377242
+greek	salad	377232
+block	away	377221
+great	wine	377235
+plates	small	377232
+####667	4.0	377243	377268
+grilled	octopus	377262
+meal	fantastic	377265
+wine	list	377266
+groups	big	377245
+business	dinner	377245
+good	meal	377257
+thank	goodness	377251
+octopus	grilled	377262
+cakes	zucchini	377250
+die	hard	377268
+high	ceiling	377259
+ceiling	high	377259
+good	food	377256
+star	place	377254
+food	good	377256
+goodness	thank	377251
+definitely	lived	377243
+new	things	377256
+great	service	377247
+main	course	377252
+try	new	377256
+big	groups	377245
+service	great	377247
+dinner	business	377245
+fresh	air	377260
+meal	good	377257
+list	wine	377266
+group	big	377245
+ice	great	377247
+people	different	377246
+things	new	377256
+new	try	377256
+place	star	377254
+olive	oil	377264
+different	people	377246
+fantastic	meal	377265
+lamb	special	377253
+lived	definitely	377243
+####660	5.0	377184	377190
+greek	restaurant	377186
+greek	restaurants	377186
+seafood	dish	377189
+food	fresh	377188
+food	dishes	377189
+ambiance	great	377187
+great	ambiance	377187
+good	value	377184
+riblets	lamb	377184
+greek	place	377185
+great	dishes	377189
+seafood	dishes	377189
+amazingly	fresh	377188
+good	especially	377184
+job	great	377184
+eat	ambiance	377187
+great	job	377184
+fresh	food	377188
+value	good	377184
+lamb	riblets	377184
+dishes	seafood	377189
+especially	good	377184
+####661	2.0	377191	377195
+cakes	zucchini	377195
+night	friday	377193
+friday	night	377193
+lemon	chicken	377195
+####662	2.0	377196	377200
+ice	cream	377200
+cream	ice	377200
+amazing	dessert	377200
+semolina	custard	377200
+super	helpful	377198
+####663	5.0	377201	377202
+recommend	definitely	377202
+definitely	recommend	377202
+####656	1.0	377143	377167
+restaurant	good	377149
+good	restaurant	377149
+experience	dining	377155
+food	came	377147
+private	room	377153
+rare	medium	377164
+fast	super	377147
+reservations	made	377158
+going	back	377167
+made	reservations	377158
+good	date	377154
+brussel	sprouts	377150
+thin	good	377149
+cakes	zucchini	377162
+appetizers	two	377162
+bacon	wrapped	377150
+back	going	377167
+lamb	chops	377164
+huge	restaurant	377152
+spot	date	377161
+chop	lamb	377166
+two	ordered	377162
+lamb	chop	377166
+rest	good	377149
+place	date	377154
+things	good	377149
+order	dinner	377145
+two	appetizers	377162
+lighting	dim	377160
+red	two	377162
+date	spot	377161
+chops	lamb	377164
+super	fast	377147
+good	things	377149
+hours	two	377148
+dim	lighting	377160
+came	food	377147
+two	hours	377148
+ordered	two	377162
+wrapped	bacon	377150
+date	place	377154
+dining	experience	377155
+giant	beans	377163
+perfect	date	377161
+####657	3.0	377168	377177
+wine	list	377170
+long	way	377177
+private	rooms	377168
+cake	chocolate	377171
+small	party	377168
+good	service	377172
+great	appetizers	377169
+side	pricey	377177
+lamb	dish	377170
+party	small	377168
+ways	long	377177
+chocolate	cake	377171
+service	good	377172
+greek	food	377174
+food	greek	377174
+list	wine	377170
+worth	eating	377175
+greek	salad	377170
+eating	worth	377175
+pricey	side	377177
+####658	4.0	377178	377180
+large	plates	377180
+past	weekend	377178
+put	simply	377179
+good	bar	377179
+weekend	past	377178
+bar	area	377179
+simply	put	377179
+plate	large	377180
+area	bar	377179
+bar	good	377179
+####659	5.0	377181	377183
+experience	different	377183
+different	experience	377183

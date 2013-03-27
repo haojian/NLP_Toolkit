@@ -1,0 +1,7008 @@
+####0	4.0	288679	288681
+####1	3.0	288682	288695
+####2	4.0	288696	288708
+####3	4.0	288709	288724
+####4	4.0	288725	288742
+####5	4.0	288743	288751
+####6	3.0	288752	288758
+####7	4.0	288759	288766
+####8	4.0	288768	288776
+####9	4.0	288777	288779
+####10	4.0	288780	288788
+####11	1.0	288789	288799
+####12	3.0	288800	288809
+####13	4.0	288810	288815
+####14	2.0	288819	288823
+####15	4.0	288824	288832
+####17	4.0	288843	288854
+####16	5.0	288833	288842
+####19	3.0	288861	288863
+####18	4.0	288855	288860
+####21	4.0	288870	288877
+####20	4.0	288864	288869
+####23	2.0	288883	288889
+####22	3.0	288878	288882
+####25	4.0	288898	288904
+####24	3.0	288890	288897
+####27	1.0	288912	288915
+####26	1.0	288905	288911
+####29	2.0	288921	288930
+####28	1.0	288916	288920
+####31	4.0	288932	288937
+####30	4.0	288931	0
+####34	3.0	288959	288961
+####35	3.0	288962	288963
+####32	5.0	288938	288955
+####33	3.0	288956	288958
+####38	3.0	288974	288978
+####39	3.0	288979	288989
+####36	4.0	288964	0
+####37	1.0	288965	288973
+####42	3.0	289009	289015
+####43	3.0	289016	289040
+####40	4.0	288990	288998
+####41	2.0	288999	289008
+####46	1.0	289052	289056
+####47	4.0	289057	289059
+####44	4.0	289041	289043
+####45	2.0	289044	289051
+####51	1.0	289109	289112
+####50	5.0	289085	289108
+####49	1.0	289062	289084
+####48	4.0	289060	289061
+####55	3.0	289146	289158
+####54	2.0	289137	289145
+####53	1.0	289125	289136
+####52	1.0	289113	289124
+####59	2.0	289187	289193
+####58	3.0	289174	289186
+####57	3.0	289171	289173
+####56	5.0	289159	289170
+####63	3.0	289208	289214
+####62	4.0	289206	289207
+####61	4.0	289200	289205
+####60	3.0	289194	289199
+####68	4.0	289247	289251
+####69	3.0	289252	289261
+####70	3.0	289262	289276
+####71	4.0	289277	289282
+####64	2.0	289215	289216
+####65	4.0	289217	289230
+####66	4.0	289231	289240
+####67	3.0	289241	289246
+####76	1.0	289315	289321
+####77	5.0	289322	289325
+####78	3.0	289326	0
+####79	3.0	289327	289334
+####72	5.0	289283	289304
+####73	5.0	289305	0
+####74	1.0	289306	289313
+####75	4.0	289314	0
+####85	3.0	289388	289395
+####84	3.0	289371	289387
+####87	3.0	289401	289409
+####86	4.0	289396	289400
+####81	4.0	289349	289352
+####80	2.0	289335	289348
+####83	2.0	289360	289370
+####82	3.0	289353	289359
+####93	4.0	289440	289451
+####92	3.0	289432	289439
+####95	2.0	289458	289463
+####94	3.0	289452	289457
+####89	4.0	289416	289420
+####88	4.0	289410	289415
+####91	4.0	289427	289431
+####90	4.0	289421	289426
+####102	4.0	289517	289524
+####103	5.0	289525	289530
+####100	1.0	289498	289499
+####101	2.0	289500	289516
+####98	2.0	289473	289476
+####99	4.0	289477	289483
+####96	5.0	289464	289466
+####97	4.0	289467	289472
+####110	4.0	289635	289641
+####111	3.0	289642	289648
+####108	3.0	289569	289576
+####109	4.0	289577	289634
+####106	4.0	289551	289562
+####107	4.0	289563	289568
+####104	4.0	289531	289539
+####105	2.0	289540	289550
+####119	2.0	289691	289705
+####118	5.0	289686	289690
+####117	2.0	289679	289685
+####116	2.0	289675	289678
+####115	3.0	289673	289674
+####114	3.0	289667	289672
+####113	4.0	289666	0
+####112	1.0	289649	289665
+####127	4.0	289790	289802
+####126	3.0	289783	289789
+####125	5.0	289777	289782
+####124	1.0	289752	289776
+####123	4.0	289741	289751
+####122	3.0	289731	289740
+####121	3.0	289722	289730
+####120	4.0	289706	289721
+####137	4.0	289945	289946
+####136	4.0	289909	289944
+####139	3.0	289964	289974
+####138	3.0	289947	289963
+####141	5.0	290011	290018
+####140	5.0	289975	290010
+####143	4.0	290032	290037
+####142	3.0	290019	290031
+####129	3.0	289820	289830
+####128	4.0	289803	289814
+####131	3.0	289841	289857
+####130	4.0	289831	289840
+####133	3.0	289874	289880
+####132	4.0	289858	289873
+####135	5.0	289899	289908
+####134	4.0	289881	289898
+####152	4.0	290134	290144
+####153	4.0	290145	290152
+####154	4.0	290153	290160
+####155	4.0	290161	290169
+####156	3.0	290170	290177
+####157	3.0	290178	290181
+####158	1.0	290182	290190
+####159	4.0	290191	290204
+####144	4.0	290038	290053
+####145	3.0	290054	290061
+####146	5.0	290062	290076
+####147	4.0	290086	290092
+####148	4.0	290093	290101
+####149	4.0	290102	290108
+####150	3.0	290109	290119
+####151	2.0	290120	290133
+####171	3.0	290405	290416
+####170	4.0	290399	290404
+####169	3.0	290328	290398
+####168	2.0	290322	290327
+####175	3.0	290458	290470
+####174	3.0	290440	290457
+####173	4.0	290428	290439
+####172	2.0	290417	290427
+####163	4.0	290249	290264
+####162	3.0	290243	290248
+####161	2.0	290221	290239
+####160	4.0	290205	290220
+####167	3.0	290307	290321
+####166	3.0	290298	290306
+####165	4.0	290286	290297
+####164	2.0	290265	290285
+####186	3.0	290565	290580
+####187	3.0	290581	290593
+####184	3.0	290546	290551
+####185	2.0	290563	290564
+####190	1.0	290622	290632
+bad	service	290624
+tasting	food	290626
+oyster	sauce	290628
+tasting	good	290626
+greasy	food	290624
+consistently	good	290626
+food	tasting	290626
+good	tasting	290626
+black	bean	290631
+clear	steer	290623
+good	tea	290622
+bean	black	290631
+item	favorite	290631
+love	place	290632
+bigger	portions	290626
+service	bad	290624
+favorite	item	290631
+good	consistently	290626
+####191	4.0	290633	290634
+kong	hong	290634
+castro	street	290634
+great	guy	290634
+####188	4.0	290594	290596
+####189	4.0	290597	290611
+####178	3.0	290486	290498
+####179	4.0	290499	290504
+####176	5.0	290471	290480
+####177	5.0	290481	290485
+####182	1.0	290515	290519
+####183	4.0	290520	290545
+####180	3.0	290505	290512
+####181	2.0	290513	290514
+####205	4.0	290751	290759
+traditional	dishes	290752
+quickly	seated	290755
+seated	quickly	290755
+chinese	restaurants	290751
+restaurants	chinese	290751
+custard	egg	290759
+sum	place	290756
+sunday	brunch	290754
+sum	dim	290752
+sum	dim	290756
+traditional	dish	290752
+thin	seconds	290756
+meat	eat	290757
+brunch	sunday	290754
+eat	meat	290757
+jasmine	tea	290756
+chinese	restaurant	290751
+fan	big	290752
+big	fan	290752
+####204	2.0	290744	290750
+birthday	lunch	290745
+person	sitting	290749
+sum	dim	290746
+sitting	person	290749
+lunch	menu	290750
+least	say	290745
+menu	lunch	290750
+say	least	290745
+####207	2.0	290772	290776
+good	luck	290772
+dish	tofu	290775
+tofu	dish	290775
+chicken	fried	290775
+luck	good	290772
+fried	chicken	290775
+dont	know	290772
+dont	know	290776
+know	dont	290772
+know	dont	290776
+####206	4.0	290771	290770
+####201	5.0	290713	290719
+wait	long	290714
+items	different	290716
+quickly	seated	290714
+seated	quickly	290714
+sum	place	290717
+sum	dim	290717
+sum	dim	290719
+great	service	290715
+service	great	290715
+different	items	290716
+super	full	290718
+long	wait	290714
+ice	great	290715
+sum	places	290717
+####200	4.0	290708	290712
+fried	flounder	290712
+spare	ribs	290712
+lunch	prices	290710
+####203	4.0	290738	290743
+buns	pork	290739
+salad	seaweed	290740
+friendly	service	290743
+huge	fan	290740
+steamed	pork	290739
+seaweed	salad	290740
+service	friendly	290743
+fan	huge	290740
+####202	2.0	290720	290737
+quality	good	290720
+style	chinese	290726
+chinese	food	290726
+entire	family	290736
+view	mountain	290724
+food	chinese	290726
+good	quality	290720
+trying	new	290737
+mountain	view	290724
+location	old	290727
+new	food	290737
+style	family	290727
+style	family	290722
+style	family	290726
+black	bean	290728
+great	amount	290732
+place	makes	290726
+small	hole	290721
+bean	black	290728
+old	location	290727
+sum	dim	290723
+sum	dim	290726
+sum	dim	290729
+sum	dim	290736
+makes	place	290726
+new	trying	290737
+good	fresh	290723
+weekend	morning	290729
+family	style	290727
+family	style	290722
+family	style	290726
+hello	say	290733
+excellent	food	290720
+morning	weekend	290729
+chinese	style	290726
+best	dim	290726
+####197	3.0	290682	290689
+looks	good	290687
+busy	friday	290683
+rehearsal	dinner	290683
+party	large	290684
+ago	weeks	290683
+night	friday	290683
+water	glasses	290688
+friday	night	290683
+glasses	water	290688
+large	fairly	290684
+large	party	290684
+fan	big	290688
+weeks	ago	290683
+big	fan	290688
+fairly	large	290684
+glass	water	290688
+####196	4.0	290678	290681
+hot	sauce	290678
+long	bao	290681
+bit	thick	290681
+sauce	hot	290678
+nice	lady	290679
+wasn	meat	290681
+####199	4.0	290703	290707
+trouble	getting	290706
+sum	dim	290704
+jasmine	tea	290707
+####198	3.0	290690	290702
+vegetable	dish	290694
+come	definitely	290700
+crab	dish	290696
+kong	hong	290697
+meal	course	290694
+view	mountain	290702
+people	chinese	290699
+restaurant	chinese	290697
+sum	dish	290701
+tasted	fresh	290693
+chinese	restaurants	290697
+mountain	view	290702
+cheap	pretty	290701
+night	late	290700
+night	dim	290700
+sum	place	290702
+good	food	290692
+sum	dim	290698
+sum	dim	290700
+sum	dim	290701
+sum	dim	290702
+fresh	tasted	290693
+open	late	290702
+pretty	cheap	290701
+sum	dishes	290701
+course	meal	290694
+vegetable	dishes	290694
+dim	night	290700
+late	open	290702
+chinese	restaurant	290697
+chinese	people	290699
+ingredients	taste	290693
+late	night	290700
+real	food	290702
+definitely	come	290700
+sum	places	290702
+isn	food	290702
+####193	3.0	290640	290652
+recommend	highly	290642
+highly	recommend	290642
+good	service	290647
+good	service	290648
+deal	good	290641
+coming	recommend	290642
+customer	service	290651
+good	pretty	290647
+sum	dim	290652
+pretty	good	290647
+place	better	290643
+service	good	290647
+service	good	290648
+better	place	290643
+recommend	coming	290642
+service	customer	290651
+zero	stars	290649
+good	deal	290641
+####192	3.0	290635	290639
+ring	lunch	290636
+jus	place	290635
+authentic	chinese	290637
+lunch	special	290639
+lunch	special	290636
+chinese	authentic	290637
+special	lunch	290636
+special	lunch	290639
+great	food	290636
+eat	food	290636
+food	great	290636
+####195	3.0	290665	290677
+nice	casual	290665
+vegetable	dish	290670
+cashew	chicken	290669
+good	chicken	290669
+fried	rice	290675
+nice	selection	290668
+regular	menu	290668
+wait	staff	290667
+sum	dim	290676
+sum	dim	290672
+place	casual	290665
+staff	wait	290667
+mango	pudding	290671
+exceptional	service	290677
+chicken	good	290669
+rice	fried	290675
+fish	cake	290674
+selection	nice	290668
+casual	place	290665
+####194	2.0	290653	290664
+chive	dumplings	290659
+minute	drive	290664
+minute	five	290664
+sauce	garlic	290658
+sauce	garlic	290659
+walk	away	290662
+shrimp	dumplings	290658
+egg	custard	290658
+night	late	290654
+dumplings	chive	290659
+terrible	service	290663
+night	dim	290654
+sum	menu	290654
+custard	egg	290658
+two	times	290664
+sum	dim	290654
+sum	dim	290664
+ordered	egg	290658
+wasn	food	290663
+white	rice	290658
+dumplings	shrimp	290658
+times	two	290664
+away	walk	290662
+dumplings	pork	290658
+garlic	sauce	290658
+garlic	sauce	290659
+dim	night	290654
+past	two	290664
+late	night	290654
+staff	attentive	290664
+two	bowls	290658
+attentive	staff	290664
+two	bowl	290658
+bowls	two	290658
+####220	2.0	290912	290919
+full	meal	290915
+meal	full	290915
+good	darn	290915
+good	price	290915
+getting	kept	290919
+egg	custard	290916
+huge	group	290919
+custard	egg	290916
+fried	taro	290918
+sum	dim	290916
+darn	good	290915
+noodle	dish	290918
+price	good	290915
+kept	getting	290919
+dish	noodle	290918
+####221	3.0	290920	290937
+head	back	290927
+experience	dining	290930
+experience	dining	290929
+chinese	food	290927
+chinese	food	290935
+food	chinese	290927
+food	chinese	290935
+interesting	dishes	290929
+four	times	290933
+night	friday	290928
+good	food	290935
+pretty	usually	290935
+good	pretty	290935
+sum	dim	290930
+sum	dim	290932
+sum	dim	290933
+sum	dim	290937
+night	dinner	290928
+friday	night	290928
+pretty	good	290935
+times	four	290933
+went	recently	290928
+interesting	dish	290929
+dining	experience	290929
+dining	experience	290930
+recently	went	290928
+back	head	290927
+usually	pretty	290935
+####222	4.0	290938	290945
+south	bay	290943
+recommend	highly	290944
+highly	recommend	290944
+second	close	290943
+shrimp	dumplings	290939
+coming	recommend	290944
+night	late	290945
+noodles	rice	290939
+sum	dim	290944
+sum	dim	290942
+sum	dim	290943
+sum	dim	290945
+close	second	290943
+green	tea	290939
+dumplings	shrimp	290939
+tea	green	290939
+late	night	290945
+rice	noodles	290939
+feet	chicken	290941
+recommend	coming	290944
+bay	south	290943
+####223	4.0	290946	290948
+food	hot	290948
+place	busy	290948
+hot	food	290948
+people	come	290948
+sum	dim	290946
+sum	dim	290947
+come	people	290948
+busy	place	290948
+####216	4.0	290870	290874
+restaurant	chinese	290873
+different	dish	290872
+sum	dim	290871
+sum	dim	290874
+dish	different	290872
+dishes	different	290872
+wednesday	afternoon	290871
+pricey	bit	290874
+chinese	restaurant	290873
+different	dishes	290872
+bit	pricey	290874
+####217	3.0	290875	290881
+back	coming	290875
+night	late	290876
+night	dim	290876
+good	food	290879
+sum	dim	290876
+coming	back	290875
+dim	night	290876
+late	night	290876
+####218	4.0	290882	290897
+chinese	food	290894
+chinese	food	290897
+decent	food	290888
+food	chinese	290897
+food	chinese	290894
+star	extra	290894
+better	way	290886
+worth	money	290896
+place	good	290890
+sum	place	290886
+sum	place	290887
+sum	place	290892
+super	fan	290885
+good	pretty	290886
+definitely	better	290891
+sum	dim	290882
+sum	dim	290886
+sum	dim	290887
+sum	dim	290892
+sum	dim	290894
+sum	dim	290895
+open	late	290884
+better	definitely	290891
+pretty	good	290886
+gabriel	san	290892
+bay	area	290891
+bay	area	290892
+way	better	290886
+late	open	290884
+decent	pretty	290888
+fair	share	290889
+sum	places	290886
+sum	places	290887
+area	bay	290891
+area	bay	290892
+good	place	290890
+extra	star	290894
+####219	4.0	290898	290911
+restaurant	chinese	290900
+peking	duck	290903
+chinese	restaurants	290900
+restaurants	chinese	290900
+flavorful	chicken	290906
+rest	chinese	290900
+sum	dim	290909
+sum	dim	290910
+chinese	restaurant	290900
+beef	broth	290905
+####212	4.0	290831	290843
+pao	chicken	290832
+best	soup	290837
+pao	kung	290832
+big	portion	290839
+restaurant	chinese	290838
+restaurant	chinese	290839
+sized	good	290834
+soup	seafood	290838
+portion	big	290839
+restaurant	style	290835
+pork	rib	290839
+night	late	290834
+sum	dim	290836
+crab	meat	290837
+pork	style	290839
+chow	beef	290832
+style	restaurant	290835
+meat	crab	290837
+job	great	290833
+beef	chow	290832
+great	job	290833
+chinese	restaurant	290838
+chinese	restaurant	290839
+dish	best	290840
+late	night	290834
+good	sized	290834
+seafood	soup	290838
+fun	chow	290832
+style	pork	290839
+clay	pot	290840
+decent	restaurant	290834
+rib	pork	290839
+best	dish	290840
+####213	4.0	290844	290850
+sauce	garlic	290847
+bean	sauce	290850
+black	bean	290850
+bean	black	290850
+sauce	bean	290850
+lack	bean	290850
+high	ceilings	290845
+garlic	sauce	290847
+loud	place	290844
+ceilings	high	290845
+place	loud	290844
+####214	5.0	290851	290859
+afternoon	sunday	290853
+long	way	290858
+way	long	290858
+sunday	afternoon	290853
+rude	service	290856
+sum	place	290856
+sum	dim	290852
+sum	dim	290856
+sum	places	290856
+####215	3.0	290860	290869
+chinese	food	290864
+chinese	food	290869
+small	children	290865
+actually	pretty	290867
+pretty	actually	290867
+food	chinese	290864
+food	chinese	290869
+alto	palo	290864
+fried	rice	290868
+place	new	290864
+new	place	290864
+cantonese	food	290867
+fried	fish	290868
+fish	fried	290868
+shu	pork	290865
+rice	fried	290868
+pretty	authentic	290867
+####208	4.0	290777	290786
+kong	hong	290782
+good	decision	290780
+chinese	restaurants	290781
+restaurants	chinese	290781
+night	late	290777
+night	late	290786
+roasted	garlic	290785
+dish	favorite	290780
+night	meal	290786
+relatively	cheap	290786
+salty	overly	290781
+nice	balance	290778
+chinese	restaurant	290781
+kong	style	290782
+late	night	290777
+late	night	290786
+shrimp	pepper	290779
+overly	salty	290781
+pepper	fish	290779
+clay	pot	290778
+favorite	dish	290780
+balance	nice	290778
+pepper	shrimp	290779
+ate	night	290777
+####209	1.0	290787	290799
+come	definitely	290798
+chinese	food	290794
+chinese	food	290799
+view	mountain	290794
+food	chinese	290794
+food	chinese	290799
+trying	new	290793
+mountain	view	290794
+seating	area	290795
+sushi	restaurant	290792
+love	sushi	290792
+come	back	290798
+sum	dim	290793
+sum	dim	290797
+open	late	290799
+sushi	love	290792
+restaurant	sushi	290792
+new	things	290793
+red	tofu	290797
+back	come	290798
+new	trying	290793
+area	seating	290795
+average	chinese	290799
+late	open	290799
+packed	pretty	290795
+definitely	come	290798
+things	new	290793
+####210	4.0	290800	290816
+chinese	food	290808
+going	back	290813
+food	chinese	290808
+best	chinese	290808
+sour	soup	290807
+back	going	290813
+sum	dim	290801
+sum	dim	290803
+night	menu	290805
+bay	area	290803
+chinese	best	290808
+bad	taste	290802
+taste	bad	290802
+area	bay	290803
+####211	1.0	290817	290830
+type	different	290822
+chinese	food	290823
+people	coming	290819
+sitting	right	290819
+food	chinese	290823
+late	dinner	290829
+different	types	290822
+authentic	chinese	290823
+good	variety	290822
+right	sitting	290819
+night	late	290827
+night	late	290828
+added	bonus	290824
+chinese	authentic	290823
+good	food	290827
+sum	dim	290826
+open	late	290830
+variety	good	290822
+eat	night	290827
+ate	dinner	290829
+late	open	290830
+dinner	late	290829
+late	night	290827
+late	night	290828
+coming	people	290819
+seriously	good	290823
+types	different	290822
+ate	night	290827
+ate	night	290828
+####239	2.0	291113	291126
+pretty	clean	291125
+restaurant	chinese	291124
+tastes	amazing	291117
+eat	service	291113
+night	late	291117
+sum	menu	291116
+group	large	291114
+groups	large	291114
+sum	dim	291116
+sum	dim	291117
+sum	dim	291118
+open	late	291116
+great	service	291113
+service	great	291113
+tastes	food	291117
+amazing	tastes	291117
+food	tastes	291117
+late	open	291116
+food	taste	291117
+chinese	restaurant	291124
+late	night	291116
+late	night	291117
+special	night	291116
+large	groups	291114
+####238	4.0	291109	291112
+tea	hot	291110
+good	food	291112
+sum	dim	291111
+food	good	291112
+hot	tea	291110
+####237	3.0	291104	291108
+sum	dim	291108
+####236	4.0	291085	291103
+kong	hong	291095
+chinese	food	291093
+pretty	nice	291086
+food	chinese	291093
+doesn	place	291103
+loved	absolutely	291098
+shrimp	dumplings	291103
+night	late	291089
+night	dim	291089
+sum	place	291091
+nice	pretty	291086
+sum	dim	291089
+sum	dim	291091
+sum	dim	291103
+eating	chicken	291090
+dumplings	shrimp	291103
+two	thumbs	291096
+thumbs	two	291096
+nice	gesture	291088
+dim	night	291089
+chinese	people	291103
+kong	style	291095
+sit	back	291086
+late	night	291089
+feet	chicken	291090
+absolutely	loved	291098
+####235	4.0	291080	291084
+sticky	rice	291081
+sum	dim	291080
+sum	dim	291081
+rice	sticky	291081
+####234	4.0	291079	0
+####233	4.0	291064	291078
+super	crowded	291074
+chinese	food	291074
+seated	right	291064
+mongolian	beef	291065
+food	chinese	291074
+did	eat	291074
+crowded	super	291074
+complimentary	dessert	291070
+away	right	291064
+come	back	291072
+sum	dim	291072
+sum	dim	291078
+probably	come	291072
+back	come	291072
+vegetarian	friendly	291074
+restaurant	asian	291071
+ton	won	291065
+fan	big	291074
+fun	chow	291065
+pumpkin	pie	291075
+right	seated	291064
+ton	soup	291065
+big	fan	291074
+right	away	291064
+asian	restaurant	291071
+####232	2.0	291052	291063
+place	good	291056
+terrible	service	291059
+sour	soup	291052
+experience	overall	291062
+good	pretty	291062
+pretty	good	291062
+entire	restaurant	291054
+huge	space	291054
+overall	experience	291062
+dish	best	291052
+real	food	291056
+taken	back	291063
+probably	wont	291058
+good	place	291056
+best	dish	291052
+####231	3.0	291049	291051
+big	deal	291051
+deal	big	291051
+eat	service	291049
+great	service	291049
+service	great	291049
+####230	3.0	291040	291048
+japanese	style	291046
+ribs	pork	291043
+sum	dim	291042
+kinda	pricey	291041
+pricey	kinda	291041
+shrimp	pepper	291044
+style	japanese	291046
+fun	chow	291043
+chinese	sausage	291044
+pepper	shrimp	291044
+pork	ribs	291043
+####229	5.0	291031	291039
+pao	kung	291032
+special	fried	291032
+fried	rice	291032
+definitely	deserves	291036
+great	place	291038
+authentic	chinese	291033
+eat	place	291038
+chinese	authentic	291033
+special	house	291032
+definitely	place	291036
+sum	dim	291036
+sum	restaurant	291036
+house	special	291032
+chow	beef	291032
+beef	chow	291032
+place	great	291038
+place	definitely	291036
+lunch	prices	291031
+rice	fried	291032
+fun	chow	291032
+feet	chicken	291036
+deserves	definitely	291036
+####228	3.0	290998	291030
+quality	good	291004
+kong	hong	291004
+sauce	oyster	291025
+chinese	food	291022
+buns	pork	291028
+buns	pork	291014
+fresh	fresh	291016
+quick	bite	291022
+restaurant	chinese	291002
+oyster	sauce	291025
+chinese	broccoli	291025
+sum	dish	291028
+food	chinese	291022
+good	quality	291004
+tasted	fresh	291005
+great	place	291019
+great	place	291023
+short	wait	291017
+probably	try	291030
+bite	quick	291022
+night	late	291018
+ones	better	291003
+decently	priced	291016
+dimsum	place	291030
+pork	bbq	291014
+broccoli	chinese	291025
+bbq	pork	291014
+relatively	cheap	291021
+reasonable	prices	291009
+definitely	better	291003
+sum	dim	291000
+sum	dim	291002
+sum	dim	291003
+sum	dim	291008
+sum	dim	291013
+sum	dim	291014
+sum	dim	291023
+better	ones	291003
+fresh	tasted	291005
+open	late	291015
+better	definitely	291003
+prices	reasonable	291009
+great	food	291015
+chow	beef	291020
+pork	buns	291028
+pork	buns	291014
+priced	decently	291016
+free	feel	291025
+eat	food	291015
+sum	dishes	291028
+beef	chow	291020
+food	place	291022
+great	tasted	291024
+place	food	291022
+super	clean	290998
+place	great	291019
+place	great	291023
+late	open	291015
+food	great	291015
+chinese	restaurant	291002
+saturday	night	291018
+late	night	291018
+clean	super	290998
+night	saturday	291018
+bass	sea	291006
+fun	chow	291020
+feet	chicken	291029
+bun	pork	291028
+####227	4.0	290991	290997
+chinese	food	290992
+food	chinese	290992
+sum	place	290997
+jus	tasted	290996
+happy	camper	290993
+sum	dim	290995
+sum	dim	290997
+camper	happy	290993
+####226	1.0	290985	290990
+ordered	chicken	290990
+red	chicken	290990
+sum	place	290986
+good	pretty	290989
+sum	dim	290986
+sum	dim	290989
+pretty	good	290989
+bigger	portions	290990
+overall	service	290986
+####225	4.0	290978	290984
+good	freaking	290981
+sum	dim	290982
+king	good	290981
+reasonably	priced	290979
+priced	reasonably	290979
+reasonably	price	290979
+iced	water	290978
+freaking	good	290981
+####224	2.0	290949	290977
+restaurant	chinese	290949
+busy	super	290952
+jose	san	290972
+wait	worth	290953
+incredible	place	290977
+excellent	service	290976
+location	old	290961
+location	old	290965
+specials	lunch	290961
+specials	lunch	290962
+night	late	290949
+night	late	290961
+rest	chinese	290949
+food	delicious	290959
+sum	place	290969
+old	location	290965
+old	location	290961
+good	pretty	290967
+group	large	290949
+groups	large	290949
+sum	dim	290973
+sum	dim	290964
+sum	dim	290967
+sum	dim	290968
+sum	dim	290969
+sum	dim	290972
+sum	dim	290974
+sum	dim	290975
+sum	dim	290977
+worth	wait	290953
+night	dinner	290949
+pretty	good	290967
+great	service	290977
+dinner	night	290949
+service	great	290977
+good	feeling	290959
+pretty	darn	290964
+decent	service	290950
+delicious	food	290959
+chinese	restaurant	290949
+ample	parking	290951
+late	night	290949
+late	night	290961
+minutes	later	290958
+sum	places	290969
+horrible	service	290964
+darn	pretty	290964
+large	groups	290949
+ate	night	290949
+super	busy	290952
+####254	4.0	291280	291295
+actually	pretty	291293
+pretty	actually	291293
+duck	dish	291291
+good	pretty	291293
+sum	dim	291286
+crispy	fried	291292
+fried	crispy	291292
+pretty	good	291293
+second	dish	291288
+feet	chicken	291281
+####255	4.0	291296	291323
+food	restaurant	291317
+chinese	food	291323
+stars	half	291323
+totally	come	291310
+pan	fried	291308
+view	mountain	291306
+view	mountain	291316
+actually	pretty	291307
+stars	three	291323
+seafood	restaurant	291317
+fried	noodles	291308
+pretty	actually	291307
+food	chinese	291323
+soup	seafood	291308
+overall	food	291308
+peking	duck	291308
+mountain	view	291306
+mountain	view	291316
+steamed	veggies	291308
+noodles	fried	291308
+sprouts	pea	291308
+complimentary	dessert	291308
+sizzling	rice	291308
+looking	food	291299
+steamed	fish	291308
+good	pretty	291307
+sum	dim	291310
+sum	dim	291318
+three	stars	291323
+pretty	good	291307
+mango	pudding	291308
+looked	good	291311
+tastes	food	291315
+good	looked	291311
+great	tastes	291315
+food	tastes	291315
+food	overall	291308
+food	taste	291315
+speak	english	291299
+tastes	great	291315
+pea	sprouts	291308
+seafood	soup	291308
+half	stars	291323
+feet	chicken	291304
+restaurant	seafood	291317
+####252	5.0	291231	291245
+opens	place	291234
+view	mountain	291234
+downtown	mountain	291234
+mountain	view	291234
+long	bao	291232
+sum	place	291234
+sum	place	291235
+pretty	quick	291231
+cantonese	food	291240
+sum	dim	291232
+sum	dim	291234
+sum	dim	291235
+fast	service	291238
+food	love	291237
+tastes	food	291241
+good	tastes	291241
+peak	english	291239
+service	fast	291238
+tastes	good	291241
+love	food	291237
+speak	english	291239
+sum	places	291235
+quick	pretty	291231
+####253	4.0	291246	291279
+quality	good	291253
+food	came	291250
+steamed	dumplings	291259
+loud	music	291267
+going	back	291254
+good	quality	291253
+patiently	wait	291275
+fried	rice	291272
+great	prices	291253
+good	service	291253
+authentic	chinese	291272
+chinese	restaurants	291250
+interesting	dishes	291277
+restaurants	chinese	291250
+chinese	authentic	291272
+back	going	291254
+staff	friendly	291265
+good	dim	291256
+come	back	291252
+cuisine	chinese	291272
+good	pretty	291259
+sum	dim	291266
+sum	dim	291248
+sum	dim	291253
+sum	dim	291255
+sum	dim	291256
+sum	dim	291261
+sum	dim	291273
+tasted	pretty	291259
+friendly	staff	291265
+fried	fish	291251
+fried	fish	291263
+pretty	good	291259
+service	good	291253
+back	come	291252
+music	loud	291267
+fish	fried	291251
+fish	fried	291263
+chinese	restaurant	291250
+prices	great	291253
+chinese	cuisine	291272
+rice	fried	291272
+mein	chow	291263
+interesting	dish	291277
+clay	pot	291251
+came	food	291250
+feet	chicken	291279
+pretty	tasted	291259
+####250	3.0	291217	291225
+enjoyable	experience	291222
+night	late	291221
+night	dim	291221
+sum	place	291224
+sum	dim	291220
+sum	dim	291221
+sum	dim	291224
+dim	night	291221
+late	night	291221
+sum	places	291224
+####251	4.0	291226	291230
+view	mountain	291229
+big	place	291227
+mountain	view	291229
+place	big	291227
+good	pretty	291229
+sum	dim	291229
+pretty	good	291229
+crowd	big	291227
+big	crowd	291227
+####248	1.0	291186	291199
+better	places	291199
+huge	plus	291186
+huge	portions	291188
+buns	pork	291194
+buns	pork	291198
+places	better	291199
+took	forever	291198
+night	late	291188
+forever	took	291198
+sweet	tofu	291194
+pork	bbq	291194
+pork	bbq	291198
+bbq	pork	291194
+bbq	pork	291198
+come	back	291192
+sum	dim	291186
+sum	dim	291187
+sum	dim	291191
+sum	dim	291193
+sum	restaurant	291191
+plus	huge	291186
+portions	huge	291188
+better	place	291199
+back	come	291192
+pork	buns	291194
+pork	buns	291198
+nice	interior	291191
+portion	huge	291188
+late	night	291188
+stuff	good	291189
+special	night	291188
+red	bbq	291198
+tofu	sweet	291194
+ate	night	291188
+good	stuff	291189
+####249	4.0	291200	291216
+trouble	getting	291212
+castro	street	291202
+clear	steer	291207
+fresh	taste	291213
+sticky	rice	291213
+sum	dim	291204
+sum	dim	291201
+sum	dim	291203
+sum	dim	291209
+sum	dim	291211
+sum	dim	291214
+sum	restaurant	291211
+standard	fare	291215
+rice	sticky	291213
+huge	space	291200
+fare	standard	291215
+####246	4.0	291178	291181
+fried	rice	291181
+restaurant	favorite	291180
+favorite	restaurant	291180
+things	favorite	291180
+rice	fried	291181
+fun	chow	291181
+favorite	things	291180
+####247	2.0	291182	291185
+restaurant	chinese	291185
+star	two	291183
+meal	delicious	291182
+two	star	291183
+sum	dim	291184
+sum	dim	291183
+sum	restaurant	291184
+delicious	meal	291182
+chinese	restaurant	291185
+speak	english	291184
+courteous	service	291183
+####244	4.0	291161	291168
+view	mountain	291165
+mountain	view	291165
+side	pricey	291163
+good	food	291161
+good	dim	291162
+sum	spot	291162
+sum	dim	291162
+sum	dim	291164
+sum	dim	291165
+food	good	291161
+mateo	san	291164
+pricey	side	291163
+####245	4.0	291169	291174
+special	dish	291169
+fried	rice	291174
+special	sauce	291174
+rice	fried	291174
+clay	pot	291172
+sauce	special	291174
+####242	4.0	291144	291146
+wait	long	291145
+things	good	291145
+long	wait	291145
+good	things	291145
+####243	3.0	291147	291160
+restaurant	chinese	291158
+place	clean	291157
+back	went	291147
+good	service	291150
+clean	place	291157
+sum	place	291151
+sum	dim	291151
+sum	dim	291156
+service	good	291150
+small	portion	291148
+chinese	restaurant	291158
+portion	small	291148
+went	back	291147
+sum	places	291151
+####240	5.0	291127	291138
+wait	long	291131
+view	mountain	291130
+fat	pork	291136
+place	new	291132
+mountain	view	291130
+quality	food	291133
+new	place	291132
+sum	place	291130
+sum	place	291133
+sum	place	291136
+good	pretty	291135
+house	tea	291137
+sum	dim	291130
+sum	dim	291131
+sum	dim	291133
+sum	dim	291136
+pretty	good	291135
+pork	fat	291136
+food	quality	291133
+parking	street	291129
+lots	parking	291129
+lot	parking	291129
+long	wait	291131
+sum	places	291136
+street	parking	291129
+parking	lots	291129
+####241	5.0	291139	291143
+####275	3.0	291515	291524
+keep	coming	291522
+view	mountain	291523
+alto	palo	291523
+mountain	view	291523
+people	four	291524
+good	food	291524
+outstanding	service	291519
+sum	dim	291521
+four	people	291524
+pulled	noodles	291517
+hand	pulled	291517
+####274	4.0	291511	291514
+peking	duck	291512
+sum	dim	291511
+####273	4.0	291506	291510
+chinese	food	291510
+view	mountain	291510
+south	bay	291509
+food	chinese	291510
+alto	palo	291510
+favorite	chinese	291510
+chinese	favorite	291510
+mountain	view	291510
+open	late	291509
+late	open	291509
+good	advice	291508
+bay	south	291509
+####272	3.0	291496	291505
+kong	hong	291501
+full	menu	291498
+parking	find	291496
+cheaper	price	291501
+good	food	291497
+find	parking	291496
+good	pretty	291497
+sum	dim	291505
+menu	full	291498
+structure	parking	291496
+graduation	dinner	291499
+open	late	291498
+pretty	good	291497
+clean	restaurant	291502
+clean	restaurant	291503
+late	open	291498
+parking	structure	291496
+fran	san	291502
+####279	4.0	291546	291553
+home	got	291551
+chinese	food	291549
+food	chinese	291549
+probably	won	291552
+peking	duck	291553
+authentic	chinese	291549
+ache	stomach	291551
+good	authentic	291549
+chinese	authentic	291549
+got	home	291551
+common	sense	291546
+####278	4.0	291542	291545
+new	chinese	291543
+new	years	291543
+chinese	new	291543
+years	new	291543
+####277	3.0	291536	291541
+bad	experience	291537
+new	chinese	291537
+half	hour	291541
+hour	half	291541
+new	years	291537
+chinese	new	291537
+experience	bad	291537
+years	new	291537
+####276	3.0	291525	291535
+quality	good	291528
+red	wine	291531
+pork	dumplings	291533
+eat	variety	291528
+good	quality	291528
+great	variety	291528
+variety	great	291528
+totally	worth	291535
+wine	sauce	291531
+sum	place	291526
+pork	bbq	291533
+wine	red	291531
+bbq	pork	291533
+good	food	291530
+sum	dim	291532
+sum	dim	291526
+sum	dim	291534
+worth	totally	291535
+food	good	291530
+multiple	times	291525
+bay	area	291526
+dumplings	pork	291533
+speak	english	291535
+area	bay	291526
+sauce	wine	291531
+####283	4.0	291576	291587
+francisco	san	291584
+times	wait	291582
+tasting	food	291581
+chinese	places	291584
+places	chinese	291584
+good	compared	291584
+average	food	291585
+place	good	291586
+food	tasting	291581
+sum	place	291577
+sum	dim	291577
+sum	dim	291579
+sum	dim	291586
+eat	usually	291576
+tastes	food	291580
+food	tastes	291580
+usually	eat	291576
+food	taste	291580
+sum	places	291577
+chinese	place	291584
+place	chinese	291584
+wait	times	291582
+good	place	291586
+fran	san	291584
+####282	3.0	291570	291575
+kong	hong	291573
+sum	dim	291574
+second	floor	291570
+long	wait	291572
+cant	wait	291573
+####281	3.0	291565	291569
+find	better	291566
+better	find	291566
+huge	difference	291569
+away	blocks	291566
+typical	chinese	291565
+value	better	291566
+difference	huge	291569
+blocks	away	291566
+better	value	291566
+####280	4.0	291554	291564
+sauce	garlic	291556
+stir	fry	291561
+fried	prawns	291555
+decent	prices	291557
+garlic	sauce	291556
+pretty	authentic	291557
+####287	4.0	291630	291634
+sum	dim	291631
+rush	hour	291632
+hour	rush	291632
+water	ice	291632
+ice	water	291632
+####286	1.0	291628	291629
+####285	4.0	291620	291627
+chinese	broccoli	291627
+sum	restaurants	291622
+overpriced	way	291624
+better	way	291620
+healthy	eating	291627
+side	salad	291627
+sum	dim	291623
+sum	dim	291620
+sum	dim	291622
+sum	restaurant	291622
+way	better	291620
+shy	away	291623
+salad	side	291627
+####284	1.0	291588	291619
+good	solid	291607
+kong	hong	291595
+soup	noodle	291607
+chinese	food	291593
+seated	right	291589
+restaurant	chinese	291605
+south	bay	291616
+food	chinese	291593
+solid	good	291607
+new	location	291612
+back	years	291607
+peking	duck	291603
+fairly	priced	291607
+place	new	291614
+side	pricey	291592
+rest	chinese	291605
+bit	bland	291619
+pleasantly	surprised	291590
+away	right	291589
+new	place	291614
+years	back	291607
+experience	better	291597
+south	side	291612
+location	new	291612
+sum	dim	291598
+sum	dim	291604
+sum	dim	291610
+sum	dim	291615
+sum	dim	291616
+place	better	291595
+better	experience	291597
+better	place	291595
+noodle	soup	291607
+overall	nice	291605
+priced	fairly	291607
+brunch	weekend	291599
+bland	bit	291619
+chinese	restaurant	291605
+right	seated	291589
+bay	south	291616
+right	away	291589
+pricey	side	291592
+####258	4.0	291336	0
+####259	3.0	291337	291347
+stars	four	291346
+sum	restaurants	291341
+shrimp	dumplings	291337
+egg	custard	291337
+egg	custard	291339
+specials	lunch	291344
+custard	egg	291337
+custard	egg	291339
+ribs	pork	291337
+sum	dim	291338
+sum	dim	291341
+sum	dim	291346
+sum	restaurant	291338
+sum	restaurant	291341
+four	stars	291346
+dumplings	shrimp	291337
+food	style	291342
+extremely	reasonable	291340
+feet	chicken	291337
+style	food	291342
+pork	ribs	291337
+####256	5.0	291324	291329
+kong	hong	291325
+chinese	food	291324
+restaurant	chinese	291324
+food	chinese	291324
+main	dining	291329
+room	dining	291329
+tasting	better	291324
+dining	room	291329
+second	floor	291329
+chinese	restaurant	291324
+food	fusion	291325
+better	tasting	291324
+sister	restaurant	291325
+fusion	food	291325
+####257	4.0	291330	291335
+restaurant	chinese	291334
+rest	chinese	291334
+sum	dim	291335
+bar	full	291330
+typical	chinese	291334
+second	floor	291330
+chinese	restaurant	291334
+full	bar	291330
+####262	4.0	291390	291406
+view	mountain	291405
+restaurant	chinese	291398
+fried	rice	291401
+cantonese	restaurant	291393
+mayo	sauce	291391
+peking	duck	291400
+mountain	view	291405
+oyster	fried	291401
+high	end	291393
+regular	dishes	291406
+good	pretty	291402
+cantonese	food	291402
+sum	dim	291405
+sum	dim	291406
+pretty	good	291402
+regular	dish	291406
+typical	chinese	291398
+end	high	291393
+oysters	fried	291401
+fried	shrimp	291391
+fried	shrimp	291392
+chinese	restaurant	291398
+rice	fried	291401
+sauce	mayo	291391
+two	different	291391
+fried	oysters	291401
+good	ordered	291399
+different	two	291391
+shrimp	fried	291392
+####263	2.0	291407	291412
+chinese	food	291410
+food	chinese	291410
+fish	dish	291411
+sum	dim	291408
+fried	fish	291411
+fish	fried	291411
+wrong	way	291410
+dish	fish	291411
+deep	fried	291411
+####260	5.0	291348	291373
+queen	house	291363
+different	completely	291359
+mongolian	beef	291372
+back	coming	291363
+view	mountain	291352
+view	mountain	291363
+restaurant	chinese	291365
+completely	different	291359
+contact	eye	291361
+back	came	291369
+tuesday	evening	291358
+place	new	291354
+looks	place	291354
+mountain	view	291352
+mountain	view	291363
+things	two	291371
+higher	side	291366
+night	late	291373
+quality	food	291366
+cooked	perfectly	291372
+new	place	291354
+disappointing	dish	291359
+perfectly	cooked	291372
+come	back	291357
+came	back	291369
+sum	dim	291373
+night	menu	291373
+authentic	food	291355
+back	come	291357
+coming	back	291363
+food	quality	291366
+chinese	restaurant	291365
+late	night	291373
+thin	walking	291352
+clay	pot	291367
+clay	pot	291370
+clay	pot	291371
+rock	cod	291368
+two	things	291371
+distance	walking	291352
+####261	3.0	291374	291389
+disappointed	pretty	291376
+dish	rice	291376
+fried	rice	291376
+fried	rice	291381
+cantonese	restaurant	291385
+restaurant	style	291384
+pretty	disappointed	291376
+ice	dish	291376
+location	old	291374
+sour	pork	291386
+sour	pork	291388
+later	days	291379
+ahead	went	291377
+went	ahead	291377
+old	location	291374
+sum	dim	291377
+come	close	291385
+style	restaurant	291384
+went	recently	291375
+days	later	291379
+seafood	noodles	291386
+seafood	noodles	291387
+kong	style	291384
+rice	fried	291376
+rice	fried	291381
+rice	dish	291376
+new	spot	291375
+close	come	291385
+recently	went	291375
+thick	sauce	291381
+####266	4.0	291450	291459
+dishes	chinese	291452
+late	minutes	291456
+orders	drink	291456
+seated	right	291454
+view	mountain	291450
+downtown	mountain	291450
+given	menu	291454
+later	minutes	291456
+chinese	dishes	291452
+mountain	view	291450
+away	right	291454
+american	restaurant	291452
+huge	restaurant	291450
+excellent	selection	291452
+drink	orders	291456
+soup	bowl	291456
+minutes	later	291456
+chinese	dish	291452
+right	seated	291454
+right	away	291454
+####267	2.0	291460	291468
+chinese	food	291464
+bad	service	291463
+food	chinese	291464
+sure	make	291468
+good	food	291465
+food	good	291465
+atmosphere	nice	291465
+nice	atmosphere	291465
+service	bad	291463
+ice	atmosphere	291465
+water	glass	291460
+make	sure	291468
+deep	fried	291467
+glass	water	291460
+####264	4.0	291413	291426
+chinese	food	291426
+mustard	spicy	291415
+food	chinese	291426
+come	usually	291425
+side	expensive	291426
+fried	dumplings	291417
+spicy	mustard	291415
+castro	street	291426
+sum	place	291423
+usually	take	291421
+sum	dim	291421
+sum	dim	291422
+sum	dim	291423
+sum	dim	291425
+expensive	side	291426
+fast	service	291418
+usually	come	291425
+chinese	place	291419
+place	chinese	291419
+deep	fried	291417
+####265	5.0	291438	291449
+service	staff	291446
+great	deal	291439
+specials	lunch	291439
+castro	street	291438
+deal	great	291439
+ice	staff	291446
+good	food	291449
+wait	staff	291445
+food	order	291444
+sum	dim	291447
+definitely	try	291440
+staff	wait	291445
+order	food	291444
+left	hungry	291442
+staff	service	291446
+quick	lunch	291438
+especially	considering	291449
+considering	especially	291449
+lunch	quick	291438
+try	definitely	291440
+####270	2.0	291484	291487
+jose	san	291485
+slow	service	291487
+####271	1.0	291488	291495
+wait	long	291495
+price	reasonable	291494
+good	dim	291494
+rush	lunch	291495
+sum	dim	291494
+burger	king	291492
+reasonable	price	291494
+lunch	rush	291495
+long	wait	291495
+slow	service	291489
+####268	5.0	291469	291474
+recently	tried	291471
+list	long	291469
+tried	recently	291471
+friendly	super	291473
+sum	dim	291471
+long	list	291469
+super	friendly	291473
+####269	4.0	291475	291483
+buns	pork	291478
+sum	dim	291483
+sum	dim	291475
+sum	dim	291476
+bland	pretty	291479
+pork	buns	291478
+mango	pudding	291477
+pretty	bland	291479
+bun	pork	291478
+####305	4.0	291803	291811
+looking	place	291804
+original	review	291806
+group	large	291811
+sum	dim	291803
+sum	dim	291805
+large	group	291811
+moved	recently	291806
+place	looking	291804
+####304	4.0	291790	291802
+chinese	food	291793
+francisco	san	291794
+view	mountain	291794
+waits	long	291798
+food	chinese	291793
+shrimp	balls	291790
+places	new	291794
+nice	selection	291802
+mountain	view	291794
+fried	dumplings	291801
+good	chinese	291793
+new	place	291794
+good	dim	291802
+good	pretty	291802
+sum	dim	291796
+sum	dim	291793
+sum	dim	291802
+pretty	good	291802
+long	waits	291798
+chinese	good	291793
+stickers	pot	291801
+selection	nice	291802
+new	places	291794
+balls	shrimp	291790
+####307	3.0	291816	291829
+group	small	291819
+chinese	take	291820
+best	dishes	291825
+better	options	291817
+efficient	service	291822
+best	absolute	291827
+wait	service	291822
+good	chinese	291817
+dishes	best	291825
+bean	sauce	291825
+heavy	sauce	291826
+black	bean	291825
+small	group	291819
+dipping	sauce	291823
+bean	black	291825
+good	pretty	291827
+sauce	bean	291825
+good	balance	291826
+pretty	good	291827
+absolute	best	291827
+oysters	fried	291818
+balance	good	291826
+chinese	good	291817
+sauce	dipping	291823
+options	better	291817
+fried	oysters	291818
+chinese	meal	291817
+deep	fried	291818
+best	dish	291825
+####306	3.0	291812	291815
+extra	money	291815
+good	pretty	291812
+pretty	good	291812
+red	things	291812
+####309	3.0	291847	291857
+offers	menu	291849
+dinner	family	291857
+set	dinner	291853
+friend	old	291856
+walnut	honey	291857
+parking	find	291847
+peking	duck	291852
+peking	duck	291857
+stir	fried	291857
+old	friend	291856
+find	parking	291847
+great	food	291856
+beef	fried	291857
+dishes	good	291848
+bay	area	291855
+walnut	shrimp	291857
+fried	beef	291857
+curd	bean	291857
+good	dish	291848
+wide	selection	291849
+food	great	291856
+try	restaurant	291847
+moved	away	291855
+bean	curd	291857
+good	dishes	291848
+area	bay	291855
+####308	4.0	291830	291846
+great	local	291842
+considering	good	291836
+view	mountain	291846
+restaurant	chinese	291831
+specials	daily	291830
+best	chinese	291831
+good	service	291845
+mountain	view	291846
+nights	ago	291833
+right	feel	291830
+great	location	291840
+absolutely	fantastic	291841
+seated	immediately	291833
+local	place	291842
+bill	came	291836
+absolutely	fan	291841
+chinese	best	291831
+good	considering	291836
+chinese	restaurant	291831
+con	good	291836
+family	meal	291835
+location	great	291840
+clay	pot	291844
+came	bill	291836
+feel	right	291830
+immediately	seated	291833
+random	things	291843
+fantastic	absolutely	291841
+####311	4.0	291863	291869
+eating	experience	291863
+bottom	line	291865
+trip	worth	291867
+experience	eating	291863
+good	food	291865
+good	food	291867
+pay	attention	291864
+food	good	291865
+food	good	291867
+worth	trip	291867
+awful	service	291866
+####310	3.0	291858	291862
+disappointed	pretty	291858
+actually	pretty	291858
+highly	suggest	291862
+fast	pretty	291861
+pretty	actually	291858
+sauce	soy	291860
+pretty	disappointed	291858
+oil	chili	291860
+pretty	fast	291861
+chili	oil	291860
+white	pepper	291860
+bland	pretty	291859
+fast	service	291861
+pretty	bland	291859
+hot	chili	291860
+suggest	highly	291862
+soy	sauce	291860
+####313	4.0	291875	291883
+great	restaurant	291877
+kong	hong	291883
+buns	pork	291881
+restaurant	chinese	291877
+good	service	291882
+sizes	serving	291878
+egg	custard	291881
+preserved	egg	291881
+custard	egg	291881
+definitely	great	291880
+sum	place	291879
+wait	staff	291883
+sticky	rice	291879
+sticky	rice	291881
+good	pretty	291882
+restaurant	new	291875
+sum	dim	291876
+sum	dim	291879
+steamed	pork	291881
+staff	wait	291883
+pretty	good	291882
+pork	buns	291881
+new	restaurant	291875
+mango	pudding	291881
+rice	sticky	291879
+rice	sticky	291881
+rice	noodle	291881
+chinese	restaurant	291877
+sum	places	291879
+####312	4.0	291870	291874
+view	mountain	291870
+chinese	broccoli	291873
+better	options	291870
+better	way	291870
+mountain	view	291870
+night	late	291872
+night	dim	291872
+bet	way	291870
+sum	dim	291872
+way	better	291870
+dim	night	291872
+late	night	291872
+options	better	291870
+####315	4.0	291886	291892
+different	desserts	291890
+red	bean	291891
+family	dinner	291887
+chinese	restaurants	291887
+type	dish	291891
+restaurants	chinese	291887
+night	late	291888
+quality	food	291886
+customer	service	291889
+good	pretty	291887
+pretty	good	291887
+mango	pudding	291891
+food	quality	291886
+pricey	bit	291886
+chinese	restaurant	291887
+late	night	291888
+service	customer	291889
+bean	red	291891
+bit	pricey	291886
+ate	night	291888
+####314	2.0	291884	291885
+####317	4.0	291902	291909
+crispy	chicken	291909
+good	damn	291902
+best	damn	291904
+chicken	crispy	291909
+open	late	291906
+bay	area	291904
+damn	good	291902
+damn	best	291904
+pretty	damn	291902
+late	open	291906
+damn	pretty	291902
+area	bay	291904
+####316	3.0	291893	291901
+soft	shell	291894
+seafood	dish	291893
+yolk	egg	291894
+good	service	291896
+crab	shell	291894
+date	night	291897
+style	family	291897
+shell	soft	291894
+good	food	291899
+good	food	291896
+night	date	291897
+food	good	291899
+food	good	291896
+service	good	291896
+big	group	291897
+seafood	dishes	291893
+egg	yolk	291894
+shell	crab	291894
+family	style	291897
+group	big	291897
+ate	night	291897
+####319	3.0	291919	291926
+five	different	291923
+please	don	291925
+different	wait	291923
+away	take	291923
+away	take	291925
+different	waiters	291923
+main	complaint	291922
+take	away	291923
+take	away	291925
+####318	2.0	291910	291918
+queen	house	291916
+soup	noodle	291916
+restaurant	chinese	291915
+good	noodle	291916
+perfectly	crispy	291910
+crispy	perfectly	291910
+crisp	perfectly	291910
+rest	chinese	291915
+place	best	291915
+noodle	soup	291916
+chinese	restaurant	291915
+entrees	two	291918
+two	entrees	291918
+best	place	291915
+####288	5.0	291635	291640
+card	credit	291637
+card	credit	291638
+####289	1.0	291641	291645
+sum	dim	291641
+sum	dim	291643
+sum	dim	291644
+sum	dim	291645
+####290	4.0	291646	291647
+leave	hungry	291647
+ordered	food	291646
+gets	place	291647
+multiple	visits	291647
+hungry	leave	291647
+place	gets	291647
+####291	3.0	291648	291670
+properly	cooked	291661
+places	good	291668
+food	eat	291651
+fresh	super	291650
+super	fresh	291650
+sum	dim	291648
+sum	dim	291650
+nice	try	291665
+good	places	291668
+water	taste	291661
+eat	food	291651
+incredibly	busy	291650
+write	reviews	291668
+good	place	291668
+####292	5.0	291671	291680
+new	location	291674
+location	old	291674
+sprouts	pea	291678
+location	new	291674
+old	location	291674
+pea	sprouts	291678
+####293	3.0	291681	291696
+chinese	food	291688
+chinese	food	291694
+chinese	food	291695
+great	deal	291694
+back	coming	291696
+view	mountain	291692
+solid	place	291694
+come	food	291695
+food	chinese	291688
+food	chinese	291694
+food	chinese	291695
+authentic	chinese	291694
+shrimp	dumplings	291684
+mountain	view	291692
+good	chinese	291688
+place	solid	291694
+night	late	291694
+tasty	dish	291689
+deal	great	291694
+chinese	authentic	291694
+sticky	rice	291687
+steamed	fish	291690
+lived	having	291696
+sum	dim	291683
+sum	dim	291694
+coming	back	291696
+dumplings	shrimp	291684
+rice	sticky	291687
+having	lived	291696
+pleasant	experience	291686
+reasonably	priced	291686
+chinese	good	291688
+home	take	291687
+take	home	291687
+late	night	291694
+priced	reasonably	291686
+tasty	dishes	291689
+alright	food	291681
+####294	4.0	291697	291704
+hours	three	291703
+night	cold	291702
+horrible	food	291697
+sum	dim	291698
+sum	dim	291699
+sum	dim	291702
+sum	dim	291703
+three	hours	291703
+cold	night	291702
+####295	3.0	291705	291710
+weekend	lunch	291710
+minutes	ten	291705
+wait	worth	291709
+ten	minutes	291705
+fried	taro	291707
+sum	dim	291707
+worth	wait	291709
+####296	4.0	291711	291719
+chinese	food	291715
+food	chinese	291715
+authentic	chinese	291715
+specials	lunch	291719
+good	authentic	291715
+sour	soup	291714
+chinese	authentic	291715
+specials	menu	291719
+asked	waiter	291714
+excellent	food	291711
+####297	4.0	291720	291730
+came	meal	291728
+lunch	special	291728
+specials	lunch	291721
+meal	came	291728
+special	lunch	291728
+find	place	291730
+turned	away	291727
+stuff	good	291724
+fun	chow	291721
+people	two	291728
+two	people	291728
+good	stuff	291724
+####298	5.0	291731	291733
+personal	favorites	291733
+dish	rice	291733
+new	location	291731
+location	new	291731
+favorites	personal	291733
+remember	going	291731
+rice	dish	291733
+####299	2.0	291734	291742
+style	chinese	291735
+dish	rice	291734
+contact	eye	291740
+ice	dish	291734
+specials	lunch	291742
+night	late	291736
+sum	place	291739
+wait	staff	291740
+night	meal	291736
+make	eye	291740
+sum	dim	291738
+sum	dim	291739
+sum	dim	291740
+staff	wait	291740
+regular	lunch	291742
+late	night	291736
+rice	dish	291734
+sum	places	291739
+chinese	style	291735
+style	dinner	291735
+####300	2.0	291743	291758
+kong	hong	291755
+sum	restaurants	291757
+fried	batter	291752
+later	minutes	291747
+batter	fried	291752
+wrong	dish	291749
+sour	soup	291745
+sucks	place	291758
+place	sucks	291758
+wait	staff	291747
+sum	dim	291745
+sum	dim	291744
+sum	dim	291746
+sum	dim	291751
+sum	dim	291755
+sum	dim	291757
+sum	restaurant	291757
+staff	wait	291747
+got	friends	291745
+orange	sauce	291748
+bay	area	291755
+lunch	menu	291744
+minutes	later	291747
+friends	got	291745
+area	bay	291755
+menu	lunch	291744
+zero	stars	291754
+####301	3.0	291759	291769
+view	mountain	291760
+downtown	mountain	291760
+came	dishes	291763
+mountain	view	291760
+group	large	291762
+sum	dim	291759
+sum	dim	291769
+busy	restaurant	291763
+bill	came	291764
+large	group	291762
+dishes	came	291763
+two	big	291762
+came	bill	291764
+####302	4.0	291770	291776
+sum	dim	291771
+sum	dim	291774
+empty	dish	291772
+####303	2.0	291777	291789
+ways	great	291783
+shrimp	dumplings	291789
+deal	good	291779
+long	hours	291785
+pricy	side	291782
+pretty	huge	291787
+open	place	291784
+sum	dim	291786
+sum	dim	291779
+sum	dim	291782
+sum	dim	291788
+dumplings	shrimp	291789
+hours	long	291785
+speak	english	291781
+opened	place	291784
+fun	chow	291789
+good	deal	291779
+####343	4.0	292169	292183
+king	crab	292174
+duck	roast	292177
+kong	hong	292178
+thoroughly	enjoyed	292180
+quality	service	292174
+pork	chops	292171
+restaurant	style	292178
+good	service	292176
+good	service	292181
+interesting	dishes	292180
+love	place	292175
+service	good	292176
+roast	duck	292177
+style	restaurant	292178
+service	quality	292174
+bit	salty	292170
+chops	pork	292171
+salty	bit	292170
+pepper	pork	292171
+excellent	food	292179
+pricey	bit	292172
+kong	style	292178
+crab	king	292174
+interesting	dish	292180
+bit	pricey	292172
+####342	4.0	292161	292168
+alto	palo	292166
+good	variety	292165
+sum	place	292168
+sum	dim	292164
+sum	dim	292166
+sum	dim	292168
+variety	good	292165
+####341	4.0	292143	292160
+dishes	small	292160
+view	mountain	292145
+restaurant	chinese	292143
+super	special	292160
+best	chinese	292143
+chinese	restaurants	292143
+mountain	view	292145
+better	food	292149
+best	service	292152
+restaurants	chinese	292143
+fairly	fast	292153
+small	dish	292160
+rest	chinese	292143
+sum	place	292145
+service	best	292152
+huge	deal	292159
+reasonable	prices	292149
+sum	dim	292145
+sum	dim	292146
+sum	dim	292152
+sum	dim	292157
+sum	restaurant	292152
+prices	reasonable	292149
+food	better	292149
+great	food	292150
+best	definitely	292143
+great	service	292150
+bay	area	292146
+definitely	best	292143
+usually	good	292158
+chinese	best	292143
+food	great	292150
+chinese	restaurant	292143
+small	dishes	292160
+area	bay	292146
+####340	3.0	292135	292142
+back	went	292139
+high	end	292138
+end	high	292138
+tastes	food	292135
+food	tastes	292135
+end	restaurant	292138
+excellent	food	292141
+food	taste	292135
+pricey	bit	292141
+went	back	292139
+bit	pricey	292141
+####339	3.0	292131	292134
+new	location	292133
+location	new	292133
+restaurant	new	292134
+new	restaurant	292134
+loc	new	292133
+####338	4.0	292115	292130
+food	came	292128
+ordered	food	292126
+farmers	market	292115
+cold	water	292124
+back	came	292126
+new	chinese	292122
+new	chinese	292130
+night	late	292123
+come	back	292130
+came	back	292126
+back	come	292130
+new	years	292122
+red	food	292126
+late	night	292123
+chinese	new	292122
+chinese	new	292130
+came	food	292128
+market	farmers	292115
+years	new	292122
+####337	3.0	292099	292114
+friendly	people	292104
+friends	birthday	292105
+birthday	friends	292105
+nice	kick	292102
+night	late	292099
+seating	area	292107
+seated	immediately	292099
+terrible	food	292104
+sum	dim	292114
+definitely	try	292101
+charge	extra	292109
+hot	water	292112
+area	seating	292107
+second	floor	292107
+extra	charge	292109
+feet	chicken	292101
+area	bay	292114
+kick	nice	292102
+water	hot	292112
+try	definitely	292101
+immediately	seated	292099
+####336	5.0	292079	292098
+quality	good	292091
+ingredients	quality	292091
+best	friend	292081
+good	quality	292091
+service	amazing	292093
+great	prices	292089
+regular	meal	292095
+based	stars	292086
+night	late	292084
+castro	street	292094
+night	dim	292084
+friend	best	292081
+great	location	292091
+food	delicious	292090
+eat	location	292091
+sum	place	292093
+sum	place	292098
+good	pretty	292098
+sum	dim	292084
+sum	dim	292085
+sum	dim	292086
+sum	dim	292088
+sum	dim	292093
+sum	dim	292095
+sum	dim	292098
+sum	restaurant	292086
+pretty	good	292098
+bay	area	292081
+reasonable	price	292079
+price	great	292089
+stars	based	292086
+delicious	food	292090
+amazing	service	292093
+dim	night	292084
+prices	great	292089
+eat	prices	292089
+late	night	292084
+sum	places	292098
+quality	ingredients	292091
+location	great	292091
+area	bay	292081
+chinese	place	292083
+place	chinese	292083
+####351	3.0	292229	292231
+good	pretty	292229
+pretty	good	292229
+recommend	definitely	292230
+definitely	recommend	292230
+####350	4.0	292225	292228
+back	came	292226
+came	back	292226
+separate	dish	292227
+####349	4.0	292220	292224
+french	pressed	292222
+long	lines	292221
+lines	long	292221
+pressed	french	292222
+coffee	pressed	292222
+bad	dish	292220
+pressed	coffee	292222
+long	line	292221
+####348	3.0	292218	292219
+oreo	pancakes	292219
+goes	list	292219
+velvet	red	292219
+red	velvet	292219
+pancakes	velvet	292219
+toast	french	292219
+nutella	french	292219
+french	toast	292218
+french	toast	292219
+literally	taste	292218
+list	goes	292219
+####347	4.0	292211	292217
+breakfast	places	292216
+waffle	cream	292211
+regular	place	292213
+toast	french	292211
+cream	waffle	292211
+french	toast	292211
+places	breakfast	292216
+angeles	los	292216
+located	right	292216
+####346	4.0	292203	292210
+romantic	date	292205
+pretty	packed	292205
+night	late	292203
+sum	dim	292204
+drive	home	292205
+lively	atmosphere	292205
+packed	pretty	292205
+super	full	292205
+late	night	292203
+pepper	fish	292204
+clay	pot	292204
+home	drive	292205
+seated	right	292208
+finally	got	292207
+got	finally	292207
+away	right	292208
+seated	got	292208
+right	seated	292208
+got	seated	292208
+right	away	292208
+####345	4.0	292196	292202
+worth	drive	292202
+sum	dim	292197
+food	poisoning	292199
+place	favorite	292201
+favorite	place	292201
+poisoning	food	292199
+####344	3.0	292184	292195
+make	reservations	292195
+enjoy	eating	292184
+eating	dinner	292184
+reservations	make	292195
+two	days	292189
+night	late	292195
+dimsum	place	292190
+decent	prices	292193
+good	pretty	292190
+pretty	good	292190
+late	night	292195
+decent	pretty	292193
+days	two	292189
+eating	enjoy	292184
+high	class	292188
+####326	4.0	291989	291992
+pan	fried	291991
+house	noodles	291991
+fried	rice	291991
+sauce	garlic	291989
+ordered	rice	291992
+noodles	house	291991
+garlic	sauce	291989
+red	rice	291992
+rice	fried	291991
+####327	3.0	291993	291999
+pan	fried	291993
+red	fried	291993
+fried	noodles	291993
+fried	rice	291993
+fried	rice	291995
+noodles	fried	291993
+sum	dim	291997
+rice	fried	291993
+rice	fried	291995
+ordered	fried	291993
+####324	4.0	291965	291972
+sauce	spicy	291967
+mongolian	beef	291966
+tofu	fried	291969
+fried	tofu	291969
+good	food	291971
+food	good	291971
+spicy	sauce	291967
+minced	pork	291970
+####325	3.0	291973	291988
+back	coming	291973
+month	ago	291981
+going	back	291982
+sauce	curry	291977
+cantonese	restaurant	291983
+lacking	service	291975
+overall	great	291973
+nice	texture	291977
+back	going	291982
+decor	nice	291985
+take	did	291978
+great	food	291973
+did	take	291978
+god	thank	291981
+coming	back	291973
+great	overall	291973
+thank	god	291981
+spicy	sauce	291977
+curry	sauce	291977
+previous	visit	291978
+food	great	291973
+texture	nice	291977
+clay	pot	291987
+take	long	291978
+nice	decor	291985
+####322	4.0	291941	291952
+come	definitely	291951
+sense	make	291946
+chinese	restaurants	291948
+restaurants	chinese	291948
+make	sense	291946
+amount	good	291950
+come	back	291951
+sum	dim	291942
+sum	dim	291947
+excellent	restaurant	291947
+pretty	tasty	291950
+morning	saturday	291949
+back	come	291951
+wall	place	291952
+tasty	pretty	291950
+saturday	morning	291949
+good	amount	291950
+definitely	come	291951
+total	bill	291951
+####323	3.0	291953	291964
+restaurant	chinese	291955
+authentic	chinese	291955
+lunch	special	291963
+lunch	special	291964
+chinese	authentic	291955
+special	lunch	291963
+special	lunch	291964
+sum	dim	291956
+sum	dim	291964
+old	place	291956
+chinese	restaurant	291955
+####320	3.0	291927	291933
+yolk	egg	291932
+order	dessert	291928
+pretty	packed	291931
+oyster	fried	291932
+duck	egg	291932
+fried	oyster	291932
+egg	yolk	291932
+packed	pretty	291931
+dessert	order	291928
+####321	3.0	291934	291940
+dirty	dishes	291939
+dirty	dish	291939
+good	service	291936
+sum	place	291936
+good	dim	291935
+sum	dim	291940
+sum	dim	291934
+sum	dim	291935
+sum	dim	291936
+service	good	291936
+fair	share	291935
+####334	3.0	292047	292064
+good	solid	292051
+duck	roast	292063
+chinese	food	292051
+extremely	busy	292047
+view	mountain	292050
+food	chinese	292051
+solid	good	292051
+busy	extremely	292047
+thin	good	292055
+mountain	view	292050
+job	good	292060
+sum	place	292047
+sum	place	292050
+barbecue	pork	292063
+wait	staff	292047
+water	glasses	292048
+sum	dim	292052
+sum	dim	292047
+sum	dim	292050
+staff	wait	292047
+fast	service	292056
+roast	duck	292063
+glasses	water	292048
+food	style	292053
+service	fast	292056
+good	job	292060
+sum	places	292047
+fun	chow	292060
+move	fast	292059
+style	food	292053
+glass	water	292048
+####335	3.0	292068	292078
+mind	wait	292078
+view	mountain	292076
+good	location	292074
+mountain	view	292076
+waiting	mind	292078
+sum	dim	292071
+sum	dim	292077
+two	place	292071
+places	two	292071
+ample	parking	292074
+mind	waiting	292078
+two	places	292071
+####332	3.0	292036	292045
+decent	price	292043
+huge	portions	292043
+shrimp	balls	292038
+back	came	292045
+favorite	chinese	292042
+chinese	favorite	292042
+night	late	292044
+preserved	egg	292038
+castro	street	292042
+order	usually	292039
+sum	place	292039
+came	back	292045
+sum	dim	292036
+sum	dim	292039
+sum	dim	292045
+portions	huge	292043
+usually	order	292039
+food	style	292043
+lunch	prices	292044
+late	night	292044
+sum	places	292039
+style	food	292043
+balls	shrimp	292038
+####333	5.0	292046	0
+####330	3.0	292011	292020
+steamed	dumplings	292018
+view	mountain	292011
+south	bay	292020
+downtown	mountain	292011
+sum	restaurants	292015
+mountain	view	292011
+sum	dim	292013
+sum	dim	292015
+sum	dim	292020
+sum	restaurant	292013
+sum	restaurant	292015
+take	care	292014
+base	soup	292017
+care	take	292014
+soup	base	292017
+think	personally	292017
+bay	south	292020
+personally	think	292017
+####331	1.0	292021	292035
+today	lunch	292031
+bit	high	292025
+lunch	today	292031
+good	variety	292028
+weeks	couple	292023
+ago	weeks	292023
+decent	place	292026
+sum	dim	292023
+sum	dim	292024
+sum	dim	292026
+sum	dim	292032
+sum	dim	292027
+high	bit	292025
+couple	weeks	292023
+high	ceilings	292023
+high	prices	292025
+weeks	ago	292023
+####328	3.0	292000	292004
+terrible	service	292001
+half	wait	292002
+sum	dim	292001
+wait	half	292002
+####329	2.0	292005	292010
+people	three	292006
+sum	dim	292006
+three	people	292006
+bay	area	292008
+area	bay	292008
+####373	3.0	292408	292418
+red	sugar	292412
+portion	big	292416
+sugar	powdered	292412
+syrup	maple	292412
+toast	french	292411
+toast	french	292415
+maple	syrup	292412
+portions	big	292416
+french	toast	292411
+french	toast	292415
+powdered	sugar	292412
+big	portions	292416
+####372	3.0	292405	292407
+####375	3.0	292427	292436
+best	pancakes	292433
+best	pancakes	292436
+pancakes	best	292433
+pancakes	best	292436
+break	best	292434
+best	breakfast	292434
+definitely	know	292436
+place	breakfast	292435
+breakfast	best	292434
+pan	best	292433
+great	server	292430
+breakfast	place	292435
+avocado	sandwich	292428
+brea	best	292434
+west	hollywood	292436
+####374	4.0	292419	292426
+toast	french	292419
+french	toast	292419
+cafe	griddle	292419
+cafe	griddle	292421
+stuffed	french	292419
+griddle	cafe	292419
+griddle	cafe	292421
+####369	3.0	292380	292383
+look	good	292380
+looking	good	292380
+good	looking	292380
+####368	3.0	292371	292379
+fast	super	292375
+look	good	292378
+looking	good	292378
+good	looking	292378
+seated	got	292375
+super	fast	292375
+got	seated	292375
+####371	4.0	292399	292404
+back	coming	292399
+line	long	292402
+coming	back	292399
+long	line	292402
+looking	back	292399
+angeles	los	292400
+king	back	292399
+####370	4.0	292384	292398
+breakfast	spot	292398
+two	got	292395
+sauce	red	292392
+two	dishes	292385
+two	eggs	292395
+dishes	three	292387
+good	breakfast	292398
+two	egg	292395
+sour	cream	292392
+blueberry	pancake	292384
+got	two	292395
+fast	spot	292398
+damn	near	292387
+eggs	two	292395
+dishes	two	292385
+two	dish	292385
+three	dishes	292387
+spot	breakfast	292398
+brea	good	292398
+melted	cheese	292392
+wheat	toast	292395
+cheese	melted	292392
+people	two	292387
+red	sauce	292392
+two	people	292387
+three	dish	292387
+breakfast	good	292398
+####381	4.0	292459	292472
+don	people	292461
+velvet	red	292460
+red	velvet	292460
+group	large	292470
+large	group	292470
+pancake	velvet	292460
+people	don	292461
+####380	3.0	292458	0
+####383	4.0	292478	292484
+french	pressed	292479
+pressed	french	292479
+coffee	pressed	292479
+press	french	292479
+unique	way	292484
+pressed	coffee	292479
+benedict	eggs	292482
+eggs	benedict	292482
+####382	2.0	292473	292477
+great	service	292476
+service	great	292476
+####377	2.0	292445	292449
+reading	stop	292448
+velvet	red	292449
+extra	hungry	292445
+red	velvet	292449
+pancakes	velvet	292449
+pancake	velvet	292449
+velvet	pancakes	292449
+pan	velvet	292449
+####376	3.0	292437	292444
+cheese	mozzarella	292441
+french	pressed	292444
+pressed	french	292444
+peppers	bell	292441
+mozzarella	cheese	292441
+tasted	amazing	292440
+bell	peppers	292441
+brick	yellow	292438
+amazing	tasted	292440
+chicago	charlie	292441
+brick	road	292438
+fresh	coffee	292444
+extremely	hungry	292437
+####379	4.0	292453	292457
+sizes	serving	292454
+####378	4.0	292450	292452
+breakfast	places	292452
+favorite	breakfast	292452
+breakfast	favorite	292452
+breakfast	place	292452
+places	breakfast	292452
+####357	3.0	292256	292280
+dry	bit	292263
+free	parking	292267
+pretty	nice	292258
+egg	whites	292277
+people	four	292261
+parking	right	292275
+food	did	292272
+two	times	292258
+french	press	292264
+ticket	golden	292263
+nice	pretty	292258
+press	french	292264
+four	people	292261
+did	food	292272
+toast	french	292261
+right	parking	292275
+coffee	press	292264
+times	two	292258
+aid	rite	292267
+freakin	good	292276
+bomb	place	292271
+french	toast	292261
+chicago	charlie	292261
+rushed	feel	292259
+waiter	did	292266
+rite	aid	292267
+bit	dry	292263
+did	waiter	292266
+press	coffee	292264
+feel	rushed	292259
+####358	2.0	292281	292286
+spot	great	292282
+cool	place	292285
+great	spot	292282
+eat	spot	292282
+great	food	292286
+eat	food	292286
+food	great	292286
+place	cool	292285
+####359	3.0	292287	292293
+words	two	292292
+two	words	292292
+eat	service	292287
+toast	french	292292
+great	service	292287
+service	great	292287
+french	toast	292292
+####352	4.0	292232	292234
+come	hungry	292234
+keep	eating	292233
+hungry	come	292234
+stuff	sweet	292232
+sweet	stuff	292232
+####353	4.0	292235	292241
+tacos	breakfast	292241
+love	love	292236
+breakfast	tacos	292241
+full	stack	292240
+pumpkin	pie	292241
+####354	5.0	292242	292248
+place	crowded	292248
+line	long	292245
+bit	crowded	292248
+good	food	292248
+good	pretty	292248
+pretty	good	292248
+morning	saturday	292245
+saturday	morning	292245
+long	line	292245
+crowded	place	292248
+crowded	bit	292248
+####355	4.0	292249	292255
+huge	portions	292255
+eating	done	292251
+done	eating	292251
+good	pretty	292254
+pretty	good	292254
+portions	huge	292255
+three	bites	292255
+####364	5.0	292330	292345
+savory	dish	292340
+scrambled	egg	292341
+good	luck	292345
+free	parking	292343
+tortilla	chips	292342
+morning	early	292334
+sour	cream	292341
+quality	food	292331
+good	reason	292337
+chips	tortilla	292342
+filling	pie	292338
+popular	items	292337
+early	morning	292334
+reason	good	292337
+luck	good	292345
+luc	good	292345
+food	quality	292331
+aid	rite	292343
+parking	street	292345
+eggs	scrambled	292341
+scrambled	eggs	292341
+pumpkin	pie	292338
+street	parking	292345
+cafe	griddle	292334
+rite	aid	292343
+pie	filling	292338
+griddle	cafe	292334
+####365	4.0	292346	292349
+breakfast	joint	292346
+spot	hot	292346
+hot	spot	292346
+afternoon	snack	292346
+joint	breakfast	292346
+####366	5.0	292350	292359
+ear	come	292351
+reading	reviews	292357
+come	early	292351
+forming	line	292354
+line	forming	292354
+full	half	292352
+come	hungry	292351
+later	minutes	292354
+thin	good	292355
+earl	come	292351
+early	come	292351
+hungry	come	292351
+half	full	292352
+morning	sunday	292352
+thirty	minutes	292354
+minutes	later	292354
+sunday	morning	292352
+####367	2.0	292360	292370
+dishes	egg	292360
+back	coming	292369
+best	pancakes	292367
+papas	benedict	292361
+papas	benedict	292362
+hot	sauce	292363
+pancakes	best	292367
+sour	cream	292368
+sauce	hot	292363
+new	flavors	292369
+ordered	egg	292360
+coming	back	292369
+egg	dish	292360
+egg	dishes	292360
+dish	egg	292360
+pan	best	292367
+red	egg	292360
+new	flavor	292369
+####360	3.0	292294	292297
+huge	portions	292297
+sure	make	292297
+syrup	maple	292294
+definitely	worth	292296
+hour	wait	292295
+maple	syrup	292294
+worth	definitely	292296
+portions	huge	292297
+wait	hour	292295
+morning	sunday	292295
+make	sure	292297
+sunday	morning	292295
+####361	2.0	292298	292301
+staff	friendly	292301
+seated	immediately	292299
+friendly	staff	292301
+fast	service	292301
+service	fast	292301
+cafe	griddle	292298
+immediately	seated	292299
+griddle	cafe	292298
+####362	4.0	292302	292307
+huge	portions	292307
+pretty	tasty	292306
+tasty	pretty	292306
+####363	4.0	292308	292320
+huge	portions	292318
+huge	portions	292314
+come	hungry	292312
+tacos	breakfast	292308
+blueberry	pancake	292308
+french	press	292316
+breakfast	tacos	292308
+press	french	292316
+blueberry	pancakes	292315
+toast	french	292320
+portions	huge	292318
+portions	huge	292314
+cookie	oreo	292320
+oreo	cookie	292320
+portion	huge	292318
+hungry	come	292312
+french	toast	292320
+entire	plate	292320
+extremely	hungry	292313
+####410	5.0	292683	0
+####411	4.0	292684	292692
+french	press	292689
+customer	service	292686
+press	french	292689
+coffee	press	292689
+weekend	morning	292690
+morning	weekend	292690
+usually	wait	292686
+service	customer	292686
+press	coffee	292689
+unique	menu	292687
+####408	3.0	292669	292676
+savory	dish	292671
+butter	peanut	292670
+savory	dishes	292671
+french	creme	292670
+crunchy	french	292670
+ticket	golden	292670
+ticket	golden	292673
+toast	french	292670
+toast	french	292673
+toast	french	292674
+got	soggy	292676
+peanut	butter	292670
+french	toast	292670
+french	toast	292673
+french	toast	292674
+fan	big	292675
+nut	butter	292670
+whip	cream	292675
+huge	mistake	292671
+big	fan	292675
+soggy	got	292676
+####409	3.0	292677	292682
+sure	made	292680
+sure	make	292681
+made	sure	292680
+list	waiting	292680
+toast	french	292677
+great	service	292678
+service	great	292678
+waiting	list	292680
+french	toast	292677
+make	sure	292681
+####414	3.0	292706	292709
+bean	coffee	292707
+forever	wait	292709
+wait	forever	292709
+waiting	hate	292708
+flavorful	food	292709
+hate	waiting	292708
+coffee	bean	292707
+rich	flavor	292709
+hate	wait	292708
+####415	4.0	292710	292714
+decided	finally	292711
+finally	decided	292711
+portion	big	292714
+good	freaking	292710
+extremely	rich	292713
+super	good	292713
+good	super	292713
+rich	extremely	292713
+toast	french	292711
+portions	big	292714
+french	toast	292711
+big	portions	292714
+freaking	good	292710
+####412	3.0	292693	292696
+sure	make	292696
+brick	yellow	292695
+new	years	292696
+brick	road	292695
+make	sure	292696
+years	new	292696
+####413	3.0	292697	292705
+oreo	pancakes	292701
+getting	suggest	292698
+potato	baked	292701
+wait	worth	292699
+totally	worth	292699
+staff	friendly	292704
+worth	wait	292699
+worth	totally	292699
+friendly	staff	292704
+twice	place	292697
+great	food	292704
+baked	potato	292701
+quick	service	292704
+food	great	292704
+suggest	getting	292698
+place	twice	292697
+service	quick	292704
+red	dishes	292700
+####402	3.0	292619	292620
+chicken	breast	292619
+breast	chicken	292619
+####403	4.0	292621	292632
+italian	sausage	292629
+velvet	pancake	292622
+sausage	italian	292629
+red	sugar	292622
+red	sugar	292627
+cheese	cream	292622
+cheese	cream	292627
+buttermilk	pancake	292632
+wide	eyes	292632
+creme	french	292627
+chocolate	hot	292624
+sugar	powdered	292622
+sugar	powdered	292627
+wide	open	292632
+peanut	bubba	292631
+sweet	cream	292624
+french	creme	292627
+bubba	french	292631
+nut	bubba	292631
+peppers	bell	292629
+bubba	peanut	292631
+ham	cracker	292627
+nutella	stuffed	292626
+velvet	red	292622
+cream	sweet	292624
+cream	cheese	292622
+cream	cheese	292627
+red	velvet	292622
+chocolate	chips	292632
+try	list	292622
+french	stuffed	292626
+bell	peppers	292629
+toast	french	292627
+toast	french	292631
+toast	french	292624
+toast	french	292626
+toast	french	292628
+hot	chocolate	292624
+pancake	velvet	292622
+graham	cracker	292627
+things	favorite	292630
+cheese	frosting	292627
+french	toast	292624
+french	toast	292626
+french	toast	292627
+french	toast	292628
+french	toast	292631
+chicago	charlie	292629
+pan	velvet	292622
+french	bubba	292631
+frosting	cheese	292627
+chips	chocolate	292632
+favorite	things	292630
+stuffed	french	292626
+powdered	sugar	292622
+powdered	sugar	292627
+####400	4.0	292611	292614
+red	sugar	292614
+buttermilk	pancake	292613
+sugar	powdered	292614
+morning	saturday	292613
+saturday	morning	292613
+cream	whipped	292614
+whipped	cream	292614
+powdered	sugar	292614
+####401	3.0	292615	292618
+chicken	breast	292617
+onions	green	292617
+egg	whites	292617
+breast	chicken	292617
+green	onions	292617
+whites	egg	292617
+mixed	drinks	292615
+sausage	maple	292617
+maple	sausage	292617
+####406	3.0	292654	292656
+skip	line	292654
+####407	4.0	292657	292668
+good	damn	292665
+wait	worth	292657
+velvet	red	292666
+red	velvet	292666
+pancakes	velvet	292666
+french	press	292664
+wait	staff	292664
+worth	wait	292657
+staff	wait	292664
+toast	french	292666
+toast	french	292668
+damn	good	292665
+attentive	wait	292664
+pancake	velvet	292666
+velvet	pancakes	292666
+french	toast	292666
+french	toast	292668
+pan	velvet	292666
+####404	1.0	292633	292645
+huge	portions	292634
+sizes	portion	292642
+yelp	review	292637
+yelp	review	292638
+best	pancake	292639
+roll	french	292633
+sauce	cream	292633
+waiting	people	292635
+pan	best	292639
+portions	big	292643
+people	waiting	292635
+saturday	night	292635
+night	saturday	292635
+review	yelp	292637
+review	yelp	292638
+french	roll	292633
+people	wait	292635
+cream	sauce	292633
+big	portions	292643
+####405	3.0	292646	292653
+french	pressed	292651
+pressed	french	292651
+french	press	292651
+coffee	pressed	292651
+pressed	coffee	292651
+####395	1.0	292584	292588
+group	ordered	292584
+fried	potatoes	292586
+ordered	group	292584
+size	serving	292586
+####394	3.0	292566	292583
+velvet	pancake	292567
+food	coma	292570
+probably	won	292581
+wait	worth	292572
+delicious	damn	292583
+velvet	red	292567
+coma	food	292570
+red	velvet	292567
+french	press	292578
+come	back	292581
+press	french	292578
+worth	wait	292572
+spot	good	292570
+back	come	292581
+coffee	press	292578
+pancake	velvet	292567
+pan	velvet	292567
+black	magic	292574
+damn	delicious	292583
+cafe	griddle	292568
+good	spot	292570
+back	asap	292581
+press	coffee	292578
+magic	black	292574
+griddle	cafe	292568
+####393	4.0	292558	292565
+minutes	couple	292563
+pretty	rich	292561
+french	press	292563
+chocolate	chips	292560
+press	french	292563
+toast	french	292560
+great	tastes	292564
+couple	minutes	292563
+chip	chocolate	292560
+french	toast	292560
+tastes	great	292564
+cream	whipped	292558
+whipped	cream	292558
+chips	chocolate	292560
+####392	3.0	292550	292557
+wait	long	292554
+getting	seated	292556
+morning	saturday	292557
+extra	plates	292553
+people	think	292556
+seated	getting	292556
+saturday	morning	292557
+think	people	292556
+long	wait	292554
+####399	3.0	292608	292610
+cafe	griddle	292610
+griddle	cafe	292610
+####398	3.0	292602	292606
+big	portion	292602
+brunch	place	292604
+good	brunch	292604
+portion	big	292602
+morning	sunday	292605
+pretty	big	292602
+big	pretty	292602
+place	brunch	292604
+sunday	morning	292605
+angeles	los	292606
+####397	3.0	292594	292601
+regular	coffee	292600
+best	pancakes	292597
+del	pretty	292598
+recommend	highly	292601
+highly	recommend	292601
+pancakes	best	292597
+good	taste	292600
+worth	money	292597
+french	press	292600
+sure	taste	292600
+press	french	292600
+taste	good	292600
+pretty	delicious	292598
+coffee	press	292600
+money	worth	292597
+pretty	darn	292600
+delicious	pretty	292598
+pretty	big	292597
+fan	big	292597
+people	two	292601
+big	pretty	292597
+two	big	292599
+two	people	292601
+darn	pretty	292600
+cafe	griddle	292597
+big	fan	292597
+press	coffee	292600
+griddle	cafe	292597
+####396	3.0	292589	292593
+ahead	people	292590
+wasn	wait	292591
+french	press	292589
+press	french	292589
+aren	prices	292593
+people	ahead	292590
+####387	4.0	292505	292513
+wonderful	flavor	292505
+come	back	292508
+food	portions	292512
+pretty	huge	292511
+back	come	292508
+portions	food	292512
+####386	3.0	292497	292504
+inch	thick	292504
+refried	beans	292502
+food	mexican	292501
+best	pancake	292500
+mexican	food	292501
+cooked	perfectly	292502
+cooked	egg	292502
+perfectly	cooked	292502
+pan	best	292500
+fried	beans	292502
+enchilada	sauce	292503
+####385	4.0	292493	292496
+bean	coffee	292496
+worth	wait	292493
+coffee	bean	292496
+nice	warm	292496
+####384	4.0	292491	292490
+####391	4.0	292540	292549
+back	coming	292546
+french	press	292546
+tight	space	292548
+good	pretty	292546
+press	french	292546
+huge	servings	292543
+spot	good	292540
+pretty	good	292546
+coming	back	292546
+good	coffee	292546
+coffee	good	292546
+good	spot	292540
+slow	service	292546
+####390	4.0	292535	292539
+delicious	absolutely	292537
+breakfast	items	292538
+items	breakfast	292538
+three	times	292538
+short	list	292536
+absolutely	delicious	292537
+times	three	292538
+####389	3.0	292524	292534
+overwhelming	bit	292533
+ticket	golden	292534
+morning	saturday	292532
+saturday	morning	292532
+ordered	friend	292534
+friend	ordered	292534
+####388	4.0	292514	292523
+good	meal	292523
+long	crazy	292523
+good	pretty	292514
+crazy	long	292523
+toast	french	292522
+pretty	good	292514
+browns	hash	292516
+meal	good	292523
+french	toast	292522
+benedict	eggs	292515
+eggs	benedict	292515
+skins	potato	292516
+pumpkin	pancakes	292514
+####440	5.0	292944	292948
+amazing	food	292944
+couple	bites	292948
+bites	couple	292948
+hollandaise	sauce	292946
+food	amazing	292944
+####441	5.0	292949	292955
+french	best	292953
+good	breakfast	292950
+best	french	292953
+line	long	292955
+late	lunch	292949
+place	good	292950
+breakfast	eat	292950
+eat	breakfast	292950
+toast	french	292953
+french	toast	292953
+long	line	292955
+lunch	late	292949
+good	place	292950
+####442	3.0	292965	292968
+savory	dish	292967
+savory	dishes	292967
+finally	settled	292968
+extensive	menu	292965
+####443	3.0	292969	292975
+looked	place	292971
+egg	scrambled	292969
+egg	whites	292969
+delicious	toast	292974
+toast	french	292970
+toast	french	292974
+whites	egg	292969
+egg	dish	292969
+tad	bit	292975
+boyfriend	ordered	292970
+dish	egg	292969
+french	toast	292970
+french	toast	292974
+sweet	dish	292970
+outer	layer	292975
+ordered	boyfriend	292970
+####444	4.0	292976	292987
+huge	portions	292985
+seated	right	292980
+sitting	right	292982
+small	tables	292982
+right	sitting	292982
+tables	small	292982
+away	right	292980
+gets	place	292977
+peak	hours	292977
+busy	pretty	292976
+portions	huge	292985
+hours	peak	292977
+cozy	atmosphere	292981
+pretty	busy	292976
+right	seated	292980
+right	away	292980
+cobb	salad	292987
+place	gets	292977
+####445	4.0	292988	292993
+delicious	flavor	292992
+dressing	ranch	292990
+ranch	dressing	292990
+blue	cheese	292990
+probably	best	292990
+####446	5.0	292994	292996
+oreo	pancakes	292995
+come	definitely	292994
+velvet	red	292995
+red	velvet	292995
+come	back	292994
+definitely	try	292994
+back	come	292994
+definitely	come	292994
+black	magic	292995
+black	magic	292996
+magic	black	292995
+magic	black	292996
+####447	4.0	292997	293004
+huge	portions	292997
+stars	four	293003
+four	star	293003
+empty	place	293001
+four	stars	293003
+portions	huge	292997
+stuff	sweet	293003
+star	four	293003
+suggest	coming	292999
+pumpkin	pancakes	293003
+sweet	stuff	293003
+####432	1.0	292875	292898
+wanna	try	292880
+friendly	people	292881
+finally	got	292893
+orange	juice	292890
+fashioned	old	292896
+good	service	292875
+got	finally	292893
+amount	good	292892
+people	friendly	292881
+love	love	292891
+french	press	292885
+come	back	292878
+old	fashioned	292896
+good	pretty	292892
+press	french	292885
+love	place	292883
+juice	orange	292890
+toast	french	292888
+toast	french	292896
+pretty	good	292892
+service	good	292875
+back	come	292878
+coffee	press	292885
+french	toast	292888
+french	toast	292896
+good	amount	292892
+seated	got	292894
+cream	whipped	292879
+sit	right	292877
+got	seated	292894
+whipped	cream	292879
+press	coffee	292885
+####433	5.0	292899	292900
+####434	3.0	292901	292904
+afternoon	sunday	292904
+side	street	292903
+sunday	afternoon	292904
+line	long	292904
+street	side	292903
+come	back	292901
+back	come	292901
+girl	friend	292904
+long	line	292904
+####435	1.0	292905	292917
+monday	morning	292905
+good	soooo	292911
+service	attentive	292907
+place	popular	292905
+rude	wait	292917
+popular	place	292905
+good	food	292917
+food	good	292917
+attentive	service	292907
+soooo	good	292911
+pumpkin	pie	292910
+####436	2.0	292918	292921
+food	incredible	292918
+wasting	food	292921
+incredible	food	292918
+stuff	sweet	292921
+smaller	portions	292921
+sweet	stuff	292921
+####437	5.0	292922	292928
+packed	gets	292924
+long	ass	292924
+gets	place	292924
+french	press	292922
+gets	packed	292924
+press	french	292922
+ass	lines	292924
+coffee	press	292922
+parking	lot	292926
+parking	lot	292927
+aid	rite	292927
+ass	line	292924
+lot	parking	292926
+lot	parking	292927
+ass	long	292924
+rite	aid	292927
+minute	line	292925
+press	coffee	292922
+place	gets	292924
+####438	3.0	292929	292940
+spot	hot	292929
+creme	french	292934
+hot	spot	292929
+french	creme	292934
+toast	french	292934
+super	tasty	292934
+french	toast	292934
+chicago	charlie	292935
+couple	days	292937
+hot	coffee	292929
+tasty	super	292934
+####439	5.0	292941	292943
+did	make	292942
+make	did	292942
+pretty	sure	292941
+sure	pretty	292941
+####425	5.0	292806	292812
+best	breakfast	292807
+tacos	breakfast	292809
+french	press	292810
+breakfast	tacos	292809
+press	french	292810
+coffee	press	292810
+breakfast	best	292807
+fast	tacos	292809
+press	coffee	292810
+####424	4.0	292800	292805
+worth	visiting	292801
+parking	street	292802
+mixed	feelings	292801
+street	parking	292802
+####427	4.0	292825	292837
+actually	taste	292832
+blueberry	pancakes	292827
+toast	french	292829
+toast	french	292832
+toast	french	292827
+toast	french	292834
+taste	actually	292832
+nutella	french	292827
+nutella	french	292829
+french	toast	292827
+french	toast	292829
+french	toast	292832
+french	toast	292834
+####426	4.0	292813	292824
+two	least	292823
+different	plates	292824
+place	good	292813
+velvet	red	292816
+red	velvet	292816
+pancakes	velvet	292816
+coast	east	292815
+east	coast	292815
+toast	french	292824
+toast	french	292816
+different	ordered	292824
+things	good	292813
+velvet	pancakes	292816
+red	different	292824
+french	toast	292816
+french	toast	292824
+good	things	292813
+least	two	292823
+ordered	different	292824
+cant	say	292813
+good	place	292813
+####429	4.0	292851	292858
+type	different	292857
+different	types	292857
+wait	staff	292856
+staff	wait	292856
+different	three	292857
+types	different	292857
+three	different	292857
+####428	4.0	292838	292850
+come	back	292838
+waiting	people	292845
+back	come	292838
+people	waiting	292845
+people	wait	292845
+did	waiter	292838
+####431	2.0	292866	292874
+big	deal	292868
+deal	big	292868
+toast	french	292866
+favorite	sandwich	292873
+french	toast	292866
+thick	layer	292872
+####430	4.0	292859	292865
+blown	away	292864
+party	large	292861
+real	maple	292865
+perfect	balance	292865
+syrup	maple	292865
+part	large	292861
+toast	french	292864
+maple	syrup	292865
+amazing	breakfast	292863
+away	blown	292864
+french	toast	292864
+large	party	292861
+balance	perfect	292865
+####417	1.0	292725	292741
+wait	long	292727
+italian	sausage	292740
+buds	taste	292734
+cheese	mozzarella	292740
+dry	bit	292737
+quickly	seated	292725
+seated	quickly	292725
+thick	slice	292738
+big	tables	292729
+peppers	bell	292740
+great	mix	292736
+table	big	292729
+mozzarella	cheese	292740
+bell	peppers	292740
+meter	parking	292730
+hollandaise	sauce	292735
+delicious	place	292726
+tables	big	292729
+slice	thick	292738
+place	delicious	292726
+long	wait	292727
+pumpkin	pie	292732
+garlic	basil	292740
+bit	dry	292737
+####416	3.0	292715	292724
+french	best	292718
+brunch	place	292716
+recommend	highly	292721
+highly	recommend	292721
+two	days	292722
+good	breakfast	292721
+good	damn	292715
+check	definitely	292717
+best	french	292718
+sure	made	292715
+made	sure	292715
+toast	french	292718
+damn	good	292715
+definitely	check	292717
+portions	large	292722
+french	toast	292718
+morning	sunday	292720
+days	two	292722
+large	portions	292722
+cafe	griddle	292716
+pumpkin	pancakes	292722
+place	brunch	292716
+sunday	morning	292720
+breakfast	good	292721
+griddle	cafe	292716
+####419	3.0	292751	292754
+####418	4.0	292742	292750
+thoroughly	enjoyed	292746
+french	pressed	292746
+hot	sauce	292742
+pressed	french	292746
+sauce	hot	292742
+come	back	292749
+coffee	pressed	292746
+back	come	292749
+delicious	pancakes	292750
+cafe	griddle	292746
+bread	garlic	292743
+garlic	bread	292743
+prompt	service	292747
+griddle	cafe	292746
+####421	1.0	292764	292785
+wait	long	292773
+different	things	292780
+great	taste	292766
+try	different	292780
+velvet	red	292783
+things	different	292780
+good	reason	292775
+red	velvet	292783
+pancakes	velvet	292783
+french	press	292768
+french	press	292770
+reasonable	prices	292778
+press	french	292768
+press	french	292770
+prices	reasonable	292778
+waiter	came	292770
+reason	good	292775
+coffee	press	292768
+pancake	velvet	292783
+velvet	pancakes	292783
+leftovers	home	292782
+ideal	place	292777
+portions	large	292778
+home	take	292782
+take	home	292782
+pan	velvet	292783
+thin	different	292780
+taste	great	292766
+long	wait	292773
+came	waiter	292770
+large	portions	292778
+hot	hot	292770
+different	try	292780
+cafe	griddle	292769
+press	coffee	292768
+griddle	cafe	292769
+####420	4.0	292755	292763
+toast	french	292757
+french	toast	292757
+####423	4.0	292795	292799
+good	service	292797
+ice	good	292797
+service	good	292797
+got	soggy	292795
+soggy	got	292795
+####422	5.0	292786	292794
+good	half	292787
+velvet	pancake	292789
+velvet	red	292789
+red	velvet	292789
+half	hour	292787
+pancake	velvet	292789
+hour	half	292787
+chocolate	bread	292792
+####478	4.0	293229	293235
+recommend	highly	293230
+chip	cookies	293232
+highly	recommend	293230
+chocolate	chip	293232
+cookie	chip	293232
+toasts	french	293232
+late	chip	293232
+toast	french	293232
+cookies	chip	293232
+french	toasts	293232
+chip	chocolate	293232
+french	toast	293232
+cafe	griddle	293233
+griddle	cafe	293233
+####479	3.0	293236	293244
+dishes	egg	293239
+huge	portions	293240
+finally	got	293241
+chocolate	chip	293244
+egg	scramble	293244
+got	finally	293241
+cookie	chip	293244
+toasts	french	293239
+toast	french	293239
+toast	french	293244
+chip	cookie	293244
+portions	huge	293240
+egg	dish	293239
+egg	dishes	293239
+dish	egg	293239
+french	toasts	293239
+portion	huge	293240
+big	parties	293237
+chip	chocolate	293244
+french	toast	293244
+french	toast	293239
+super	excited	293241
+scramble	egg	293244
+entire	party	293236
+parties	big	293237
+excited	super	293241
+####476	4.0	293215	293220
+come	hungry	293220
+happy	leave	293220
+people	love	293217
+good	food	293216
+food	good	293216
+cafe	griddle	293220
+love	people	293217
+griddle	cafe	293220
+####477	4.0	293221	293228
+amazing	food	293226
+ear	come	293228
+come	early	293228
+tortilla	chips	293222
+break	best	293224
+wait	worth	293227
+earl	come	293228
+best	breakfast	293224
+chips	tortilla	293222
+worth	wait	293227
+toast	french	293221
+early	come	293228
+order	two	293225
+place	breakfast	293224
+chip	tortilla	293222
+breakfast	best	293224
+breakfast	place	293224
+french	toast	293221
+brea	best	293224
+fast	place	293224
+two	order	293225
+####474	4.0	293176	293205
+meal	favorite	293180
+two	got	293184
+tasty	food	293200
+food	coma	293190
+sweet	potato	293200
+cake	chocolate	293197
+chocolate	chip	293192
+sweet	pretty	293194
+amount	right	293201
+potato	sweet	293200
+great	breakfast	293186
+got	two	293184
+right	amount	293201
+packed	jam	293177
+foodie	friend	293191
+cooked	perfectly	293182
+velvet	red	293180
+jam	packed	293177
+late	chip	293192
+blend	perfect	293181
+pretty	sweet	293194
+coma	food	293190
+red	velvet	293180
+pancakes	velvet	293180
+french	press	293203
+chocolate	chips	293195
+super	thick	293201
+perfectly	cooked	293182
+press	french	293203
+worth	wait	293189
+room	dining	293177
+chocolate	cake	293197
+toast	french	293192
+toast	french	293194
+toast	french	293197
+morning	saturday	293177
+breakfast	great	293186
+ate	cake	293197
+velvet	pancakes	293180
+dining	room	293177
+pancakes	potato	293200
+saturday	morning	293177
+chip	chocolate	293192
+french	toast	293192
+french	toast	293194
+french	toast	293197
+food	tasty	293200
+perfect	blend	293181
+thick	super	293201
+favorite	meal	293180
+cafe	griddle	293176
+chips	chocolate	293195
+located	right	293205
+griddle	cafe	293176
+####475	3.0	293206	293214
+velvet	red	293210
+red	velvet	293210
+pancakes	velvet	293210
+pancake	velvet	293210
+velvet	pancakes	293210
+pan	velvet	293210
+cafe	griddle	293209
+griddle	cafe	293209
+####472	4.0	293165	293168
+wait	long	293166
+long	wait	293166
+black	magic	293167
+magic	black	293167
+####473	4.0	293169	293175
+hour	wait	293175
+wait	hour	293175
+pancakes	huge	293169
+black	magic	293170
+huge	pancakes	293169
+magic	black	293170
+####470	3.0	293159	293162
+full	meal	293159
+meal	full	293159
+left	overs	293159
+overs	left	293159
+####471	4.0	293163	293164
+cafe	griddle	293163
+griddle	cafe	293163
+####468	4.0	293134	293139
+item	menu	293134
+menu	item	293134
+line	long	293139
+peanut	bubba	293134
+bubba	french	293134
+toast	french	293134
+toast	french	293135
+gotta	say	293137
+french	toast	293134
+french	toast	293135
+seated	got	293139
+long	line	293139
+french	bubba	293134
+got	seated	293139
+say	gotta	293137
+cafe	griddle	293137
+griddle	cafe	293137
+####469	3.0	293140	293158
+packed	completely	293140
+red	sugar	293144
+completely	packed	293140
+definitely	wouldn	293152
+come	hungry	293158
+sugar	powdered	293144
+fraiche	creme	293147
+ranchero	sauce	293151
+french	press	293151
+food	portions	293141
+press	french	293151
+hollandaise	sauce	293149
+egg	dish	293151
+cold	egg	293150
+dish	egg	293151
+hungry	come	293158
+good	coffee	293151
+sausage	spicy	293151
+coffee	good	293151
+poached	eggs	293149
+benedict	eggs	293149
+spicy	sausage	293151
+eggs	benedict	293149
+skins	potato	293149
+powdered	sugar	293144
+portions	food	293141
+####466	4.0	293129	293131
+taken	care	293131
+makes	sure	293131
+####467	4.0	293132	293133
+####464	5.0	293120	293125
+####465	5.0	293126	293128
+breakfast	items	293126
+items	breakfast	293126
+sure	make	293126
+wide	variety	293126
+make	sure	293126
+####463	5.0	293118	293119
+papas	benedict	293119
+####462	3.0	293108	293117
+red	pancakes	293108
+wait	worth	293112
+unique	flavor	293108
+definitely	worth	293112
+ticket	golden	293110
+worth	wait	293112
+worth	definitely	293112
+place	better	293113
+better	place	293113
+####461	1.0	293094	293107
+wait	long	293101
+holy	moly	293107
+ear	come	293103
+come	early	293103
+love	breakfast	293106
+earl	come	293103
+small	place	293101
+toast	french	293096
+toast	french	293097
+early	come	293103
+fast	service	293097
+nutella	french	293097
+service	fast	293097
+french	toast	293096
+french	toast	293097
+chicago	charlie	293095
+sweet	breakfast	293106
+long	wait	293101
+####460	4.0	293086	293093
+brunch	place	293088
+papas	benedict	293091
+chili	cheese	293093
+sooooo	good	293088
+great	breakfast	293088
+food	delicious	293086
+ticket	pancakes	293087
+ticket	golden	293087
+eat	breakfast	293088
+toast	french	293089
+hollandaise	sauce	293092
+breakfast	great	293088
+delicious	food	293086
+french	toast	293089
+brea	great	293088
+good	sooooo	293088
+cheese	chili	293093
+place	brunch	293088
+####459	3.0	293078	293085
+pictures	taking	293083
+things	make	293084
+lack	magic	293078
+belgian	waffle	293082
+tasted	great	293079
+definitely	worth	293081
+come	back	293085
+small	pretty	293082
+worth	definitely	293081
+back	come	293085
+small	talk	293083
+great	tasted	293079
+make	things	293084
+black	magic	293078
+cafe	griddle	293082
+pretty	small	293082
+magic	black	293078
+griddle	cafe	293082
+####458	4.0	293074	293077
+order	pancakes	293075
+magic	pancakes	293074
+belgian	waffles	293074
+ordered	friend	293074
+black	magic	293074
+magic	black	293074
+friend	ordered	293074
+####457	3.0	293072	293073
+asking	kept	293073
+able	finally	293073
+minute	wait	293072
+finally	able	293073
+####456	1.0	293070	293071
+people	eating	293071
+eating	people	293071
+####455	4.0	293064	293069
+hour	two	293067
+bean	coffee	293069
+pretty	packed	293068
+come	back	293069
+coffee	bean	293069
+back	come	293069
+two	hour	293067
+packed	pretty	293068
+cafe	griddle	293064
+griddle	cafe	293064
+####454	3.0	293050	293063
+worth	having	293059
+stars	four	293051
+good	meal	293059
+orange	juice	293055
+based	stars	293051
+pleasantly	surprised	293063
+free	refills	293055
+juice	orange	293055
+four	stars	293051
+stars	based	293051
+meal	good	293059
+amazing	place	293060
+bit	price	293054
+pricey	bit	293054
+solely	based	293051
+bit	pricey	293054
+####453	4.0	293046	293049
+menu	breakfast	293048
+biggest	fan	293047
+breakfast	menu	293048
+####452	4.0	293034	293045
+experience	amazing	293041
+big	deal	293040
+long	lines	293034
+lines	long	293034
+deal	big	293040
+line	long	293034
+best	coffee	293035
+definitely	wasn	293042
+french	press	293039
+press	french	293039
+food	love	293043
+coffee	press	293039
+love	food	293043
+amazing	experience	293041
+long	line	293034
+cafe	griddle	293035
+press	coffee	293039
+griddle	cafe	293035
+####451	4.0	293025	293033
+butter	peanut	293033
+big	portion	293028
+stars	food	293028
+back	coming	293030
+portion	big	293028
+french	butter	293033
+small	place	293029
+experience	overall	293030
+good	pretty	293028
+butter	french	293033
+toast	french	293033
+pretty	good	293028
+coming	back	293030
+peanut	butter	293033
+overall	experience	293030
+french	toast	293033
+stars	overall	293030
+place	small	293029
+nut	butter	293033
+####450	2.0	293021	293024
+####449	2.0	293019	293017
+####508	4.0	293460	293461
+####509	4.0	293462	293464
+velvet	red	293463
+def	come	293463
+red	velvet	293463
+pancakes	velvet	293463
+come	back	293463
+didnt	know	293463
+back	come	293463
+velvet	pancakes	293463
+kinda	small	293464
+small	kinda	293464
+####510	4.0	293465	293469
+huge	portions	293467
+back	coming	293466
+wide	eyes	293469
+empty	stomach	293466
+wide	open	293469
+cute	wait	293466
+portions	huge	293467
+coming	back	293466
+holy	crap	293468
+####511	4.0	293470	293484
+dishes	egg	293477
+perfect	mix	293482
+papas	benedict	293481
+two	dishes	293483
+food	items	293482
+tasted	good	293475
+poached	egg	293474
+items	food	293482
+velvet	red	293481
+red	velvet	293481
+pancakes	velvet	293481
+dishes	two	293483
+two	dish	293483
+hollandaise	sauce	293474
+ordered	friends	293477
+egg	dish	293477
+mix	perfect	293482
+finished	half	293476
+egg	dishes	293477
+good	tasted	293475
+left	food	293482
+velvet	pancakes	293481
+friends	ordered	293477
+poached	eggs	293474
+skins	potato	293474
+####504	3.0	293444	293443
+####505	4.0	293445	293449
+brunch	place	293447
+brunch	favorite	293447
+favorite	brunch	293447
+totally	worth	293448
+worth	totally	293448
+toast	french	293446
+french	toast	293446
+place	brunch	293447
+####506	5.0	293450	293454
+oreo	pancakes	293452
+heavy	side	293454
+toast	french	293450
+toast	french	293454
+french	toast	293450
+french	toast	293454
+####507	4.0	293455	293459
+previous	reviews	293458
+side	salad	293455
+side	salad	293456
+perfect	combination	293456
+toast	french	293456
+french	toast	293456
+salad	side	293455
+salad	side	293456
+combination	perfect	293456
+####500	3.0	293405	293412
+people	four	293405
+barely	made	293405
+four	people	293405
+left	overs	293407
+overs	left	293407
+delicious	pancakes	293410
+####501	2.0	293413	293416
+ticket	golden	293416
+####502	3.0	293417	293423
+wait	long	293418
+head	back	293422
+free	parking	293423
+pesto	sauce	293421
+long	wait	293418
+back	head	293422
+####503	4.0	293424	293440
+wait	long	293427
+place	amazing	293428
+bad	experience	293438
+lack	magic	293429
+boys	bad	293431
+five	times	293438
+totally	worth	293436
+worth	totally	293436
+toast	french	293426
+bad	boys	293431
+decided	place	293435
+world	good	293429
+amazing	place	293428
+french	toast	293426
+long	wait	293427
+black	magic	293429
+experience	bad	293438
+magic	black	293429
+####496	2.0	293364	0
+####497	4.0	293365	293371
+breakfast	spot	293366
+break	best	293366
+best	breakfast	293366
+love	place	293367
+spot	breakfast	293366
+breakfast	best	293366
+brea	best	293366
+breakfast	spots	293366
+####498	4.0	293372	293388
+huge	portions	293382
+serves	place	293387
+person	table	293385
+recommend	highly	293381
+highly	recommend	293381
+tacos	breakfast	293379
+velvet	red	293373
+red	velvet	293373
+pancakes	velvet	293373
+sunday	brunch	293385
+breakfast	tacos	293379
+toast	french	293375
+toast	french	293374
+portions	huge	293382
+definitely	suggest	293373
+velvet	pancakes	293373
+brunch	sunday	293385
+fast	tacos	293379
+french	toast	293374
+french	toast	293375
+####499	1.0	293389	293404
+free	parking	293402
+dishes	three	293403
+red	three	293403
+affordable	prices	293400
+wait	service	293393
+portion	large	293400
+great	place	293398
+eat	place	293398
+ordered	three	293403
+overall	great	293398
+three	dishes	293403
+toast	french	293389
+toast	french	293403
+toast	french	293404
+nutella	french	293403
+nutella	french	293404
+great	overall	293398
+place	great	293398
+french	toast	293389
+french	toast	293403
+french	toast	293404
+morning	sunday	293401
+three	ordered	293403
+large	portion	293400
+service	waiter	293393
+sunday	morning	293401
+three	dish	293403
+waiter	service	293393
+####493	4.0	293342	293346
+####492	3.0	293338	293341
+near	impossible	293338
+lack	magic	293340
+morning	sunday	293339
+black	magic	293340
+sunday	morning	293339
+magic	black	293340
+####495	3.0	293351	293363
+oreo	pancakes	293355
+huge	portions	293358
+crowded	pretty	293351
+food	came	293351
+food	comes	293359
+best	pancakes	293361
+pancakes	best	293361
+pretty	crowded	293351
+egg	whites	293355
+comes	food	293359
+sure	make	293362
+fairly	fast	293351
+nutella	stuffed	293356
+velvet	red	293354
+red	velvet	293354
+customer	service	293359
+french	stuffed	293356
+toast	french	293356
+whites	egg	293355
+portions	huge	293358
+wednesday	afternoon	293351
+pancake	velvet	293354
+good	note	293360
+portion	huge	293358
+french	toast	293356
+seated	got	293351
+make	sure	293362
+got	seated	293351
+came	food	293351
+service	customer	293359
+cafe	griddle	293352
+cafe	griddle	293361
+stuffed	french	293356
+griddle	cafe	293352
+griddle	cafe	293361
+####494	3.0	293347	293350
+scrambled	egg	293348
+papas	benedict	293348
+recommend	highly	293348
+highly	recommend	293348
+banana	nana	293348
+break	best	293347
+best	breakfast	293347
+nana	nana	293348
+super	nice	293350
+looking	good	293350
+nana	banana	293348
+good	looking	293350
+breakfast	best	293347
+brea	best	293347
+eggs	scrambled	293348
+scrambled	eggs	293348
+nana	pancakes	293348
+skins	potato	293348
+nice	super	293350
+####489	4.0	293316	293321
+seated	right	293317
+red	sugar	293321
+tastes	exactly	293320
+watching	people	293316
+orange	juice	293317
+sugar	powdered	293321
+away	right	293317
+french	press	293317
+food	order	293317
+press	french	293317
+juice	orange	293317
+order	food	293317
+exactly	tastes	293320
+toast	french	293318
+thick	pieces	293321
+french	toast	293318
+right	seated	293317
+right	away	293317
+powdered	sugar	293321
+####488	1.0	293314	293315
+####491	2.0	293329	293337
+free	parking	293336
+french	butter	293335
+butter	french	293335
+toast	french	293335
+great	food	293337
+french	toast	293335
+food	great	293337
+morning	sunday	293333
+early	bird	293337
+sunday	morning	293333
+####490	4.0	293322	293328
+seated	promptly	293325
+tacos	breakfast	293328
+breakfast	tacos	293328
+toast	french	293326
+amazing	breakfast	293324
+french	toast	293326
+regular	french	293326
+promptly	seated	293325
+####485	4.0	293286	293295
+red	sugar	293286
+sugar	powdered	293286
+did	taste	293286
+packed	place	293291
+place	packed	293291
+morning	saturday	293291
+separate	line	293292
+saturday	morning	293291
+cream	whipped	293286
+whipped	cream	293286
+powdered	sugar	293286
+taste	did	293286
+####484	4.0	293271	293285
+hate	places	293278
+heart	attack	293273
+bomb	food	293282
+wasn	wait	293280
+great	suggestions	293281
+worth	line	293275
+chock	full	293273
+sweet	super	293281
+full	chock	293273
+huge	line	293277
+line	huge	293277
+people	eating	293280
+morning	sunday	293277
+super	sweet	293281
+cream	whipped	293273
+eating	people	293280
+whipped	cream	293273
+sunday	morning	293277
+hate	place	293278
+####487	4.0	293307	293313
+going	back	293310
+good	breakfast	293310
+meal	great	293308
+side	pricey	293309
+back	going	293310
+huge	crowd	293312
+great	meal	293308
+crowd	huge	293312
+cream	whipped	293307
+whipped	cream	293307
+breakfast	good	293310
+pricey	side	293309
+####486	1.0	293296	293306
+velvet	pancake	293305
+perfection	cooked	293303
+velvet	red	293296
+velvet	red	293301
+velvet	red	293305
+waffle	cream	293297
+waffle	cream	293306
+red	velvet	293296
+red	velvet	293301
+red	velvet	293305
+pancakes	velvet	293296
+french	press	293298
+press	french	293298
+coffee	press	293298
+pancake	velvet	293305
+pancake	velvet	293296
+velvet	pancakes	293296
+cream	waffle	293297
+pan	velvet	293296
+brown	golden	293306
+press	coffee	293298
+####481	4.0	293251	293255
+red	parking	293253
+metered	parking	293253
+####480	2.0	293245	293250
+preference	personal	293248
+french	press	293250
+press	french	293250
+toast	french	293248
+personal	preference	293248
+finished	half	293246
+coffee	press	293250
+french	toast	293248
+press	coffee	293250
+####483	3.0	293264	293270
+sizes	portion	293267
+fast	super	293265
+toast	french	293268
+fast	service	293265
+french	toast	293268
+super	fast	293265
+entire	plate	293264
+safe	bet	293264
+####482	3.0	293256	293263
+recent	visit	293256
+line	long	293259
+ticket	pancakes	293261
+ticket	golden	293261
+toast	french	293261
+line	waiting	293259
+waiting	line	293259
+french	toast	293261
+mom	ordered	293261
+long	line	293259
+####550	4.0	293758	293761
+velvet	pancake	293761
+velvet	red	293761
+red	velvet	293761
+flavor	different	293761
+pancake	velvet	293761
+different	flavor	293761
+####551	2.0	293762	293763
+banana	pancakes	293762
+pancakes	banana	293762
+####548	3.0	293743	293750
+velvet	pancake	293746
+velvet	pancake	293748
+line	long	293750
+velvet	red	293746
+velvet	red	293748
+red	velvet	293746
+red	velvet	293748
+french	press	293744
+press	french	293744
+pancake	velvet	293746
+pancake	velvet	293748
+part	best	293743
+long	line	293750
+best	part	293743
+####549	4.0	293751	293757
+private	room	293754
+recent	trip	293753
+take	care	293751
+care	take	293751
+####546	3.0	293734	293736
+velvet	red	293735
+red	velvet	293735
+write	home	293736
+pancake	velvet	293735
+####547	1.0	293737	293742
+cobbler	french	293737
+similar	dish	293740
+good	pretty	293741
+cobbler	apple	293737
+toast	french	293737
+pretty	good	293741
+write	home	293739
+french	toast	293737
+####544	4.0	293722	293723
+velvet	pancake	293723
+coming	recommend	293722
+velvet	red	293723
+red	velvet	293723
+pancake	velvet	293723
+pan	velvet	293723
+recommend	coming	293722
+####545	4.0	293724	293733
+seated	right	293730
+long	lines	293729
+lines	long	293729
+away	right	293730
+way	back	293726
+find	street	293725
+back	way	293726
+street	find	293725
+aid	rite	293726
+parking	street	293725
+pretty	seated	293731
+right	seated	293730
+street	parking	293725
+cafe	griddle	293727
+rite	aid	293726
+right	away	293730
+seated	pretty	293731
+griddle	cafe	293727
+####558	4.0	293783	293788
+ticket	golden	293783
+stuff	good	293787
+good	stuff	293787
+####559	3.0	293789	293795
+back	coming	293791
+wait	worth	293794
+mind	coming	293791
+probably	wouldn	293791
+french	press	293795
+ticket	golden	293792
+press	french	293795
+worth	wait	293794
+coming	back	293791
+coming	mind	293791
+####556	5.0	293780	293781
+ticket	golden	293781
+####557	3.0	293782	0
+####554	4.0	293772	293775
+finally	got	293773
+got	finally	293773
+wasn	service	293772
+cafe	griddle	293773
+griddle	cafe	293773
+####555	3.0	293776	293779
+cafe	griddle	293779
+griddle	cafe	293779
+####552	5.0	293764	293766
+sour	cream	293766
+green	chili	293766
+come	back	293765
+back	come	293765
+####553	3.0	293767	293771
+####567	5.0	293840	293849
+velvet	pancake	293844
+red	sugar	293845
+friendly	people	293848
+eat	atmosphere	293848
+loved	absolutely	293842
+sugar	powdered	293845
+atmosphere	great	293848
+velvet	red	293844
+people	friendly	293848
+red	velvet	293844
+pancakes	velvet	293844
+way	great	293848
+blueberry	pancakes	293841
+pancake	velvet	293844
+velvet	pancakes	293844
+great	atmosphere	293848
+pan	velvet	293844
+cafe	griddle	293849
+great	way	293848
+absolutely	loved	293842
+powdered	sugar	293845
+griddle	cafe	293849
+####566	3.0	293838	293839
+blueberry	pancakes	293838
+####565	3.0	293827	293837
+velvet	pancake	293830
+scrambled	egg	293830
+free	parking	293837
+fun	experience	293834
+food	fantastic	293833
+velvet	red	293830
+soft	spot	293830
+red	velvet	293830
+breakfast	food	293830
+foods	breakfast	293830
+worth	wait	293835
+pancake	velvet	293830
+fantastic	food	293833
+eggs	scrambled	293830
+breakfast	foods	293830
+####564	4.0	293823	293826
+worth	having	293823
+main	meal	293825
+side	order	293826
+order	side	293826
+slice	thick	293826
+####563	4.0	293809	293822
+scrambled	egg	293816
+food	comes	293814
+tortilla	chips	293816
+papas	benedict	293819
+mouth	water	293817
+poached	egg	293820
+popular	pretty	293819
+comes	food	293814
+velvet	red	293821
+red	velvet	293821
+amazing	chicken	293816
+pretty	popular	293819
+chips	tortilla	293816
+peak	hours	293809
+food	portions	293812
+hollandaise	sauce	293820
+hours	peak	293809
+pancake	velvet	293821
+parking	street	293809
+eggs	scrambled	293816
+exactly	sure	293810
+scrambled	eggs	293816
+poached	eggs	293820
+street	parking	293809
+chicken	amazing	293816
+portions	food	293812
+sure	exactly	293810
+####562	1.0	293808	0
+####561	1.0	293801	293807
+room	back	293803
+fairly	quickly	293806
+back	room	293803
+separate	two	293802
+worth	trip	293801
+getting	problem	293807
+separate	occasions	293802
+problem	getting	293807
+quickly	fairly	293806
+####560	1.0	293796	293800
+tacos	breakfast	293797
+breakfast	tacos	293797
+place	breakfast	293800
+breakfast	place	293800
+####575	3.0	293906	293933
+favorite	breakfast	293932
+red	sugar	293933
+private	rooms	293928
+chocolate	chip	293931
+chocolate	chip	293933
+breakfast	favorite	293932
+dinner	chicken	293924
+sugar	powdered	293933
+best	pancake	293933
+cookie	chip	293931
+ice	touch	293927
+velvet	red	293907
+velvet	red	293909
+touch	nice	293927
+red	velvet	293907
+red	velvet	293909
+pancakes	velvet	293907
+french	press	293920
+french	press	293927
+right	sat	293928
+press	french	293920
+press	french	293927
+toast	french	293931
+chip	cookie	293931
+ways	come	293906
+table	side	293928
+velvet	pancakes	293907
+diego	san	293923
+least	say	293920
+experience	awesome	293921
+chicken	dinner	293924
+chip	chocolate	293931
+chip	chocolate	293933
+french	toast	293931
+worth	calories	293907
+side	table	293928
+morning	friday	293912
+nice	touch	293927
+sat	right	293928
+say	least	293920
+powdered	sugar	293933
+friday	morning	293912
+awesome	experience	293921
+####574	2.0	293880	293905
+sizes	portion	293899
+butter	peanut	293882
+favorite	breakfast	293905
+chocolate	chip	293880
+breakfast	favorite	293905
+sweet	tooth	293903
+thin	best	293882
+tooth	sweet	293903
+late	chip	293880
+definitely	great	293904
+french	press	293890
+pumpkin	flavor	293901
+come	back	293888
+press	french	293890
+toast	french	293889
+toast	french	293882
+toast	french	293888
+thinking	kept	293900
+back	come	293888
+brunch	spot	293905
+dang	good	293884
+peanut	butter	293882
+diego	san	293899
+kept	thinking	293900
+chip	chocolate	293880
+french	toast	293882
+french	toast	293888
+french	toast	293889
+nut	butter	293882
+gold	standard	293889
+whipped	cream	293901
+cafe	griddle	293895
+cafe	griddle	293900
+pumpkin	pancakes	293901
+angeles	los	293900
+griddle	cafe	293895
+griddle	cafe	293900
+####573	2.0	293868	293879
+velvet	pancake	293877
+food	eat	293879
+food	coma	293879
+food	coma	293872
+come	hungry	293879
+watching	people	293871
+night	late	293877
+velvet	red	293877
+strong	flavor	293869
+coma	food	293879
+coma	food	293872
+red	velvet	293877
+strong	flavors	293869
+bit	disappointed	293869
+breakfast	food	293872
+food	breakfast	293872
+eat	food	293879
+pancake	velvet	293877
+disappointed	bit	293869
+place	perfect	293872
+hungry	come	293879
+late	night	293877
+perfect	place	293872
+####572	4.0	293866	293867
+toast	french	293866
+toast	french	293867
+tad	bit	293866
+french	toast	293866
+french	toast	293867
+####571	4.0	293862	293865
+real	maple	293865
+syrup	maple	293865
+toast	french	293865
+hollandaise	sauce	293863
+maple	syrup	293865
+tad	bit	293863
+french	toast	293865
+love	dish	293862
+large	piece	293863
+####570	4.0	293861	0
+####569	2.0	293860	0
+####568	1.0	293850	293859
+toast	french	293853
+toast	french	293859
+god	thank	293859
+thank	god	293859
+french	toast	293853
+french	toast	293859
+benedict	eggs	293853
+benedict	eggs	293859
+eggs	benedict	293853
+eggs	benedict	293859
+pumpkin	pancakes	293859
+####516	4.0	293529	293539
+amount	right	293538
+monday	morning	293534
+right	amount	293538
+parking	right	293535
+famous	french	293536
+toast	french	293537
+toast	french	293536
+slices	thick	293539
+right	parking	293535
+place	decided	293533
+decided	place	293533
+parking	street	293535
+thick	slices	293539
+french	toast	293536
+french	toast	293537
+street	parking	293535
+####517	3.0	293540	293541
+green	chiles	293541
+####518	1.0	293542	293544
+chunks	huge	293542
+huge	chunks	293542
+####519	4.0	293545	293549
+toast	french	293547
+french	toast	293547
+cafe	griddle	293547
+griddle	cafe	293547
+popular	item	293547
+####512	2.0	293485	293494
+size	portion	293492
+ridiculous	wait	293491
+portion	size	293492
+####513	3.0	293495	293506
+wasn	wait	293500
+eating	happy	293504
+huge	appetite	293497
+wait	worth	293500
+line	long	293506
+sure	make	293498
+happy	eating	293504
+huge	size	293501
+customer	service	293501
+good	tip	293498
+come	back	293503
+make	definitely	293503
+good	pretty	293496
+worth	wait	293500
+blueberry	pancakes	293495
+toast	french	293496
+pretty	good	293496
+back	come	293503
+definitely	make	293503
+size	portion	293501
+french	toast	293496
+long	line	293506
+make	sure	293498
+service	customer	293501
+portion	size	293501
+####514	5.0	293507	293517
+sizes	portion	293509
+velvet	pancake	293508
+wonderful	flavor	293517
+chocolate	chip	293511
+chocolate	chip	293513
+chocolate	chip	293515
+cookie	chip	293511
+cookie	chip	293513
+velvet	red	293508
+red	velvet	293508
+good	pretty	293508
+got	friends	293508
+toast	french	293511
+toast	french	293513
+chip	cookie	293511
+chip	cookie	293513
+pretty	good	293508
+pancake	velvet	293508
+got	friend	293509
+friend	got	293509
+chip	chocolate	293511
+chip	chocolate	293513
+french	toast	293511
+french	toast	293513
+cream	whipped	293513
+holy	crap	293509
+friends	got	293508
+whipped	cream	293513
+####515	4.0	293518	293528
+longer	line	293522
+back	coming	293519
+free	parking	293521
+back	soon	293519
+definitely	coming	293519
+sweet	tooth	293527
+parking	spot	293521
+tooth	sweet	293527
+spot	parking	293521
+friendly	super	293522
+toast	french	293523
+toast	french	293525
+morning	saturday	293521
+coming	back	293519
+nutella	french	293523
+soon	back	293519
+saturday	morning	293521
+french	toast	293523
+french	toast	293525
+large	menu	293522
+original	french	293523
+cream	whipped	293526
+whipped	cream	293526
+super	friendly	293522
+coming	definitely	293519
+####524	3.0	293581	293588
+breakfast	spot	293588
+good	luck	293586
+party	large	293586
+love	love	293588
+regular	basis	293587
+love	place	293588
+spot	breakfast	293588
+favorite	least	293582
+lightly	disappointed	293585
+luck	good	293586
+larger	group	293586
+slightly	disappointed	293585
+large	party	293586
+disappointed	slightly	293585
+cafe	griddle	293587
+least	favorite	293582
+griddle	cafe	293587
+####525	2.0	293589	293597
+great	touch	293595
+french	press	293595
+press	french	293595
+isn	wait	293592
+coffee	press	293595
+main	attraction	293597
+aid	rite	293594
+larger	party	293592
+rite	aid	293594
+press	coffee	293595
+####526	5.0	293598	293608
+spot	brunch	293605
+scrambled	egg	293601
+tacos	breakfast	293599
+tacos	breakfast	293600
+french	press	293608
+breakfast	tacos	293599
+breakfast	tacos	293600
+group	large	293604
+press	french	293608
+toast	french	293599
+large	group	293604
+coffee	press	293608
+brunch	spot	293605
+french	toast	293599
+eggs	scrambled	293601
+scrambled	eggs	293601
+press	coffee	293608
+####527	3.0	293609	293616
+velvet	pancake	293613
+finished	eating	293612
+long	lines	293610
+lines	long	293610
+eater	big	293612
+big	eater	293612
+velvet	red	293613
+red	velvet	293613
+overly	sweet	293615
+pancake	velvet	293613
+lunch	menu	293610
+long	line	293610
+sweet	overly	293615
+menu	lunch	293610
+buttermilk	pancakes	293616
+####520	1.0	293550	293559
+atmosphere	cool	293551
+best	pancake	293553
+sure	make	293555
+eat	service	293550
+good	food	293550
+food	good	293550
+toast	french	293559
+toast	french	293556
+great	service	293550
+service	great	293550
+french	toast	293556
+french	toast	293559
+cool	atmosphere	293551
+make	sure	293555
+####521	1.0	293560	293564
+fellow	yelper	293564
+sunday	brunch	293564
+pumpkin	pancake	293562
+slices	thick	293560
+done	right	293561
+right	done	293561
+brunch	sunday	293564
+thick	slices	293560
+cafe	griddle	293563
+pumpkin	pancakes	293562
+griddle	cafe	293563
+####522	4.0	293565	293574
+velvet	pancake	293571
+red	sugar	293572
+chicken	breast	293573
+cheese	cream	293571
+pretty	awesome	293570
+sugar	powdered	293572
+sour	cream	293572
+sure	make	293566
+breast	chicken	293573
+real	tasted	293569
+velvet	red	293571
+cream	cheese	293571
+red	velvet	293571
+french	press	293569
+press	french	293569
+pancake	velvet	293571
+pan	velvet	293571
+awesome	pretty	293570
+white	egg	293573
+make	sure	293566
+powdered	sugar	293572
+####523	3.0	293575	293580
+pretty	amazing	293575
+brought	waiter	293575
+velvet	red	293579
+amazing	pretty	293575
+red	velvet	293579
+waiter	brought	293575
+####533	4.0	293646	293662
+finally	got	293657
+wait	worth	293647
+got	finally	293657
+sweet	baby	293660
+worth	wait	293647
+awhile	ago	293649
+toast	french	293648
+perfect	combo	293662
+review	good	293651
+french	toast	293648
+good	review	293651
+combo	perfect	293662
+cafe	griddle	293649
+cafe	griddle	293652
+griddle	cafe	293649
+griddle	cafe	293652
+####532	2.0	293642	293645
+large	servings	293645
+####535	1.0	293668	293676
+different	story	293676
+brunch	place	293676
+def	worth	293673
+worth	def	293673
+grilled	cheese	293671
+wide	eyes	293672
+wide	open	293672
+brunch	places	293676
+story	different	293676
+toast	french	293673
+cheese	grilled	293671
+french	toast	293673
+morning	sunday	293674
+lazy	sunday	293674
+cafe	griddle	293676
+sunday	morning	293674
+griddle	cafe	293676
+####534	3.0	293663	293667
+hot	sauce	293667
+sauce	hot	293667
+cafe	griddle	293667
+griddle	cafe	293667
+####529	4.0	293622	293632
+baked	bananas	293632
+wide	eyes	293627
+wide	open	293627
+chocolate	chips	293627
+place	breakfast	293631
+breakfast	place	293631
+home	take	293631
+take	home	293631
+large	plate	293628
+plate	large	293628
+chips	chocolate	293627
+####528	3.0	293617	293621
+watching	people	293620
+taste	better	293618
+hour	wait	293619
+wait	hour	293619
+better	taste	293618
+####531	3.0	293638	293641
+food	came	293641
+came	food	293641
+####530	3.0	293633	293637
+baked	bananas	293633
+order	pancakes	293635
+chicken	breast	293636
+breast	chicken	293636
+got	friend	293636
+friend	got	293636
+####541	5.0	293701	293708
+eat	service	293703
+great	food	293704
+great	service	293703
+service	great	293703
+eat	food	293704
+pricey	bit	293707
+french	toast	293707
+food	great	293704
+amazing	coffee	293705
+bit	pricey	293707
+####540	3.0	293698	293700
+butter	peanut	293698
+butter	peanut	293700
+french	butter	293698
+butter	french	293698
+toast	french	293698
+peanut	butter	293698
+peanut	butter	293700
+french	toast	293698
+nut	butter	293698
+nut	butter	293700
+####543	4.0	293716	293721
+food	restaurant	293721
+fast	food	293721
+food	fast	293721
+restaurant	food	293721
+wasn	place	293718
+####542	3.0	293709	293715
+huge	portions	293713
+good	breakfast	293711
+homeless	people	293714
+place	good	293711
+portions	huge	293713
+people	eat	293714
+eat	people	293714
+good	place	293711
+####537	4.0	293682	293695
+perfect	amount	293688
+take	advantage	293683
+tuesday	morning	293694
+definitely	deserves	293692
+advantage	take	293683
+tasty	dish	293688
+away	right	293694
+amount	perfect	293688
+pumpkin	flavor	293687
+filling	pie	293687
+toast	french	293691
+egg	dish	293688
+super	tasty	293687
+dish	egg	293688
+real	place	293693
+french	toast	293691
+cream	whipped	293687
+pumpkin	pie	293687
+whipped	cream	293687
+right	away	293694
+pie	filling	293687
+tasty	super	293687
+deserves	definitely	293692
+####536	2.0	293677	293681
+best	friend	293678
+back	coming	293680
+feel	bad	293679
+eye	candy	293680
+friend	best	293678
+bad	feel	293679
+sunday	brunch	293677
+toast	french	293678
+coming	back	293680
+brunch	sunday	293677
+french	toast	293678
+candy	eye	293680
+cafe	griddle	293681
+griddle	cafe	293681
+####538	3.0	293696	293697
+french	press	293696
+press	french	293696
+end	ordered	293696
+order	friend	293696
+order	friend	293697
+ordered	friend	293696
+friend	ordered	293696
+####610	4.0	294158	294165
+good	chunk	294158
+breakfast	experience	294162
+private	lot	294165
+savory	food	294160
+velvet	red	294158
+red	velvet	294158
+waiting	people	294164
+people	waiting	294164
+people	wait	294164
+cafe	griddle	294162
+griddle	cafe	294162
+####611	4.0	294166	294168
+went	finally	294167
+suggested	friend	294167
+magic	pancakes	294168
+finally	went	294167
+black	magic	294168
+magic	black	294168
+####608	3.0	294153	294155
+red	pancakes	294155
+sugar	powdered	294155
+single	person	294155
+powdered	sugar	294155
+####609	3.0	294156	294157
+huge	portions	294156
+restaurant	small	294157
+small	restaurant	294157
+portions	huge	294156
+cafe	griddle	294156
+griddle	cafe	294156
+####614	3.0	294174	294187
+butter	peanut	294175
+lack	magic	294178
+french	butter	294175
+soooooo	good	294183
+butter	french	294175
+toast	french	294175
+magic	pancakes	294178
+peanut	butter	294175
+portions	large	294174
+french	toast	294175
+morning	friday	294181
+large	portions	294174
+black	magic	294178
+magic	black	294178
+friday	morning	294181
+####615	3.0	294188	294190
+scrambled	egg	294188
+scrambled	egg	294190
+big	portion	294189
+portion	big	294189
+egg	scrambled	294188
+egg	scrambled	294190
+egg	whites	294190
+whites	egg	294190
+hot	chili	294189
+####612	2.0	294169	294170
+lack	magic	294169
+magic	pancakes	294169
+fully	cooked	294170
+ordered	medium	294170
+red	medium	294170
+black	magic	294169
+magic	black	294169
+####613	3.0	294171	294173
+ordered	friends	294172
+order	friends	294172
+friends	ordered	294172
+####618	4.0	294214	294224
+breakfast	spot	294220
+good	service	294217
+spot	breakfast	294220
+did	server	294218
+service	good	294217
+amazing	breakfast	294220
+####619	2.0	294225	294232
+breakfast	spot	294232
+butter	peanut	294230
+lucky	got	294226
+going	back	294229
+two	days	294229
+miss	place	294228
+wait	worth	294225
+best	coffee	294232
+fast	spot	294232
+back	going	294229
+french	press	294231
+wait	staff	294229
+press	french	294231
+worth	wait	294225
+staff	wait	294229
+spot	breakfast	294232
+toast	french	294230
+toast	french	294229
+coffee	press	294231
+peanut	butter	294230
+got	lucky	294226
+french	toast	294229
+french	toast	294230
+days	two	294229
+nut	butter	294230
+press	coffee	294231
+####616	2.0	294191	294198
+cheese	cream	294195
+cream	cheese	294195
+toast	french	294193
+french	toast	294193
+####617	1.0	294199	294213
+good	food	294201
+wait	staff	294204
+staff	wait	294204
+food	good	294201
+toast	french	294203
+portions	large	294206
+french	toast	294203
+large	portions	294206
+####622	4.0	294247	294251
+back	came	294249
+forever	wait	294250
+wait	forever	294250
+came	back	294249
+coffee	flavor	294247
+flavor	coffee	294247
+back	twice	294249
+especially	considering	294248
+considering	especially	294248
+####623	4.0	294252	294259
+big	eaters	294259
+back	came	294255
+eater	big	294259
+eat	big	294259
+main	room	294253
+came	back	294255
+multiple	times	294255
+cool	ambiance	294252
+####620	3.0	294233	294243
+serves	place	294233
+papas	benedict	294236
+english	muffin	294238
+pretty	awesome	294233
+potato	baked	294238
+poached	egg	294237
+yolk	egg	294239
+waffle	cream	294242
+syrup	maple	294243
+poached	perfectly	294237
+hollandaise	sauce	294237
+hollandaise	sauce	294239
+maple	syrup	294243
+egg	yolk	294239
+baked	potato	294238
+baked	ham	294237
+awesome	pretty	294233
+muffin	english	294238
+poached	eggs	294237
+skins	potato	294238
+####621	4.0	294244	294246
+sour	cream	294244
+fresh	strawberry	294244
+coffee	pressed	294246
+brown	sugar	294244
+pressed	coffee	294246
+different	layers	294245
+####627	4.0	294271	294272
+chocolate	hot	294271
+toast	french	294271
+hot	chocolate	294271
+french	toast	294271
+menu	items	294272
+####626	4.0	294268	294270
+minute	wait	294270
+come	back	294269
+hollandaise	sauce	294268
+back	come	294269
+place	breakfast	294269
+breakfast	place	294269
+pricey	bit	294269
+bit	pricey	294269
+####625	3.0	294264	294267
+pumpkin	pancake	294264
+benedict	eggs	294267
+####624	4.0	294260	294263
+chocolate	chip	294262
+wide	eyes	294262
+wide	open	294262
+chocolate	chips	294263
+chips	chocolate	294263
+####631	4.0	294283	294286
+velvet	red	294283
+red	velvet	294283
+pancakes	velvet	294283
+pancake	velvet	294283
+velvet	pancakes	294283
+pan	velvet	294283
+cafe	griddle	294286
+griddle	cafe	294286
+####630	5.0	294279	294282
+place	good	294280
+amazing	breakfast	294279
+cafe	griddle	294281
+cafe	griddle	294282
+good	place	294280
+griddle	cafe	294281
+griddle	cafe	294282
+####629	5.0	294276	294278
+tasting	best	294277
+best	tasting	294277
+reviews	star	294276
+place	breakfast	294276
+star	reviews	294276
+breakfast	place	294276
+fast	place	294276
+cafe	griddle	294276
+griddle	cafe	294276
+####628	3.0	294273	294275
+places	food	294274
+reviews	star	294275
+star	reviews	294275
+food	place	294274
+food	places	294274
+best	meal	294275
+meal	best	294275
+####635	1.0	294318	294324
+back	coming	294321
+fresh	shrimp	294319
+items	menu	294319
+velvet	red	294319
+red	velvet	294319
+ate	half	294318
+pancakes	velvet	294319
+super	thick	294319
+tasted	amazing	294320
+toast	french	294320
+bread	french	294319
+coming	back	294321
+amazing	tasted	294320
+velvet	pancakes	294319
+french	toast	294320
+new	menu	294319
+french	bread	294319
+massive	lines	294322
+thick	super	294319
+menu	items	294319
+massive	line	294322
+####634	3.0	294308	294317
+menu	breakfast	294316
+item	menu	294316
+velvet	pancake	294308
+velvet	pancake	294312
+waits	long	294310
+best	things	294312
+menu	item	294316
+wait	worth	294313
+thin	best	294312
+line	long	294311
+long	ridiculously	294311
+velvet	red	294312
+velvet	red	294308
+red	velvet	294308
+red	velvet	294312
+ridiculously	long	294311
+worth	wait	294313
+breakfast	menu	294316
+pancake	velvet	294312
+pancake	velvet	294308
+long	waits	294310
+things	best	294312
+holy	shit	294317
+pan	velvet	294312
+long	line	294311
+long	wait	294310
+cafe	griddle	294310
+cafe	griddle	294314
+griddle	cafe	294310
+griddle	cafe	294314
+####633	2.0	294297	294307
+perfect	amount	294301
+red	sugar	294301
+cheese	cream	294302
+sugar	powdered	294301
+packed	jam	294298
+jam	packed	294298
+amount	perfect	294301
+cream	cheese	294302
+cheese	frosting	294302
+part	best	294302
+frosting	cheese	294302
+cafe	griddle	294307
+powdered	sugar	294301
+best	part	294302
+griddle	cafe	294307
+####632	3.0	294287	294296
+velvet	pancake	294295
+area	dining	294292
+parking	find	294288
+sure	make	294290
+dining	area	294292
+velvet	red	294295
+red	velvet	294295
+find	parking	294288
+pancake	velvet	294295
+aid	rite	294288
+loud	side	294292
+two	different	294290
+hours	two	294287
+make	sure	294290
+two	hours	294287
+rite	aid	294288
+different	line	294290
+different	two	294290
+####639	4.0	294337	294342
+experience	dining	294337
+velvet	pancake	294338
+taste	food	294337
+cheese	cream	294339
+sweet	tooth	294339
+egg	whites	294341
+egg	whites	294342
+peppers	bell	294341
+velvet	red	294338
+tooth	sweet	294339
+cream	cheese	294339
+red	velvet	294338
+red	velvet	294340
+definitely	worth	294340
+super	fan	294340
+bell	peppers	294341
+whites	egg	294341
+whites	egg	294342
+worth	definitely	294340
+pancake	velvet	294338
+food	taste	294337
+cheese	frosting	294339
+frosting	cheese	294339
+dining	experience	294337
+####638	4.0	294334	294336
+####637	4.0	294328	294333
+place	good	294332
+style	family	294332
+come	back	294331
+back	come	294331
+family	style	294332
+good	place	294332
+####636	4.0	294325	294327
+ticket	golden	294325
+cream	whipped	294325
+whipped	cream	294325
+####576	3.0	293934	0
+####577	4.0	293935	293943
+different	story	293935
+list	long	293940
+story	different	293935
+weekend	morning	293935
+morning	weekend	293935
+long	list	293940
+walk	right	293936
+right	walk	293936
+delicious	pancakes	293940
+delicious	pancakes	293941
+delicious	pancakes	293943
+####578	2.0	293944	293951
+area	waiting	293950
+line	long	293949
+waiting	area	293950
+cake	birthday	293945
+minute	wait	293948
+long	line	293949
+popular	restaurant	293949
+restaurant	popular	293949
+birthday	cake	293945
+####579	3.0	293952	293958
+wait	long	293953
+pancakes	huge	293958
+long	wait	293953
+huge	pancakes	293958
+####580	3.0	293959	293966
+half	eat	293964
+eat	half	293964
+cream	whipped	293962
+bit	sweet	293962
+whipped	cream	293962
+####581	3.0	293967	293977
+dozen	times	293976
+town	guests	293977
+####582	3.0	293978	293979
+####583	3.0	293980	293985
+banana	nana	293982
+nana	nana	293982
+french	press	293983
+friendly	super	293981
+press	french	293983
+nana	banana	293982
+hot	scramble	293985
+super	friendly	293981
+####584	4.0	293986	293987
+great	place	293987
+eat	place	293987
+place	great	293987
+####585	5.0	293988	293991
+velvet	pancake	293990
+say	try	293991
+line	gets	293988
+wait	worth	293988
+velvet	red	293990
+red	velvet	293990
+friendly	super	293989
+worth	wait	293988
+pancake	velvet	293990
+gets	line	293988
+pan	velvet	293990
+super	friendly	293989
+####586	3.0	293992	293994
+job	good	293993
+good	job	293993
+####587	2.0	293995	293996
+menu	huge	293996
+huge	menu	293996
+####588	4.0	293997	293999
+chocolate	chip	293997
+sucks	parking	293999
+chip	chocolate	293997
+home	take	293998
+take	home	293998
+hours	busy	293999
+busy	hours	293999
+parking	sucks	293999
+####589	4.0	294000	294003
+egg	benedict	294003
+star	rating	294003
+toast	french	294002
+dish	egg	294003
+french	toast	294002
+####590	4.0	294004	294005
+####591	4.0	294006	294012
+####593	3.0	294017	0
+####592	3.0	294013	294016
+mind	sitting	294015
+sure	make	294015
+seat	people	294016
+larger	group	294015
+sitting	mind	294015
+make	sure	294015
+####595	4.0	294022	0
+####594	3.0	294018	294021
+hour	wait	294020
+wait	hour	294020
+####597	3.0	294055	294061
+cobbler	french	294060
+food	arrived	294059
+arrived	food	294059
+wait	worth	294058
+super	thick	294060
+absolutely	amazing	294060
+cobbler	apple	294060
+worth	wait	294058
+toast	french	294060
+great	looked	294061
+amazing	absolutely	294060
+looked	great	294061
+french	toast	294060
+thick	super	294060
+arrive	food	294059
+####596	3.0	294023	294054
+sandwich	chicken	294025
+buds	taste	294026
+velvet	pancake	294030
+velvet	pancake	294032
+bottom	line	294039
+barely	finish	294045
+good	reviews	294048
+velvet	red	294030
+velvet	red	294035
+velvet	red	294032
+red	velvet	294030
+red	velvet	294032
+red	velvet	294035
+pancakes	velvet	294035
+french	press	294049
+reviews	good	294048
+come	back	294028
+press	french	294049
+toast	french	294024
+heard	good	294046
+extra	stars	294025
+things	good	294046
+back	come	294028
+coffee	press	294049
+pancake	velvet	294030
+pancake	velvet	294035
+pancake	velvet	294032
+velvet	pancakes	294035
+super	tasty	294032
+french	toast	294024
+pan	velvet	294030
+pan	velvet	294035
+cream	whipped	294024
+good	things	294046
+limited	parking	294047
+whipped	cream	294024
+chicken	sandwich	294025
+press	coffee	294049
+tasty	super	294032
+####599	3.0	294068	294071
+spot	hot	294071
+hot	spot	294071
+lunch	spot	294071
+west	hollywood	294070
+####598	4.0	294062	294067
+toast	french	294062
+french	toast	294062
+big	bite	294064
+cafe	griddle	294066
+griddle	cafe	294066
+####601	4.0	294075	294095
+free	parking	294090
+free	parking	294091
+friend	enjoyed	294086
+papas	benedict	294082
+people	ordering	294080
+look	good	294095
+addition	great	294088
+egg	benedict	294086
+ordering	people	294080
+shorter	wait	294077
+looking	good	294095
+peak	hours	294075
+suggested	friend	294087
+did	wait	294076
+toast	french	294082
+toast	french	294084
+hollandaise	sauce	294086
+hours	peak	294075
+benedict	egg	294086
+parking	lot	294090
+good	looking	294095
+aid	rite	294090
+parking	street	294091
+great	addition	294088
+lot	parking	294090
+french	toast	294082
+french	toast	294084
+male	wait	294094
+poached	eggs	294086
+street	parking	294091
+rite	aid	294090
+####600	1.0	294072	294074
+horrendous	line	294072
+####603	2.0	294098	294113
+sizes	portion	294101
+food	coma	294099
+lover	meat	294111
+eat	anymore	294104
+nice	place	294101
+blueberry	pancake	294104
+velvet	red	294110
+velvet	red	294107
+coma	food	294099
+red	velvet	294107
+red	velvet	294110
+pancakes	velvet	294110
+pancakes	velvet	294107
+place	nice	294101
+ice	place	294101
+average	pretty	294100
+pancake	velvet	294110
+velvet	pancakes	294107
+velvet	pancakes	294110
+love	meat	294111
+pan	velvet	294110
+####602	4.0	294096	294097
+sure	make	294096
+make	sure	294096
+cafe	griddle	294097
+griddle	cafe	294097
+####605	4.0	294124	294133
+busy	super	294131
+two	line	294131
+french	press	294124
+press	french	294124
+two	lines	294131
+coffee	press	294124
+sweet	breakfast	294128
+press	coffee	294124
+super	busy	294131
+####604	4.0	294114	294123
+inch	thick	294119
+stars	five	294116
+five	stars	294116
+####607	4.0	294147	294152
+####606	2.0	294134	294146
+slices	two	294136
+close	pretty	294135
+parking	small	294145
+scrambled	egg	294140
+pretty	close	294135
+king	lot	294145
+people	order	294142
+fruit	fresh	294136
+fruit	fresh	294140
+three	huge	294142
+definitely	worth	294143
+toast	french	294141
+toast	french	294136
+toast	french	294137
+toast	french	294138
+line	wasn	294144
+small	parking	294145
+worth	definitely	294143
+people	ordered	294142
+wasn	line	294144
+parking	lot	294145
+two	slices	294136
+pancakes	huge	294142
+great	selection	294140
+lot	parking	294145
+french	toast	294136
+french	toast	294137
+french	toast	294138
+french	toast	294141
+eggs	scrambled	294140
+scrambled	eggs	294140
+fresh	fruit	294136
+fresh	fruit	294140
+huge	pancakes	294142
+order	people	294142
+selection	great	294140
+####687	5.0	294707	294737
+velvet	pancake	294713
+velvet	pancake	294717
+red	sugar	294715
+delicious	absolutely	294721
+worth	completely	294722
+wide	eyes	294727
+sweet	tooth	294709
+good	soooo	294727
+tasted	good	294720
+sugar	powdered	294715
+pretty	standard	294719
+line	long	294722
+wide	open	294727
+velvet	red	294713
+velvet	red	294717
+velvet	red	294724
+tooth	sweet	294709
+style	family	294711
+red	velvet	294713
+red	velvet	294717
+red	velvet	294724
+hubby	ordered	294727
+wait	line	294722
+ticket	golden	294730
+absolutely	amazing	294716
+come	back	294718
+completely	worth	294722
+line	wait	294722
+toast	french	294731
+soooo	good	294727
+brick	yellow	294716
+back	come	294718
+egg	dish	294719
+amazing	absolutely	294716
+good	tasted	294720
+pancake	velvet	294717
+pancake	velvet	294713
+aid	rite	294707
+dish	egg	294719
+family	style	294711
+french	toast	294731
+pan	velvet	294713
+long	line	294722
+absolutely	delicious	294721
+food	home	294712
+brick	road	294716
+home	food	294712
+buttermilk	pancakes	294716
+rite	aid	294707
+powdered	sugar	294715
+standard	pretty	294719
+####686	4.0	294702	294706
+velvet	pancake	294702
+velvet	red	294702
+red	velvet	294702
+pumpkin	pancake	294703
+pancake	velvet	294702
+pan	velvet	294702
+####685	3.0	294697	294701
+second	bite	294699
+peanut	bubba	294699
+bubba	french	294699
+bubba	peanut	294699
+toasts	french	294701
+french	better	294701
+toast	french	294701
+toast	french	294699
+french	toasts	294701
+french	toast	294699
+french	toast	294701
+french	bubba	294699
+better	french	294701
+####684	2.0	294688	294696
+right	way	294691
+way	right	294691
+kinds	different	294688
+awesome	place	294693
+overly	sweet	294690
+pretty	darn	294695
+different	kinds	294688
+sweet	overly	294690
+darn	pretty	294695
+####683	2.0	294685	294687
+peanut	bubba	294685
+bubba	peanut	294685
+french	press	294685
+press	french	294685
+magic	pancakes	294685
+coffee	press	294685
+wheat	toast	294685
+turkey	sausage	294685
+white	egg	294685
+black	magic	294685
+press	coffee	294685
+magic	black	294685
+####682	1.0	294671	294684
+italian	sausage	294678
+velvet	pancake	294672
+sausage	italian	294678
+egg	soft	294675
+soft	egg	294675
+break	best	294684
+egg	whites	294675
+best	breakfast	294684
+friendly	service	294681
+eat	flavor	294678
+great	flavor	294678
+huge	fan	294672
+velvet	red	294672
+red	velvet	294672
+pancakes	velvet	294672
+whites	egg	294675
+friend	service	294681
+velvet	pancakes	294672
+breakfast	best	294684
+flavor	great	294678
+chicago	charlie	294678
+brea	best	294684
+white	egg	294675
+fan	huge	294672
+####681	5.0	294652	294670
+going	back	294665
+decent	sized	294663
+small	place	294669
+back	going	294665
+pretty	great	294664
+place	small	294669
+great	pretty	294664
+####680	4.0	294647	294651
+absolutely	fan	294648
+####679	3.0	294641	294646
+food	came	294642
+size	portion	294641
+people	two	294643
+came	food	294642
+two	people	294643
+portion	size	294641
+####678	4.0	294629	294640
+come	hungry	294638
+conditioning	air	294636
+perfection	cooked	294632
+great	place	294637
+eat	place	294637
+meal	great	294633
+delicious	place	294629
+browns	hash	294632
+great	meal	294633
+eat	meal	294633
+hungry	come	294638
+place	delicious	294629
+place	great	294637
+left	stuffed	294631
+cafe	griddle	294640
+griddle	cafe	294640
+####677	3.0	294626	294628
+diverse	crowd	294628
+great	service	294627
+service	great	294627
+####676	3.0	294625	0
+####675	1.0	294621	294624
+looking	people	294622
+going	back	294624
+things	three	294622
+back	going	294624
+looking	good	294622
+good	pretty	294624
+difficult	parking	294622
+three	things	294622
+pretty	good	294624
+parking	lot	294623
+good	looking	294622
+aid	rite	294623
+people	looking	294622
+lot	parking	294623
+west	hollywood	294622
+rite	aid	294623
+####674	1.0	294616	294620
+french	best	294617
+best	french	294617
+toast	french	294617
+french	toast	294617
+####673	2.0	294611	294615
+brunch	favorite	294614
+favorite	brunch	294614
+brunch	spots	294614
+brunch	spot	294614
+fan	big	294615
+big	fan	294615
+####672	4.0	294600	294610
+food	came	294605
+gets	busy	294606
+generous	portion	294610
+friendly	service	294604
+gets	place	294606
+french	press	294601
+soy	milk	294601
+press	french	294601
+milk	soy	294601
+short	stack	294606
+coffee	press	294601
+bomb	place	294608
+friend	order	294603
+busy	gets	294606
+service	friendly	294604
+ordered	friend	294603
+came	food	294605
+real	quick	294606
+press	coffee	294601
+place	gets	294606
+friend	ordered	294603
+####702	5.0	294811	294812
+super	delish	294811
+place	busy	294811
+busy	place	294811
+####703	4.0	294813	294829
+huge	portions	294816
+spot	great	294823
+did	come	294824
+huge	fan	294815
+good	food	294816
+seated	immediately	294824
+great	spot	294823
+eat	spot	294823
+food	good	294816
+trendy	place	294822
+come	did	294824
+two	blocks	294825
+seated	got	294824
+blocks	two	294825
+got	seated	294824
+distance	walking	294825
+isn	service	294826
+fan	huge	294815
+immediately	seated	294824
+####700	4.0	294804	294809
+french	press	294804
+press	french	294804
+toast	french	294806
+toast	french	294808
+min	wait	294804
+coffee	press	294804
+french	toast	294806
+french	toast	294808
+yummy	flavor	294807
+press	coffee	294804
+####701	4.0	294810	0
+####698	2.0	294790	294800
+item	menu	294791
+recommend	highly	294791
+highly	recommend	294791
+menu	item	294791
+fashioned	old	294800
+sour	cream	294799
+looks	delicious	294791
+velvet	red	294797
+eye	candy	294793
+red	velvet	294797
+wait	staff	294793
+old	fashioned	294800
+staff	wait	294793
+candy	eye	294793
+worth	giving	294792
+fashion	old	294800
+ridiculous	wait	294794
+cafe	griddle	294796
+griddle	cafe	294796
+####699	4.0	294801	294803
+####696	3.0	294782	294785
+table	open	294782
+red	velvet	294785
+crunchy	french	294785
+toast	french	294785
+open	table	294782
+french	toast	294785
+####697	4.0	294786	294789
+food	arrived	294789
+arrived	food	294789
+####694	3.0	294770	294779
+wait	long	294771
+french	best	294774
+best	french	294774
+got	sat	294770
+business	trip	294779
+top	ten	294778
+toast	french	294774
+toast	french	294770
+great	food	294770
+morning	saturday	294779
+saturday	morning	294779
+french	toast	294770
+french	toast	294774
+food	great	294770
+long	wait	294771
+sunny	saturday	294779
+####695	4.0	294780	294781
+packed	place	294781
+place	packed	294781
+####692	4.0	294757	294758
+cafe	griddle	294757
+griddle	cafe	294757
+####693	1.0	294759	294769
+ticket	golden	294762
+told	friend	294763
+good	eating	294769
+eating	good	294769
+eat	good	294769
+junk	food	294759
+friend	told	294763
+end	told	294763
+####690	1.0	294743	294754
+looks	good	294745
+recommend	highly	294745
+highly	recommend	294745
+efficient	staff	294750
+road	trip	294750
+side	note	294748
+velvet	red	294747
+style	family	294754
+red	velvet	294747
+note	side	294748
+way	best	294752
+family	style	294754
+black	magic	294746
+black	magic	294747
+best	way	294752
+cant	wait	294751
+magic	black	294746
+magic	black	294747
+best	known	294747
+####691	4.0	294755	294756
+shrimp	sandwich	294755
+####688	2.0	294738	294740
+wrong	order	294740
+order	wrong	294740
+nice	breakfast	294738
+####689	4.0	294741	294742
+customer	service	294741
+service	customer	294741
+####653	4.0	294451	294452
+toast	french	294452
+french	toast	294452
+####652	1.0	294450	0
+####655	4.0	294463	294469
+brunch	place	294463
+velvet	red	294468
+food	comfort	294467
+good	reason	294464
+red	velvet	294468
+pancakes	velvet	294468
+comfort	food	294467
+thick	pieces	294469
+reason	good	294464
+pancake	velvet	294468
+velvet	pancakes	294468
+morning	sunday	294465
+pan	velvet	294468
+seated	got	294466
+got	seated	294466
+cafe	griddle	294463
+super	popular	294464
+place	brunch	294463
+sunday	morning	294465
+griddle	cafe	294463
+####654	3.0	294453	294462
+velvet	pancake	294456
+brunch	place	294461
+brunch	favorite	294461
+velvet	red	294456
+super	good	294457
+favorite	brunch	294461
+good	super	294457
+favorite	new	294461
+minute	walk	294462
+red	velvet	294456
+toast	french	294458
+toast	french	294460
+pancake	velvet	294456
+french	toast	294458
+french	toast	294460
+part	best	294462
+new	favorite	294461
+place	brunch	294461
+best	part	294462
+####649	4.0	294440	294443
+perfect	amount	294440
+thick	cut	294441
+best	bacon	294442
+amount	perfect	294440
+french	press	294442
+press	french	294442
+prepared	perfectly	294441
+coffee	press	294442
+cut	thick	294441
+press	coffee	294442
+####648	4.0	294435	294439
+went	actually	294438
+actually	went	294438
+french	butter	294439
+wait	line	294437
+butter	french	294439
+line	wait	294437
+toast	french	294439
+fun	atmosphere	294438
+peanut	butter	294439
+french	toast	294439
+early	saturday	294436
+####651	3.0	294448	294449
+private	rooms	294449
+group	large	294449
+large	group	294449
+####650	4.0	294444	294447
+velvet	pancake	294446
+fun	experience	294445
+velvet	red	294446
+red	velvet	294446
+recommend	people	294445
+pancake	velvet	294446
+####645	4.0	294398	294400
+probably	wouldn	294399
+####644	2.0	294392	294397
+good	combo	294393
+####647	3.0	294424	294434
+oreo	pancakes	294425
+peanut	bubba	294431
+nut	bubba	294431
+bubba	peanut	294431
+quickly	pretty	294429
+worth	wait	294434
+love	place	294430
+toast	french	294431
+least	say	294432
+french	toast	294431
+pretty	quickly	294429
+say	least	294432
+####646	1.0	294401	294423
+wait	long	294407
+amazing	food	294408
+amazing	food	294413
+amazing	pancakes	294411
+butter	peanut	294421
+find	better	294419
+side	right	294403
+better	find	294419
+banana	nana	294420
+line	long	294411
+nana	nana	294420
+right	side	294403
+bring	back	294423
+good	food	294409
+food	good	294409
+pumpkin	pancake	294422
+hollandaise	sauce	294419
+great	food	294409
+nana	banana	294420
+high	volume	294403
+place	breakfast	294406
+eat	food	294409
+peanut	butter	294421
+banana	bread	294420
+breakfast	place	294406
+food	great	294409
+long	line	294411
+long	wait	294407
+food	amazing	294408
+food	amazing	294413
+probably	better	294403
+nana	pancakes	294420
+noise	level	294401
+####641	3.0	294348	294349
+french	best	294348
+best	french	294348
+toasts	french	294348
+french	toasts	294348
+french	toast	294348
+####640	4.0	294343	294347
+syrup	maple	294347
+toast	french	294344
+maple	syrup	294347
+french	toast	294344
+####643	2.0	294379	294391
+big	deal	294389
+large	two	294386
+red	sugar	294386
+wasn	wait	294383
+sugar	powdered	294386
+deal	big	294389
+cheese	parmesan	294390
+white	meat	294390
+good	pretty	294388
+huge	line	294380
+tasted	pretty	294388
+stand	people	294380
+toast	french	294386
+slices	thick	294386
+pretty	good	294388
+line	huge	294380
+side	waiting	294380
+chicken	meat	294390
+thick	slices	294386
+french	toast	294386
+two	large	294386
+standing	people	294380
+standing	people	294385
+people	standing	294380
+people	standing	294385
+original	french	294386
+meat	chicken	294390
+parmesan	cheese	294390
+pretty	tasted	294388
+powdered	sugar	294386
+####642	4.0	294350	294356
+velvet	pancake	294353
+egg	whites	294352
+based	stars	294352
+toasts	french	294352
+velvet	red	294353
+cooked	egg	294352
+red	velvet	294353
+whites	egg	294352
+pancake	velvet	294353
+stars	based	294352
+french	toasts	294352
+french	toast	294352
+star	away	294353
+####668	3.0	294557	294559
+velvet	pancake	294559
+velvet	red	294559
+red	velvet	294559
+pancake	velvet	294559
+pan	velvet	294559
+####669	3.0	294560	294584
+fresh	whipped	294569
+quality	good	294562
+scrambled	egg	294576
+red	sugar	294560
+tortilla	chips	294579
+cheese	cream	294560
+cheese	cream	294562
+worth	noting	294570
+good	quality	294562
+service	amazing	294583
+sugar	powdered	294560
+breakfast	burrito	294576
+dining	establishment	294564
+tastes	fresh	294574
+amazing	dish	294564
+velvet	red	294561
+velvet	red	294560
+velvet	red	294563
+huge	pancake	294560
+cream	cheese	294560
+cream	cheese	294562
+red	velvet	294560
+red	velvet	294561
+red	velvet	294563
+chips	tortilla	294579
+good	pretty	294561
+pretty	good	294561
+high	quality	294574
+brick	yellow	294563
+brick	yellow	294568
+dish	amazing	294564
+burrito	breakfast	294576
+chip	tortilla	294579
+amazing	service	294583
+cheese	frosting	294560
+cheese	frosting	294562
+eggs	scrambled	294576
+frosting	cheese	294560
+frosting	cheese	294562
+brick	road	294563
+brick	road	294568
+cream	whipped	294569
+scrambled	eggs	294576
+quality	high	294574
+whipped	cream	294569
+cafe	griddle	294566
+cafe	griddle	294567
+cafe	griddle	294570
+powdered	sugar	294560
+griddle	cafe	294566
+griddle	cafe	294567
+griddle	cafe	294570
+####670	5.0	294585	294594
+literally	wait	294588
+great	deal	294592
+food	comes	294586
+free	parking	294593
+comes	food	294586
+deal	great	294592
+try	place	294588
+####671	5.0	294595	294599
+sour	cream	294599
+velvet	red	294597
+perfect	balance	294599
+cream	cheese	294597
+red	velvet	294597
+pancakes	velvet	294597
+blueberry	pancakes	294598
+place	breakfast	294595
+got	friend	294597
+velvet	pancakes	294597
+friend	got	294597
+breakfast	place	294595
+balance	perfect	294599
+####664	4.0	294531	294539
+amazing	pancakes	294539
+velvet	pancake	294531
+great	place	294538
+egg	whites	294535
+eat	place	294538
+velvet	red	294531
+red	velvet	294531
+whites	egg	294535
+pancake	velvet	294531
+place	great	294538
+turkey	sausage	294534
+cafe	griddle	294538
+griddle	cafe	294538
+####665	2.0	294540	294548
+short	story	294548
+favorite	breakfast	294541
+arrive	early	294540
+breakfast	favorite	294541
+sure	make	294540
+long	story	294548
+years	two	294546
+velvet	red	294543
+bucket	list	294546
+red	velvet	294543
+ticket	golden	294543
+place	breakfast	294541
+breakfast	place	294541
+story	long	294548
+two	years	294546
+make	sure	294540
+cafe	griddle	294546
+griddle	cafe	294546
+####666	3.0	294549	294555
+short	story	294555
+tastes	amazing	294552
+long	story	294555
+amazing	tastes	294552
+####667	4.0	294556	0
+####660	1.0	294513	294521
+barely	made	294521
+nice	kick	294517
+good	food	294513
+food	good	294513
+toast	french	294519
+french	toast	294519
+kick	nice	294517
+####661	3.0	294522	294527
+leave	hungry	294525
+looking	people	294527
+breakfast	joint	294527
+great	breakfast	294527
+did	taste	294523
+eat	breakfast	294527
+toast	french	294522
+breakfast	great	294527
+place	breakfast	294527
+people	looking	294527
+parking	street	294526
+portion	huge	294527
+breakfast	place	294527
+huge	portion	294527
+french	toast	294522
+brea	great	294527
+fast	place	294527
+joint	breakfast	294527
+street	parking	294526
+hungry	leave	294525
+taste	did	294523
+####662	2.0	294528	294529
+line	long	294529
+morning	sunday	294528
+long	line	294529
+sunday	morning	294528
+####663	1.0	294530	0
+####656	3.0	294470	294484
+butter	peanut	294480
+overrated	place	294482
+french	pressed	294474
+pressed	french	294474
+velvet	red	294470
+try	gotta	294481
+syrup	maple	294480
+red	velvet	294470
+pancakes	velvet	294470
+coffee	pressed	294474
+press	french	294474
+place	overrated	294482
+toast	french	294480
+toast	french	294483
+maple	syrup	294480
+overly	sweet	294483
+pancake	velvet	294470
+gotta	try	294481
+peanut	butter	294480
+iced	tomatoes	294472
+velvet	pancakes	294470
+pressed	coffee	294474
+french	toast	294480
+french	toast	294483
+pan	velvet	294470
+sweet	overly	294483
+nut	butter	294480
+####657	3.0	294485	294489
+banana	pancakes	294489
+pancakes	banana	294489
+group	large	294486
+large	group	294486
+####658	1.0	294490	294509
+breakfast	places	294508
+saturday	brunch	294496
+velvet	pancake	294502
+del	pretty	294504
+cheese	cream	294503
+hard	bit	294507
+velvet	red	294502
+cream	cheese	294503
+main	reason	294502
+people	come	294494
+red	velvet	294502
+french	press	294501
+ridiculous	place	294508
+good	pretty	294500
+good	pretty	294505
+press	french	294501
+toast	french	294491
+pretty	good	294500
+pretty	good	294505
+bit	hard	294507
+come	people	294494
+pretty	delicious	294504
+pancake	velvet	294502
+french	toast	294491
+delicious	pretty	294504
+brunch	saturday	294496
+places	breakfast	294508
+####659	1.0	294510	294512
+wanted	place	294510
+beach	long	294510
+cafe	griddle	294511
+griddle	cafe	294511
+long	beach	294510
+####713	2.0	294874	294880
+velvet	pancake	294876
+getting	worth	294875
+usually	try	294877
+food	coma	294876
+orange	juice	294876
+worth	getting	294875
+velvet	red	294876
+coma	food	294876
+red	velvet	294876
+seated	immediately	294878
+juice	orange	294876
+toast	french	294876
+pancake	velvet	294876
+french	toast	294876
+benedict	eggs	294876
+eggs	benedict	294876
+immediately	seated	294878
+####712	4.0	294873	0
+####715	3.0	294891	294898
+velvet	red	294893
+velvet	red	294891
+red	velvet	294891
+red	velvet	294893
+pancakes	velvet	294891
+pancakes	velvet	294893
+amazing	breakfast	294898
+pancake	velvet	294893
+velvet	pancakes	294891
+velvet	pancakes	294893
+high	hopes	294897
+hopes	high	294897
+pan	velvet	294893
+cafe	griddle	294891
+cafe	griddle	294898
+griddle	cafe	294891
+griddle	cafe	294898
+####714	1.0	294881	294890
+seated	immediately	294883
+onion	green	294887
+green	onion	294887
+blue	cheese	294887
+fries	cut	294888
+cut	fries	294888
+immediately	seated	294883
+best	seat	294883
+####717	3.0	294904	294909
+butter	peanut	294905
+chicken	breast	294909
+turkey	burger	294909
+brea	chicken	294909
+patty	beef	294909
+breast	chicken	294909
+toast	french	294904
+hearts	artichoke	294908
+peanut	butter	294905
+french	toast	294904
+whip	cream	294905
+whip	cream	294907
+burger	turkey	294909
+####716	5.0	294899	294903
+peanut	bubba	294903
+bubba	peanut	294903
+sweet	super	294901
+velvet	red	294899
+syrup	maple	294902
+red	velvet	294899
+pancakes	velvet	294899
+crunchy	french	294903
+toast	french	294903
+maple	syrup	294902
+pancake	velvet	294899
+velvet	pancakes	294899
+famous	dish	294900
+french	toast	294903
+home	take	294900
+take	home	294900
+pan	velvet	294899
+super	sweet	294901
+####719	1.0	294917	294923
+french	best	294917
+star	review	294918
+tar	review	294918
+review	star	294918
+best	french	294917
+real	maple	294920
+toast	french	294917
+french	toast	294917
+####718	4.0	294910	294916
+orange	juice	294913
+orange	juice	294914
+combination	great	294911
+patty	beef	294911
+new	taste	294911
+freshly	squeezed	294913
+juice	orange	294914
+hearts	artichoke	294911
+place	favorite	294915
+amazing	coffee	294913
+favorite	place	294915
+great	combination	294911
+####705	5.0	294835	294841
+leftovers	home	294838
+####704	4.0	294830	294834
+cafe	griddle	294833
+griddle	cafe	294833
+####707	4.0	294843	294844
+weeks	two	294844
+two	weeks	294844
+red	things	294844
+pumpkin	pie	294843
+####706	5.0	294842	0
+####709	4.0	294853	294857
+cafe	griddle	294853
+griddle	cafe	294853
+####708	4.0	294845	294852
+tortilla	chips	294852
+cheese	cream	294847
+cream	cheese	294847
+red	velvet	294845
+chips	tortilla	294852
+cheese	bread	294852
+favorite	least	294850
+morning	saturday	294850
+saturday	morning	294850
+cheese	frosting	294847
+frosting	cheese	294847
+cafe	griddle	294845
+least	favorite	294850
+griddle	cafe	294845
+apple	pie	294848
+pie	apple	294848
+####711	2.0	294864	294872
+crappy	service	294864
+sunday	brunch	294868
+card	credit	294866
+worth	wait	294869
+brunch	sunday	294868
+multiple	occasions	294866
+waiting	worth	294869
+absolutely	great	294871
+worth	waiting	294869
+####710	4.0	294858	294863
+least	say	294863
+blood	sugar	294859
+say	least	294863
+####728	1.0	294958	294959
+####729	5.0	294960	294962
+food	arrived	294961
+arrived	food	294961
+item	best	294962
+food	order	294960
+order	food	294960
+best	item	294962
+arrive	food	294961
+####720	4.0	294924	294925
+####721	3.0	294926	294930
+decided	finally	294928
+finally	decided	294928
+breakfast	food	294928
+place	decided	294928
+food	breakfast	294928
+decided	place	294928
+####722	3.0	294931	294934
+perfectly	crisp	294932
+papas	benedict	294932
+good	soooo	294932
+potato	baked	294932
+poached	egg	294932
+crisp	perfectly	294932
+velvet	red	294932
+red	velvet	294932
+decent	prices	294934
+hollandaise	sauce	294932
+soooo	good	294932
+baked	potato	294932
+people	two	294932
+poached	eggs	294932
+two	people	294932
+skins	potato	294932
+####723	4.0	294935	294937
+wasn	wait	294937
+suggest	coming	294935
+####724	4.0	294938	294944
+definitely	order	294943
+velvet	red	294938
+red	velvet	294938
+pancakes	velvet	294938
+velvet	pancakes	294938
+order	definitely	294943
+####725	3.0	294945	0
+####726	4.0	294946	294954
+come	definitely	294946
+come	back	294946
+definitely	try	294946
+combinations	flavor	294949
+back	come	294946
+flavor	combinations	294949
+definitely	come	294946
+cream	whipped	294952
+whipped	cream	294952
+####727	4.0	294955	294957

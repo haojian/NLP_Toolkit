@@ -1,0 +1,2588 @@
+####0	4.0	458120	458135
+####1	2.0	458136	458141
+####2	3.0	458142	458147
+####3	2.0	458148	458157
+####4	5.0	458158	458162
+####5	1.0	458163	458174
+####6	2.0	458175	458177
+####7	3.0	458178	458185
+####8	3.0	458186	458191
+####9	5.0	458192	458206
+####10	4.0	458207	458212
+####11	2.0	458213	458220
+####12	4.0	458223	458230
+####13	4.0	458231	458235
+####14	5.0	458236	458237
+####15	3.0	458238	458245
+####17	2.0	458260	458265
+####16	2.0	458246	458259
+####19	4.0	458269	458273
+####18	3.0	458266	458268
+####21	2.0	458279	458298
+####20	3.0	458274	458278
+####23	4.0	458300	458324
+####22	5.0	458299	0
+####25	1.0	458332	458338
+####24	4.0	458325	458331
+####27	4.0	458344	458356
+####26	4.0	458339	458343
+####29	5.0	458363	458366
+####28	3.0	458357	458362
+####31	1.0	458373	458379
+####30	3.0	458367	458372
+####34	4.0	458399	458400
+####35	3.0	458401	458403
+####32	4.0	458380	458394
+####33	4.0	458395	458398
+####38	4.0	458427	458430
+####39	3.0	458431	458436
+####36	2.0	458404	458414
+####37	3.0	458415	458426
+####42	3.0	458450	458471
+####43	4.0	458472	458476
+####40	4.0	458437	458438
+####41	4.0	458439	458449
+####46	3.0	458489	458500
+####47	4.0	458501	458506
+####44	3.0	458477	458481
+####45	4.0	458482	458488
+####51	3.0	458549	458559
+####50	4.0	458537	458548
+####49	5.0	458520	458536
+####48	2.0	458507	458519
+####55	3.0	458601	458612
+####54	5.0	458596	458600
+####53	2.0	458571	458595
+####52	2.0	458560	458570
+####59	1.0	458639	458647
+####58	4.0	458633	458638
+####57	4.0	458616	458632
+####56	4.0	458613	458615
+####63	4.0	458667	458671
+####62	4.0	458664	458666
+####61	3.0	458654	458663
+####60	4.0	458648	458653
+####68	3.0	458715	458730
+####69	4.0	458731	458746
+####70	3.0	458747	458776
+####71	4.0	458777	458784
+####64	2.0	458672	458685
+####65	4.0	458686	458705
+####66	2.0	458706	458713
+####67	4.0	458714	0
+####76	4.0	458819	458834
+####77	4.0	458835	458840
+####78	3.0	458841	458844
+####79	3.0	458845	458860
+####72	4.0	458785	458802
+####73	2.0	458803	458807
+####74	5.0	458808	458815
+####75	4.0	458816	458818
+####85	4.0	458927	458945
+####84	4.0	458916	458926
+####87	1.0	458958	458966
+####86	3.0	458946	458957
+####81	3.0	458880	458888
+####80	4.0	458861	458879
+####83	5.0	458899	458915
+####82	2.0	458889	458898
+####93	4.0	459009	459015
+####92	4.0	459005	459008
+####95	3.0	459027	459041
+####94	3.0	459019	459026
+####89	4.0	458975	458977
+####88	2.0	458967	458974
+####91	2.0	458996	459004
+####90	3.0	458978	458995
+####102	4.0	459077	459086
+####103	4.0	459087	459094
+####100	4.0	459064	459069
+####101	4.0	459070	459076
+####98	3.0	459051	459057
+####99	4.0	459058	459063
+####96	2.0	459042	459047
+####97	4.0	459048	459050
+####110	4.0	459159	459175
+####111	1.0	459176	459185
+####108	4.0	459133	459141
+####109	5.0	459142	459158
+####106	4.0	459114	459122
+####107	4.0	459123	459132
+####104	3.0	459095	459103
+####105	3.0	459104	459113
+####119	5.0	459223	459228
+####118	2.0	459219	459222
+####117	4.0	459214	459218
+####116	2.0	459207	459213
+####115	4.0	459201	459206
+####114	2.0	459198	459200
+####113	4.0	459194	459197
+####112	5.0	459186	459193
+####127	2.0	459301	459307
+####126	4.0	459291	459300
+####125	4.0	459282	459290
+####124	4.0	459277	459281
+####123	3.0	459275	459276
+####122	3.0	459257	459274
+####121	3.0	459235	459249
+####120	2.0	459229	459234
+####137	4.0	459400	459405
+####136	3.0	459394	459399
+####139	3.0	459412	459415
+####138	4.0	459406	459411
+####141	4.0	459437	459451
+####140	3.0	459416	459436
+####143	4.0	459469	459476
+####142	3.0	459452	459468
+####129	4.0	459330	459339
+####128	3.0	459308	459329
+####131	5.0	459353	459359
+####130	4.0	459340	459352
+####133	4.0	459373	459379
+####132	3.0	459360	459372
+####135	3.0	459385	459393
+####134	3.0	459380	459384
+####152	4.0	459542	459546
+####153	4.0	459547	459553
+####154	4.0	459554	459571
+####155	4.0	459572	459586
+####156	3.0	459587	459588
+####157	4.0	459589	459591
+####158	1.0	459592	459599
+####159	3.0	459600	459602
+####144	4.0	459477	459482
+####145	4.0	459483	459491
+####146	4.0	459492	459496
+####147	3.0	459497	459506
+####148	4.0	459507	459511
+####149	2.0	459512	459513
+####150	3.0	459514	459538
+####151	4.0	459539	459541
+####171	3.0	459703	459709
+####170	4.0	459701	459702
+####169	5.0	459698	459700
+####168	3.0	459681	459697
+####175	3.0	459727	459733
+####174	3.0	459720	459726
+####173	2.0	459714	459719
+####172	4.0	459710	459713
+####163	3.0	459618	459620
+####162	2.0	459614	459617
+####161	2.0	459609	459613
+####160	4.0	459603	459608
+####167	5.0	459668	459680
+####166	3.0	459645	459667
+####165	1.0	459641	459644
+####164	3.0	459621	459640
+####186	4.0	459823	459828
+####187	3.0	459829	459831
+####184	3.0	459808	459810
+####185	3.0	459811	459822
+####190	2.0	459858	459860
+####191	3.0	459861	459867
+####188	3.0	459832	459854
+####189	4.0	459855	459857
+####178	4.0	459768	459780
+####179	2.0	459781	459787
+####176	4.0	459734	459742
+####177	1.0	459743	459767
+####182	1.0	459800	459802
+####183	2.0	459803	459807
+####180	3.0	459788	0
+####181	4.0	459789	459799
+####205	1.0	459968	459994
+####207	5.0	459998	460015
+####206	3.0	459995	459997
+####201	2.0	459946	459948
+####200	3.0	459945	459944
+####203	3.0	459954	459967
+####202	3.0	459949	459953
+####197	3.0	459911	459913
+####196	3.0	459904	459910
+####199	2.0	459919	459932
+####198	3.0	459914	459918
+####193	2.0	459883	459885
+####192	3.0	459868	459882
+####195	3.0	459894	459903
+####194	4.0	459886	459893
+####220	4.0	460110	460140
+wait	long	460139
+yelp	friends	460118
+wanted	place	460120
+friends	love	460118
+visit	san	460139
+food	coma	460138
+back	baby	460121
+back	baby	460130
+full	size	460121
+great	things	460110
+pulled	pork	460136
+love	friends	460118
+walk	away	460111
+rib	beef	460122
+velvet	red	460111
+velvet	red	460110
+velvet	red	460114
+ribs	back	460121
+ribs	back	460130
+taste	better	460125
+coma	food	460138
+red	velvet	460110
+red	velvet	460111
+red	velvet	460114
+whoopie	pie	460110
+beef	ribs	460122
+beef	ribs	460134
+top	ten	460118
+tri	tip	460136
+back	ribs	460121
+back	ribs	460130
+tip	tri	460136
+baby	back	460121
+baby	back	460130
+ribs	beef	460122
+ribs	beef	460134
+things	great	460110
+away	walk	460111
+size	full	460121
+rack	ribs	460121
+diego	san	460139
+home	take	460110
+take	home	460110
+long	wait	460139
+heard	great	460110
+pork	pulled	460136
+san	visit	460139
+better	taste	460125
+ways	good	460132
+####221	3.0	460141	460147
+food	came	460147
+small	party	460146
+great	things	460141
+party	small	460146
+things	great	460141
+####222	5.0	460148	460153
+####223	3.0	460154	460157
+####216	4.0	460066	460078
+####217	2.0	460095	460094
+####218	3.0	460096	460100
+####219	2.0	460101	460109
+sandwich	toro	460102
+small	side	460102
+toro	sandwich	460102
+side	small	460102
+huge	sandwich	460103
+sauce	bbq	460104
+tasty	sandwich	460105
+cole	slaw	460102
+cole	slaw	460106
+cole	slaw	460108
+bbq	sauce	460104
+####212	4.0	460034	460040
+####213	3.0	460041	460050
+####214	1.0	460051	460060
+####215	4.0	460061	460065
+####208	2.0	460016	460019
+####209	5.0	460020	460022
+####210	4.0	460023	460026
+####211	4.0	460027	460033
+####239	1.0	460276	460283
+sports	arena	460277
+best	bbq	460282
+bbq	best	460282
+####238	2.0	460275	460274
+####237	3.0	460254	460267
+food	mexican	460266
+food	coma	460257
+bbq	places	460261
+definitely	coming	460254
+bbq	different	460261
+mexican	food	460266
+long	ass	460255
+delicious	damn	460257
+ass	lines	460255
+line	ass	460255
+left	overs	460257
+ass	line	460255
+bbq	place	460261
+overs	left	460257
+different	bbq	460261
+ass	long	460255
+damn	delicious	460257
+coming	definitely	460254
+####236	5.0	460245	460253
+dinner	ribs	460248
+salad	potato	460245
+super	soft	460250
+ribs	dinner	460248
+back	baby	460248
+sauce	extra	460245
+pulled	pork	460248
+pulled	pork	460249
+extra	sauce	460245
+extra	side	460245
+sandwich	pork	460248
+sandwich	pork	460249
+ribs	back	460248
+soft	super	460250
+hour	wait	460245
+salad	macaroni	460253
+salad	macaroni	460245
+back	ribs	460248
+baby	back	460248
+big	group	460247
+wait	hour	460245
+group	big	460247
+pork	sandwich	460248
+pork	sandwich	460249
+pork	pulled	460248
+pork	pulled	460249
+macaroni	salad	460245
+macaroni	salad	460253
+####235	2.0	460230	460244
+salad	potato	460233
+smoky	flavor	460231
+wait	hours	460233
+fall	meat	460230
+order	take	460238
+bbq	good	460242
+back	baby	460235
+finger	lickin	460243
+flavor	smoky	460231
+bone	tender	460241
+flavors	great	460244
+good	right	460243
+eat	flavors	460244
+hours	wait	460233
+good	bbq	460242
+great	flavor	460244
+ribs	back	460235
+bbq	delicious	460241
+beef	ribs	460235
+take	order	460238
+delicious	bbq	460241
+salad	macaroni	460234
+back	ribs	460235
+baby	back	460235
+better	lot	460231
+beans	baked	460234
+bet	lot	460231
+ribs	beef	460235
+potato	salad	460233
+rib	back	460235
+great	flavors	460244
+flavor	great	460244
+tender	bone	460241
+sauce	bbq	460241
+baked	beans	460234
+lot	better	460231
+bean	baked	460234
+bbq	sauce	460241
+macaroni	salad	460234
+####234	2.0	460227	460229
+beef	flavor	460228
+back	baby	460229
+great	bbq	460228
+ribs	back	460229
+eat	bbq	460228
+back	ribs	460229
+baby	back	460229
+bbq	great	460228
+####233	3.0	460221	460226
+dinner	ribs	460224
+visit	san	460222
+small	side	460225
+back	baby	460224
+set	dinner	460225
+bone	tender	460226
+rack	baby	460224
+bbq	tasty	460221
+rib	beef	460224
+beef	rib	460224
+ribs	back	460224
+small	two	460225
+come	back	460221
+dinner	rib	460224
+beef	ribs	460226
+two	small	460225
+back	ribs	460224
+baby	back	460224
+ribs	beef	460226
+small	sides	460225
+back	come	460221
+tasty	bbq	460221
+half	rack	460224
+diego	san	460222
+tender	bone	460226
+rack	half	460224
+sides	small	460225
+side	large	460225
+rib	dinner	460224
+people	two	460224
+san	visit	460222
+two	people	460224
+large	side	460225
+####232	4.0	460214	460220
+decent	bbq	460220
+tables	large	460218
+bbq	joint	460220
+joint	bbq	460220
+large	tables	460218
+####231	3.0	460211	460213
+sauce	good	460212
+fan	big	460213
+big	fan	460213
+good	sauce	460212
+####230	4.0	460200	460210
+good	bite	460209
+love	sauce	460205
+thirty	minutes	460201
+rings	onion	460207
+####229	4.0	460188	460199
+blown	away	460189
+sports	arena	460197
+ago	years	460193
+service	attentive	460197
+loma	point	460193
+attentive	service	460197
+years	ago	460193
+away	blown	460189
+experience	awesome	460195
+awesome	experience	460195
+####228	3.0	460183	460187
+sure	made	460185
+made	sure	460185
+away	right	460183
+way	back	460186
+back	way	460186
+taken	care	460185
+take	care	460183
+right	away	460183
+####227	4.0	460177	460182
+parking	spot	460177
+spot	parking	460177
+head	chef	460180
+back	door	460178
+bar	area	460182
+chef	head	460180
+area	bar	460182
+####226	3.0	460168	460176
+place	needs	460174
+customer	service	460174
+needs	place	460174
+daily	basis	460176
+service	customer	460174
+stellar	reviews	460173
+####225	4.0	460167	0
+####224	3.0	460158	460166
+short	story	460160
+long	story	460160
+member	staff	460158
+customer	service	460160
+story	long	460160
+service	customer	460160
+####254	2.0	460389	460392
+red	flintstone	460391
+small	portion	460392
+portion	small	460392
+cole	slaw	460392
+####252	3.0	460368	460375
+wait	long	460368
+dressing	ranch	460373
+small	sample	460371
+ranch	dressing	460373
+best	onion	460375
+nice	crunch	460372
+onion	ring	460371
+ring	onion	460371
+long	wait	460368
+onion	best	460375
+crunch	nice	460372
+rings	onion	460375
+####253	2.0	460376	460388
+dish	side	460387
+later	minutes	460380
+bbq	goodness	460380
+rib	beef	460377
+rib	beef	460388
+beef	rib	460377
+dinner	rib	460377
+beef	ribs	460388
+side	dish	460387
+ribs	beef	460388
+free	feel	460386
+minutes	later	460380
+food	back	460381
+rib	dinner	460377
+cole	slaw	460378
+rings	onion	460378
+####250	3.0	460364	460366
+west	coast	460366
+diego	san	460365
+best	sandwich	460364
+best	sandwich	460366
+short	version	460364
+sandwich	best	460364
+sandwich	best	460366
+####251	3.0	460367	0
+####248	1.0	460348	460357
+place	amazing	460349
+king	lot	460352
+jose	san	460351
+best	bbq	460350
+back	baby	460351
+back	baby	460355
+bbq	best	460350
+rib	beef	460355
+beef	rib	460355
+ribs	back	460351
+dinner	rib	460355
+beef	ribs	460356
+back	ribs	460351
+baby	back	460351
+baby	back	460355
+best	overall	460351
+ribs	beef	460356
+parking	lot	460352
+diego	san	460350
+amazing	place	460349
+lot	parking	460352
+rib	dinner	460355
+best	baby	460351
+####249	3.0	460358	460363
+back	baby	460358
+pork	baby	460358
+perfect	lunch	460363
+baby	back	460358
+writing	review	460361
+bomb	ass	460359
+sauce	bbq	460359
+bbq	sauce	460359
+rings	onion	460362
+####246	1.0	460335	460343
+reasonable	prices	460338
+prices	reasonable	460338
+bone	ribs	460340
+real	bbq	460337
+portions	large	460338
+great	fries	460341
+large	portions	460338
+####247	3.0	460344	460347
+lacks	flavor	460347
+macaroni	salad	460346
+####244	3.0	460321	460331
+quality	good	460331
+good	quality	460331
+bbq	extra	460324
+pulled	pork	460326
+slow	cooked	460330
+shoulder	pork	460328
+hot	links	460326
+pork	shoulder	460328
+portion	huge	460330
+huge	portion	460330
+sauce	bbq	460324
+extra	bbq	460324
+pork	pulled	460326
+super	popular	460321
+bbq	sauce	460324
+rings	onion	460323
+####245	4.0	460332	460334
+sweet	sauce	460333
+sauce	sweet	460333
+####242	4.0	460308	460315
+whoopie	pie	460313
+tri	tip	460308
+tip	tri	460308
+diego	san	460315
+####243	3.0	460316	460320
+bbq	tangy	460320
+sizes	portion	460318
+best	bbq	460318
+back	baby	460320
+bbq	best	460318
+ribs	back	460320
+back	ribs	460320
+baby	back	460320
+tangy	bbq	460320
+####240	2.0	460284	460304
+salad	potato	460288
+came	right	460289
+sandwich	toro	460302
+ice	cream	460295
+ice	cream	460296
+cream	ice	460295
+cream	ice	460296
+toro	sandwich	460302
+back	baby	460288
+back	baby	460302
+rack	full	460302
+amount	right	460287
+pulled	pork	460285
+small	cup	460296
+right	amount	460287
+sandwich	pork	460285
+velvet	red	460303
+ribs	back	460288
+ribs	back	460302
+right	came	460289
+red	velvet	460303
+night	friday	460298
+super	nice	460293
+whoopie	pie	460303
+full	ribs	460302
+recommend	checking	460295
+friday	night	460298
+back	ribs	460288
+back	ribs	460302
+baby	back	460288
+baby	back	460302
+great	food	460304
+numerous	times	460298
+potato	salad	460288
+rib	back	460288
+rack	ribs	460302
+good	feeling	460293
+nice	wait	460293
+cup	small	460296
+food	great	460304
+pork	sandwich	460285
+pork	pulled	460285
+full	rack	460302
+colossal	onion	460302
+nice	super	460293
+rings	onion	460302
+####241	3.0	460305	460307
+sauce	bbq	460307
+bbq	sauce	460307
+rings	onion	460306
+####275	3.0	460520	460521
+diego	san	460521
+bbq	joint	460521
+joint	bbq	460521
+famous	bbq	460521
+####274	3.0	460516	460519
+ribs	back	460517
+pretty	huge	460518
+back	ribs	460517
+rib	back	460517
+sauce	bbq	460516
+bbq	sauce	460516
+####272	4.0	460511	460515
+definitely	return	460514
+sure	make	460512
+moist	chicken	460511
+pork	bbq	460512
+bbq	pork	460512
+beef	ribs	460515
+ribs	beef	460515
+notch	top	460515
+make	sure	460512
+return	definitely	460514
+####279	3.0	460554	460561
+afternoon	sunday	460561
+delicious	flavor	460557
+sunday	afternoon	460561
+pulled	pork	460555
+san	pork	460555
+things	two	460556
+delicious	flavors	460557
+sandwich	pork	460555
+sweet	tangy	460557
+sauce	bbq	460557
+thin	two	460556
+pork	sandwich	460555
+pork	pulled	460555
+flavors	delicious	460557
+two	things	460556
+bbq	sauce	460557
+####278	4.0	460550	460553
+legit	place	460551
+good	damn	460553
+bbq	good	460553
+good	bbq	460553
+damn	good	460553
+diego	san	460550
+diego	san	460551
+####277	2.0	460528	460549
+huge	portions	460534
+back	baby	460543
+back	baby	460544
+back	baby	460549
+sandwich	tip	460547
+sure	make	460528
+finally	try	460549
+rib	beef	460545
+ribs	back	460543
+ribs	back	460544
+ribs	back	460549
+tip	sandwich	460543
+tip	sandwich	460547
+peak	hours	460539
+food	order	460538
+come	back	460549
+food	portions	460534
+ordered	ribs	460543
+beef	ribs	460545
+beef	ribs	460543
+order	food	460538
+back	ribs	460543
+back	ribs	460544
+back	ribs	460549
+hour	waiting	460530
+baby	back	460543
+baby	back	460544
+ribs	beef	460545
+ribs	beef	460543
+hours	peak	460539
+back	come	460549
+san	tip	460547
+diego	san	460541
+red	ribs	460543
+saturday	night	460542
+night	saturday	460542
+definitely	come	460549
+try	finally	460549
+phil	try	460549
+make	sure	460528
+rings	onion	460543
+rings	onion	460546
+portions	food	460534
+####276	4.0	460522	460527
+real	good	460523
+people	ordering	460525
+job	good	460523
+ordering	people	460525
+wet	naps	460527
+good	job	460523
+order	people	460525
+####283	3.0	460575	460577
+line	long	460577
+rib	beef	460576
+beef	ribs	460576
+ribs	beef	460576
+diego	san	460575
+long	line	460577
+####282	4.0	460570	460574
+food	came	460570
+fall	meat	460572
+good	soooo	460572
+right	falls	460572
+eat	anymore	460574
+eat	falls	460572
+good	pretty	460573
+salad	macaroni	460573
+pretty	good	460573
+falls	meat	460572
+soooo	good	460572
+falls	right	460572
+jus	cooked	460572
+sauce	bbq	460572
+came	food	460570
+meat	falls	460572
+cole	slaw	460573
+bbq	sauce	460572
+macaroni	salad	460573
+####281	4.0	460567	460569
+salad	macaroni	460569
+wasn	line	460567
+cole	slaw	460569
+macaroni	salad	460569
+####280	4.0	460562	460566
+best	ribs	460565
+pulled	pork	460563
+put	simply	460565
+come	back	460566
+back	come	460566
+ribs	best	460565
+simply	put	460565
+pork	pulled	460563
+####287	5.0	460615	0
+####286	5.0	460604	460614
+people	ordering	460608
+back	baby	460608
+ordering	people	460608
+ribs	back	460608
+taste	better	460608
+good	pretty	460609
+good	pretty	460610
+back	ribs	460608
+baby	back	460608
+pretty	good	460609
+pretty	good	460610
+wasn	food	460605
+beans	baked	460610
+food	wasn	460605
+portions	big	460611
+fan	big	460606
+baked	beans	460610
+big	fan	460606
+big	portions	460611
+better	taste	460608
+####285	1.0	460594	460603
+lovers	meat	460598
+lucky	got	460596
+goes	line	460596
+long	hours	460599
+deep	people	460596
+meat	lovers	460598
+multiple	times	460597
+parking	lot	460597
+hours	long	460599
+got	lucky	460596
+dinner	eat	460599
+diego	san	460599
+separate	line	460595
+lot	parking	460597
+plate	dinner	460602
+dinner	plate	460602
+line	goes	460596
+eat	lovers	460598
+eat	dinner	460599
+####284	1.0	460578	460593
+rib	beef	460583
+huge	fan	460589
+yelp	reviews	460579
+good	food	460590
+good	pretty	460591
+reasonable	prices	460590
+beef	ribs	460580
+beef	ribs	460583
+food	good	460590
+back	ribs	460581
+prices	reasonable	460590
+pretty	good	460591
+falls	meat	460591
+ribs	beef	460583
+ribs	beef	460580
+babyback	ribs	460581
+freakin	good	460580
+sauce	bbq	460591
+review	yelp	460579
+meat	falls	460591
+fan	huge	460589
+bbq	sauce	460591
+rings	onion	460584
+reviews	yelp	460579
+####258	1.0	460405	460406
+####259	4.0	460407	460411
+good	licking	460410
+best	bbq	460408
+great	price	460410
+love	phil	460411
+bbq	best	460408
+price	great	460410
+phil	love	460411
+licking	good	460410
+####256	4.0	460393	460403
+towels	paper	460398
+thin	good	460398
+eating	ribs	460397
+rib	beef	460395
+paper	towels	460398
+slow	cooked	460396
+beef	ribs	460395
+ribs	beef	460395
+nice	char	460396
+cooked	beef	460396
+typical	pretty	460393
+rings	onion	460400
+####257	4.0	460404	0
+####262	4.0	460432	460433
+place	popular	460433
+popular	place	460433
+####263	4.0	460434	460445
+private	room	460439
+husband	ordered	460443
+card	credit	460434
+ordered	husband	460443
+exactly	sure	460445
+sure	exactly	460445
+####260	4.0	460412	460423
+portion	good	460415
+super	crowded	460412
+visit	san	460417
+crowded	super	460412
+good	portion	460415
+bbq	ribs	460414
+ribs	bbq	460414
+diego	san	460417
+san	visit	460417
+rings	onion	460414
+####261	4.0	460424	460431
+good	pretty	460424
+salad	macaroni	460425
+pretty	good	460424
+main	restaurant	460430
+macaroni	salad	460425
+####266	3.0	460466	460488
+sandwich	toro	460488
+dry	rub	460466
+dry	rub	460467
+small	order	460475
+back	baby	460466
+back	came	460488
+sandwich	pork	460488
+ribs	back	460466
+pork	bbq	460488
+bbq	pork	460488
+jus	meat	460469
+rib	plate	460488
+came	back	460488
+order	small	460475
+back	ribs	460466
+order	half	460466
+baby	back	460466
+beans	baked	460472
+things	good	460482
+order	ribs	460466
+rib	back	460466
+rib	full	460488
+half	order	460466
+sauce	bbq	460466
+sauce	bbq	460467
+rub	dry	460466
+rub	dry	460467
+pork	sandwich	460488
+good	things	460482
+phil	try	460482
+baked	beans	460472
+colossal	onion	460475
+full	rib	460488
+real	actually	460477
+cole	slaw	460470
+bbq	sauce	460466
+bbq	sauce	460467
+rings	onion	460481
+rings	onion	460475
+####267	3.0	460489	460490
+sandwich	toro	460489
+toro	sandwich	460489
+pork	bbq	460489
+bbq	pork	460489
+ribs	pork	460489
+pork	ribs	460489
+####264	4.0	460446	460462
+late	lunch	460452
+self	serve	460462
+food	spot	460451
+food	spot	460457
+customer	service	460447
+huge	line	460453
+line	huge	460453
+huge	huge	460453
+two	menu	460457
+lunch	late	460452
+service	customer	460447
+####265	2.0	460463	460465
+people	come	460465
+come	people	460465
+####270	4.0	460495	460504
+best	selection	460504
+dry	rub	460500
+evening	sunday	460495
+service	amazing	460502
+finally	did	460501
+put	simply	460497
+did	finally	460501
+sunday	evening	460495
+amazing	service	460502
+rub	dry	460500
+wait	minutes	460495
+simply	put	460497
+minutes	wait	460495
+####271	3.0	460505	460510
+rack	full	460505
+quarter	chicken	460505
+plate	dinner	460505
+dinner	plate	460505
+full	rack	460505
+rings	onion	460506
+####268	3.0	460491	0
+####269	4.0	460492	460494
+good	licking	460492
+finger	licking	460492
+licking	good	460492
+####305	5.0	460729	460733
+dinner	ribs	460729
+came	right	460731
+bbq	pulled	460732
+ribs	dinner	460729
+pulled	pork	460732
+meat	pork	460731
+sandwich	pork	460732
+right	came	460731
+pork	meat	460731
+ribs	pork	460729
+come	back	460732
+salad	macaroni	460729
+back	come	460732
+half	rack	460729
+rack	half	460729
+meat	came	460731
+pork	sandwich	460732
+pork	pulled	460732
+pork	ribs	460729
+cole	slaw	460732
+pulled	bbq	460732
+rib	pork	460729
+macaroni	salad	460729
+####304	4.0	460723	460728
+dry	rub	460723
+best	barbecue	460725
+totally	worth	460727
+worth	totally	460727
+barbecue	best	460725
+saturday	afternoon	460726
+sauce	bbq	460723
+rub	dry	460723
+afternoon	saturday	460726
+cole	slaw	460724
+bbq	sauce	460723
+####307	4.0	460738	460748
+recommend	highly	460741
+delicious	absolutely	460738
+highly	recommend	460741
+dry	rub	460745
+rib	beef	460748
+recommend	checking	460741
+beef	ribs	460747
+beef	ribs	460748
+phils	bbq	460741
+line	wasn	460742
+ribs	beef	460748
+ribs	beef	460747
+wasn	line	460742
+diego	san	460741
+amazing	atmosphere	460738
+absolutely	delicious	460738
+rub	dry	460745
+long	wait	460740
+red	sauce	460745
+####306	5.0	460734	460737
+jus	tasted	460734
+absolutely	amazing	460737
+phils	bbq	460737
+amazing	absolutely	460737
+sauce	barbecue	460735
+sauce	barbecue	460736
+barbecue	sauce	460735
+barbecue	sauce	460736
+####309	4.0	460751	460752
+tangy	sauce	460752
+####308	4.0	460749	460750
+rings	onion	460749
+####311	4.0	460754	460755
+good	corn	460754
+####310	4.0	460753	0
+####313	3.0	460766	460775
+food	came	460769
+rib	tickler	460770
+finally	got	460766
+back	baby	460770
+got	finally	460766
+insanely	long	460774
+place	bbq	460774
+phils	bbq	460773
+baby	back	460770
+rib	back	460770
+tickler	rib	460770
+bbq	place	460774
+back	rib	460770
+came	food	460769
+rings	onion	460771
+####312	4.0	460756	460765
+good	luck	460760
+finding	luck	460760
+ordering	system	460762
+big	place	460761
+larger	groups	460760
+place	big	460761
+two	wait	460757
+luck	good	460760
+system	ordering	460762
+larger	group	460760
+pretty	big	460761
+wait	two	460757
+hours	two	460757
+big	pretty	460761
+two	hours	460757
+smaller	group	460760
+####315	3.0	460778	460781
+back	baby	460778
+rib	beef	460781
+ribs	back	460778
+ribs	pork	460780
+beef	ribs	460781
+back	ribs	460778
+baby	back	460778
+ribs	beef	460781
+beefy	ribs	460780
+tender	meat	460780
+good	sauce	460779
+pork	ribs	460780
+####314	3.0	460776	460777
+####317	4.0	460785	460787
+worth	wait	460786
+half	hour	460787
+hour	half	460787
+waiting	worth	460786
+worth	waiting	460786
+####316	4.0	460782	460784
+place	bbq	460784
+bbq	food	460784
+diego	san	460783
+bbq	place	460784
+####319	3.0	460795	460798
+wait	long	460796
+long	wait	460796
+peak	times	460796
+times	peak	460796
+rings	onion	460797
+####318	4.0	460788	460794
+sandwich	toro	460791
+toro	sandwich	460791
+fall	meat	460793
+bone	tender	460793
+cut	fresh	460790
+bbq	meats	460791
+beans	baked	460789
+fries	cut	460790
+tender	bone	460793
+fresh	cut	460790
+cut	fries	460790
+baked	beans	460789
+bean	baked	460789
+rings	onion	460792
+####288	4.0	460616	460623
+bbq	sweet	460619
+found	finally	460618
+finally	found	460618
+sweet	bbq	460619
+####289	2.0	460624	460629
+good	food	460627
+food	good	460627
+red	perfectly	460624
+rings	onion	460624
+####290	3.0	460630	460640
+love	gotta	460636
+doesn	place	460637
+better	selection	460636
+place	bbq	460637
+place	doesn	460637
+bbq	place	460637
+gotta	love	460636
+people	wait	460633
+####291	4.0	460641	460645
+line	long	460642
+wait	line	460642
+line	wait	460642
+ahead	order	460641
+left	overs	460644
+order	ahead	460641
+overs	left	460644
+long	line	460642
+mouth	watering	460642
+####292	3.0	460646	460652
+back	baby	460648
+bbq	extra	460650
+sour	cream	460650
+full	baby	460648
+refreshing	taste	460650
+free	refills	460648
+dinner	rib	460648
+baby	back	460648
+falls	meat	460649
+side	order	460648
+rib	back	460648
+order	side	460648
+back	rib	460648
+sauce	bbq	460652
+sauce	bbq	460650
+full	dinner	460648
+side	large	460648
+extra	bbq	460650
+rib	dinner	460648
+meat	falls	460649
+large	side	460648
+savory	flavor	460649
+baby	full	460648
+bbq	sauce	460650
+bbq	sauce	460652
+####293	3.0	460653	460660
+probably	don	460660
+towels	paper	460653
+line	long	460655
+big	party	460655
+party	big	460655
+paper	towels	460653
+wet	naps	460654
+sauce	bbq	460659
+long	line	460655
+full	stomach	460655
+bbq	sauce	460659
+####294	4.0	460661	460668
+huge	portions	460665
+long	lines	460666
+lines	long	460666
+line	long	460666
+tender	ribs	460667
+good	pretty	460662
+pretty	good	460662
+portions	huge	460665
+beans	baked	460662
+portion	huge	460665
+long	line	460666
+baked	beans	460662
+cole	slaw	460662
+####295	1.0	460669	460674
+didnt	think	460669
+rib	beef	460670
+combo	chicken	460674
+beef	ribs	460670
+ribs	beef	460670
+chicken	combo	460674
+sauce	bbq	460673
+bbq	sauce	460673
+####296	3.0	460675	460679
+great	place	460675
+great	pairing	460675
+bucket	list	460677
+try	list	460677
+hour	wait	460676
+wait	hour	460676
+place	great	460675
+perfect	pairing	460675
+####297	4.0	460680	460685
+back	baby	460680
+mall	portion	460684
+rib	beef	460682
+beef	rib	460682
+baby	back	460680
+rib	back	460680
+small	portion	460684
+back	rib	460680
+portion	small	460684
+beefy	rib	460681
+####298	4.0	460686	460699
+close	pretty	460688
+pretty	close	460688
+heart	attack	460686
+back	baby	460696
+probably	won	460689
+rack	full	460696
+southern	bbq	460698
+half	ribs	460696
+ribs	back	460696
+coast	east	460698
+east	coast	460698
+back	ribs	460696
+baby	back	460696
+morning	saturday	460695
+moved	back	460698
+rack	ribs	460696
+diego	san	460699
+saturday	morning	460695
+rack	half	460696
+full	rack	460696
+bbq	southern	460698
+based	sauce	460697
+sauce	based	460697
+sweet	beans	460689
+rings	onion	460691
+####299	3.0	460700	460703
+sandwiches	pork	460703
+pulled	pork	460702
+pulled	pork	460703
+san	pork	460702
+pork	sandwiches	460703
+sandwich	pork	460702
+half	way	460703
+definitely	eat	460700
+eat	definitely	460700
+pork	sandwich	460702
+pork	sandwich	460703
+pork	pulled	460702
+pork	pulled	460703
+way	half	460703
+####300	4.0	460704	460706
+order	take	460705
+goes	great	460704
+take	order	460705
+great	goes	460704
+####301	4.0	460707	460709
+yelp	reviews	460707
+backs	baby	460709
+sauce	delicious	460709
+sauce	bbq	460709
+review	yelp	460707
+baby	backs	460709
+delicious	sauce	460709
+bbq	sauce	460709
+reviews	yelp	460707
+####302	4.0	460710	460716
+bottom	line	460712
+red	stuff	460711
+back	baby	460715
+rib	beef	460710
+beef	rib	460710
+ribs	back	460715
+place	busy	460712
+staff	friendly	460713
+friendly	staff	460713
+back	ribs	460715
+line	wait	460712
+baby	back	460715
+rib	back	460715
+busy	place	460712
+crazy	busy	460712
+busy	crazy	460712
+rings	onion	460711
+####303	3.0	460717	460722
+great	ribs	460718
+back	baby	460721
+good	price	460720
+ribs	great	460718
+pork	baby	460721
+rib	beef	460721
+beef	rib	460721
+baby	back	460721
+eat	ribs	460718
+rib	back	460721
+long	gone	460718
+back	rib	460721
+good	fries	460717
+price	good	460720
+####343	2.0	460899	460905
+mall	sides	460904
+small	side	460904
+three	ribs	460904
+side	small	460904
+bone	tender	460903
+wait	worth	460900
+rib	beef	460904
+rib	beef	460905
+beef	rib	460904
+small	two	460904
+definitely	worth	460900
+dinner	rib	460904
+dinner	rib	460899
+beef	ribs	460902
+beef	ribs	460905
+worth	wait	460900
+two	small	460904
+worth	definitely	460900
+ribs	beef	460905
+ribs	beef	460902
+small	sides	460904
+rib	full	460899
+put	away	460899
+tender	bone	460903
+sides	small	460904
+side	large	460904
+rib	dinner	460899
+rib	dinner	460904
+full	rib	460899
+large	side	460904
+####342	3.0	460896	460898
+love	phil	460898
+worth	taking	460896
+phil	love	460898
+####341	4.0	460893	460895
+come	back	460893
+back	come	460893
+####340	2.0	460892	0
+####339	5.0	460887	460891
+back	baby	460887
+ribs	back	460887
+back	ribs	460887
+baby	back	460887
+rib	back	460887
+tender	meat	460888
+meat	tender	460888
+huge	pieces	460890
+beefy	rib	460890
+####338	4.0	460886	0
+####337	3.0	460884	460885
+good	chicken	460885
+chickless	chicken	460885
+chicken	good	460885
+####336	3.0	460880	460883
+diego	san	460881
+####351	3.0	460947	460950
+salad	potato	460949
+two	got	460948
+small	side	460948
+rack	full	460948
+got	two	460948
+salad	macaroni	460949
+small	sides	460948
+potato	salad	460949
+sides	small	460948
+full	rack	460948
+macaroni	salad	460949
+####350	3.0	460938	460946
+bbq	burger	460942
+long	ridiculously	460946
+place	busy	460941
+ridiculously	long	460946
+dry	chicken	460944
+wasn	line	460946
+busy	place	460941
+chicken	dry	460944
+####349	3.0	460932	460937
+sooooo	good	460934
+small	place	460934
+come	back	460935
+back	come	460935
+mall	place	460934
+place	small	460934
+good	sooooo	460934
+####348	3.0	460929	460931
+wait	long	460929
+bbq	goodness	460931
+bring	back	460930
+good	food	460929
+tea	sweet	460929
+tea	sweet	460930
+tea	sweet	460931
+food	good	460929
+great	service	460929
+service	great	460929
+yummy	bbq	460931
+portions	big	460929
+long	wait	460929
+sweet	tea	460929
+sweet	tea	460930
+sweet	tea	460931
+big	portions	460929
+####347	3.0	460920	460928
+thoroughly	enjoyed	460927
+back	baby	460921
+rack	full	460922
+long	lines	460920
+lines	long	460920
+ribs	back	460921
+amount	good	460923
+meal	perfect	460928
+back	ribs	460921
+baby	back	460921
+perfect	meal	460928
+wasn	flavor	460925
+good	amount	460923
+long	line	460920
+full	rack	460922
+got	seated	460920
+####346	2.0	460917	460919
+definitely	deserves	460917
+rated	highly	460917
+definitely	place	460917
+highly	rated	460917
+place	definitely	460917
+deserves	definitely	460917
+####345	3.0	460910	460914
+best	bbq	460913
+worth	line	460914
+bbq	best	460913
+size	portion	460912
+portion	size	460912
+rings	onion	460910
+####344	3.0	460906	460909
+####326	3.0	460814	460820
+best	bbq	460820
+friendly	pretty	460815
+bbq	best	460820
+love	place	460818
+pretty	friendly	460815
+####327	2.0	460821	460823
+kansas	city	460821
+best	bbq	460822
+bbq	best	460822
+####324	4.0	460811	460812
+salad	macaroni	460811
+macaroni	salad	460811
+####325	2.0	460813	0
+####322	2.0	460805	460807
+ring	lunch	460805
+wasn	wait	460806
+back	baby	460807
+rack	full	460807
+ribs	back	460807
+full	ribs	460807
+salad	macaroni	460807
+back	ribs	460807
+baby	back	460807
+rack	ribs	460807
+full	rack	460807
+macaroni	salad	460807
+####323	4.0	460808	460810
+fall	meat	460809
+back	baby	460808
+eat	falls	460809
+ribs	back	460808
+back	ribs	460808
+bold	flavor	460810
+baby	back	460808
+falls	meat	460809
+sauce	bbq	460810
+meat	falls	460809
+bbq	sauce	460810
+####320	3.0	460799	460803
+best	onion	460801
+good	sides	460802
+pretty	spot	460800
+onion	best	460801
+rings	onion	460801
+####321	1.0	460804	0
+####334	2.0	460859	460870
+tangy	sauce	460859
+weekend	night	460864
+fast	food	460869
+food	fast	460869
+sauce	tangy	460859
+perfect	crisp	460859
+night	weekend	460864
+good	pretty	460870
+perfect	accompaniment	460859
+pretty	good	460870
+enjoy	did	460867
+did	enjoy	460867
+####335	3.0	460871	460879
+back	baby	460873
+white	chicken	460872
+ribs	back	460873
+mac	salad	460875
+back	ribs	460873
+take	did	460878
+baby	back	460873
+did	take	460878
+rib	back	460873
+love	sauce	460874
+brings	back	460876
+salad	mac	460875
+elementary	school	460876
+sweet	beans	460875
+####332	3.0	460846	460848
+####333	3.0	460849	460858
+salad	potato	460857
+dinner	chicken	460849
+veggie	burger	460856
+pulled	pork	460851
+steamed	veggies	460857
+sandwich	pork	460851
+chickless	dinner	460849
+white	meat	460850
+tip	sandwich	460855
+salad	macaroni	460857
+beans	baked	460853
+beans	baked	460857
+potato	salad	460857
+broham	bbq	460851
+chicken	meat	460850
+baked	potato	460857
+people	eating	460852
+pork	sandwich	460851
+meat	chicken	460850
+baked	beans	460853
+baked	beans	460857
+pork	pulled	460851
+eat	people	460852
+eating	people	460852
+bean	baked	460853
+cole	slaw	460851
+macaroni	salad	460857
+rings	onion	460858
+####330	4.0	460831	460834
+long	lines	460832
+lines	long	460832
+line	long	460832
+long	line	460832
+####331	3.0	460835	460845
+sports	arena	460839
+worth	checking	460840
+ago	years	460836
+ago	years	460840
+new	location	460840
+nice	smoky	460843
+rib	beef	460843
+checking	worth	460840
+people	love	460844
+ribs	pork	460842
+come	back	460844
+location	new	460840
+beef	ribs	460843
+left	satisfied	460838
+ribs	beef	460843
+back	come	460844
+years	ago	460836
+years	ago	460840
+diego	san	460835
+rib	joint	460840
+rib	joint	460844
+ears	ago	460836
+winning	award	460844
+pork	ribs	460842
+love	people	460844
+####328	3.0	460824	460825
+kansas	city	460825
+california	southern	460824
+####329	2.0	460826	460830
+size	good	460830
+good	size	460830
+bbq	fan	460829
+bbq	side	460829
+fan	bbq	460829
+sauce	bbq	460829
+bbq	sauce	460829
+####373	3.0	461101	461108
+massive	amounts	461107
+highly	suggest	461104
+back	baby	461102
+ribs	back	461102
+sides	two	461105
+back	ribs	461102
+two	side	461105
+baby	back	461102
+massive	amount	461107
+suggest	highly	461104
+two	sides	461105
+####372	3.0	461099	461100
+outdoor	patio	461100
+soo	good	461099
+cajun	seasoning	461099
+good	soo	461099
+patio	outdoor	461100
+order	fries	461099
+####375	4.0	461128	461130
+back	baby	461129
+ribs	back	461129
+back	ribs	461129
+baby	back	461129
+diego	san	461128
+raw	food	461128
+rings	onion	461129
+####374	4.0	461109	461127
+hold	back	461117
+recommend	highly	461124
+highly	recommend	461124
+shopping	center	461126
+best	bet	461122
+back	baby	461116
+cajun	seasoning	461112
+pulled	pork	461116
+bet	best	461122
+san	pork	461116
+quickly	pretty	461119
+sandwich	pork	461116
+ribs	back	461116
+coast	east	461123
+favorite	absolute	461116
+moves	pretty	461119
+east	coast	461123
+baby	ribs	461127
+love	place	461113
+pretty	moves	461119
+back	ribs	461116
+baby	back	461116
+isn	wait	461109
+back	come	461117
+ready	food	461110
+west	coast	461123
+rib	back	461116
+diego	san	461117
+craving	bbq	461125
+sauce	bbq	461117
+pretty	quickly	461119
+pork	sandwich	461116
+pork	pulled	461116
+bbq	sauce	461117
+####369	3.0	461081	461086
+back	baby	461081
+back	pork	461084
+pork	back	461084
+ribs	back	461081
+ribs	pork	461084
+beef	ribs	461085
+perfect	sauce	461083
+back	ribs	461081
+baby	back	461081
+baby	back	461084
+ribs	beef	461081
+pork	ribs	461084
+rings	onion	461085
+####368	3.0	461075	461080
+delish	food	461077
+best	ribs	461080
+rib	best	461080
+ribs	best	461080
+food	yummy	461078
+yummy	food	461078
+####371	3.0	461094	461098
+mall	sides	461098
+recent	visit	461095
+back	baby	461096
+fell	right	461097
+ribs	back	461096
+order	usually	461096
+right	fell	461097
+back	ribs	461096
+baby	back	461096
+small	sides	461098
+usually	order	461096
+order	ribs	461096
+sides	small	461098
+side	large	461098
+order	chicken	461096
+large	side	461098
+####370	4.0	461087	461093
+bad	service	461089
+better	bbq	461092
+long	crazy	461089
+crazy	long	461089
+bbq	better	461092
+service	bad	461089
+diego	san	461092
+sauce	bbq	461090
+bbq	sauce	461090
+####381	5.0	461148	461150
+####380	2.0	461141	461147
+amazing	food	461142
+slightly	sweet	461144
+food	amazing	461142
+sweet	slightly	461144
+lightly	sweet	461144
+rings	onion	461146
+####383	4.0	461166	461167
+####382	4.0	461151	461159
+rib	place	461155
+melts	literally	461159
+literally	melts	461159
+####377	3.0	461132	461133
+customer	service	461132
+notch	top	461132
+service	customer	461132
+####376	4.0	461131	0
+####379	4.0	461136	461140
+definitely	know	461137
+million	reviews	461136
+####378	2.0	461134	461135
+better	ribs	461135
+ridiculous	wait	461135
+ribs	better	461135
+####356	2.0	461010	461012
+ring	smoke	461012
+smoked	pork	461011
+pulled	pork	461012
+sweet	sauce	461011
+pork	smoked	461011
+sauce	sweet	461011
+pork	pulled	461012
+smoke	ring	461012
+####357	3.0	461013	461014
+flavor	smoke	461013
+full	flavor	461013
+smoke	flavor	461013
+####358	2.0	461015	461021
+pulled	pork	461017
+better	ribs	461016
+star	reviews	461019
+diego	san	461016
+diego	area	461016
+pork	pulled	461017
+ribs	better	461016
+####359	2.0	461022	461038
+salad	potato	461026
+amazing	sauce	461034
+large	parties	461024
+healthy	meal	461027
+small	order	461038
+place	bbq	461032
+order	small	461038
+salad	macaroni	461026
+bbq	ribs	461026
+overly	sweet	461035
+literally	fell	461034
+potato	salad	461026
+parties	large	461024
+ribs	bbq	461026
+real	bbq	461032
+bbq	place	461032
+sweet	overly	461035
+sauce	amazing	461034
+good	long	461025
+macaroni	salad	461026
+rings	onion	461037
+####352	2.0	460951	460968
+favorite	bbq	460965
+back	coming	460955
+good	licking	460967
+fries	french	460968
+bbq	spot	460965
+french	fries	460968
+doesn	place	460953
+back	baby	460962
+star	five	460961
+check	definitely	460960
+small	party	460960
+pulled	pork	460954
+awesome	food	460967
+open	seats	460960
+san	pork	460954
+spot	bbq	460965
+tangy	side	460952
+sandwich	pork	460954
+ribs	back	460962
+finger	licking	460967
+friendly	super	460953
+party	small	460960
+five	star	460961
+beef	ribs	460958
+beef	ribs	460967
+seats	open	460960
+salad	macaroni	460964
+back	ribs	460962
+baby	back	460962
+ribs	beef	460958
+ribs	beef	460967
+bbq	favorite	460965
+coming	back	460955
+write	home	460959
+tender	super	460951
+rib	back	460962
+definitely	check	460960
+got	friend	460958
+diego	san	460961
+chicken	meat	460962
+friend	got	460958
+friendly	workers	460953
+food	awesome	460967
+sauce	bbq	460952
+pull	pork	460967
+texas	bbq	460961
+super	tender	460951
+pork	sandwich	460954
+meat	chicken	460962
+licking	good	460967
+pork	pulled	460954
+service	waiter	460953
+super	friendly	460953
+bbq	sauce	460952
+waiter	service	460953
+macaroni	salad	460964
+####353	3.0	460972	460974
+best	things	460972
+thin	best	460972
+way	back	460973
+back	way	460973
+things	best	460972
+come	things	460972
+things	come	460972
+####354	1.0	460975	461002
+tangy	sauce	460991
+excellent	meal	460995
+back	baby	460990
+bone	tender	460991
+sauce	tangy	460991
+pork	baby	460992
+ribs	back	460990
+backs	baby	460992
+best	damn	460992
+beef	ribs	461002
+back	ribs	460990
+cut	fresh	460984
+cut	fresh	460985
+baby	back	460990
+ribs	beef	461002
+beefy	ribs	460987
+bad	things	460982
+tender	super	461002
+rib	back	460990
+fries	cut	460985
+fries	cut	460984
+damn	best	460992
+tender	bone	460991
+fresh	cut	460984
+fresh	cut	460985
+cut	fries	460984
+cut	fries	460985
+baby	backs	460992
+super	tender	461002
+service	table	460982
+colossal	onion	460985
+colossal	onion	460992
+brown	golden	460994
+area	bar	460983
+table	service	460982
+rings	onion	460985
+rings	onion	460992
+####355	4.0	461003	461009
+piping	hot	461005
+satisfying	meal	461005
+customer	service	461006
+hour	line	461004
+broham	sandwich	461008
+hot	piping	461005
+service	customer	461006
+####364	3.0	461062	461065
+wait	long	461065
+job	good	461062
+minutes	away	461062
+away	minutes	461062
+good	food	461064
+good	pretty	461064
+horrible	place	461064
+food	good	461064
+pretty	good	461064
+long	long	461065
+good	job	461062
+long	wait	461065
+people	trying	461062
+####365	5.0	461066	461067
+salad	potato	461067
+got	fries	461067
+sides	two	461067
+two	side	461067
+potato	salad	461067
+two	sides	461067
+####366	2.0	461068	461072
+sized	meal	461069
+orange	county	461071
+love	place	461071
+county	orange	461071
+####367	5.0	461073	461074
+####360	1.0	461039	461043
+wait	staff	461040
+staff	wait	461040
+####361	4.0	461044	461048
+amazing	sauce	461048
+atmosphere	great	461048
+star	reviews	461044
+diego	san	461047
+great	atmosphere	461048
+sauce	amazing	461048
+####362	2.0	461049	461058
+better	bbq	461052
+best	bbq	461054
+back	baby	461055
+pulled	pork	461055
+lacking	flavor	461056
+bbq	best	461054
+sandwich	pork	461055
+ribs	back	461055
+ordered	ribs	461055
+back	ribs	461055
+baby	back	461055
+bbq	better	461052
+min	wait	461049
+diego	san	461054
+red	ribs	461055
+wasn	meat	461056
+pork	sandwich	461055
+pork	pulled	461055
+rings	onion	461055
+rings	onion	461057
+####363	3.0	461059	461061
+back	baby	461059
+long	lines	461061
+lines	long	461061
+dinner	rib	461059
+baby	back	461059
+rib	back	461059
+back	rib	461059
+long	line	461061
+rib	dinner	461059
+####410	3.0	461338	461347
+piping	hot	461344
+huge	onion	461343
+tastes	amazing	461346
+texture	good	461339
+pulled	pork	461341
+half	bbq	461339
+great	flavor	461341
+sandwich	pork	461341
+bbq	chicken	461339
+nice	crunch	461345
+two	thumbs	461347
+broham	bbq	461341
+thumbs	two	461347
+amazing	tastes	461346
+flavor	great	461341
+hot	piping	461344
+ice	crunch	461345
+sauce	bbq	461346
+sauce	bbq	461339
+pork	sandwich	461341
+chicken	bbq	461339
+good	texture	461339
+pork	pulled	461341
+colossal	onion	461343
+brown	golden	461344
+crunch	nice	461345
+bbq	sauce	461339
+bbq	sauce	461346
+rings	onion	461343
+####411	4.0	461348	461352
+recommend	highly	461350
+highly	recommend	461350
+great	experience	461351
+experience	great	461351
+great	food	461351
+eat	food	461351
+eat	experience	461351
+food	great	461351
+####408	4.0	461326	461330
+table	open	461329
+patio	area	461329
+open	table	461329
+area	patio	461329
+####409	5.0	461331	461337
+highly	suggest	461337
+back	baby	461336
+back	baby	461332
+absolute	favorite	461334
+excellent	flavor	461333
+excellent	flavor	461335
+ribs	back	461336
+ribs	back	461332
+favorite	absolute	461334
+back	ribs	461332
+back	ribs	461336
+baby	back	461336
+baby	back	461332
+beefy	ribs	461334
+rib	back	461336
+suggest	highly	461337
+register	cash	461331
+####414	3.0	461362	461372
+bbq	tangy	461369
+sandwich	toro	461371
+recommended	highly	461370
+toro	sandwich	461371
+back	baby	461367
+dinner	chicken	461367
+got	ribs	461367
+highly	recommended	461370
+ribs	back	461367
+mac	salad	461370
+happy	camper	461372
+hour	line	461362
+back	ribs	461367
+baby	back	461367
+camper	happy	461372
+chicken	dinner	461367
+salad	mac	461370
+sauce	bbq	461369
+tangy	bbq	461369
+bbq	sauce	461369
+####415	4.0	461373	461377
+finally	got	461377
+back	baby	461377
+got	finally	461377
+ribs	back	461377
+back	ribs	461377
+baby	back	461377
+####412	3.0	461353	461358
+wait	worth	461357
+pulled	pork	461355
+dry	super	461355
+worth	wait	461357
+super	dry	461355
+pork	pulled	461355
+####413	3.0	461359	461361
+times	wait	461360
+better	options	461359
+options	better	461359
+wait	times	461360
+####402	4.0	461268	461273
+long	super	461271
+salad	potato	461268
+super	long	461271
+totally	worth	461270
+worth	totally	461270
+beans	baked	461268
+potato	salad	461268
+rush	hour	461273
+hour	rush	461273
+baked	beans	461268
+rings	onion	461269
+####403	4.0	461274	461282
+fast	super	461276
+blue	moon	461282
+efficient	service	461280
+food	comfort	461281
+overrated	bit	461282
+comfort	food	461281
+bit	overrated	461282
+portions	large	461278
+super	fast	461276
+large	portions	461278
+####400	3.0	461264	0
+####401	3.0	461265	461266
+blown	away	461266
+away	blown	461266
+part	best	461265
+best	part	461265
+####406	5.0	461309	461316
+####407	3.0	461317	461325
+longer	wait	461317
+asada	fries	461319
+best	bbq	461325
+bbq	best	461325
+asada	carne	461319
+sauce	bbq	461318
+stuff	good	461321
+cole	slaw	461323
+bbq	sauce	461318
+good	stuff	461321
+####404	5.0	461283	461286
+long	lines	461283
+famous	dave	461283
+lines	long	461283
+places	food	461286
+food	place	461286
+diego	san	461286
+food	places	461286
+long	line	461283
+better	job	461283
+####405	2.0	461287	461308
+visit	san	461292
+sandwich	toro	461299
+toro	sandwich	461299
+hate	lines	461287
+best	bbq	461301
+back	baby	461302
+rack	full	461305
+bbq	best	461301
+ribs	back	461302
+mac	salad	461298
+order	usually	461296
+good	food	461288
+backs	baby	461296
+come	back	461306
+beef	ribs	461296
+food	good	461288
+back	ribs	461302
+baby	back	461302
+beans	baked	461298
+falls	meat	461302
+ribs	beef	461296
+back	come	461306
+usually	order	461296
+huge	order	461294
+diego	san	461292
+salad	mac	461298
+baby	backs	461296
+delicious	sides	461304
+baked	beans	461298
+full	rack	461305
+san	visit	461292
+meat	falls	461302
+winning	award	461300
+hate	line	461287
+rings	onion	461297
+####395	5.0	461235	461245
+stars	four	461241
+back	baby	461243
+bbq	sweet	461244
+getting	recommend	461240
+ribs	back	461243
+amount	good	461236
+mac	salad	461237
+orders	two	461236
+beef	ribs	461236
+back	ribs	461243
+baby	back	461243
+recommend	getting	461240
+four	stars	461241
+sweet	food	461242
+ribs	beef	461236
+red	two	461236
+left	overs	461236
+good	amount	461236
+salad	mac	461237
+two	orders	461236
+overs	left	461236
+sauce	bbq	461244
+sauce	bbq	461242
+side	large	461236
+sweet	bbq	461244
+large	side	461236
+bbq	sauce	461242
+bbq	sauce	461244
+rings	onion	461237
+####394	4.0	461226	461234
+smokey	bbq	461226
+mouth	water	461227
+best	onion	461230
+bbq	taste	461226
+sandwich	pork	461231
+taste	better	461228
+backs	baby	461234
+ribs	pork	461228
+beef	ribs	461234
+ribs	beef	461234
+pull	pork	461231
+baby	backs	461234
+pork	sandwich	461231
+onion	best	461230
+outdoor	seating	461234
+probably	best	461230
+seating	outdoor	461234
+pork	ribs	461228
+better	taste	461228
+rings	onion	461229
+rings	onion	461230
+rings	onion	461231
+####393	2.0	461218	461225
+favorite	bbq	461222
+fast	food	461220
+mind	sitting	461223
+food	fast	461220
+line	long	461223
+nice	kick	461218
+sandwich	pork	461224
+sandwich	pork	461225
+made	sandwich	461224
+american	bbq	461224
+place	bbq	461222
+bbq	favorite	461222
+sandwich	made	461224
+bbq	place	461222
+usually	don	461224
+pull	pork	461224
+pull	pork	461225
+long	line	461223
+pork	sandwich	461224
+pork	sandwich	461225
+sitting	mind	461223
+move	fast	461219
+don	usually	461224
+kick	nice	461218
+####392	3.0	461214	461217
+move	line	461215
+back	baby	461217
+rib	beef	461216
+ribs	back	461217
+beef	ribs	461216
+back	ribs	461217
+baby	back	461217
+ribs	beef	461216
+ribs	beef	461217
+relatively	fast	461215
+portions	large	461215
+large	portions	461215
+popular	places	461214
+####399	1.0	461257	461263
+salad	potato	461263
+back	coming	461258
+back	baby	461263
+got	ribs	461263
+ribs	back	461263
+huge	party	461262
+back	ribs	461263
+baby	back	461263
+beans	baked	461263
+coming	back	461258
+potato	salad	461263
+baked	beans	461263
+####398	3.0	461254	461256
+####397	3.0	461251	461253
+####396	5.0	461246	461250
+salad	macaroni	461246
+beefy	ribs	461250
+annoying	bit	461248
+macaroni	salad	461246
+rings	onion	461247
+rings	onion	461250
+####387	5.0	461188	461191
+amount	right	461188
+right	amount	461188
+####386	2.0	461177	461187
+half	chicken	461178
+half	rib	461178
+chicken	half	461178
+notch	top	461187
+####385	2.0	461173	461176
+salad	potato	461173
+delicious	damn	461175
+mac	salad	461173
+potato	salad	461173
+salad	mac	461173
+damn	delicious	461175
+cole	slaw	461174
+####384	3.0	461168	461172
+rack	full	461170
+main	dish	461172
+sides	two	461172
+two	side	461172
+done	job	461171
+rack	half	461171
+main	dishes	461172
+full	rack	461170
+two	sides	461172
+####391	4.0	461209	461213
+extremely	busy	461211
+better	bbq	461210
+busy	extremely	461211
+salad	macaroni	461213
+bbq	ribs	461210
+place	better	461210
+better	place	461210
+ribs	bbq	461210
+rib	bbq	461210
+amazing	ribs	461213
+macaroni	salad	461213
+####390	5.0	461203	461208
+patio	area	461207
+staff	friendly	461206
+friendly	staff	461206
+area	patio	461207
+nice	server	461206
+####389	3.0	461200	461202
+####388	5.0	461192	461199
+back	baby	461195
+got	ribs	461195
+ribs	back	461195
+back	ribs	461195
+baby	back	461195
+bbq	joint	461197
+joint	bbq	461197
+smaller	portions	461193
+cole	slaw	461195
+rings	onion	461195
+####440	2.0	461486	461491
+small	side	461489
+order	full	461489
+back	baby	461488
+rack	full	461488
+bbq	meal	461487
+back	pork	461488
+side	small	461489
+two	dinner	461488
+bbq	tasty	461487
+pork	back	461488
+small	onion	461490
+night	friday	461486
+minute	wait	461486
+ribs	pork	461488
+beef	ribs	461488
+friday	night	461486
+cut	fresh	461489
+baby	back	461488
+ribs	beef	461488
+onion	ring	461490
+tasty	bbq	461487
+fries	cut	461489
+fresh	cut	461489
+cut	fries	461489
+ring	onion	461490
+full	rack	461488
+full	order	461489
+cole	slaw	461489
+####441	5.0	461492	461497
+good	beef	461496
+tip	sandwich	461497
+good	food	461492
+backs	baby	461496
+come	back	461497
+food	good	461492
+value	great	461492
+back	come	461497
+baby	backs	461496
+great	value	461492
+eat	value	461492
+thick	sauce	461494
+####442	1.0	461513	461517
+wait	long	461514
+times	wait	461514
+long	lines	461515
+lines	long	461515
+star	five	461515
+line	long	461515
+stars	five	461515
+better	sauce	461515
+stars	two	461514
+long	line	461515
+long	wait	461514
+ive	stars	461515
+five	stars	461515
+wait	times	461514
+two	stars	461514
+####443	3.0	461518	461521
+back	baby	461521
+ribs	back	461521
+back	ribs	461521
+baby	back	461521
+falls	meat	461519
+meat	falls	461519
+####444	3.0	461522	461525
+pulled	pork	461522
+definitely	worth	461523
+minute	wait	461523
+worth	definitely	461523
+pork	pulled	461522
+####432	2.0	461467	461468
+place	busy	461467
+busy	place	461467
+####433	1.0	461469	461471
+####434	1.0	461472	461473
+####435	4.0	461474	0
+####436	5.0	461475	461476
+pulled	pork	461475
+pork	pulled	461475
+####437	4.0	461477	0
+####438	3.0	461478	461481
+rings	onion	461479
+####439	4.0	461482	461485
+believe	hype	461484
+hype	believe	461484
+####425	5.0	461437	461448
+pulled	pork	461445
+sandwich	pork	461445
+good	reason	461442
+hour	waiting	461440
+reason	good	461442
+fall	right	461444
+diego	san	461447
+pork	sandwich	461445
+pork	pulled	461445
+homemade	sauce	461444
+####424	3.0	461436	0
+####427	3.0	461452	461455
+pork	bbq	461453
+bbq	pork	461453
+ribs	pork	461453
+beef	ribs	461453
+ribs	beef	461453
+west	coast	461454
+pork	ribs	461453
+rib	pork	461453
+####426	3.0	461449	461451
+####429	4.0	461460	0
+####428	5.0	461456	461459
+bbq	tangy	461456
+salad	potato	461457
+back	baby	461459
+amount	right	461457
+generous	portions	461456
+right	amount	461457
+ribs	back	461459
+good	reason	461459
+order	made	461458
+back	ribs	461459
+baby	back	461459
+done	right	461459
+right	done	461459
+potato	salad	461457
+reason	good	461459
+rib	back	461459
+sauce	bbq	461456
+tangy	bbq	461456
+freshly	made	461458
+bbq	sauce	461456
+####431	3.0	461462	461466
+good	ole	461465
+food	coma	461463
+coma	food	461463
+way	back	461463
+back	way	461463
+bar	full	461464
+full	bar	461464
+####430	1.0	461461	0
+####417	3.0	461391	461396
+finally	did	461391
+plate	huge	461396
+bit	soggy	461392
+did	finally	461391
+soggy	bit	461392
+huge	plate	461396
+sauce	bbq	461396
+delicious	ribs	461396
+bbq	sauce	461396
+####416	2.0	461378	461390
+real	reason	461383
+three	ribs	461388
+come	hungry	461389
+eater	big	461388
+big	eater	461388
+people	hungry	461386
+side	note	461390
+rib	beef	461387
+mac	salad	461380
+eat	big	461388
+beef	ribs	461387
+hungry	people	461386
+ribs	beef	461387
+note	side	461390
+hungry	come	461389
+salad	mac	461380
+pretty	big	461388
+big	pretty	461388
+cole	slaw	461380
+rings	onion	461380
+rings	onion	461381
+rings	onion	461382
+####419	4.0	461402	461413
+salad	potato	461404
+salad	potato	461407
+sandwich	toro	461413
+style	place	461409
+toro	sandwich	461413
+side	sweet	461406
+onion	battered	461404
+good	meat	461406
+home	style	461409
+sweet	side	461406
+heaven	bbq	461410
+ribs	pork	461403
+beef	ribs	461405
+marcos	san	461412
+meat	good	461406
+battered	beer	461404
+potato	salad	461404
+potato	salad	461407
+eat	good	461406
+battered	onion	461404
+beer	battered	461404
+sweet	beans	461404
+pork	ribs	461403
+cole	slaw	461404
+rib	pork	461403
+rings	onion	461404
+rings	onion	461407
+####418	1.0	461397	461401
+rave	people	461399
+probably	wouldn	461398
+style	family	461401
+running	late	461401
+red	family	461401
+family	style	461401
+long	line	461400
+####421	2.0	461416	461420
+ago	years	461418
+place	new	461420
+new	place	461420
+years	ago	461418
+moved	recently	461419
+ears	ago	461418
+####420	4.0	461414	461415
+tri	tip	461415
+tip	tri	461415
+sauce	bbq	461414
+bbq	sauce	461414
+####423	3.0	461432	461435
+wait	people	461435
+waiting	people	461435
+diego	san	461433
+people	waiting	461435
+people	wait	461435
+####422	3.0	461421	461431
+huge	line	461424
+line	huge	461424
+parking	lot	461424
+years	later	461423
+lot	parking	461424
+later	years	461423
+pretty	sure	461421
+sure	pretty	461421
+rings	onion	461431

@@ -49,7 +49,22 @@ public class Extraction_bootstrapping {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		for(File input : DataManager.getInstance().getFilesUnderFolder(ParameterSetting.PATHTOCRAWLEDDATA3)){
+			if(input.getName().split("_").length != 3)
+				continue;
+			long startTime = System.currentTimeMillis();
+			ArrayList<String> tmp =  DataManager.getInstance().getSentencesInFile(input);
+			int size = tmp.size();
+			Extraction_bootstrapping.getInstance().UpdateCorpus(tmp, input.getName());
+			long ellapse = System.currentTimeMillis() - startTime;
+			//System.out.println(input.getName() + " \t " + size + " Execution time: " + ellapse);
 
+			//break;
+		}
+		System.out.println(Extraction_bootstrapping.getInstance().corpus.get(414663).UniqueID+"\t" + Extraction_bootstrapping.getInstance().corpus.get(414663).get_senttxt());
+		Extraction_bootstrapping.getInstance().StartProcess();
+		Extraction_bootstrapping.getInstance().WriteResulttoFile();
+		System.out.println("long wait.....it's finished!....");
 	}
 	
 	public Extraction_bootstrapping(){
@@ -95,14 +110,16 @@ public class Extraction_bootstrapping {
 			corpus.add(new SentenceEntry(tmp, i, filename));
 			i++;
 		}
-		System.out.println("Corpus updated at size: "  + corpus.size());
+		System.out.println("Corpus updated at size: "  + corpus.size()  + "\t" + i + "\t" + filename);
 	}
 	
 	public void StartProcess(){
 		int lastIterationSize = -1;
 		int lastAttrListSize = -1;
 		int lastValListSize = -1;
-		while(extractionMap.size() != lastIterationSize || attrList.size() !=  lastAttrListSize || valList.size() != lastValListSize){
+		//while(extractionMap.size() != lastIterationSize || attrList.size() !=  lastAttrListSize || valList.size() != lastValListSize){
+		while(Math.abs(extractionMap.size() - lastIterationSize) > 5 || Math.abs(attrList.size() - lastAttrListSize) > 5 || Math.abs(valList.size() - lastValListSize) > 5 ){
+				
 			System.out.println(iterationIndex + "th iteration......" );
 			lastIterationSize = extractionMap.size();
 			lastAttrListSize = attrList.size();
@@ -151,7 +168,12 @@ public class Extraction_bootstrapping {
 				i++;
 				if(extractionMap.containsKey(extraction)){
 					if(!extractionMap.get(extraction).contains(sentEntry.UniqueID)){
-						extractionMap.get(extraction).add(sentEntry.UniqueID);
+						if(corpus.get(sentEntry.UniqueID).get_senttxt().contains(extraction.getAttr().get_txt()) 
+								&& corpus.get(sentEntry.UniqueID).get_senttxt().contains(extraction.getVal().get_txt()))
+							extractionMap.get(extraction).add(sentEntry.UniqueID);
+						else{
+							System.out.println(extraction.toString() + "\t" +sentEntry.get_senttxt());
+						}
 					}
 					continue;
 				}
@@ -214,7 +236,12 @@ public class Extraction_bootstrapping {
 				i++;
 				if(extractionMap.containsKey(extraction)){
 					if(!extractionMap.get(extraction).contains(sentEntry.UniqueID)){
-						extractionMap.get(extraction).add(sentEntry.UniqueID);
+						if(corpus.get(sentEntry.UniqueID).get_senttxt().contains(extraction.getAttr().get_txt()) 
+								&& corpus.get(sentEntry.UniqueID).get_senttxt().contains(extraction.getVal().get_txt()))
+							extractionMap.get(extraction).add(sentEntry.UniqueID);
+						else{
+							extractionMap.get(extraction).add(sentEntry.UniqueID);
+						}
 					}
 					continue;
 				}

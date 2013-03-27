@@ -1,0 +1,4913 @@
+####0	4.0	524658	524670
+####1	3.0	524671	524677
+####2	3.0	524678	524686
+####3	3.0	524687	524689
+####4	3.0	524690	524698
+####5	3.0	524699	524713
+####6	4.0	524714	524720
+####7	2.0	524721	0
+####8	4.0	524722	524725
+####9	1.0	524726	524731
+####10	1.0	524732	524734
+####11	3.0	524735	524740
+####12	4.0	524741	524752
+####13	4.0	524753	524756
+####14	2.0	524757	524762
+####15	3.0	524763	524773
+####17	1.0	524782	524783
+####16	3.0	524774	524781
+####19	3.0	524788	524806
+####18	4.0	524784	524787
+####21	4.0	524819	524828
+####20	4.0	524807	524818
+####23	3.0	524838	524840
+####22	4.0	524829	524837
+####25	4.0	524856	524876
+####24	3.0	524841	524855
+####27	4.0	524883	524895
+####26	3.0	524877	524882
+####29	3.0	524908	524916
+####28	4.0	524896	524907
+####31	4.0	524933	524939
+####30	5.0	524917	524932
+####34	4.0	524967	524974
+####35	5.0	524975	524984
+####32	4.0	524940	524950
+####33	5.0	524951	524966
+####38	3.0	524995	0
+####39	3.0	524996	525002
+####36	5.0	524985	524990
+####37	5.0	524991	524994
+####42	4.0	525037	525061
+####43	3.0	525062	525080
+####40	4.0	525003	0
+####41	4.0	525004	525036
+####46	3.0	525143	525146
+####47	3.0	525147	525160
+####44	3.0	525081	525103
+####45	5.0	525104	525129
+####51	4.0	525204	525236
+####50	3.0	525199	525203
+####49	4.0	525180	525198
+####48	4.0	525161	525179
+####55	2.0	525277	525283
+####54	5.0	525261	525276
+####53	4.0	525247	525260
+####52	3.0	525237	525246
+####59	3.0	525316	525328
+####58	3.0	525313	525315
+####57	3.0	525303	525312
+####56	3.0	525284	525302
+####63	3.0	525377	525386
+####62	5.0	525370	525376
+####61	3.0	525344	525369
+####60	3.0	525329	525336
+####68	4.0	525434	525444
+####69	5.0	525445	525448
+####70	3.0	525449	525459
+####71	4.0	525460	525478
+####64	5.0	525387	525407
+####65	4.0	525408	525414
+####66	3.0	525415	525425
+####67	4.0	525426	525433
+####76	3.0	525516	525528
+####77	4.0	525529	525537
+####78	3.0	525538	525545
+####79	3.0	525546	525566
+####72	4.0	525493	525495
+####73	4.0	525496	525500
+####74	1.0	525501	525507
+####75	4.0	525508	525515
+####85	4.0	525636	525639
+####84	2.0	525610	525635
+####87	3.0	525678	525685
+####86	4.0	525640	525677
+####81	4.0	525574	525585
+####80	4.0	525567	525573
+####83	4.0	525603	525609
+####82	4.0	525586	525602
+####93	3.0	525745	525756
+salad	potato	525756
+phone	booths	525747
+old	fashioned	525747
+potato	salad	525756
+####92	4.0	525715	525719
+roll	french	525718
+beef	roast	525716
+roast	beef	525716
+french	roll	525718
+####95	2.0	525771	525786
+cheap	super	525776
+big	deal	525785
+good	old	525777
+old	good	525777
+sandwich	dip	525772
+dip	sandwich	525772
+old	days	525777
+deal	big	525785
+keep	going	525777
+back	walk	525773
+roll	french	525786
+days	old	525777
+card	credit	525774
+super	cheap	525776
+walk	back	525773
+swiss	cheese	525786
+san	dip	525772
+french	dip	525772
+dip	french	525772
+french	roll	525786
+trendy	spot	525778
+probably	wont	525779
+####94	4.0	525757	525770
+people	line	525758
+line	people	525758
+recommend	going	525759
+going	recommend	525759
+fifteen	minutes	525760
+####89	3.0	525691	525695
+####88	4.0	525686	525690
+####91	4.0	525704	525714
+second	bite	525714
+two	eggs	525704
+two	egg	525704
+good	start	525707
+cafeteria	style	525708
+long	hours	525707
+eggs	two	525704
+hash	beef	525704
+absolutely	love	525709
+love	absolutely	525709
+hours	long	525707
+corned	beef	525704
+cent	coffee	525710
+beef	hash	525704
+start	good	525707
+####90	4.0	525697	525703
+mouth	water	525699
+cherry	pie	525701
+man	old	525699
+accordingly	plan	525700
+####102	3.0	525865	525868
+squash	soup	525865
+hot	glass	525866
+shot	glass	525866
+glass	shot	525866
+soup	squash	525865
+especially	love	525868
+love	especially	525868
+crispy	bread	525868
+####103	5.0	525869	525877
+super	soft	525874
+great	crust	525874
+veal	tenderloin	525877
+soft	super	525874
+lacked	flavor	525876
+bass	sea	525875
+####100	4.0	525841	525844
+free	street	525843
+parking	street	525843
+valet	parking	525843
+block	away	525843
+####101	3.0	525845	525864
+better	service	525849
+experience	dining	525847
+expected	better	525849
+salmon	skin	525864
+mon	skin	525864
+contact	eye	525852
+back	came	525856
+course	dinner	525846
+skin	salmon	525864
+notice	did	525863
+crispy	salmon	525864
+good	memories	525847
+came	back	525856
+make	eye	525852
+service	better	525849
+did	notice	525863
+salmon	smoked	525864
+times	better	525862
+price	worth	525846
+dinner	birthday	525848
+birthday	dinner	525848
+smoked	salmon	525864
+incredibly	busy	525849
+market	menu	525860
+better	times	525862
+menu	drink	525856
+drink	menu	525856
+worth	price	525846
+dining	experience	525847
+look	back	525847
+food	menu	525856
+####98	4.0	525815	525824
+experience	dining	525815
+fixe	menu	525820
+brioche	bacon	525824
+salmon	skin	525823
+fixe	prix	525820
+went	finally	525818
+duck	breast	525822
+great	place	525816
+skin	salmon	525823
+eat	place	525816
+butternut	squash	525823
+squash	soup	525823
+complimentary	bread	525823
+breast	duck	525822
+end	ordered	525822
+boyfriend	ordered	525822
+soup	squash	525823
+place	great	525816
+bass	sea	525821
+finally	went	525818
+ordered	boyfriend	525822
+brioche	bread	525824
+dining	experience	525815
+friend	ordered	525822
+####99	4.0	525825	525840
+ingredients	quality	525826
+surprise	nice	525828
+salmon	skin	525825
+duck	breast	525827
+duck	breast	525828
+back	came	525835
+fish	raw	525834
+skin	salmon	525825
+raw	fish	525834
+overall	dish	525833
+disappointing	dish	525832
+nice	surprise	525828
+memorable	dishes	525827
+pickled	vegetables	525837
+high	quality	525826
+sea	urchin	525831
+interesting	flavors	525833
+urchin	sea	525831
+breast	duck	525827
+breast	duck	525828
+took	waiter	525835
+salted	caramel	525839
+waiter	took	525835
+stellar	service	525840
+caramel	salted	525839
+vegetables	pickled	525837
+bass	sea	525832
+bass	sea	525837
+bass	sea	525834
+quality	ingredients	525826
+interesting	flavor	525833
+quality	high	525826
+memorable	dish	525827
+red	nicely	525829
+white	chocolate	525829
+####96	3.0	525787	525795
+fries	french	525789
+going	back	525788
+french	fries	525789
+extra	order	525790
+order	extra	525790
+tables	long	525792
+back	home	525788
+super	hot	525791
+home	back	525788
+back	going	525788
+hot	mustard	525791
+mustard	hot	525791
+hot	super	525791
+long	table	525792
+long	tables	525792
+break	lunch	525793
+####97	5.0	525796	525814
+sauce	mustard	525804
+good	old	525804
+old	good	525804
+long	lines	525802
+cafeteria	style	525804
+dip	lamb	525804
+long	bit	525802
+french	lamb	525804
+bit	long	525802
+good	food	525799
+jack	cheese	525803
+dip	beef	525803
+dip	beef	525804
+french	dip	525804
+dip	french	525804
+beef	dip	525803
+beef	dip	525804
+tad	bit	525800
+home	made	525804
+lamb	french	525804
+made	home	525804
+mustard	sauce	525804
+lamb	dip	525804
+fashion	old	525804
+large	table	525809
+large	parties	525809
+meal	course	525813
+tables	large	525809
+parties	large	525809
+course	meal	525813
+people	two	525809
+two	people	525809
+large	tables	525809
+three	course	525813
+upscale	restaurant	525814
+####110	3.0	525942	525947
+crab	dish	525944
+free	parking	525945
+dining	restaurants	525944
+dining	fine	525944
+best	fine	525944
+food	delicious	525943
+dining	restaurant	525944
+delicious	food	525943
+carrot	cake	525944
+fine	dining	525944
+####111	3.0	525948	525952
+####108	2.0	525924	525929
+wait	long	525929
+warm	chocolate	525928
+rare	medium	525925
+ice	cream	525928
+cream	ice	525928
+sour	cream	525928
+order	dessert	525929
+veal	tenderloin	525924
+freshly	baked	525929
+chocolate	warm	525928
+long	wait	525929
+####109	3.0	525930	525941
+king	crab	525933
+creamy	ice	525930
+food	came	525941
+ice	cream	525930
+ice	cream	525936
+cream	ice	525930
+cream	ice	525936
+two	ordered	525932
+best	desserts	525938
+dessert	best	525938
+red	two	525932
+meyer	lemon	525934
+ice	creamy	525930
+crab	king	525933
+carrot	cake	525936
+carrot	cake	525937
+came	food	525941
+ordered	two	525932
+####106	4.0	525904	525909
+salmon	skin	525908
+mon	skin	525908
+skin	salmon	525908
+tasting	menu	525904
+crispy	salmon	525908
+carte	menu	525905
+syrup	maple	525909
+squash	soup	525909
+maple	syrup	525909
+salmon	smoked	525908
+soup	squash	525909
+smoked	salmon	525908
+menu	tasting	525904
+####107	4.0	525910	525923
+best	soup	525910
+nice	mix	525911
+sushi	restaurants	525913
+brown	butter	525915
+sea	scallops	525916
+second	course	525915
+third	course	525920
+higher	quality	525913
+scallops	sea	525916
+cooked	perfectly	525915
+cooked	perfectly	525916
+crunchy	bread	525911
+sushi	restaurant	525913
+perfectly	cooked	525915
+perfectly	cooked	525916
+squash	soup	525911
+seasoned	nicely	525921
+soup	squash	525911
+bass	sea	525920
+bass	sea	525921
+nicely	seasoned	525921
+restaurants	sushi	525913
+####104	4.0	525878	525901
+find	good	525893
+dish	came	525879
+ago	years	525899
+dining	spot	525900
+tasting	menu	525900
+tasting	menu	525901
+dining	fine	525893
+dining	fine	525900
+good	way	525900
+bell	taco	525882
+taco	bell	525882
+bay	area	525900
+bay	area	525901
+years	ago	525899
+came	dish	525879
+end	restaurant	525900
+huge	part	525888
+market	menu	525897
+cream	whipped	525885
+menu	tasting	525900
+menu	tasting	525901
+individual	dish	525899
+way	good	525900
+whipped	cream	525885
+area	bay	525900
+area	bay	525901
+fine	dining	525893
+fine	dining	525900
+####105	1.0	525902	525903
+fish	quality	525902
+tasting	menu	525903
+carte	menu	525902
+high	quality	525902
+quality	high	525902
+menu	tasting	525903
+quality	fish	525902
+####119	1.0	526000	526003
+experience	dining	526002
+dining	experience	526002
+####118	4.0	525987	525997
+actually	pretty	525996
+pretty	actually	525996
+boyfriend	got	525991
+pairing	wine	525991
+deal	good	525991
+wine	pairing	525991
+kanpachi	japanese	525987
+good	pretty	525995
+pretty	good	525995
+food	place	525992
+seafood	place	525992
+japanese	kanpachi	525987
+bass	sea	525988
+got	boyfriend	525991
+good	deal	525991
+####117	3.0	525986	0
+####116	3.0	525978	525985
+good	food	525980
+food	good	525980
+####115	3.0	525972	525977
+tasting	course	525976
+tasting	menu	525976
+course	tasting	525976
+gras	foie	525976
+menu	tasting	525976
+####114	4.0	525967	525971
+good	meal	525967
+dining	spot	525967
+great	place	525970
+great	things	525970
+eat	place	525970
+dining	fine	525967
+michelin	star	525967
+things	great	525970
+eat	things	525970
+meal	good	525967
+place	great	525970
+heard	great	525970
+fine	dining	525967
+####113	4.0	525960	525966
+crab	dish	525961
+lacking	flavor	525961
+fraiche	creme	525962
+fraiche	creme	525964
+marrow	bone	525961
+marrow	bone	525962
+come	back	525965
+back	come	525965
+dish	beef	525961
+bone	marrow	525961
+bone	marrow	525962
+####112	3.0	525953	525959
+dining	spot	525953
+dining	fine	525953
+entire	meal	525957
+yummy	bread	525957
+fine	dining	525953
+####127	2.0	526097	526113
+experience	amazing	526099
+best	restaurants	526100
+delicious	absolutely	526106
+best	dessert	526109
+back	soon	526100
+restaurants	best	526100
+excellent	service	526104
+tasting	menu	526111
+kanpachi	japanese	526103
+absolutely	amazing	526099
+come	back	526100
+back	come	526100
+dessert	best	526109
+rest	best	526100
+dessert	favorite	526097
+amazing	absolutely	526099
+soon	back	526100
+light	meal	526097
+best	restaurant	526100
+usually	don	526105
+japanese	kanpachi	526103
+amazing	experience	526099
+absolutely	delicious	526106
+soo	back	526100
+favorite	dessert	526097
+menu	tasting	526111
+don	usually	526105
+restaurant	best	526100
+####126	2.0	526083	526096
+experience	dining	526087
+experience	dining	526085
+eat	dining	526085
+great	balance	526094
+balance	great	526094
+great	dining	526085
+duck	breast	526095
+main	course	526095
+breast	duck	526095
+dining	great	526085
+different	occasions	526088
+dark	chocolate	526084
+dining	experience	526085
+dining	experience	526087
+####125	2.0	526077	526082
+ice	cream	526082
+cream	ice	526082
+good	part	526082
+part	good	526082
+####124	2.0	526069	526076
+red	dish	526072
+main	course	526076
+####123	3.0	526043	526068
+experience	dining	526050
+salmon	cream	526061
+meal	course	526057
+lobster	best	526045
+seaweed	bread	526064
+dish	lobster	526045
+service	amazing	526055
+lobster	dish	526045
+crispy	skin	526061
+tuna	spicy	526058
+dining	fine	526050
+crispy	salmon	526061
+small	bite	526059
+skin	crispy	526061
+squash	soup	526060
+sides	two	526046
+bit	small	526059
+great	food	526055
+bite	small	526059
+good	money	526054
+salt	sea	526066
+course	meal	526057
+cool	looking	526052
+best	lobster	526045
+soup	squash	526060
+amazing	service	526055
+spicy	tuna	526058
+food	great	526055
+dining	experience	526050
+angeles	los	526045
+fine	dining	526050
+####122	3.0	526022	526042
+presented	beautifully	526040
+hit	spot	526041
+extremely	fresh	526040
+spot	hit	526041
+fresh	extremely	526040
+menus	tasting	526033
+pairing	wine	526035
+wine	pairing	526035
+tasting	menu	526034
+tasting	menu	526033
+michelin	stars	526026
+course	tasting	526034
+tasting	menus	526033
+menu	tasting	526034
+####121	3.0	526015	526021
+####120	3.0	526004	526014
+experience	dining	526004
+short	story	526007
+long	story	526007
+tasting	course	526006
+tasting	menu	526006
+high	end	526014
+high	end	526012
+course	tasting	526006
+end	high	526014
+scallop	dish	526009
+two	blocks	526014
+foodie	experience	526010
+blocks	two	526014
+menu	tasting	526006
+dining	experience	526004
+upscale	restaurant	526005
+####137	4.0	526197	526205
+sized	good	526200
+pieces	small	526200
+york	steak	526203
+fraiche	creme	526200
+marrow	bone	526203
+definitely	enjoyed	526205
+lime	juice	526198
+main	course	526203
+table	side	526204
+blood	orange	526198
+orange	blood	526198
+small	pieces	526200
+sweeter	side	526199
+good	sized	526200
+side	table	526204
+york	new	526203
+bone	marrow	526203
+####136	1.0	526194	526196
+salmon	skin	526194
+mon	skin	526194
+skin	salmon	526194
+salmon	smoked	526194
+smoked	salmon	526194
+####139	4.0	526222	526230
+better	places	526229
+rating	star	526229
+better	slightly	526229
+star	five	526229
+places	better	526229
+tasting	course	526224
+tasting	menu	526224
+come	back	526224
+come	back	526230
+five	star	526229
+star	rating	526229
+course	tasting	526224
+better	place	526229
+back	come	526224
+back	come	526230
+slightly	better	526229
+great	service	526225
+service	great	526225
+ice	great	526225
+menu	tasting	526224
+####138	3.0	526206	526221
+seared	scallops	526214
+rare	medium	526206
+ice	cream	526218
+cream	ice	526218
+duck	breast	526215
+duck	breast	526216
+better	way	526220
+probably	order	526214
+cooked	perfectly	526216
+cooked	perfectly	526206
+marrow	bone	526207
+touch	nice	526214
+side	salty	526210
+perfectly	cooked	526216
+perfectly	cooked	526206
+perfect	cooked	526216
+asked	waiter	526209
+main	course	526215
+red	scallops	526214
+table	side	526214
+different	sauce	526216
+medium	perfectly	526206
+breast	duck	526215
+breast	duck	526216
+check	came	526221
+sauce	different	526216
+perfectly	medium	526206
+salty	side	526210
+side	table	526214
+came	check	526221
+carrot	cake	526220
+nice	touch	526214
+olive	oil	526214
+bone	marrow	526207
+####141	3.0	526244	526263
+damned	good	526244
+####140	3.0	526231	526243
+bad	thin	526232
+red	baby	526243
+####143	1.0	526268	526282
+scrambled	egg	526279
+meal	course	526282
+salmon	skin	526275
+apple	sauce	526276
+fave	dish	526276
+reading	stop	526268
+sauce	apple	526276
+egg	scrambled	526279
+skin	salmon	526275
+white	bread	526274
+crispy	salmon	526275
+fraiche	creme	526282
+squash	soup	526275
+course	meal	526282
+soup	squash	526275
+home	take	526273
+take	home	526273
+food	item	526274
+####142	3.0	526264	526267
+people	four	526264
+four	people	526264
+####129	3.0	526119	526139
+buds	taste	526132
+experience	amazing	526132
+going	back	526131
+recommend	highly	526137
+highly	recommend	526137
+trip	return	526135
+pairing	wine	526120
+return	trip	526135
+recommend	going	526137
+wine	pairing	526120
+ice	touch	526119
+tasting	course	526136
+tasting	course	526138
+tasting	menu	526120
+tasting	menu	526136
+tasting	menu	526138
+going	recommend	526137
+touch	nice	526119
+full	tasting	526137
+back	going	526131
+course	tasting	526136
+course	tasting	526138
+tasting	full	526137
+amazing	experience	526132
+menu	tasting	526136
+menu	tasting	526138
+menu	tasting	526120
+nice	touch	526119
+looking	back	526131
+####128	3.0	526114	526118
+touch	nice	526118
+happy	birthday	526118
+special	occasions	526116
+birthday	happy	526118
+nice	touch	526118
+occasions	special	526116
+####131	4.0	526169	526172
+cooked	perfectly	526172
+amount	good	526171
+perfectly	cooked	526172
+cheesy	goodness	526172
+good	amount	526171
+truffle	risotto	526169
+####130	1.0	526152	526168
+spot	prawns	526161
+good	ridiculously	526163
+dish	came	526157
+better	dish	526159
+dish	favorite	526166
+barbara	santa	526156
+barbara	santa	526161
+prawns	spot	526161
+fluke	sashimi	526154
+favorite	least	526166
+egg	dish	526157
+dish	egg	526157
+ridiculously	good	526163
+santa	barbara	526156
+santa	barbara	526161
+truffle	black	526156
+truffle	black	526158
+barbara	spot	526161
+fresh	egg	526156
+main	ingredient	526162
+olive	oil	526164
+favorite	dish	526166
+favorite	course	526160
+least	favorite	526166
+black	truffle	526156
+black	truffle	526158
+####133	1.0	526173	526175
+amazing	dish	526175
+wagyu	beef	526173
+dish	amazing	526175
+red	onion	526173
+####135	4.0	526177	526193
+fixe	menu	526191
+fixe	menu	526190
+menus	tasting	526189
+tasting	course	526189
+tasting	course	526190
+meal	great	526184
+tasting	menu	526187
+tasting	menu	526190
+tasting	menu	526189
+meringue	lemon	526181
+michael	chef	526185
+squash	soup	526193
+course	tasting	526189
+course	tasting	526190
+iced	bread	526193
+fours	petit	526183
+michael	cimarusti	526185
+great	meal	526184
+soup	squash	526193
+cimarusti	michael	526185
+eat	meal	526184
+tasting	menus	526189
+lemon	meringue	526181
+menu	tasting	526189
+menu	tasting	526187
+menu	tasting	526190
+chef	michael	526185
+crumbs	bread	526193
+####134	2.0	526176	0
+####152	3.0	526378	526382
+tasting	menu	526381
+getting	hungry	526379
+hungry	getting	526379
+menu	tasting	526381
+####153	3.0	526383	526391
+food	comes	526391
+recent	visit	526390
+doesn	place	526384
+pairing	wine	526385
+pairing	wine	526386
+comes	food	526391
+wine	pairing	526385
+wine	pairing	526386
+ago	weeks	526385
+wait	staff	526391
+staff	wait	526391
+weeks	ago	526385
+####154	3.0	526392	526406
+make	reservations	526399
+reservations	make	526399
+fine	restaurant	526396
+unique	taste	526396
+tasting	menu	526399
+eat	service	526392
+taste	unique	526396
+great	service	526392
+service	great	526392
+plan	ahead	526399
+menu	tasting	526399
+ahead	plan	526399
+####155	2.0	526407	526419
+special	occasion	526418
+warm	chocolate	526414
+scrambled	egg	526407
+occasion	special	526418
+ice	cream	526414
+cream	ice	526414
+barbara	sea	526407
+bass	striped	526410
+sour	cream	526414
+soft	scrambled	526407
+barbara	santa	526407
+wagyu	beef	526411
+sesame	black	526412
+lack	sesame	526412
+market	cheese	526413
+sea	urchin	526407
+scallop	sea	526408
+urchin	sea	526407
+sea	barbara	526407
+santa	barbara	526407
+truffle	black	526409
+eggs	scrambled	526407
+red	onion	526411
+sea	scallop	526408
+black	sesame	526412
+maine	lobster	526409
+scrambled	eggs	526407
+black	truffle	526409
+####156	3.0	526420	526432
+special	occasion	526424
+occasion	special	526424
+brioche	bacon	526431
+culinary	experience	526422
+fixe	prix	526429
+great	place	526424
+pairing	wine	526423
+wine	pairing	526423
+michelin	stars	526428
+place	great	526424
+course	menu	526430
+three	course	526429
+####157	4.0	526433	526436
+####158	4.0	526437	526442
+free	corkage	526438
+night	cold	526442
+squash	soup	526441
+hot	glass	526441
+shot	glass	526441
+glass	shot	526441
+soup	squash	526441
+hour	meal	526437
+cold	night	526442
+puff	cheese	526441
+####159	4.0	526443	526452
+heart	beat	526452
+####144	4.0	526283	526287
+meal	course	526285
+cooked	perfectly	526285
+dish	favorite	526286
+perfectly	cooked	526285
+favorite	least	526286
+course	meal	526285
+favorite	dish	526286
+least	favorite	526286
+####145	2.0	526289	526291
+great	touch	526289
+meyer	lemon	526289
+####146	5.0	526292	526311
+experience	dining	526300
+end	restaurants	526308
+ice	cream	526292
+cream	ice	526292
+culinary	experience	526311
+months	ago	526305
+fave	dish	526292
+bad	experience	526305
+bad	experience	526309
+pairing	wine	526304
+wine	pairing	526304
+tasting	menu	526304
+high	end	526308
+read	reviews	526304
+grey	earl	526296
+card	credit	526306
+card	credit	526307
+ago	months	526305
+end	high	526308
+end	restaurant	526308
+bad	taste	526310
+taste	bad	526310
+menu	tasting	526304
+earl	grey	526296
+dining	experience	526300
+experience	bad	526305
+experience	bad	526309
+####147	4.0	526312	526329
+presentation	food	526312
+rooms	dining	526318
+simply	best	526328
+tasting	course	526329
+tasting	menu	526325
+tasting	menu	526329
+dining	rooms	526318
+true	food	526319
+michael	chef	526324
+course	tasting	526329
+michael	cimarusti	526324
+cimarusti	michael	526324
+food	presentation	526312
+best	restaurant	526323
+market	menu	526325
+menu	tasting	526325
+menu	tasting	526329
+chef	michael	526324
+angeles	los	526323
+angeles	los	526328
+restaurant	best	526323
+####148	3.0	526330	526344
+experience	dining	526335
+extremely	friendly	526333
+service	amazing	526331
+red	scallop	526330
+tasting	course	526341
+tasting	menu	526337
+tasting	menu	526341
+dining	fine	526336
+definitely	worth	526336
+veal	tenderloin	526330
+mind	blowing	526342
+course	tasting	526341
+blowing	mind	526342
+worth	definitely	526336
+amazing	service	526331
+friendly	extremely	526333
+disappointing	bit	526343
+menu	tasting	526337
+menu	tasting	526341
+dining	experience	526335
+angeles	los	526334
+angeles	los	526340
+fine	dining	526336
+####149	1.0	526345	526364
+experience	dining	526361
+special	occasion	526362
+occasion	special	526362
+passion	fruit	526360
+seafood	restaurant	526348
+made	hand	526345
+great	dining	526361
+upscale	place	526353
+good	soooo	526354
+hand	made	526345
+fruit	passion	526360
+good	food	526361
+beautiful	presentation	526361
+love	place	526364
+food	good	526361
+definitely	know	526355
+soooo	good	526354
+great	service	526361
+service	great	526361
+table	side	526359
+dining	great	526361
+recommend	definitely	526362
+surprisingly	good	526345
+good	surprisingly	526345
+side	table	526359
+definitely	recommend	526362
+dining	experience	526361
+restaurant	seafood	526348
+####150	4.0	526365	526372
+restaurant	favorite	526366
+favorite	restaurant	526366
+tasting	menu	526368
+side	plus	526371
+plus	side	526371
+menu	tasting	526368
+main	entree	526368
+####151	3.0	526373	526377
+course	dessert	526376
+dessert	course	526376
+####171	4.0	526583	526589
+warm	chocolate	526589
+ice	cream	526589
+cream	ice	526589
+cake	chocolate	526589
+come	back	526584
+sesame	black	526588
+chocolate	cake	526589
+jus	back	526584
+lack	sesame	526588
+back	come	526584
+chocolate	warm	526589
+oil	truffle	526586
+truffle	oil	526586
+black	sesame	526588
+####170	3.0	526536	526582
+boiled	soft	526568
+please	check	526540
+pan	fried	526579
+rare	medium	526582
+side	right	526544
+brioche	bacon	526557
+brioche	bacon	526558
+recommended	highly	526573
+barbara	sea	526566
+don	people	526566
+ago	years	526572
+great	presentation	526555
+served	warm	526568
+able	finally	526536
+favorite	dishes	526561
+menus	tasting	526541
+menus	tasting	526543
+pairing	wine	526547
+pairing	wine	526543
+boiled	egg	526568
+wine	pairing	526543
+wine	pairing	526547
+highly	recommended	526573
+right	side	526544
+tasting	course	526547
+tasting	menu	526547
+tasting	menu	526551
+tasting	menu	526541
+tasting	menu	526543
+medium	cooked	526582
+white	bread	526557
+presentation	great	526555
+favorite	night	526570
+dishes	favorite	526561
+dish	favorite	526570
+dish	favorite	526574
+dish	favorite	526581
+barbara	santa	526566
+veal	tenderloin	526581
+squash	soup	526555
+good	flavor	526581
+favorite	second	526570
+course	tasting	526547
+favorite	least	526561
+sea	urchin	526566
+sea	urchin	526568
+sea	urchin	526571
+scallop	sea	526574
+hot	glass	526555
+main	course	526542
+main	course	526565
+years	ago	526572
+main	entrees	526544
+shot	glass	526555
+glass	shot	526555
+soft	boiled	526568
+urchin	sea	526566
+urchin	sea	526568
+urchin	sea	526571
+egg	boiled	526568
+soup	squash	526555
+sea	barbara	526566
+wasn	flavor	526571
+cooked	medium	526582
+santa	barbara	526566
+second	favorite	526570
+girl	friend	526537
+tasting	menus	526541
+tasting	menus	526543
+ears	ago	526572
+tangy	flavor	526577
+menu	tasting	526541
+menu	tasting	526543
+menu	tasting	526547
+menu	tasting	526551
+finally	able	526536
+warm	served	526568
+flavor	good	526581
+favorite	dish	526570
+favorite	dish	526574
+favorite	dish	526581
+favorite	dish	526561
+least	favorite	526561
+main	courses	526565
+####169	3.0	526518	526535
+properly	cooked	526518
+ice	cream	526522
+cream	ice	526522
+delicious	absolutely	526522
+menus	tasting	526532
+menus	tasting	526533
+tasting	menu	526532
+tasting	menu	526533
+later	days	526533
+dining	fine	526527
+marrow	bone	526520
+taste	better	526531
+good	food	526529
+simply	taste	526531
+good	pretty	526529
+pretty	good	526529
+main	course	526521
+normal	restaurant	526530
+days	later	526533
+tasting	menus	526532
+tasting	menus	526533
+absolutely	delicious	526522
+service	table	526526
+menu	tasting	526532
+table	service	526526
+fine	dining	526527
+better	taste	526531
+bone	marrow	526520
+####168	2.0	526515	526517
+salmon	skin	526515
+skin	salmon	526515
+crispy	salmon	526515
+side	salty	526515
+sea	urchin	526517
+main	course	526517
+urchin	sea	526517
+salty	side	526515
+####175	3.0	526616	526633
+extremely	friendly	526625
+bass	striped	526616
+bass	striped	526622
+taking	care	526630
+meal	great	526623
+mint	chocolate	526621
+main	dish	526622
+veal	tenderloin	526622
+michelin	stars	526633
+market	cheese	526624
+incredibly	tender	526622
+tender	incredibly	526622
+great	meal	526623
+friendly	extremely	526625
+main	dishes	526622
+care	taking	526630
+####174	2.0	526604	526615
+late	minutes	526605
+brioche	bacon	526610
+recommend	highly	526610
+salmon	skin	526609
+highly	recommend	526610
+mon	skin	526609
+barbara	sea	526613
+quickly	seated	526605
+seated	quickly	526605
+skin	salmon	526609
+minutes	late	526605
+end	brought	526605
+friend	brought	526605
+sea	urchin	526613
+wonderful	dinner	526604
+scallop	sea	526614
+urchin	sea	526613
+sea	barbara	526613
+market	menu	526612
+sea	scallop	526614
+puff	cheese	526608
+sweet	bit	526607
+barbara	spot	526615
+bit	sweet	526607
+bit	dry	526607
+####173	3.0	526597	526603
+come	definitely	526602
+short	fell	526603
+nice	looking	526601
+michelin	star	526598
+best	meals	526597
+notch	top	526601
+best	meal	526597
+definitely	come	526602
+meal	best	526597
+meals	best	526597
+####172	4.0	526590	526596
+pretty	rich	526591
+pairing	wine	526596
+wine	pairing	526596
+####163	4.0	526470	526480
+spot	prawns	526472
+scrambled	egg	526472
+course	cheese	526474
+good	ridiculously	526473
+egg	scrambled	526472
+prawns	spot	526472
+squash	soup	526474
+cheese	course	526474
+rest	best	526478
+michael	cimarusti	526475
+ridiculously	good	526473
+soup	squash	526474
+cimarusti	michael	526475
+best	restaurant	526478
+egg	shell	526472
+restaurant	best	526478
+####162	5.0	526465	526469
+made	finally	526466
+finally	made	526466
+best	restaurant	526469
+angeles	los	526469
+restaurant	best	526469
+####161	2.0	526459	526464
+two	least	526464
+make	eye	526461
+hours	two	526464
+least	two	526464
+early	grey	526459
+two	hours	526464
+####160	4.0	526453	526458
+bass	sea	526454
+main	courses	526454
+####167	3.0	526510	526514
+delicious	bread	526514
+michelin	star	526512
+place	got	526512
+got	place	526512
+####166	5.0	526493	526509
+menu	course	526509
+nice	bar	526500
+wrong	dishes	526496
+wrong	dish	526496
+ready	table	526499
+order	did	526507
+did	order	526507
+course	menu	526509
+prompt	service	526501
+####165	4.0	526488	526492
+wasn	food	526488
+food	wasn	526488
+####164	2.0	526481	526487
+good	service	526482
+eat	service	526487
+service	good	526482
+great	service	526487
+service	great	526487
+####186	3.0	526793	526798
+told	friend	526798
+friend	told	526798
+end	told	526798
+####187	5.0	526799	526805
+####184	3.0	526770	526777
+best	steak	526770
+best	service	526777
+fraiche	creme	526771
+service	best	526777
+smaller	portion	526776
+prefer	actually	526772
+actually	prefer	526772
+####185	3.0	526778	526792
+special	occasion	526786
+pictures	taking	526783
+dirty	dishes	526779
+seaweed	bread	526789
+seaweed	bread	526791
+beautiful	decor	526791
+dirty	dish	526779
+simply	delicious	526788
+tasting	menu	526788
+fresh	made	526789
+food	delicious	526791
+impeccable	service	526791
+great	food	526785
+eat	food	526785
+table	side	526782
+occasion	restaurant	526786
+made	fresh	526789
+dinner	birthday	526787
+delicious	food	526791
+birthday	dinner	526787
+food	great	526785
+side	table	526782
+online	menu	526792
+delicious	simply	526788
+menu	tasting	526788
+####190	2.0	526815	526826
+looking	back	526817
+####191	4.0	526827	526842
+amazing	food	526842
+experience	dining	526838
+special	occasion	526830
+special	occasion	526837
+part	favorite	526837
+occasion	special	526830
+occasion	special	526837
+dinning	experience	526834
+eat	dish	526835
+sure	made	526835
+put	simply	526829
+tasting	course	526832
+tasting	menu	526832
+dining	fine	526842
+made	sure	526835
+favorite	night	526837
+boyfriend	took	526831
+dining	best	526838
+course	tasting	526832
+best	food	526829
+food	best	526829
+best	dining	526838
+wonderful	food	526840
+absolutely	perfect	526840
+food	wonderful	526840
+foodie	experience	526842
+recommend	totally	526839
+favorite	part	526837
+perfect	absolutely	526840
+simply	put	526829
+menu	tasting	526832
+took	boyfriend	526831
+totally	recommend	526839
+dining	experience	526838
+fine	dining	526842
+####188	5.0	526806	526809
+buds	taste	526808
+best	food	526809
+food	best	526809
+####189	1.0	526810	526814
+people	coming	526812
+probably	won	526813
+coming	people	526812
+expensive	food	526810
+####178	4.0	526686	526695
+sunday	night	526695
+good	soooo	526688
+tastes	different	526693
+amazing	simply	526694
+squash	soup	526686
+different	taste	526693
+night	sunday	526695
+fried	fish	526687
+impeccable	service	526692
+soooo	good	526688
+fish	fried	526687
+soup	squash	526686
+different	tastes	526693
+simply	amazing	526694
+####179	3.0	526696	526710
+pairing	wine	526706
+pairing	wine	526710
+wine	pairing	526706
+wine	pairing	526710
+red	meats	526709
+different	world	526699
+tasting	menu	526706
+yelp	reviews	526705
+menu	tasting	526706
+reviews	yelp	526705
+####176	5.0	526634	526640
+mall	portions	526635
+late	minutes	526639
+big	deal	526639
+deal	big	526639
+small	portions	526635
+minutes	late	526639
+portions	small	526635
+portion	small	526635
+####177	1.0	526641	526651
+worth	having	526648
+big	open	526642
+worth	experience	526648
+star	restaurant	526647
+space	open	526642
+restaurant	star	526647
+wonderful	dinner	526649
+lighting	dim	526641
+open	space	526642
+dim	lighting	526641
+####182	2.0	526731	526737
+warm	chocolate	526734
+passion	fruit	526734
+cream	ice	526734
+restaurant	favorite	526736
+sour	cream	526734
+sure	make	526734
+favorite	restaurant	526736
+fruit	passion	526734
+star	restaurant	526735
+wait	staff	526732
+restaurant	star	526735
+sesame	black	526734
+staff	wait	526732
+attentive	wait	526732
+chocolate	warm	526734
+black	sesame	526734
+make	sure	526734
+attentive	staff	526732
+####183	2.0	526738	526769
+special	occasion	526763
+francisco	san	526746
+occasion	special	526763
+perfectly	went	526768
+dining	experiences	526748
+sure	make	526754
+christmas	eve	526744
+tasting	course	526764
+long	hours	526753
+tasting	menu	526764
+dining	fine	526744
+dining	fine	526748
+amazing	pretty	526750
+happy	birthday	526756
+small	two	526769
+experience	overall	526746
+wagyu	beef	526769
+wednesday	night	526753
+come	back	526762
+small	pretty	526751
+two	small	526769
+course	tasting	526764
+fatty	beef	526769
+best	food	526741
+experiences	dining	526748
+best	overall	526746
+multiple	times	526755
+back	come	526762
+food	best	526741
+great	service	526744
+delicious	incredibly	526739
+service	great	526744
+hours	long	526753
+wasn	service	526755
+dinner	birthday	526749
+small	slices	526769
+overall	experience	526746
+birthday	dinner	526749
+best	uni	526766
+maine	lobster	526750
+birthday	happy	526756
+make	sure	526754
+menu	tasting	526764
+gold	standard	526746
+incredibly	delicious	526739
+pretty	small	526751
+dining	experience	526748
+angeles	los	526746
+fine	dining	526748
+went	perfectly	526768
+####180	2.0	526711	526719
+pairing	wine	526718
+wine	pairing	526718
+tasting	course	526713
+tasting	menu	526713
+course	tasting	526713
+menu	tasting	526713
+####181	5.0	526720	526730
+tastes	exactly	526725
+dinner	early	526729
+sunday	night	526729
+pairing	wine	526730
+pairing	wine	526722
+wine	pairing	526722
+wine	pairing	526730
+tasting	course	526722
+early	dinner	526729
+tasting	menu	526722
+tasting	menu	526730
+michelin	restaurant	526727
+wagyu	beef	526726
+seated	immediately	526729
+night	sunday	526729
+red	table	526726
+exactly	tastes	526725
+course	tasting	526722
+michelin	star	526727
+kumamoto	oysters	526726
+table	side	526726
+gras	foie	526726
+market	menu	526730
+side	table	526726
+menu	tasting	526722
+immediately	seated	526729
+####205	3.0	526990	527018
+experience	dining	527009
+served	food	527009
+loves	food	527014
+ear	old	526994
+seated	promptly	527018
+come	back	526990
+michelin	stars	527012
+room	dining	527001
+man	old	526994
+doesn	restaurant	527000
+back	come	526990
+free	feel	527013
+members	staff	527000
+members	staff	527001
+dining	room	527001
+parking	street	527013
+food	served	527009
+saturday	night	527017
+night	saturday	527017
+recommend	calling	527016
+old	man	526994
+street	parking	527013
+promptly	seated	527018
+dining	experience	527009
+####204	3.0	526975	526989
+properly	cooked	526975
+meal	course	526989
+ice	cream	526977
+cream	ice	526977
+fixe	prix	526978
+menus	tasting	526989
+tasting	menu	526989
+stay	away	526978
+writing	review	526982
+main	course	526976
+course	meal	526989
+excellent	food	526988
+tasting	menus	526989
+couple	friends	526985
+three	course	526989
+####207	2.0	527046	527072
+food	fan	527047
+keep	coming	527072
+back	coming	527072
+sponge	cake	527055
+perfection	cooked	527054
+anniversary	dinner	527068
+lobster	salad	527054
+gourmet	food	527058
+high	quality	527057
+food	service	527058
+coming	back	527072
+great	service	527058
+service	great	527058
+service	food	527058
+best	friends	527049
+interesting	menu	527062
+back	months	527061
+quality	high	527057
+months	back	527061
+menu	items	527061
+special	night	527050
+friends	best	527049
+####206	2.0	527019	527045
+brioche	bacon	527021
+ice	cream	527037
+cream	ice	527037
+salmon	skin	527022
+fixe	prix	527019
+bass	striped	527033
+skin	salmon	527022
+crispy	salmon	527022
+wagyu	beef	527033
+baked	goods	527020
+perfect	service	527043
+fours	petit	527040
+fours	petit	527041
+chef	cimarusti	527044
+sit	back	527019
+puff	cheese	527025
+goods	baked	527020
+fantastic	flavor	527024
+cimarusti	chef	527044
+puff	pastry	527025
+puff	pastry	527026
+white	chocolate	527037
+good	baked	527020
+####201	4.0	526952	526955
+cooked	perfectly	526954
+perfectly	cooked	526954
+perfect	cooked	526954
+high	quality	526953
+main	course	526953
+quality	high	526953
+####200	4.0	526941	526951
+good	seafood	526946
+fixe	prix	526948
+definitely	try	526945
+high	quality	526950
+sea	urchin	526951
+urchin	sea	526951
+course	meal	526948
+try	place	526945
+quality	high	526950
+full	place	526944
+####203	2.0	526971	526974
+actual	taste	526974
+decor	nice	526971
+michelin	star	526974
+nice	decor	526971
+####202	3.0	526956	526970
+special	occasion	526966
+leave	hungry	526959
+occasion	special	526966
+right	choice	526960
+recommend	highly	526966
+highly	recommend	526966
+menus	tasting	526959
+tasting	menu	526959
+dining	fine	526958
+delicious	extremely	526960
+place	good	526957
+come	back	526957
+wine	selection	526958
+did	server	526963
+high	quality	526957
+back	come	526957
+extremely	delicious	526960
+place	favorite	526956
+notch	top	526961
+rushed	feel	526962
+tasting	menus	526959
+favorite	place	526956
+quality	high	526957
+recommended	friend	526956
+menu	tasting	526959
+friend	recommended	526956
+hungry	leave	526959
+fine	dining	526958
+good	place	526957
+feel	rushed	526962
+####197	3.0	526896	526907
+back	anytime	526904
+anytime	soon	526904
+personal	favorites	526907
+seared	scallops	526907
+going	back	526904
+bass	striped	526898
+soon	anytime	526904
+tasting	course	526905
+back	going	526904
+definitely	try	526904
+course	tasting	526905
+anytime	back	526904
+sea	urchin	526901
+red	scallops	526907
+urchin	sea	526901
+foodie	experience	526904
+unique	food	526904
+try	definitely	526904
+####196	4.0	526886	526895
+blown	away	526895
+doesn	place	526892
+amount	right	526889
+great	place	526891
+tasting	course	526889
+tasting	menu	526889
+right	amount	526889
+great	experience	526894
+amazing	dinner	526892
+experience	great	526894
+course	tasting	526889
+eat	experience	526894
+away	blown	526895
+place	great	526891
+special	occasions	526891
+menu	tasting	526889
+occasions	special	526891
+####199	4.0	526929	526940
+salmon	skin	526939
+pairing	wine	526931
+tender	extremely	526939
+skin	salmon	526939
+wine	pairing	526931
+raw	oysters	526931
+market	menu	526931
+extremely	tender	526939
+####198	4.0	526908	526928
+salmon	skin	526908
+mon	skin	526908
+michelin	two	526916
+skin	salmon	526908
+tasting	menu	526910
+job	done	526916
+michelin	star	526916
+done	job	526916
+tender	pork	526920
+menu	tasting	526910
+pork	tender	526920
+####193	3.0	526846	526862
+amazing	food	526857
+special	occasion	526849
+mall	portions	526847
+meal	course	526856
+meal	course	526852
+occasion	special	526849
+best	dishes	526852
+food	comes	526847
+come	food	526847
+great	choice	526849
+menus	tasting	526846
+pairing	wine	526856
+comes	food	526847
+wine	pairing	526856
+tasting	menu	526851
+tasting	menu	526846
+took	forever	526862
+dishes	best	526852
+forever	took	526862
+american	restaurant	526859
+small	portions	526847
+good	pretty	526854
+good	impression	526849
+pretty	good	526854
+course	meal	526852
+course	meal	526856
+portions	small	526847
+tasting	menus	526846
+portion	small	526847
+okay	food	526862
+food	amazing	526857
+menu	tasting	526846
+menu	tasting	526851
+larger	portion	526852
+best	dish	526852
+choice	great	526849
+####192	4.0	526843	526845
+special	occasion	526845
+occasion	special	526845
+restaurant	nice	526845
+nice	restaurant	526845
+####195	3.0	526872	526885
+come	definitely	526885
+brioche	bacon	526880
+salmon	skin	526879
+farmers	market	526875
+eat	way	526878
+getting	kept	526883
+better	getting	526883
+skin	salmon	526879
+getting	better	526883
+five	course	526875
+way	great	526878
+come	back	526885
+squash	soup	526878
+back	come	526885
+scallop	dish	526884
+soup	squash	526878
+special	occasions	526873
+definitely	come	526885
+bass	sea	526881
+kept	getting	526883
+great	way	526878
+occasions	special	526873
+market	farmers	526875
+course	five	526875
+####194	5.0	526863	526871
+fixe	menu	526871
+fixe	prix	526871
+pretty	full	526867
+fee	corkage	526871
+full	pretty	526867
+restaurant	favorite	526869
+absolute	favorite	526869
+favorite	restaurant	526869
+tasting	menu	526867
+stay	away	526866
+wine	pairings	526871
+favorite	absolute	526869
+pairings	wine	526871
+impeccable	service	526870
+menu	tasting	526867
+####220	5.0	527236	527251
+fixe	menu	527236
+blown	away	527250
+fixe	prix	527236
+best	dinner	527241
+course	dinner	527251
+tasting	menu	527236
+tasting	menu	527246
+michelin	stars	527236
+impeccable	service	527245
+away	blown	527250
+roe	salmon	527240
+menu	tasting	527236
+menu	tasting	527246
+####221	1.0	527252	527254
+worth	trying	527254
+trying	worth	527254
+sure	make	527253
+definitely	worth	527254
+worth	definitely	527254
+make	sure	527253
+####222	2.0	527255	527266
+hour	lunch	527257
+great	experience	527255
+small	dining	527257
+beautiful	presentation	527265
+experience	great	527255
+definitely	know	527266
+great	food	527255
+great	service	527255
+service	great	527255
+eat	food	527255
+eat	experience	527255
+food	great	527255
+detail	attention	527264
+lunch	hour	527257
+####223	3.0	527267	527280
+blown	away	527274
+excellent	service	527278
+taste	amazing	527267
+marrow	bone	527270
+sea	urchin	527276
+heirloom	tomatoes	527276
+scallop	dish	527276
+urchin	sea	527276
+amazing	taste	527267
+away	blown	527274
+bit	price	527280
+notch	top	527277
+super	juicy	527269
+pricey	bit	527280
+market	menu	527274
+juicy	super	527269
+bit	pricey	527280
+bone	marrow	527270
+####216	2.0	527161	527164
+star	restaurants	527161
+star	restaurant	527161
+star	restaurant	527162
+michelin	stars	527161
+restaurant	star	527162
+michelin	star	527162
+michelin	star	527161
+####217	2.0	527165	527174
+half	hour	527165
+hour	half	527165
+####218	4.0	527199	527210
+salmon	skin	527205
+skin	salmon	527205
+michelin	stars	527202
+california	southern	527202
+chef	cimarusti	527199
+kumamoto	oysters	527210
+freshest	fish	527203
+puff	cheese	527205
+gruyere	cheese	527205
+cimarusti	chef	527199
+cheese	gruyere	527205
+####219	4.0	527211	527235
+rare	medium	527223
+rare	medium	527225
+recommended	highly	527235
+fixe	prix	527233
+fixe	prix	527234
+seafood	dish	527213
+best	enjoyed	527223
+duck	breast	527225
+menus	tasting	527234
+york	steak	527223
+highly	recommended	527235
+tasting	menu	527233
+tasting	menu	527234
+food	dishes	527213
+wine	pairings	527233
+duck	confit	527226
+sesame	black	527228
+pairings	wine	527233
+mouth	goodness	527223
+seafood	dishes	527213
+white	beans	527218
+breast	duck	527225
+flavor	sweet	527218
+gras	ravioli	527229
+confit	duck	527226
+gras	foie	527226
+gras	foie	527227
+gras	foie	527228
+gras	foie	527229
+tasting	menus	527234
+red	medium	527225
+black	sesame	527228
+sweet	flavor	527218
+better	feel	527234
+menu	tasting	527233
+feel	better	527234
+red	dishes	527222
+brioche	bread	527226
+dishes	seafood	527213
+york	new	527223
+####212	4.0	527130	527135
+michelin	star	527130
+michelin	star	527131
+stars	two	527131
+bass	sea	527135
+two	stars	527131
+####213	2.0	527136	527143
+pieces	small	527137
+cart	cheese	527143
+fraiche	creme	527141
+pretty	tasty	527136
+tasty	pretty	527136
+small	pieces	527137
+####214	3.0	527144	527155
+fixe	prix	527152
+star	two	527149
+michelin	restaurant	527149
+two	star	527149
+cheese	dish	527152
+michelin	star	527149
+bill	came	527153
+total	bill	527153
+came	bill	527153
+####215	2.0	527156	527160
+good	ambiance	527159
+worth	money	527160
+money	worth	527160
+good	drinks	527159
+####208	3.0	527073	527090
+hour	dinner	527081
+delicious	truly	527074
+plate	cheese	527085
+cheese	plate	527085
+pairing	wine	527090
+tasting	menu	527079
+tasting	menu	527083
+tasting	menu	527090
+dining	fine	527075
+wine	pairings	527090
+wine	pairings	527079
+wine	pairings	527084
+super	nice	527080
+pairings	wine	527079
+pairings	wine	527090
+pairings	wine	527084
+asked	waiter	527080
+great	food	527073
+eat	food	527073
+truly	delicious	527074
+food	great	527073
+love	cheese	527085
+menu	tasting	527083
+menu	tasting	527090
+menu	tasting	527079
+dinner	hour	527081
+nice	super	527080
+fine	dining	527075
+####209	3.0	527091	527113
+home	got	527095
+brioche	bacon	527111
+dining	fine	527100
+got	home	527095
+great	food	527093
+food	great	527093
+dungeness	crab	527102
+fine	dining	527100
+####210	4.0	527114	527119
+prawn	dish	527114
+####211	5.0	527120	527129
+salmon	king	527128
+king	salmon	527128
+####239	2.0	527403	527411
+scrambled	egg	527410
+brioche	bacon	527406
+barbara	sea	527410
+rice	crispy	527407
+tasting	menu	527407
+fraiche	creme	527407
+full	tasting	527407
+crispy	rice	527407
+soft	scrambled	527410
+barbara	santa	527410
+good	pretty	527406
+pretty	good	527406
+sea	urchin	527410
+hot	glass	527403
+shot	glass	527403
+glass	shot	527403
+tasting	full	527407
+urchin	sea	527410
+sea	barbara	527410
+santa	barbara	527410
+eggs	scrambled	527410
+puff	cheese	527403
+scrambled	eggs	527410
+menu	tasting	527407
+####238	3.0	527392	527402
+recommend	highly	527394
+highly	recommend	527394
+pretty	full	527392
+full	pretty	527392
+yolk	egg	527399
+getting	recommend	527394
+tasting	menu	527394
+fraiche	creme	527401
+full	tasting	527392
+full	tasting	527394
+course	tasting	527392
+recommend	getting	527394
+egg	yolk	527399
+tasting	full	527392
+tasting	full	527394
+super	full	527393
+hour	meal	527393
+menu	tasting	527394
+####237	3.0	527387	527391
+dining	experiences	527387
+menu	options	527391
+tasting	menu	527390
+tasting	menu	527391
+full	tasting	527390
+dining	best	527387
+course	tasting	527391
+experiences	dining	527387
+options	menu	527391
+best	dining	527387
+tasting	full	527390
+high	expectations	527387
+menu	tasting	527391
+menu	tasting	527390
+expectations	high	527387
+dining	experience	527387
+####236	3.0	527382	527386
+cold	food	527382
+smaller	size	527384
+####235	5.0	527376	527381
+point	price	527379
+michelin	stars	527377
+food	poisoning	527380
+special	occasions	527379
+poisoning	food	527380
+occasions	special	527379
+####234	2.0	527365	527375
+spot	prawns	527371
+recommend	highly	527371
+highly	recommend	527371
+menus	tasting	527371
+tasting	menu	527372
+tasting	menu	527371
+barbara	santa	527371
+prawns	spot	527371
+impeccable	service	527374
+santa	barbara	527371
+tasting	menus	527371
+smaller	portions	527370
+menu	tasting	527372
+barbara	spot	527371
+####233	4.0	527355	527364
+stars	three	527362
+price	point	527362
+menu	course	527357
+free	corkage	527358
+fine	restaurant	527358
+restaurant	favorite	527364
+point	price	527362
+favorite	restaurant	527364
+three	times	527363
+three	stars	527362
+olive	bread	527359
+course	menu	527357
+times	three	527363
+####232	2.0	527350	527354
+disappointed	pretty	527352
+course	cheese	527354
+pretty	disappointed	527352
+fraiche	creme	527353
+profile	flavor	527350
+####231	5.0	527341	527349
+blown	away	527345
+course	cheese	527349
+laundry	french	527347
+french	laundry	527347
+side	plus	527346
+side	plus	527348
+cheese	course	527349
+away	blown	527345
+plus	side	527346
+plus	side	527348
+####230	2.0	527333	527340
+star	restaurants	527340
+great	ambience	527340
+brioche	bacon	527333
+ambience	great	527340
+expensive	meal	527339
+seriously	people	527335
+dish	favorite	527334
+star	restaurant	527340
+biggest	fan	527333
+michelin	star	527340
+scallop	dish	527334
+texture	perfect	527334
+perfect	texture	527334
+favorite	dish	527334
+####229	4.0	527327	527332
+course	dinner	527332
+excellent	service	527330
+five	course	527332
+course	five	527332
+####228	4.0	527321	527326
+experience	dining	527322
+meal	course	527324
+menus	tasting	527323
+tasting	menu	527326
+tasting	menu	527323
+extra	dish	527326
+course	meal	527324
+tasting	menus	527323
+menu	tasting	527323
+menu	tasting	527326
+dining	experience	527322
+####227	3.0	527316	527320
+lousy	service	527316
+great	food	527316
+bill	came	527317
+dinner	birthday	527318
+birthday	dinner	527318
+food	great	527316
+came	bill	527317
+####226	4.0	527300	527315
+star	review	527303
+ingredients	quality	527305
+review	star	527303
+recommend	highly	527309
+highly	recommend	527309
+delicious	flavor	527305
+great	presentation	527306
+dining	fine	527303
+presentation	great	527306
+delicious	flavors	527305
+cooked	perfectly	527300
+carte	menu	527302
+roasted	prawns	527309
+perfectly	cooked	527300
+insanely	delicious	527305
+highest	quality	527305
+best	definitely	527304
+definitely	best	527304
+notch	top	527305
+best	meal	527304
+best	piece	527309
+cents	two	527303
+quality	ingredients	527305
+meal	best	527304
+flavors	delicious	527305
+fine	dining	527303
+####225	2.0	527289	527299
+seafood	restaurant	527298
+better	know	527298
+tomato	sauce	527297
+better	tastes	527297
+tasting	menu	527289
+tastes	better	527297
+done	nicely	527290
+star	restaurant	527292
+restaurant	star	527292
+best	stuff	527289
+unique	way	527296
+small	piece	527295
+different	way	527299
+did	certainly	527294
+truffle	black	527295
+piece	small	527295
+nicely	done	527290
+sauce	tomato	527297
+menu	tasting	527289
+restaurant	seafood	527298
+know	better	527298
+black	truffle	527295
+####224	3.0	527281	527288
+special	occasion	527282
+special	occasion	527283
+special	occasion	527286
+occasion	special	527286
+occasion	special	527283
+occasion	special	527282
+going	back	527282
+favorite	restaurant	527288
+restaurants	favorite	527288
+back	going	527282
+occasion	restaurant	527283
+favorite	restaurants	527288
+delicious	dinner	527284
+angeles	los	527284
+####254	4.0	527526	527529
+bass	sea	527526
+truffle	risotto	527527
+####255	2.0	527530	527536
+recommend	highly	527535
+highly	recommend	527535
+different	take	527532
+####252	3.0	527512	527517
+felt	rushed	527516
+rushed	felt	527516
+####253	3.0	527518	527525
+super	delicious	527524
+salmon	cream	527523
+brioche	bacon	527521
+salmon	skin	527523
+mon	skin	527523
+skin	salmon	527523
+delicious	super	527524
+####250	3.0	527489	527494
+good	meat	527490
+menus	tasting	527494
+good	bread	527491
+tasting	menu	527489
+tasting	menu	527494
+meat	good	527490
+scallop	dish	527490
+tasting	menus	527494
+good	job	527490
+menu	tasting	527489
+####251	3.0	527495	527511
+amazing	food	527503
+amazing	food	527507
+francisco	san	527501
+seafood	dish	527499
+menus	tasting	527500
+tasting	menu	527500
+food	dishes	527499
+good	food	527501
+seafood	dishes	527499
+dinner	birthday	527508
+amazing	service	527507
+best	restaurant	527495
+birthday	dinner	527508
+tasting	menus	527500
+food	amazing	527503
+food	amazing	527507
+dishes	seafood	527499
+york	new	527501
+angeles	los	527495
+restaurant	best	527495
+####248	4.0	527474	527481
+long	ridiculously	527474
+eat	dessert	527481
+ridiculously	long	527474
+stuff	sweet	527478
+love	cheese	527478
+sweet	stuff	527478
+####249	4.0	527482	527488
+great	experience	527485
+friendly	service	527487
+experience	great	527485
+service	friendly	527487
+####246	4.0	527453	527466
+star	review	527458
+tar	review	527458
+review	star	527458
+seaweed	bread	527453
+seaweed	bread	527454
+came	finally	527464
+fraiche	creme	527454
+finally	came	527464
+gras	foie	527454
+nigiri	sushi	527454
+different	textures	527455
+####247	2.0	527467	527473
+hours	three	527473
+cold	water	527467
+cold	water	527469
+three	hours	527473
+####244	1.0	527437	527445
+sunday	night	527444
+come	back	527442
+night	sunday	527444
+drive	hour	527445
+back	come	527442
+hour	drive	527445
+part	best	527437
+amazing	experience	527441
+best	part	527437
+best	dish	527437
+####245	1.0	527446	527452
+late	minutes	527446
+wine	pairings	527448
+great	touch	527452
+minutes	late	527446
+pairings	wine	527448
+order	did	527449
+salt	sea	527452
+did	order	527449
+####242	4.0	527428	527431
+####243	4.0	527432	527436
+chocolate	flavor	527435
+flavor	chocolate	527435
+dark	chocolate	527435
+####240	4.0	527412	527417
+sooo	good	527414
+flavor	rich	527413
+salmon	king	527417
+rich	flavor	527413
+sea	scallop	527415
+good	sooo	527414
+king	salmon	527417
+####241	2.0	527418	527427
+big	meat	527424
+plate	cheese	527427
+super	soft	527426
+cheese	plate	527425
+cheese	plate	527427
+lover	meat	527424
+roasted	oven	527421
+soft	super	527426
+love	meat	527424
+roasted	tomato	527421
+memorable	dish	527422
+####275	4.0	527682	527683
+bad	place	527683
+total	bill	527682
+####274	4.0	527677	527681
+single	dish	527679
+buttery	taste	527680
+red	table	527679
+table	side	527679
+kobe	beef	527679
+side	table	527679
+####273	1.0	527674	527676
+excellent	choice	527675
+pairing	wine	527676
+wine	pairing	527676
+tasting	menu	527675
+menu	tasting	527675
+####272	3.0	527659	527673
+experience	amazing	527672
+bad	night	527669
+love	sweet	527663
+nice	gesture	527668
+amazing	experience	527672
+small	things	527670
+####279	5.0	527711	527728
+great	texture	527728
+brioche	bacon	527728
+salmon	skin	527722
+mon	skin	527722
+wonderful	flavor	527728
+pairing	wine	527717
+skin	salmon	527722
+wine	pairing	527717
+tasting	course	527717
+tasting	menu	527717
+seared	foie	527712
+big	party	527719
+barbara	santa	527713
+party	big	527719
+beautiful	restaurant	527716
+good	pretty	527721
+course	tasting	527717
+experience	fantastic	527714
+pretty	good	527721
+bad	meal	527723
+impeccable	service	527716
+fantastic	experience	527714
+meal	bad	527723
+red	restaurant	527725
+santa	barbara	527713
+red	foie	527712
+part	big	527719
+menu	tasting	527717
+texture	great	527728
+####278	4.0	527700	527710
+loved	absolutely	527701
+main	reasons	527709
+trying	new	527702
+awhile	back	527701
+excellent	service	527703
+dining	fine	527707
+michelin	restaurant	527702
+dish	favorite	527710
+small	bit	527705
+new	things	527702
+bit	small	527705
+new	trying	527702
+dessert	dish	527709
+place	favorite	527709
+recommend	definitely	527707
+favorite	place	527709
+things	new	527702
+definitely	recommend	527707
+favorite	dish	527710
+size	serving	527705
+serving	size	527705
+fine	dining	527707
+absolutely	loved	527701
+####277	3.0	527692	527699
+####276	2.0	527684	527691
+table	open	527687
+yelp	reviews	527686
+multiple	times	527684
+open	table	527687
+reviews	yelp	527686
+####283	3.0	527764	527771
+heirloom	tomato	527767
+tomato	soup	527768
+tender	meat	527766
+puff	cheese	527764
+soup	tomato	527768
+####282	4.0	527751	527763
+super	loud	527752
+super	heavy	527753
+main	dining	527758
+bread	taste	527760
+patio	area	527755
+tiny	table	527754
+room	dining	527758
+loud	super	527752
+dining	room	527758
+steamed	bun	527760
+area	patio	527755
+market	menu	527760
+####281	4.0	527743	527750
+star	service	527746
+dinning	experience	527745
+overall	great	527745
+happy	birthday	527744
+happy	birthday	527748
+great	overall	527745
+birthday	happy	527744
+birthday	happy	527748
+valet	parking	527747
+noise	level	527746
+####280	3.0	527729	527742
+enjoyed	especially	527741
+completely	satisfied	527734
+red	wine	527733
+perfectly	went	527741
+attentive	super	527742
+big	surprise	527730
+pairing	wine	527738
+pairing	wine	527741
+wine	pairing	527738
+wine	pairing	527741
+especially	enjoyed	527741
+full	tasting	527738
+lovely	experience	527736
+wait	staff	527742
+super	attentive	527742
+staff	wait	527742
+sea	urchin	527740
+tasting	full	527738
+urchin	sea	527740
+olive	bread	527729
+gras	foie	527735
+satisfied	completely	527734
+went	perfectly	527741
+####287	4.0	527787	527793
+green	beans	527793
+fish	taste	527790
+dish	best	527791
+beans	green	527793
+best	dish	527791
+####286	4.0	527781	527786
+salmon	smoked	527783
+smoked	salmon	527783
+####285	2.0	527777	527780
+barely	taste	527777
+taste	barely	527777
+egg	shell	527778
+####284	2.0	527772	527776
+salmon	skin	527772
+skin	salmon	527772
+crispy	salmon	527772
+salmon	smoked	527772
+####258	3.0	527557	527560
+bite	size	527557
+entire	staff	527558
+size	bite	527557
+####259	2.0	527561	527565
+special	evening	527562
+entire	restaurant	527561
+####256	5.0	527537	527541
+prepared	perfectly	527539
+####257	4.0	527542	527556
+real	treat	527543
+people	four	527546
+banana	cream	527552
+cream	dessert	527552
+white	truffle	527549
+four	people	527546
+cream	banana	527552
+truffle	black	527549
+nana	cream	527552
+truffle	risotto	527543
+truffle	risotto	527549
+####262	4.0	527582	527590
+tasting	course	527585
+tasting	menu	527585
+good	pretty	527582
+course	tasting	527585
+pretty	good	527582
+star	meal	527584
+menu	tasting	527585
+####263	4.0	527591	527598
+salmon	skin	527596
+skin	salmon	527596
+crispy	salmon	527596
+great	soup	527591
+hot	glass	527591
+shot	glass	527591
+salmon	smoked	527597
+salmon	smoked	527596
+glass	shot	527591
+smoked	salmon	527597
+puff	pastry	527591
+####260	3.0	527566	527580
+hour	dinner	527573
+decor	great	527580
+surprise	nice	527577
+best	friend	527578
+made	hand	527572
+menu	course	527569
+ice	surprise	527577
+tonight	dinner	527570
+hand	made	527572
+dining	fine	527579
+great	decor	527580
+friend	best	527578
+nice	surprise	527577
+atmosphere	nice	527580
+nice	atmosphere	527580
+impeccable	service	527572
+dinner	birthday	527578
+ice	atmosphere	527580
+birthday	dinner	527578
+course	menu	527569
+dinner	hour	527573
+red	dinner	527570
+fine	dining	527579
+####261	4.0	527581	0
+####266	3.0	527613	527618
+best	dishes	527613
+cake	chocolate	527617
+late	cake	527617
+dishes	best	527613
+chocolate	cake	527617
+ate	cake	527617
+dish	best	527613
+best	dish	527613
+####267	4.0	527619	527621
+salted	caramels	527620
+great	dessert	527620
+amount	right	527621
+right	amount	527621
+dessert	great	527620
+salted	caramel	527620
+caramel	salted	527620
+perfect	side	527619
+####264	2.0	527599	527602
+taste	fresh	527602
+fresh	taste	527602
+####265	4.0	527603	527612
+best	night	527609
+cooked	perfectly	527606
+perfectly	cooked	527606
+perfect	cooked	527606
+gras	ravioli	527609
+gras	foie	527603
+gras	foie	527605
+gras	foie	527609
+dish	best	527609
+simply	awesome	527612
+gras	terrine	527603
+best	dish	527609
+perfection	absolute	527611
+####270	1.0	527628	527635
+dining	experiences	527634
+worth	money	527632
+pairing	wine	527635
+wine	pairing	527635
+laundry	french	527628
+french	laundry	527628
+bucket	list	527631
+totally	worth	527632
+dining	best	527634
+michelin	stars	527630
+worth	totally	527632
+awhile	ago	527633
+experiences	dining	527634
+best	dining	527634
+money	worth	527632
+dining	experience	527634
+angeles	los	527634
+####271	4.0	527644	527658
+brioche	bacon	527651
+recommended	highly	527644
+rated	restaurant	527648
+different	types	527657
+highly	recommended	527644
+nice	place	527649
+michelin	rated	527648
+rated	restaurants	527648
+gras	ravioli	527651
+amazing	looked	527657
+gras	foie	527651
+best	restaurant	527645
+looking	back	527656
+looked	amazing	527657
+types	different	527657
+angeles	los	527645
+restaurant	best	527645
+####268	3.0	527622	527626
+salted	caramel	527623
+notch	top	527624
+caramel	salted	527623
+water	glass	527625
+big	bite	527623
+glass	water	527625
+####269	5.0	527627	0
+####305	1.0	527910	527912
+ginger	pickled	527912
+pickled	ginger	527912
+perfect	dish	527911
+scallop	sea	527910
+gras	foie	527910
+sea	scallop	527910
+bass	sea	527912
+####304	4.0	527901	527909
+scrambled	egg	527907
+barbara	sea	527907
+pairing	wine	527902
+egg	scrambled	527907
+wine	pairing	527902
+barbara	santa	527907
+sea	urchin	527907
+star	meal	527901
+urchin	sea	527907
+wonderful	experience	527904
+sea	barbara	527907
+start	meal	527901
+experience	wonderful	527904
+santa	barbara	527907
+egg	shell	527907
+puff	pastry	527905
+####307	4.0	527918	527923
+cake	chocolate	527919
+bite	size	527919
+chocolate	cake	527919
+best	food	527920
+food	best	527920
+place	perfect	527921
+gras	foie	527921
+perfect	place	527921
+dark	chocolate	527919
+size	bite	527919
+####306	2.0	527913	527917
+nut	bread	527916
+course	cheese	527916
+belly	pork	527913
+bell	pork	527913
+veal	tenderloin	527915
+pork	belly	527913
+baby	broccoli	527915
+arctic	char	527913
+broccoli	baby	527915
+two	different	527916
+different	two	527916
+####309	4.0	527929	527932
+unique	taste	527929
+tasting	course	527929
+taste	unique	527929
+course	tasting	527929
+####308	4.0	527924	527928
+amazing	food	527928
+takes	place	527927
+michelin	stars	527925
+michael	cimarusti	527925
+cimarusti	michael	527925
+food	amazing	527928
+####311	4.0	527938	527942
+tasting	menu	527938
+impeccable	service	527940
+menu	tasting	527938
+####310	4.0	527933	527937
+spot	prawns	527937
+recommend	highly	527937
+highly	recommend	527937
+menus	tasting	527937
+tasting	menu	527937
+barbara	santa	527937
+prawns	spot	527937
+santa	barbara	527937
+tasting	menus	527937
+smaller	portions	527936
+barbara	spot	527937
+####313	2.0	527948	527959
+places	favorite	527951
+recommend	highly	527951
+highly	recommend	527951
+tasting	course	527956
+small	pretty	527953
+white	truffle	527949
+course	tasting	527956
+celebration	birthday	527952
+birthday	celebration	527952
+favorite	places	527951
+pretty	small	527953
+truffle	risotto	527949
+####312	3.0	527943	527947
+pairing	wine	527946
+pairing	wine	527944
+wine	pairing	527944
+wine	pairing	527946
+tasting	menu	527944
+michelin	stars	527943
+menu	tasting	527944
+####315	3.0	527981	527985
+course	cheese	527984
+small	portions	527981
+cheese	course	527984
+portions	small	527981
+####314	4.0	527960	527980
+reservations	made	527972
+mouth	good	527962
+nice	experience	527964
+sauce	soy	527960
+made	reservations	527972
+back	soon	527964
+try	going	527970
+amount	right	527961
+reservation	made	527972
+better	tasted	527975
+great	dish	527960
+right	amount	527961
+bite	size	527962
+bite	size	527963
+cooked	perfectly	527961
+experience	nice	527964
+wagyu	beef	527962
+horrendous	service	527971
+perfectly	cooked	527961
+michael	chef	527969
+chocolate	cake	527962
+bet	tasted	527975
+scallop	sea	527960
+main	street	527966
+soon	back	527964
+check	came	527977
+gras	foie	527974
+sea	scallop	527960
+bass	sea	527962
+came	check	527977
+dish	great	527960
+soy	sauce	527960
+dark	chocolate	527962
+tasted	better	527975
+chef	michael	527969
+dinner	party	527977
+going	try	527970
+size	bite	527962
+size	bite	527963
+####317	4.0	528000	528003
+hot	glass	528002
+shot	glass	528002
+glass	shot	528002
+puff	cheese	528002
+####316	4.0	527986	527999
+worth	trying	527994
+orange	juice	527999
+light	dinner	527986
+trying	worth	527994
+tasting	menu	527989
+full	tasting	527989
+juice	orange	527999
+probably	make	527988
+tasting	full	527989
+menu	tasting	527989
+####319	5.0	528009	528012
+good	pretty	528009
+pretty	good	528009
+####318	4.0	528004	528008
+sooo	good	528005
+scrambled	egg	528006
+barbara	sea	528006
+kanpachi	japanese	528004
+actually	liked	528007
+soft	scrambled	528006
+barbara	santa	528006
+people	love	528008
+urchin	sea	528006
+seeds	sesame	528005
+sea	barbara	528006
+santa	barbara	528006
+eggs	scrambled	528006
+japanese	kanpachi	528004
+liked	actually	528007
+good	sooo	528005
+egg	shell	528006
+olive	oil	528005
+sesame	seeds	528005
+love	people	528008
+####288	4.0	527794	527797
+plate	cheese	527795
+cart	cheese	527795
+####289	3.0	527798	527812
+special	occasion	527807
+occasion	special	527807
+ice	cream	527799
+best	night	527805
+cream	ice	527799
+pairing	wine	527808
+wine	pairing	527808
+tasting	course	527808
+better	tasted	527809
+tasting	menu	527808
+course	tasting	527808
+looks	amazing	527803
+bet	tasted	527809
+salt	caramel	527801
+salt	sea	527801
+dish	best	527805
+dark	chocolate	527799
+menu	tasting	527808
+mousse	chocolate	527799
+tasted	better	527809
+best	dish	527805
+####290	1.0	527813	527822
+experience	dining	527816
+francisco	san	527819
+meal	course	527822
+account	yelp	527817
+restaurant	favorite	527818
+favorite	restaurant	527818
+favorite	restaurant	527821
+long	hours	527822
+restaurants	favorite	527821
+california	southern	527819
+great	food	527816
+great	food	527820
+bay	area	527820
+eat	food	527816
+hours	long	527822
+course	meal	527822
+favorite	restaurants	527821
+notch	top	527815
+food	great	527816
+food	great	527820
+company	good	527814
+area	bay	527820
+dining	experience	527816
+angeles	los	527818
+angeles	los	527819
+angeles	los	527820
+good	company	527814
+####291	2.0	527823	527835
+experience	dining	527825
+francisco	san	527829
+review	full	527833
+definitely	deserves	527827
+michelin	two	527827
+pairing	wine	527823
+wine	pairing	527823
+cart	cheese	527823
+eat	job	527824
+good	food	527829
+full	review	527833
+michelin	stars	527827
+absolutely	love	527835
+love	absolutely	527835
+great	job	527824
+least	say	527833
+hello	say	527824
+dining	experience	527825
+york	new	527829
+say	least	527833
+deserves	definitely	527827
+####292	5.0	527840	527839
+####293	2.0	527841	527849
+amazing	food	527846
+star	five	527844
+stars	five	527844
+parking	street	527843
+ive	stars	527844
+street	parking	527843
+five	stars	527844
+####294	3.0	527850	527851
+rated	restaurant	527850
+star	restaurant	527851
+restaurant	star	527851
+michelin	star	527850
+michelin	star	527851
+####295	2.0	527852	0
+####296	3.0	527853	527861
+rated	restaurant	527855
+meat	dishes	527856
+chocolate	dessert	527857
+tasting	course	527860
+cart	cheese	527859
+tasting	menu	527853
+tasting	menu	527855
+tasting	menu	527859
+tasting	menu	527860
+meat	dish	527856
+full	tasting	527853
+full	tasting	527859
+full	tasting	527860
+raw	oysters	527853
+course	tasting	527860
+tasting	better	527860
+tasting	full	527853
+tasting	full	527859
+tasting	full	527860
+dark	chocolate	527857
+better	tasting	527860
+menu	tasting	527860
+menu	tasting	527853
+menu	tasting	527855
+menu	tasting	527859
+####297	3.0	527862	527863
+tasting	menu	527862
+menu	tasting	527862
+####298	1.0	527864	527869
+reservations	made	527868
+reservations	made	527864
+made	reservations	527868
+made	reservations	527864
+table	open	527868
+reservation	made	527868
+good	friend	527866
+card	credit	527868
+open	table	527868
+friend	good	527866
+####299	5.0	527870	527875
+blown	away	527872
+free	parking	527871
+course	dinner	527875
+hard	bit	527870
+casual	dining	527872
+dining	casual	527872
+bit	hard	527870
+gras	ravioli	527875
+away	blown	527872
+gras	foie	527875
+valet	service	527870
+####300	5.0	527876	527889
+experience	dining	527878
+red	fish	527889
+shaved	ice	527885
+yolk	egg	527885
+tasting	course	527882
+good	pretty	527876
+course	tasting	527882
+pretty	good	527876
+complimentary	bread	527876
+egg	yolk	527885
+best	meal	527881
+meal	best	527881
+dining	experience	527878
+romantic	place	527879
+####301	1.0	527890	0
+####302	3.0	527891	527896
+extremely	friendly	527893
+friendly	extremely	527893
+####303	4.0	527897	527900
+experience	dining	527899
+quick	bite	527898
+best	places	527899
+deal	good	527897
+bite	quick	527898
+tasting	course	527900
+tasting	menu	527900
+dining	fine	527899
+course	tasting	527900
+gras	foie	527900
+market	menu	527900
+eat	bite	527898
+menu	tasting	527900
+places	best	527899
+best	place	527899
+dining	experience	527899
+fine	dining	527899
+good	deal	527897
+####343	4.0	528162	528168
+sure	make	528167
+fusion	asian	528168
+asian	fusion	528168
+make	sure	528167
+####342	3.0	528158	528161
+####341	3.0	528152	528157
+star	restaurants	528153
+second	course	528155
+pairing	wine	528153
+pairing	wine	528154
+wine	pairing	528153
+wine	pairing	528154
+carte	menu	528153
+wagyu	beef	528157
+star	restaurant	528153
+michelin	star	528153
+gras	foie	528157
+course	menu	528156
+####340	3.0	528147	528150
+tasting	menu	528150
+menu	tasting	528150
+####339	2.0	528141	528146
+tasting	menu	528144
+tasting	menu	528145
+carte	menu	528144
+left	side	528144
+menu	tasting	528144
+menu	tasting	528145
+####338	3.0	528135	528140
+experience	dining	528136
+dining	fine	528136
+sure	did	528138
+dining	experience	528136
+fine	dining	528136
+####337	3.0	528132	528134
+michelin	stars	528132
+####336	3.0	528107	528131
+leaf	shiso	528118
+cart	cheese	528119
+tasting	menu	528110
+chef	cimarusti	528122
+interesting	flavors	528115
+interesting	flavor	528115
+menu	tasting	528110
+cimarusti	chef	528122
+changes	menu	528115
+####351	2.0	528230	528237
+experience	dining	528231
+simply	delicious	528237
+tasting	menu	528230
+delicious	simply	528237
+menu	tasting	528230
+dining	experience	528231
+####350	3.0	528227	528229
+couple	blocks	528228
+tasting	menu	528229
+away	blocks	528228
+menu	tasting	528229
+blocks	couple	528228
+blocks	away	528228
+####349	2.0	528220	528226
+make	reservations	528225
+special	occasion	528223
+occasion	special	528223
+definitely	order	528224
+reservations	make	528225
+upscale	place	528220
+recommend	going	528223
+excellent	service	528224
+tasting	menu	528222
+going	recommend	528223
+gets	place	528226
+absolutely	delish	528221
+gras	foie	528224
+menu	tasting	528222
+place	gets	528226
+####348	3.0	528201	528219
+plate	cheese	528211
+amazing	quality	528208
+cheese	plate	528211
+attentive	extremely	528214
+high	marks	528212
+cart	cheese	528211
+dining	fine	528218
+small	two	528202
+barbara	santa	528206
+paired	perfectly	528208
+beautiful	presentation	528208
+two	small	528202
+table	side	528201
+santa	barbara	528206
+excellent	food	528213
+side	table	528201
+love	cheese	528212
+dungeness	crab	528206
+extremely	attentive	528214
+fine	dining	528218
+####347	4.0	528198	528200
+item	menu	528200
+menu	item	528200
+regular	menu	528200
+bass	sea	528200
+####346	4.0	528180	528197
+amazing	food	528182
+great	night	528188
+worth	money	528188
+fashioned	old	528189
+tasting	menu	528183
+nice	kick	528186
+fancy	restaurant	528190
+best	fish	528196
+barbara	santa	528187
+old	fashioned	528189
+top	restaurant	528180
+comfortable	feel	528191
+great	service	528182
+service	great	528182
+money	worth	528188
+night	great	528188
+fish	best	528196
+went	recently	528181
+santa	barbara	528187
+people	eating	528191
+top	restaurants	528180
+food	amazing	528182
+menu	tasting	528183
+barbara	spot	528187
+phenomenal	food	528195
+eating	people	528191
+kick	nice	528186
+recently	went	528181
+####345	4.0	528172	528179
+####344	3.0	528169	528171
+hour	meal	528170
+####326	4.0	528040	528048
+star	review	528048
+tar	review	528048
+late	minutes	528040
+santa	monica	528044
+review	star	528048
+eating	dinner	528045
+big	surprise	528048
+coming	kept	528046
+minutes	late	528040
+monica	santa	528044
+menu	choices	528042
+gras	foie	528041
+seated	got	528040
+waiter	did	528042
+kept	coming	528046
+got	seated	528040
+good	definitely	528044
+did	waiter	528042
+definitely	good	528044
+####327	5.0	528054	528057
+ingredients	quality	528054
+eating	stop	528057
+brioche	bacon	528056
+brioche	bacon	528057
+stop	eating	528057
+prepared	dish	528054
+prepared	perfectly	528054
+high	quality	528054
+say	honestly	528055
+quality	ingredients	528054
+quality	high	528054
+red	dishes	528054
+honestly	say	528055
+olive	oil	528056
+####324	5.0	528035	528037
+dining	experiences	528037
+complimentary	dessert	528036
+experiences	dining	528037
+dining	experience	528037
+####325	5.0	528038	528039
+girls	night	528038
+####322	4.0	528023	528027
+weird	kinda	528027
+different	cheese	528026
+pretty	cool	528025
+kinda	weird	528027
+cool	pretty	528025
+different	cheeses	528026
+####323	3.0	528028	528034
+ice	cream	528034
+cream	ice	528034
+frozen	yogurt	528034
+dark	chocolate	528034
+goat	cheese	528028
+walnut	bread	528030
+####320	3.0	528013	528016
+bass	striped	528013
+brown	sugar	528013
+gras	foie	528013
+gras	foie	528016
+####321	1.0	528017	528022
+sooo	good	528022
+orange	flavor	528018
+crispy	skin	528017
+nice	texture	528017
+good	way	528020
+veal	tenderloin	528021
+skin	crispy	528017
+orange	sauce	528017
+arctic	char	528017
+super	crispy	528017
+good	sooo	528022
+texture	nice	528017
+way	good	528020
+crispy	super	528017
+####334	3.0	528094	528097
+####335	1.0	528098	528106
+ago	years	528102
+pairing	wine	528098
+wine	pairing	528098
+tasting	menu	528098
+nice	view	528106
+patio	area	528105
+great	service	528101
+years	ago	528102
+service	great	528101
+chef	cimarusti	528100
+table	side	528103
+different	restaurant	528104
+wasn	place	528102
+area	patio	528105
+big	thank	528100
+ice	great	528101
+menu	tasting	528098
+cimarusti	chef	528100
+####332	3.0	528083	528085
+angeles	los	528084
+####333	5.0	528086	528093
+super	delicious	528090
+chef	iron	528088
+iron	chef	528088
+pairing	wine	528089
+wine	pairing	528089
+small	portions	528091
+food	delicious	528086
+delicious	super	528090
+finish	start	528093
+delicious	food	528086
+portions	small	528091
+course	menu	528088
+####330	5.0	528075	528079
+good	luck	528079
+parking	find	528079
+find	parking	528079
+luck	good	528079
+luc	good	528079
+####331	3.0	528080	528082
+overpriced	food	528082
+restaurant	new	528081
+best	new	528081
+iced	food	528082
+new	restaurant	528081
+####328	3.0	528058	528070
+salmon	skin	528060
+mon	skin	528060
+brown	butter	528066
+sea	scallops	528062
+belly	pork	528067
+scallops	sea	528062
+skin	salmon	528060
+bell	pork	528067
+bittersweet	chocolate	528070
+pork	belly	528067
+pork	best	528067
+best	pork	528067
+sweet	chocolate	528070
+mousse	chocolate	528070
+####329	5.0	528071	528074
+lime	juice	528072
+pepper	black	528072
+black	pepper	528072
+####373	2.0	528389	528393
+pairing	wine	528389
+tasting	course	528389
+tasting	menu	528389
+wine	pairings	528389
+pairings	wine	528389
+course	tasting	528389
+menu	tasting	528389
+####372	5.0	528383	528388
+minutes	ten	528384
+later	minutes	528384
+sandwich	turkey	528387
+ten	minutes	528384
+main	room	528386
+room	dining	528384
+dining	room	528384
+turkey	sandwich	528387
+minutes	later	528384
+####375	3.0	528403	528407
+####374	3.0	528394	528402
+better	word	528399
+nut	bread	528401
+pairing	wine	528395
+places	new	528394
+cart	cheese	528398
+wine	pairings	528395
+new	place	528394
+pairings	wine	528395
+new	places	528394
+####369	2.0	528365	528369
+nice	dinner	528368
+good	friend	528365
+dinner	nice	528368
+friend	good	528365
+####368	2.0	528333	528364
+experience	dining	528362
+big	chunks	528334
+lavender	ice	528350
+separate	two	528338
+new	dishes	528343
+raw	oysters	528340
+good	pretty	528337
+pretty	good	528337
+single	bite	528356
+new	dish	528343
+finish	start	528356
+gras	ravioli	528350
+dinner	birthday	528350
+gras	foie	528343
+gras	foie	528350
+birthday	dinner	528350
+maine	lobster	528350
+red	dishes	528338
+chunks	big	528334
+real	estate	528352
+dining	experience	528362
+####371	4.0	528381	528382
+####370	1.0	528370	528380
+back	years	528378
+awesome	food	528376
+years	back	528378
+food	awesome	528376
+####381	5.0	528445	528449
+ice	cream	528449
+cream	ice	528449
+vanilla	ice	528449
+chocolate	cake	528449
+####380	5.0	528441	528444
+salmon	skin	528442
+mon	skin	528442
+sauce	curry	528444
+skin	salmon	528442
+curry	sauce	528444
+####383	4.0	528456	528464
+come	definitely	528461
+michelin	two	528463
+laundry	french	528462
+french	laundry	528462
+huge	fan	528458
+grey	earl	528457
+ambiance	great	528464
+great	ambiance	528464
+come	back	528461
+michelin	stars	528463
+back	come	528461
+special	occasions	528461
+definitely	come	528461
+earl	grey	528457
+occasions	special	528461
+fan	huge	528458
+####382	2.0	528450	528455
+cake	chocolate	528451
+late	cake	528451
+grey	earl	528453
+ate	half	528451
+chocolate	cake	528451
+ate	cake	528451
+earl	grey	528453
+####377	2.0	528414	528417
+experience	dining	528415
+entire	life	528415
+dining	experience	528415
+####376	3.0	528408	528413
+dining	fine	528408
+fine	dining	528408
+####379	2.0	528427	528440
+salmon	skin	528440
+skin	salmon	528440
+fraiche	creme	528440
+overall	dish	528432
+best	uni	528431
+order	right	528433
+puff	cheese	528440
+fan	big	528431
+big	fan	528431
+gorgonzola	cheese	528440
+####378	4.0	528418	528426
+recommended	highly	528424
+menu	course	528421
+highly	recommended	528424
+fix	menu	528420
+appetizers	two	528421
+come	back	528418
+memorable	experience	528419
+two	appetizers	528421
+back	come	528418
+gras	ravioli	528424
+dinner	birthday	528418
+gras	foie	528424
+birthday	dinner	528418
+course	menu	528421
+changes	menu	528420
+####356	2.0	528255	528267
+good	meal	528266
+tasting	course	528259
+tasting	menu	528259
+tasting	menu	528260
+fish	dish	528256
+cooked	perfectly	528261
+side	salty	528263
+perfectly	cooked	528261
+side	bland	528263
+course	tasting	528259
+bland	side	528263
+high	quality	528257
+meal	good	528266
+salty	side	528263
+dish	fish	528256
+maine	lobster	528261
+quality	high	528257
+menu	tasting	528259
+menu	tasting	528260
+####357	4.0	528268	528273
+soy	milk	528270
+mexican	chocolate	528270
+milk	soy	528270
+gray	earl	528270
+high	quality	528271
+various	flavors	528270
+chocolate	mexican	528270
+quality	high	528271
+stars	service	528273
+various	flavor	528270
+####358	3.0	528274	528276
+best	restaurants	528274
+higher	end	528275
+restaurants	best	528274
+tasting	menu	528275
+love	love	528276
+absolutely	amazing	528276
+love	place	528276
+rest	best	528274
+amazing	absolutely	528276
+best	restaurant	528274
+menu	tasting	528275
+restaurant	best	528274
+####359	5.0	528277	528281
+tasting	menu	528277
+def	come	528278
+come	back	528278
+back	come	528278
+small	portion	528277
+portion	small	528277
+menu	tasting	528277
+####352	3.0	528238	528240
+experience	dining	528240
+good	food	528240
+food	good	528240
+company	good	528239
+company	good	528240
+dining	experience	528240
+good	company	528239
+good	company	528240
+####353	5.0	528241	528244
+experience	dining	528244
+high	extremely	528242
+business	dinner	528241
+rated	restaurant	528241
+set	menu	528243
+dinner	business	528241
+high	expectations	528242
+best	restaurant	528242
+extremely	high	528242
+expectations	high	528242
+dining	experience	528244
+angeles	los	528242
+####354	5.0	528245	528249
+pairing	wine	528245
+wine	pairing	528245
+michelin	star	528248
+best	meals	528247
+best	meal	528247
+couple	friends	528249
+angeles	los	528247
+meals	best	528247
+####355	4.0	528250	528254
+atmosphere	great	528250
+service	attentive	528250
+fish	dish	528252
+wine	menu	528254
+attentive	service	528250
+great	atmosphere	528250
+dish	fish	528252
+####364	3.0	528304	528308
+####365	3.0	528309	528314
+better	things	528311
+red	restaurant	528313
+things	better	528311
+####366	3.0	528315	528325
+expected	better	528324
+francisco	san	528319
+free	parking	528321
+establishment	fine	528325
+friendly	service	528322
+high	hopes	528318
+hopes	high	528318
+service	friendly	528322
+fine	establishment	528325
+positive	note	528321
+####367	1.0	528326	528332
+gras	ban	528329
+fancy	restaurant	528332
+restaurant	fancy	528332
+sesame	black	528330
+gras	ravioli	528330
+gras	foie	528329
+gras	foie	528330
+black	sesame	528330
+angeles	los	528327
+####360	4.0	528282	528285
+good	friend	528285
+friend	good	528285
+entire	restaurant	528284
+####361	3.0	528286	0
+####362	3.0	528287	528295
+dinner	experience	528295
+extremely	busy	528289
+menu	course	528291
+fee	corkage	528294
+busy	extremely	528289
+sea	food	528295
+experience	dinner	528295
+amazing	simply	528291
+corkage	fee	528294
+course	menu	528291
+simply	amazing	528291
+####363	2.0	528296	528303
+amazing	simply	528297
+prepared	perfectly	528300
+bit	expensive	528296
+best	meal	528298
+expensive	bit	528296
+red	perfectly	528300
+meal	best	528298
+simply	amazing	528297
+####410	3.0	528689	528694
+right	temperature	528694
+intimate	restaurant	528693
+design	interior	528693
+####411	1.0	528695	528697
+job	great	528695
+great	job	528695
+####408	3.0	528667	528674
+experience	dining	528673
+restaurant	favorite	528674
+star	two	528671
+favorite	restaurant	528674
+michelin	restaurant	528671
+try	come	528670
+two	star	528671
+dining	best	528673
+michelin	star	528671
+come	try	528670
+best	dining	528673
+michael	cimarusti	528669
+cimarusti	michael	528669
+high	expectations	528671
+expectations	high	528671
+dining	experience	528673
+angeles	los	528673
+####409	3.0	528675	528688
+unique	dishes	528681
+taste	fresh	528686
+sure	make	528678
+tasting	course	528676
+tasting	menu	528676
+tasting	menu	528684
+future	near	528678
+restaurant	fusion	528679
+fusion	restaurants	528679
+come	back	528678
+michael	chef	528675
+fresh	taste	528686
+wonderful	dish	528677
+course	tasting	528676
+back	come	528678
+fellow	yelpers	528684
+job	great	528685
+reviews	great	528684
+cimarusti	michael	528675
+great	job	528685
+great	reviews	528684
+fusion	restaurant	528679
+make	sure	528678
+menu	tasting	528676
+menu	tasting	528684
+chef	michael	528675
+####414	1.0	528716	528730
+fixe	prix	528725
+live	place	528727
+lives	place	528727
+restaurant	favorite	528718
+amazing	meal	528719
+favorite	restaurant	528718
+tasting	dessert	528725
+cart	cheese	528722
+tasting	menu	528718
+tasting	menu	528723
+tasting	menu	528725
+full	tasting	528723
+selection	good	528722
+star	restaurant	528730
+selection	wine	528722
+place	lives	528727
+restaurant	star	528730
+michelin	star	528730
+tasting	full	528723
+dessert	tasting	528725
+menu	tasting	528718
+menu	tasting	528723
+menu	tasting	528725
+good	selection	528722
+####415	2.0	528731	528739
+yelp	friends	528732
+food	fantastic	528734
+two	place	528738
+two	place	528739
+places	two	528738
+places	two	528739
+glowing	reviews	528732
+glowing	reviews	528734
+fantastic	food	528734
+two	places	528738
+two	places	528739
+####412	2.0	528698	528708
+ingredients	quality	528705
+francisco	san	528699
+wonderful	flavor	528703
+chain	restaurant	528702
+factory	cheesecake	528702
+mind	open	528703
+tasting	course	528701
+quality	food	528698
+quality	better	528698
+course	tasting	528701
+chain	restaurants	528702
+food	quality	528698
+better	quality	528698
+spend	money	528699
+rated	place	528706
+quality	ingredients	528705
+open	mind	528703
+wonderful	flavors	528703
+main	entree	528700
+####413	4.0	528709	528715
+enjoyable	experience	528711
+amazing	food	528713
+extremely	friendly	528710
+excellent	choice	528709
+pairing	wine	528714
+excellent	service	528713
+tasting	menu	528709
+tasting	menu	528714
+wine	pairings	528714
+pairings	wine	528714
+friendly	extremely	528710
+food	amazing	528713
+menu	tasting	528714
+menu	tasting	528709
+####402	4.0	528624	528627
+pairing	wine	528627
+wine	pairings	528627
+pairings	wine	528627
+####403	3.0	528628	528642
+review	full	528629
+back	came	528641
+seated	promptly	528637
+full	review	528629
+came	back	528641
+parking	street	528636
+best	restaurant	528630
+street	parking	528636
+promptly	seated	528637
+angeles	los	528630
+restaurant	best	528630
+####400	4.0	528613	528617
+better	way	528616
+tasted	fine	528613
+good	food	528617
+food	good	528617
+way	better	528616
+york	new	528615
+york	new	528616
+main	courses	528613
+####401	3.0	528618	528623
+####406	4.0	528655	528664
+bass	striped	528657
+chowder	clam	528655
+chowder	clam	528656
+clam	chowder	528655
+clam	chowder	528656
+####407	3.0	528665	528666
+####404	2.0	528643	528647
+tasting	course	528646
+tasting	menu	528646
+course	tasting	528646
+menu	tasting	528646
+####405	1.0	528648	528654
+bass	striped	528651
+tasting	course	528649
+tasting	course	528650
+tasting	menu	528648
+tasting	menu	528649
+tasting	menu	528650
+creamy	super	528652
+course	tasting	528649
+course	tasting	528650
+full	course	528650
+super	creamy	528652
+market	menu	528649
+market	menu	528650
+online	menu	528648
+menu	tasting	528649
+menu	tasting	528648
+menu	tasting	528650
+super	cream	528652
+####395	5.0	528525	528535
+perfect	night	528526
+kinds	different	528532
+best	meals	528526
+gras	ravioli	528534
+gras	foie	528534
+notch	top	528531
+best	meal	528526
+different	kinds	528532
+white	truffles	528534
+meals	best	528526
+####394	3.0	528522	528524
+course	dessert	528524
+menu	course	528522
+dessert	course	528524
+tasting	course	528523
+tasting	menu	528523
+super	nice	528523
+course	tasting	528523
+bass	sea	528522
+course	menu	528522
+menu	tasting	528523
+nice	super	528523
+####393	3.0	528513	528521
+scrambled	egg	528519
+meal	course	528518
+course	cheese	528518
+truly	amazing	528519
+belly	pork	528514
+truffle	cheese	528521
+tasting	course	528517
+tasting	menu	528517
+cooked	perfectly	528515
+amazing	truly	528519
+soft	scrambled	528519
+perfectly	cooked	528515
+cheese	truffle	528521
+course	tasting	528517
+pork	belly	528514
+cheese	course	528518
+sea	urchin	528518
+sea	urchin	528519
+urchin	sea	528518
+urchin	sea	528519
+small	portion	528519
+course	meal	528518
+truffle	black	528521
+eggs	scrambled	528519
+portion	small	528519
+milk	cheese	528521
+scrambled	eggs	528519
+menu	tasting	528517
+amazing	cheese	528521
+dinner	meal	528518
+black	truffle	528521
+####392	2.0	528506	528512
+flavor	amazing	528507
+japanese	egg	528509
+kanpachi	japanese	528512
+japanese	eggplant	528509
+japanese	kanpachi	528512
+bass	sea	528511
+amazing	flavor	528507
+####399	3.0	528582	528612
+king	crab	528610
+meal	course	528600
+meal	course	528602
+meal	course	528601
+taste	food	528608
+salmon	skin	528587
+mon	skin	528587
+rated	restaurant	528594
+extremely	disappointed	528604
+service	amazing	528596
+sister	ordered	528610
+pairing	wine	528598
+give	definitely	528603
+skin	salmon	528587
+overpriced	food	528595
+wine	pairing	528598
+definitely	give	528603
+taste	better	528608
+disappointed	extremely	528604
+rated	restaurants	528594
+good	pretty	528592
+complain	people	528589
+freshly	baked	528589
+freshly	baked	528590
+michelin	star	528594
+favorite	least	528584
+pretty	good	528592
+course	meal	528600
+course	meal	528601
+course	meal	528602
+warm	bread	528590
+gras	ravioli	528612
+amazing	service	528596
+gras	fois	528612
+food	taste	528608
+feeling	left	528605
+crab	king	528610
+left	feeling	528605
+least	favorite	528584
+better	taste	528608
+####398	3.0	528577	528581
+food	restaurant	528580
+seafood	restaurant	528580
+sure	make	528579
+market	menu	528577
+make	sure	528579
+restaurant	seafood	528580
+####397	4.0	528551	528576
+make	great	528568
+thank	goodness	528551
+wonderful	meal	528563
+great	presentation	528568
+made	definitely	528557
+meal	wonderful	528563
+four	hours	528552
+anniversary	dinner	528564
+hours	four	528552
+tasting	menu	528553
+presentation	great	528568
+great	company	528556
+course	tasting	528566
+goodness	thank	528551
+great	food	528568
+definitely	made	528557
+gras	ravioli	528559
+gras	foie	528559
+food	great	528568
+residential	area	528570
+menu	tasting	528553
+company	great	528556
+angeles	los	528569
+####396	2.0	528536	528550
+experience	dining	528549
+experience	dining	528542
+food	restaurant	528538
+seafood	restaurant	528538
+red	steak	528539
+different	things	528537
+seafood	dish	528538
+bass	striped	528540
+long	island	528540
+food	dishes	528538
+great	seafood	528538
+things	different	528537
+night	thursday	528550
+thursday	night	528550
+different	ordered	528537
+salmon	king	528540
+seafood	dishes	528538
+red	different	528537
+dining	experience	528542
+dining	experience	528549
+ordered	different	528537
+dishes	seafood	528538
+fillet	fish	528541
+restaurant	seafood	528538
+king	salmon	528540
+main	entree	528537
+####387	4.0	528483	528485
+good	fish	528483
+course	cheese	528485
+cheese	course	528485
+perfectly	good	528483
+####386	3.0	528479	528482
+####385	4.0	528470	528478
+rated	restaurant	528473
+thin	good	528478
+pairing	wine	528476
+wine	pairing	528476
+tasting	course	528476
+tasting	menu	528470
+tasting	menu	528476
+course	tasting	528476
+michelin	star	528473
+high	expectations	528477
+menu	tasting	528470
+menu	tasting	528476
+company	good	528478
+expectations	high	528477
+good	company	528478
+####384	3.0	528465	528469
+restaurant	good	528468
+good	restaurant	528468
+great	restaurants	528468
+restaurants	great	528468
+entire	experience	528466
+michelin	stars	528468
+salty	overly	528467
+overly	salty	528467
+####391	4.0	528499	528505
+special	occasion	528503
+occasion	special	528503
+friendly	pretty	528504
+favorite	restaurant	528501
+restaurants	favorite	528501
+favorite	new	528500
+pretty	friendly	528504
+favorite	restaurants	528501
+perfect	wine	528503
+perfect	wine	528504
+new	favorite	528500
+####390	3.0	528494	528498
+experience	dining	528497
+course	cheese	528498
+pairing	wine	528494
+wine	pairing	528494
+tasting	menu	528494
+coast	east	528495
+wait	staff	528496
+east	coast	528495
+staff	wait	528496
+course	tasting	528494
+course	tasting	528497
+cheese	course	528498
+west	coast	528495
+gras	ravioli	528498
+gras	foie	528498
+menu	tasting	528494
+dining	experience	528497
+####389	4.0	528493	0
+####388	2.0	528486	528492
+special	occasion	528491
+occasion	special	528491
+people	come	528490
+good	reason	528490
+michelin	star	528491
+come	people	528490
+reason	good	528490
+####440	1.0	528869	528873
+half	bottle	528872
+wine	list	528871
+fairly	priced	528871
+priced	fairly	528871
+list	wine	528871
+####441	4.0	528874	528877
+girl	birthday	528877
+brioche	bacon	528874
+tasting	menu	528876
+carte	menu	528876
+wagyu	beef	528877
+birthday	girl	528877
+salmon	king	528877
+market	menu	528877
+menu	tasting	528876
+king	salmon	528877
+####442	2.0	528878	528889
+girl	birthday	528888
+ice	cream	528888
+ice	cream	528889
+cream	ice	528888
+cream	ice	528889
+definitely	tasted	528881
+fish	market	528881
+fun	way	528889
+definitely	taste	528881
+nice	smoky	528882
+marrow	bone	528885
+fish	fresh	528879
+dish	favorite	528883
+wagyu	beef	528884
+fresh	fish	528879
+bacon	flavor	528882
+birthday	girl	528888
+birthday	girl	528881
+favorite	second	528883
+raspberry	chocolate	528888
+graham	cracker	528888
+gras	ravioli	528878
+gras	foie	528878
+second	favorite	528883
+chunks	large	528883
+large	chunks	528883
+dish	beef	528886
+mouth	watering	528884
+beef	dish	528886
+favorite	dish	528883
+market	fish	528881
+bone	marrow	528885
+####443	2.0	528890	528897
+stars	four	528894
+free	parking	528893
+brioche	bacon	528896
+star	two	528895
+inventive	dish	528897
+added	bonus	528890
+two	star	528895
+michelin	star	528895
+four	stars	528894
+inventive	dishes	528897
+star	four	528894
+####444	4.0	528898	528901
+special	occasion	528899
+wine	list	528900
+occasion	special	528899
+eat	wine	528900
+wine	great	528900
+good	choice	528899
+list	wine	528900
+choice	good	528899
+great	wine	528900
+####445	4.0	528902	528922
+month	ago	528911
+ago	years	528905
+pairing	wine	528913
+food	fantastic	528918
+sure	made	528907
+wine	pairing	528913
+dining	fine	528902
+made	sure	528907
+impeccable	service	528918
+god	thank	528910
+food	love	528918
+years	ago	528905
+chef	cimarusti	528903
+thank	god	528910
+fantastic	food	528918
+love	food	528918
+best	meal	528920
+meal	best	528920
+cimarusti	chef	528903
+fine	dining	528902
+####446	3.0	528923	0
+####447	3.0	528924	528927
+note	take	528927
+####432	4.0	528834	528845
+made	finally	528839
+blown	away	528837
+finally	made	528839
+tasting	menu	528838
+full	tasting	528838
+size	party	528845
+come	back	528838
+memorable	dishes	528842
+back	someday	528838
+pricey	place	528844
+party	size	528845
+back	come	528838
+fours	petit	528834
+exceptional	service	528837
+tasting	full	528838
+stars	two	528836
+away	blown	528837
+menu	tasting	528838
+memorable	dish	528842
+two	stars	528836
+filling	meal	528836
+####433	2.0	528846	528849
+amazing	food	528846
+amount	right	528849
+tasting	course	528847
+tasting	menu	528847
+right	amount	528849
+course	tasting	528847
+recommend	definitely	528847
+food	amazing	528846
+menu	tasting	528847
+definitely	recommend	528847
+####434	4.0	528850	0
+####435	4.0	528851	528854
+eat	service	528852
+marrow	bone	528854
+food	delicious	528852
+great	service	528852
+best	meals	528853
+service	great	528852
+delicious	food	528852
+best	meal	528853
+meals	best	528853
+bone	marrow	528854
+####436	5.0	528855	528861
+miso	cheese	528856
+back	coming	528859
+tasting	menu	528860
+star	restaurant	528858
+brussels	sprouts	528855
+restaurant	star	528858
+coming	back	528859
+menu	tasting	528860
+####437	4.0	528862	0
+####438	4.0	528863	528864
+great	service	528863
+service	great	528863
+####439	2.0	528865	528868
+main	dining	528867
+lovely	restaurant	528868
+michelin	stars	528866
+room	dining	528867
+dining	room	528867
+saturday	night	528866
+night	saturday	528866
+####425	4.0	528795	528801
+passion	fruit	528798
+fruit	passion	528798
+####424	3.0	528788	528794
+marrow	bone	528794
+marrow	bone	528793
+dijon	mustard	528793
+bone	marrow	528794
+bone	marrow	528793
+####427	3.0	528805	528808
+wanted	place	528808
+special	occasion	528808
+occasion	special	528808
+food	love	528806
+love	food	528806
+feel	good	528807
+good	feel	528807
+####426	1.0	528802	528804
+buds	taste	528804
+tasting	course	528803
+tasting	menu	528803
+course	tasting	528803
+try	things	528802
+menu	tasting	528803
+####429	4.0	528813	528817
+scrambled	egg	528815
+barbara	sea	528815
+sea	scallops	528817
+scallops	sea	528817
+tasting	menu	528814
+tasting	menu	528815
+seared	foie	528814
+kanpachi	japanese	528817
+soft	scrambled	528815
+tiny	portion	528816
+barbara	santa	528815
+sea	urchin	528815
+urchin	sea	528815
+sea	barbara	528815
+santa	barbara	528815
+gras	foie	528814
+red	foie	528814
+eggs	scrambled	528815
+japanese	kanpachi	528817
+scrambled	eggs	528815
+menu	tasting	528814
+menu	tasting	528815
+####428	2.0	528809	528812
+tasting	course	528812
+main	dining	528811
+tasting	menu	528812
+full	tasting	528812
+room	dining	528811
+course	tasting	528812
+tasting	full	528812
+dining	room	528811
+birthday	boy	528812
+full	course	528812
+menu	tasting	528812
+####431	2.0	528825	528833
+wine	list	528828
+brioche	bacon	528829
+salmon	skin	528830
+cake	chocolate	528833
+cake	chocolate	528832
+late	cake	528833
+skin	salmon	528830
+sure	made	528826
+tasting	course	528827
+tasting	menu	528827
+crispy	salmon	528830
+made	sure	528826
+chocolate	cake	528833
+chocolate	cake	528832
+course	tasting	528827
+ate	cake	528833
+gras	ravioli	528832
+gras	foie	528832
+list	wine	528828
+menu	tasting	528827
+main	courses	528832
+####430	3.0	528818	528824
+cart	cheese	528819
+tasting	menu	528823
+seared	foie	528823
+perfect	opportunity	528824
+takes	place	528823
+sea	urchin	528823
+urchin	sea	528823
+gras	foie	528823
+red	foie	528823
+real	cheese	528822
+menu	tasting	528823
+####417	3.0	528743	528752
+chinese	food	528744
+food	chinese	528744
+fun	experience	528750
+happy	birthday	528752
+companion	dining	528748
+glowing	reviews	528745
+dining	companion	528748
+birthday	happy	528752
+####416	2.0	528740	528742
+####419	3.0	528761	528767
+towels	paper	528766
+paper	towels	528766
+nice	area	528763
+stuff	good	528767
+good	stuff	528767
+####418	1.0	528753	528760
+service	amazing	528753
+star	restaurant	528753
+wait	staff	528756
+restaurant	star	528753
+staff	wait	528756
+michelin	star	528753
+waiter	kept	528755
+amazing	service	528753
+stuff	good	528760
+good	stuff	528760
+####421	4.0	528776	528779
+bass	striped	528778
+salty	overly	528778
+overly	salty	528778
+####420	4.0	528768	528775
+presentation	food	528768
+rare	medium	528775
+bass	striped	528775
+york	steak	528775
+make	food	528773
+food	presentation	528768
+york	new	528775
+####423	3.0	528783	528787
+maine	lobster	528783
+freshly	made	528785
+white	sauce	528786
+olive	oil	528784
+####422	5.0	528780	528782
+small	size	528781
+ate	half	528781
+size	small	528781
+size	serving	528781
+serving	size	528781
+####478	4.0	529111	529125
+experience	dining	529116
+eat	dining	529116
+left	full	529117
+brioche	bacon	529111
+great	dining	529116
+tasting	menu	529116
+carte	menu	529114
+veal	tenderloin	529113
+dining	great	529116
+difficult	bit	529118
+menu	tasting	529116
+dining	experience	529116
+full	left	529117
+####479	3.0	529126	529140
+experience	dining	529134
+unique	dishes	529134
+menus	tasting	529130
+michelin	two	529134
+tasting	menu	529136
+tasting	menu	529139
+tasting	menu	529130
+eat	service	529133
+stars	five	529137
+cooked	perfectly	529129
+carte	menu	529136
+perfectly	cooked	529129
+michelin	stars	529134
+love	place	529132
+pairings	wine	529139
+course	tasting	529139
+yes	say	529135
+great	food	529133
+great	service	529133
+service	great	529133
+food	great	529133
+tasting	menus	529130
+menu	tasting	529130
+menu	tasting	529136
+menu	tasting	529139
+five	stars	529137
+dining	experience	529134
+unique	dish	529134
+####476	4.0	529103	529106
+blown	away	529104
+course	dessert	529106
+dessert	course	529106
+tasting	course	529106
+tasting	menu	529106
+single	dish	529104
+course	tasting	529106
+away	blown	529104
+truffle	black	529104
+menu	tasting	529106
+black	truffle	529104
+####477	2.0	529107	529110
+pairing	wine	529109
+wine	pairing	529109
+generous	portions	529108
+meal	great	529110
+tasting	menu	529109
+full	tasting	529109
+wine	pairings	529108
+pairings	wine	529108
+wine	great	529108
+tasting	full	529109
+great	meal	529110
+full	course	529109
+menu	tasting	529109
+great	wine	529108
+####474	2.0	529094	529098
+going	back	529097
+back	going	529097
+worth	going	529097
+####475	3.0	529099	529102
+tasting	menu	529099
+full	tasting	529101
+tasting	full	529101
+full	course	529101
+menu	tasting	529099
+####472	4.0	529067	529079
+experience	dining	529079
+food	came	529067
+compliment	perfect	529071
+brought	waiter	529068
+perfect	compliment	529071
+crispy	fried	529071
+fried	crispy	529071
+high	expectations	529079
+slightly	disappointed	529078
+sweet	onion	529071
+water	glass	529067
+disappointed	slightly	529078
+came	food	529067
+expectations	high	529079
+dining	experience	529079
+glass	water	529067
+waiter	brought	529068
+####473	3.0	529080	529093
+chocolate	dessert	529087
+pairing	wine	529080
+table	small	529084
+tasting	course	529080
+tasting	menu	529080
+dining	fine	529090
+small	table	529084
+wine	pairings	529080
+pairings	wine	529080
+course	tasting	529080
+companion	dining	529080
+notch	top	529092
+dining	companion	529080
+menu	tasting	529080
+especially	considering	529088
+considering	especially	529088
+decent	restaurant	529081
+fine	dining	529090
+####470	3.0	529057	529062
+great	food	529059
+eat	food	529059
+course	meal	529060
+gras	foie	529060
+food	great	529059
+####471	3.0	529063	529066
+bit	early	529065
+seated	immediately	529065
+immediately	seated	529065
+####468	4.0	529032	529034
+####469	1.0	529035	529056
+salted	caramels	529052
+ice	cream	529049
+cream	ice	529049
+full	flavor	529038
+ice	coconut	529049
+nice	sauce	529043
+cooked	perfectly	529043
+small	two	529055
+perfectly	cooked	529043
+two	small	529055
+scallop	sea	529043
+main	course	529041
+fours	petit	529052
+pretty	cool	529035
+salted	caramel	529052
+gras	foie	529044
+gras	foie	529048
+notch	top	529055
+caramel	salted	529052
+sea	scallop	529043
+puff	cheese	529039
+coconut	ice	529049
+cool	pretty	529035
+chocolate	pudding	529049
+pudding	chocolate	529049
+####466	5.0	529010	529027
+red	wine	529023
+ice	cream	529017
+cream	ice	529017
+culinary	experience	529022
+ganache	chocolate	529017
+tasting	course	529023
+tasting	course	529027
+tasting	menu	529021
+tasting	menu	529027
+cooked	perfectly	529010
+wine	red	529023
+perfectly	cooked	529010
+star	rating	529026
+course	tasting	529027
+fours	petit	529019
+bass	sea	529010
+made	dish	529012
+menu	tasting	529021
+menu	tasting	529027
+say	least	529022
+####467	5.0	529028	529031
+tasting	menu	529030
+two	times	529028
+course	tasting	529030
+chef	cimarusti	529028
+times	two	529028
+gras	foie	529030
+menu	tasting	529030
+cimarusti	chef	529028
+gras	dishes	529030
+gras	dish	529030
+####464	4.0	529004	529007
+acquired	taste	529004
+red	taste	529004
+####465	4.0	529008	529009
+cooked	perfectly	529008
+perfectly	cooked	529008
+sauce	delicious	529008
+delicious	sauce	529008
+####463	4.0	528994	529003
+salmon	skin	528998
+salmon	skin	528997
+mon	skin	528998
+orange	juice	528997
+skin	salmon	528997
+skin	salmon	528998
+intimate	restaurant	528994
+small	restaurant	528994
+paired	perfectly	528998
+juice	orange	528997
+right	flavor	529002
+tucked	away	528994
+red	perfectly	528998
+####462	4.0	528989	528993
+best	restaurants	528991
+restaurants	best	528991
+cart	cheese	528990
+pleasantly	surprised	528993
+rest	best	528991
+best	restaurant	528991
+market	menu	528989
+restaurant	best	528991
+####461	4.0	528983	528988
+experience	dining	528986
+fixe	menu	528987
+fixe	prix	528987
+good	meal	528985
+tasting	menu	528988
+meal	good	528985
+menu	tasting	528988
+dining	experience	528986
+####460	3.0	528978	528982
+tasting	course	528980
+tasting	menu	528980
+course	tasting	528980
+menu	tasting	528980
+####459	1.0	528976	528977
+####458	2.0	528974	528975
+fruit	flavor	528975
+####457	5.0	528970	528973
+ice	cream	528973
+cream	ice	528973
+best	meal	528971
+meal	best	528971
+####456	4.0	528968	528969
+####455	2.0	528961	528967
+shy	away	528966
+####454	3.0	528956	528960
+course	cheese	528960
+destination	restaurant	528957
+cheese	course	528960
+####453	4.0	528950	528955
+####452	5.0	528943	528949
+take	note	528943
+michelin	two	528948
+tasting	course	528948
+note	take	528943
+tasting	menu	528948
+course	tasting	528948
+red	restaurant	528948
+menu	tasting	528948
+####451	4.0	528942	0
+####450	3.0	528937	528941
+scrambled	egg	528941
+salmon	skin	528939
+barbara	sea	528941
+skin	salmon	528939
+soft	scrambled	528941
+barbara	santa	528941
+sea	urchin	528941
+urchin	sea	528941
+sea	barbara	528941
+santa	barbara	528941
+eggs	scrambled	528941
+scrambled	eggs	528941
+egg	shell	528941
+####449	2.0	528932	528936
+brioche	bacon	528936
+evening	sunday	528932
+pairing	wine	528933
+wine	pairing	528933
+tasting	course	528933
+tasting	menu	528933
+course	tasting	528933
+sunday	evening	528932
+menu	tasting	528933
+angeles	los	528932
+####448	3.0	528928	528931
+friend	best	528929
+best	friends	528929
+friends	best	528929
+####508	5.0	529360	0
+####509	1.0	529361	529378
+meal	amazing	529372
+meal	course	529378
+lucky	got	529368
+past	weekend	529367
+loves	food	529374
+amazing	meal	529372
+tasting	course	529365
+tasting	menu	529365
+tasting	menu	529370
+tasting	menu	529373
+carte	menu	529371
+veal	tenderloin	529370
+weekend	past	529367
+room	dining	529368
+course	tasting	529365
+got	lucky	529368
+dining	room	529368
+course	meal	529378
+way	best	529372
+dinner	birthday	529363
+birthday	dinner	529363
+seated	got	529368
+fan	big	529370
+menu	tasting	529373
+menu	tasting	529365
+menu	tasting	529370
+got	seated	529368
+best	way	529372
+big	fan	529370
+####510	1.0	529379	0
+####511	1.0	529380	529381
+big	eye	529381
+####504	2.0	529343	529347
+red	wine	529343
+pairing	wine	529346
+tasting	menu	529343
+wine	pairings	529346
+beautiful	presentation	529345
+pairings	wine	529346
+menu	tasting	529343
+####505	3.0	529348	529352
+great	place	529348
+top	restaurant	529348
+way	best	529350
+place	great	529348
+top	restaurants	529348
+valet	parking	529350
+best	way	529350
+####506	2.0	529353	529355
+seaweed	bread	529355
+bacon	bread	529355
+####507	1.0	529356	529359
+gras	ravioli	529356
+####500	1.0	529301	529322
+dinner	experience	529316
+excellent	experience	529315
+red	fish	529310
+menus	tasting	529304
+got	husband	529311
+nice	place	529313
+tasting	course	529303
+experience	dinner	529316
+tasting	menu	529303
+tasting	menu	529304
+food	delicious	529316
+place	nice	529313
+course	tasting	529303
+dinner	birthday	529316
+delicious	food	529316
+gras	foie	529313
+excellent	food	529315
+birthday	dinner	529316
+tasting	menus	529304
+different	three	529321
+worth	certainly	529301
+menu	tasting	529303
+friend	came	529316
+three	different	529321
+husband	got	529311
+####501	3.0	529323	529327
+mixed	reviews	529326
+finally	got	529325
+seafood	dish	529326
+got	finally	529325
+tasting	menu	529327
+wagyu	beef	529323
+dishes	meat	529326
+seafood	dishes	529326
+menu	tasting	529327
+dishes	seafood	529326
+####502	2.0	529328	0
+####503	4.0	529329	529342
+experience	dining	529330
+bottom	line	529342
+restaurant	amazing	529333
+good	taste	529337
+michelin	two	529342
+tasting	menu	529329
+tasting	menu	529334
+seared	foie	529331
+barbara	santa	529338
+barbara	santa	529340
+wait	staff	529336
+michelin	stars	529342
+taste	good	529337
+staff	wait	529336
+amazing	restaurant	529333
+job	great	529336
+gras	ravioli	529331
+great	job	529336
+santa	barbara	529338
+santa	barbara	529340
+gras	foie	529331
+notch	top	529339
+red	foie	529331
+menu	tasting	529329
+menu	tasting	529334
+dining	experience	529330
+####496	3.0	529289	0
+####497	5.0	529290	529291
+buds	taste	529291
+come	back	529291
+back	come	529291
+####498	4.0	529292	529296
+half	eat	529292
+michael	cimarusti	529296
+cimarusti	michael	529296
+eat	half	529292
+####499	5.0	529297	529300
+michelin	two	529300
+star	restaurant	529300
+restaurant	star	529300
+michelin	star	529300
+####493	5.0	529277	529279
+####492	4.0	529261	529276
+good	overall	529268
+review	full	529269
+duck	breast	529264
+pairing	wine	529273
+pairing	wine	529274
+reservations	making	529271
+wine	pairing	529273
+wine	pairing	529274
+making	reservations	529271
+set	menu	529272
+wine	pairings	529275
+high	end	529266
+full	review	529269
+definitely	try	529261
+pairings	wine	529275
+overall	good	529268
+worth	hype	529261
+crab	appetizer	529264
+end	high	529266
+breast	duck	529264
+good	ingredients	529262
+####495	5.0	529281	529288
+restaurant	favorite	529284
+favorite	dishes	529287
+pairing	wine	529282
+wine	pairing	529282
+favorite	restaurant	529284
+tasting	course	529284
+tasting	menu	529284
+dishes	favorite	529287
+beautiful	presentation	529288
+course	tasting	529284
+sea	urchin	529285
+scallop	sea	529287
+urchin	sea	529285
+sea	scallop	529287
+menu	tasting	529284
+delicious	dinner	529281
+favorite	dish	529287
+####494	3.0	529280	0
+####489	3.0	529232	0
+####488	2.0	529231	0
+####491	4.0	529258	529260
+amazing	food	529259
+experience	dining	529258
+great	service	529259
+service	great	529259
+way	best	529260
+way	possible	529260
+food	amazing	529259
+best	way	529260
+dining	experience	529258
+possible	way	529260
+####490	2.0	529233	529257
+three	words	529254
+fixe	prix	529248
+fixe	prix	529251
+nice	experience	529244
+mind	paying	529248
+paying	mind	529248
+probably	give	529245
+nice	variety	529234
+michelin	restaurant	529237
+words	three	529254
+happy	birthday	529233
+experience	nice	529244
+star	restaurant	529236
+restaurant	star	529236
+michelin	star	529236
+michelin	star	529237
+best	foie	529247
+overall	nice	529244
+gras	foie	529247
+gras	foie	529251
+gras	foie	529252
+pricey	bit	529248
+birthday	happy	529233
+bit	pricey	529248
+ice	experience	529244
+####485	2.0	529198	529220
+two	least	529205
+late	minutes	529214
+fixe	prix	529202
+seafood	dish	529209
+menus	tasting	529202
+food	fantastic	529211
+laundry	french	529200
+french	laundry	529200
+tasting	menu	529202
+dining	fine	529199
+food	dishes	529209
+full	tasting	529203
+full	tasting	529205
+five	course	529203
+try	come	529212
+good	way	529206
+good	way	529212
+best	tasting	529203
+minutes	late	529214
+hours	half	529205
+come	try	529212
+great	service	529211
+service	great	529211
+seafood	dishes	529209
+dining	restaurant	529199
+tasting	full	529203
+tasting	full	529205
+fantastic	food	529211
+food	dish	529206
+tasting	menus	529202
+least	two	529205
+half	hours	529205
+way	good	529212
+way	good	529206
+dishes	seafood	529209
+fantastic	meal	529216
+fine	dining	529199
+course	five	529203
+####484	3.0	529189	529197
+favorite	two	529191
+love	seafood	529195
+dining	restaurants	529190
+dining	restaurants	529191
+room	back	529197
+pairing	wine	529194
+back	room	529197
+wine	pairing	529194
+tasting	course	529194
+tasting	course	529195
+dining	fine	529190
+dining	fine	529191
+unique	experience	529192
+amount	good	529195
+course	tasting	529194
+great	food	529189
+dining	restaurant	529190
+dining	restaurant	529191
+delicious	dishes	529195
+good	amount	529195
+horrible	service	529189
+two	favorite	529191
+experience	unique	529192
+fine	dining	529190
+fine	dining	529191
+####487	4.0	529225	529230
+good	overall	529225
+plate	cheese	529229
+cheese	plate	529229
+amount	right	529228
+tasting	menu	529229
+right	amount	529228
+heirloom	tomatoes	529228
+overall	service	529225
+menu	tasting	529229
+####486	2.0	529221	529224
+tasting	course	529224
+tasting	menu	529224
+rated	restaurants	529222
+course	tasting	529224
+michelin	star	529222
+menu	tasting	529224
+####481	4.0	529151	529154
+yolk	egg	529154
+egg	yolk	529154
+####480	2.0	529141	529150
+best	bread	529143
+explosion	flavor	529146
+chowder	clam	529149
+cooked	right	529144
+clam	chowder	529149
+waiter	did	529150
+real	estate	529150
+say	least	529145
+did	waiter	529150
+####483	4.0	529174	529188
+occasion	special	529177
+special	place	529177
+excellent	selection	529175
+place	special	529177
+special	occasions	529177
+pricey	bit	529174
+bit	pricey	529174
+occasions	special	529177
+####482	4.0	529155	529173
+special	occasion	529173
+part	favorite	529161
+part	favorite	529163
+keep	coming	529169
+occasion	special	529173
+three	ways	529161
+salmon	skin	529161
+cake	chocolate	529164
+second	course	529160
+belly	pork	529163
+bass	striped	529162
+date	night	529173
+skin	salmon	529161
+nice	food	529173
+three	way	529161
+super	nice	529167
+night	date	529173
+chocolate	cake	529164
+pork	belly	529163
+excellent	quality	529173
+notch	top	529168
+keep	people	529169
+favorite	part	529161
+favorite	part	529163
+nice	super	529167
+angeles	los	529172

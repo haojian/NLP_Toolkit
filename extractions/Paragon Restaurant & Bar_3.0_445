@@ -1,1160 +1,2206 @@
-####0	4.0	430629	430639
-####1	2.0	430640	430645
-####2	3.0	430646	430651
-####3	2.0	430652	430661
-####4	5.0	430662	430665
-####5	1.0	430666	430677
-####6	2.0	430680	430679
-####7	3.0	430681	430688
-####8	3.0	430689	430694
-####9	5.0	430695	430708
-####10	4.0	430709	430714
-####11	2.0	430715	430722
-####12	4.0	430723	430732
-####13	4.0	430733	430737
-####14	5.0	430738	430739
-####15	3.0	430740	430747
-####17	2.0	430762	430767
-####16	2.0	430748	430761
-####19	4.0	430771	430775
-####18	3.0	430768	430770
-####21	2.0	430781	430800
-####20	3.0	430780	430779
-####23	4.0	430802	430826
-####22	5.0	430801	0
-####25	1.0	430834	430840
-####24	4.0	430827	430833
-####27	4.0	430846	430858
-####26	4.0	430841	430845
-####29	5.0	430865	430868
-####28	3.0	430859	430864
-####31	1.0	430874	430880
-####30	3.0	430869	430873
-####34	4.0	430900	430901
-####35	3.0	430902	430904
-####32	4.0	430881	430895
-####33	4.0	430896	430899
-####38	4.0	430928	430931
-####39	3.0	430932	430936
-####36	2.0	430905	430915
-####37	3.0	430916	430927
-####42	3.0	430950	430971
-####43	4.0	430972	430976
-####40	4.0	430937	430938
-####41	4.0	430939	430949
-####46	3.0	430989	431000
-####47	4.0	431001	431006
-####44	3.0	430977	430981
-####45	4.0	430982	430988
-####51	3.0	431047	431057
-####50	4.0	431037	431046
-####49	5.0	431034	431033
-####48	2.0	431007	431019
-####55	3.0	431096	431107
-####54	5.0	431091	431095
-####53	2.0	431069	431090
-####52	2.0	431058	431068
-####59	1.0	431134	431142
-####58	4.0	431133	431132
-####57	4.0	431111	431127
-####56	4.0	431108	431110
-####63	4.0	431162	431166
-####62	4.0	431159	431161
-####61	3.0	431149	431158
-####60	4.0	431143	431148
-####68	3.0	431210	431225
-####69	4.0	431226	431241
-####70	3.0	431242	431271
-####71	4.0	431272	431279
-####64	2.0	431167	431180
-####65	4.0	431185	431200
-####66	2.0	431201	431208
-####67	4.0	431209	0
-####76	4.0	431314	431329
-####77	4.0	431333	431335
-####78	3.0	431336	431339
-####79	3.0	431340	431355
-####72	4.0	431280	431297
-####73	2.0	431298	431302
-####74	5.0	431303	431310
-####75	4.0	431311	431313
-####85	4.0	431421	431439
-####84	4.0	431411	431420
-####87	1.0	431452	431460
-####86	3.0	431440	431451
-####81	3.0	431375	431383
-####80	4.0	431356	431374
-####83	5.0	431394	431410
-####82	2.0	431384	431393
-####93	4.0	431503	431509
-####92	4.0	431499	431502
-####95	3.0	431522	431536
-####94	3.0	431510	431521
-####89	4.0	431469	431471
-####88	2.0	431461	431468
-####91	2.0	431490	431498
-####90	3.0	431472	431489
-####102	4.0	431570	431579
-####103	4.0	431580	431587
-####100	4.0	431559	431562
-####101	4.0	431563	431569
-####98	3.0	431545	431551
-####99	4.0	431552	431557
-####96	2.0	431537	431542
-####97	4.0	431543	431544
-####110	4.0	431651	431667
-####111	1.0	431668	431677
-####108	4.0	431625	431633
-####109	5.0	431634	431650
-####106	4.0	431606	431614
-####107	4.0	431615	431624
-####104	3.0	431588	431596
-####105	3.0	431597	431605
-####119	5.0	431715	431719
-####118	2.0	431711	431714
-####117	4.0	431706	431710
-####116	2.0	431699	431705
-####115	4.0	431693	431698
-####114	2.0	431690	431692
-####113	4.0	431686	431689
-####112	5.0	431678	431685
-####127	2.0	431791	431797
-####126	4.0	431782	431790
-####125	4.0	431773	431781
-####124	4.0	431768	431772
-####123	3.0	431766	431767
-####122	3.0	431741	431765
-####121	3.0	431726	431740
-####120	2.0	431720	431725
-####137	4.0	431887	431892
-####136	3.0	431881	431886
-####139	3.0	431899	431902
-####138	4.0	431893	431898
-####141	4.0	431924	431938
-####140	3.0	431903	431923
-####143	4.0	431956	431963
-####142	3.0	431939	431955
-####129	4.0	431817	431826
-####128	3.0	431798	431816
-####131	5.0	431840	431846
-####130	4.0	431827	431839
-####133	4.0	431860	431866
-####132	3.0	431847	431859
-####135	3.0	431872	431880
-####134	3.0	431867	431871
-####152	4.0	432029	432033
-####153	4.0	432034	432040
-####154	4.0	432041	432058
-####155	4.0	432059	432073
-####156	3.0	432074	432075
-####157	4.0	432076	432078
-####158	1.0	432079	432086
-####159	3.0	432087	432089
-####144	4.0	431964	431969
-####145	4.0	431974	431978
-####146	4.0	431979	431983
-####147	3.0	431984	431993
-####148	4.0	431994	431998
-####149	2.0	431999	432000
-####150	3.0	432001	432025
-####151	4.0	432026	432028
-####171	3.0	432189	432195
-####170	4.0	432187	432188
-####169	5.0	432184	432186
-####168	3.0	432167	432183
-####175	3.0	432213	432219
-####174	3.0	432212	432211
-####173	2.0	432200	432205
-####172	4.0	432196	432199
-####163	3.0	432105	432107
-####162	2.0	432101	432104
-####161	2.0	432096	432100
-####160	4.0	432090	432095
-####167	5.0	432162	432166
-####166	3.0	432131	432153
-####165	1.0	432127	432130
-####164	3.0	432108	432126
-####186	4.0	432309	432314
-####187	3.0	432315	432317
-####184	3.0	432294	432296
-####185	3.0	432297	432308
-####190	2.0	432344	432346
-####191	3.0	432347	432353
-####188	3.0	432318	432340
-####189	4.0	432341	432343
-####178	4.0	432254	432266
-####179	2.0	432267	432273
-####176	4.0	432220	432228
-####177	1.0	432229	432253
-####182	1.0	432286	432288
-####183	2.0	432289	432293
-####180	3.0	432274	0
-####181	4.0	432275	432285
-####205	1.0	432453	432479
-####207	5.0	432483	432500
-####206	3.0	432480	432482
-####201	2.0	432431	432433
-####200	3.0	432418	432430
-####203	3.0	432448	432452
-####202	3.0	432434	432438
-####197	3.0	432397	432399
-####196	3.0	432390	432396
-####199	2.0	432405	432417
-####198	3.0	432400	432404
-####193	2.0	432369	432371
-####192	3.0	432354	432368
-####195	3.0	432380	432389
-####194	4.0	432372	432379
-####220	4.0	432593	432623
-####221	3.0	432624	432630
-####222	5.0	432631	432636
-####223	3.0	432637	432640
-####216	4.0	432550	432562
-####217	2.0	432563	432578
-####218	3.0	432579	432583
-####219	2.0	432584	432592
-####212	4.0	432518	432524
-####213	3.0	432525	432534
-####214	1.0	432535	432544
-####215	4.0	432545	432549
-####208	2.0	432501	432504
-####209	5.0	432505	432507
-####210	4.0	432508	432510
-####211	4.0	432511	432517
-####239	1.0	432757	432764
-####238	2.0	432750	432756
-####237	3.0	432736	432749
-####236	5.0	432727	432735
-####235	2.0	432712	432726
-####234	2.0	432709	432711
-####233	3.0	432703	432708
-####232	4.0	432696	432702
-####231	3.0	432693	432695
-####230	4.0	432683	432692
-####229	4.0	432671	432682
-####228	3.0	432666	432670
-####227	4.0	432660	432665
-####226	3.0	432651	432659
-####225	4.0	432650	0
-####224	3.0	432641	432649
-####254	2.0	432869	432872
-####252	3.0	432848	432855
-####253	2.0	432861	432868
-####250	3.0	432844	432846
-####251	3.0	432847	0
-####248	1.0	432828	432837
-####249	3.0	432838	432843
-####246	1.0	432815	432823
-####247	3.0	432824	432827
-####244	3.0	432801	432811
-####245	4.0	432812	432814
-####242	4.0	432789	432795
-####243	3.0	432796	432800
-####240	2.0	432768	432785
-####241	3.0	432786	432788
-####275	3.0	432999	433000
-####274	3.0	432995	432998
-####272	4.0	432990	432994
-####279	3.0	433033	433040
-####278	4.0	433029	433032
-####277	2.0	433007	433028
-####276	4.0	433001	433006
-####283	3.0	433053	433055
-####282	4.0	433049	433052
-####281	4.0	433046	433048
-####280	4.0	433041	433045
-####287	5.0	433093	0
-####286	5.0	433082	433092
-####285	1.0	433072	433081
-####284	1.0	433056	433071
-####258	1.0	432886	432887
-####259	4.0	432888	432892
-####256	4.0	432873	432884
-####257	4.0	432885	0
-####262	4.0	432913	432914
-####263	4.0	432915	432924
-####260	4.0	432893	432904
-####261	4.0	432905	432912
-####266	3.0	432945	432967
-####267	3.0	432968	432969
-####264	4.0	432925	432941
-####265	2.0	432942	432944
-####270	4.0	432974	432983
-####271	3.0	432984	432989
-####268	3.0	432970	0
-####269	4.0	432971	432973
-####305	5.0	433208	433212
-####304	4.0	433201	433207
-####307	4.0	433217	433227
-####306	5.0	433213	433216
-####309	4.0	433230	433231
-####308	4.0	433228	433229
-####311	4.0	433233	433234
-####310	4.0	433232	0
-####313	3.0	433254	433253
-####312	4.0	433235	433244
-####315	3.0	433257	433260
-####314	3.0	433255	433256
-####317	4.0	433264	433266
-####316	4.0	433261	433263
-####319	3.0	433274	433277
-####318	4.0	433267	433273
-####288	4.0	433094	433101
-####289	2.0	433102	433107
-####290	3.0	433108	433118
-####291	4.0	433119	433123
-####292	3.0	433124	433130
-####293	3.0	433131	433138
-####294	4.0	433139	433146
-####295	1.0	433147	433152
-####296	3.0	433153	433157
-####297	4.0	433158	433163
-####298	4.0	433164	433177
-####299	3.0	433178	433181
-####300	4.0	433182	433184
-####301	4.0	433185	433187
-####302	4.0	433188	433194
-####303	3.0	433195	433200
-####343	2.0	433377	433383
-late	minutes	433381
-tasting	menu	433378
-minutes	late	433381
-jus	tasted	433380
-menu	tasting	433378
-york	new	433381
-####342	3.0	433375	433376
-try	place	433376
-####341	4.0	433372	433374
-morimoto	chef	433374
-pleasant	surprise	433372
-chef	morimoto	433374
-####340	2.0	433371	0
-####339	5.0	433366	433370
-tasting	menu	433368
-reasonable	amount	433366
-menu	tasting	433368
-####338	4.0	433365	0
-####337	3.0	433363	433364
-####336	3.0	433359	433362
-reservations	made	433362
-made	reservations	433362
-table	open	433362
-reservation	made	433362
-night	friday	433362
-asian	fusion	433361
-friday	night	433362
-open	table	433362
-best	meals	433360
-best	meal	433360
-meal	best	433360
-meals	best	433360
-####351	3.0	433422	433425
-tartare	toro	433424
-pretty	cool	433422
-cool	pretty	433422
-####350	3.0	433416	433421
-staff	friendly	433417
-friendly	staff	433417
-entire	restaurant	433418
-####349	3.0	433410	433415
-####348	3.0	433407	433409
-definitely	try	433408
-####347	3.0	433398	433406
-king	crab	433401
-definitely	return	433398
-chef	iron	433406
-sorely	disappointed	433399
-iced	tea	433405
-iron	chef	433406
-excellent	experience	433399
-beef	carpaccio	433401
-poor	service	433402
-king	spicy	433401
-tea	iced	433405
-udon	noodles	433401
-spicy	king	433401
-crab	king	433401
-return	definitely	433398
-carpaccio	beef	433401
-####346	2.0	433393	433397
-back	went	433393
-excellent	service	433397
-japanese	style	433396
-unique	experience	433395
-balanced	flavor	433396
-went	back	433393
-style	japanese	433396
-experience	unique	433395
-balanced	flavors	433396
-####345	3.0	433388	433392
-back	coming	433389
-served	food	433389
-meal	great	433391
-great	experience	433392
-work	dinner	433389
-experience	great	433392
-coming	back	433389
-eat	experience	433392
-great	meal	433391
-eat	meal	433391
-lunch	menu	433389
-food	served	433389
-menu	lunch	433389
-####344	3.0	433384	433387
-better	tastes	433385
-tastes	better	433385
-sandwich	taste	433385
-fish	sandwich	433384
-fish	sandwich	433385
-beef	bowl	433387
-excessive	amount	433386
-####326	3.0	433293	433299
-####327	2.0	433302	433301
-####324	4.0	433290	433291
-####325	2.0	433292	0
-####322	2.0	433284	433286
-####323	4.0	433287	433289
-####320	3.0	433278	433282
-####321	1.0	433283	0
-####334	2.0	433338	433349
-star	review	433339
-star	review	433341
-tar	review	433339
-review	star	433339
-review	star	433341
-better	bit	433340
-fast	food	433342
-food	fast	433342
-fish	quality	433346
-toro	tartare	433349
-nyc	restaurant	433340
-better	food	433340
-teriyaki	sauce	433343
-food	better	433340
-tartare	toro	433349
-kobe	beef	433343
-quality	fish	433346
-bit	better	433340
-####335	3.0	433350	433358
-wasabi	fresh	433350
-fresh	wasabi	433350
-oily	bit	433352
-olive	oil	433352
-####332	3.0	433325	433327
-right	direction	433326
-chinese	broccoli	433325
-broccoli	chinese	433325
-####333	3.0	433328	433337
-fashioned	old	433332
-old	fashioned	433332
-strawberry	cheesecake	433329
-mexican	place	433332
-right	flavor	433332
-cheesecake	strawberry	433329
-strawberry	cheese	433329
-fashion	old	433332
-####330	4.0	433310	433313
-waygu	beef	433312
-####331	3.0	433314	433324
-morimoto	sashimi	433320
-business	dinner	433318
-weeks	two	433317
-dining	restaurants	433317
-tomato	sauce	433322
-dining	fine	433317
-two	weeks	433317
-platter	sashimi	433320
-sashimi	morimoto	433320
-dinner	business	433318
-dining	restaurant	433317
-bass	sea	433323
-sauce	tomato	433322
-sashimi	platter	433320
-####328	3.0	433303	433304
-sashimi	salad	433303
-different	entrees	433303
-angry	chicken	433303
-bass	sea	433303
-####329	2.0	433305	433309
-morimoto	chef	433306
-feel	guilty	433308
-guilty	feel	433308
-eel	guilty	433308
-chef	morimoto	433306
-####373	3.0	433574	433581
-chicken	ramen	433577
-spicy	shrimp	433575
-warm	chocolate	433579
-good	ridiculously	433577
-cake	chocolate	433579
-dressing	ranch	433575
-dressing	ranch	433576
-late	cake	433579
-rock	shrimp	433574
-shrimp	spicy	433575
-ranch	dressing	433575
-ranch	dressing	433576
-soup	ramen	433577
-chocolate	cake	433579
-ate	cake	433579
-ramen	chicken	433577
-fresh	tasting	433574
-ramen	soup	433577
-chocolate	warm	433579
-ridiculously	good	433577
-tempura	shrimp	433575
-tempura	shrimp	433574
-shrimp	tempura	433574
-shrimp	tempura	433575
-tasting	fresh	433574
-####372	3.0	433572	433573
-foie	oyster	433573
-oyster	foie	433573
-gras	foie	433573
-####375	4.0	433601	433603
-king	crab	433601
-toro	tartare	433601
-toro	tartare	433602
-king	spicy	433601
-definitely	try	433602
-main	course	433603
-tartare	toro	433601
-tartare	toro	433602
-gras	foie	433601
-gras	foie	433602
-spicy	king	433601
-crab	king	433601
-bass	sea	433603
-try	definitely	433602
-####374	4.0	433582	433600
-places	favorite	433585
-restaurant	japanese	433587
-special	event	433589
-tastes	amazing	433594
-savory	food	433591
-side	pricey	433589
-pleasantly	surprised	433584
-better	part	433593
-good	choice	433589
-favorite	places	433585
-amazing	tastes	433594
-amazing	taste	433594
-smaller	portions	433587
-favorite	place	433585
-opened	place	433594
-choice	good	433589
-york	new	433585
-japanese	restaurant	433587
-pricey	side	433589
-beautiful	space	433586
-####369	3.0	433554	433559
-japanese	place	433556
-place	japanese	433556
-decent	restaurant	433556
-####368	3.0	433548	433553
-back	went	433550
-toro	tartare	433552
-mediocre	food	433548
-nyc	restaurant	433548
-experience	sushi	433551
-eat	sushi	433551
-tartare	toro	433552
-sushi	experience	433551
-went	back	433550
-great	sushi	433551
-sushi	great	433551
-####371	3.0	433567	433571
-sushi	spots	433567
-tartar	toro	433571
-white	lily	433571
-spot	sushi	433567
-sushi	spot	433567
-####370	4.0	433560	433566
-fish	raw	433565
-raw	fish	433565
-####381	5.0	433621	433623
-####380	2.0	433614	433620
-####383	4.0	433633	433640
-sauce	soy	433634
-third	course	433637
-teriyaki	sauce	433640
-oyster	foie	433639
-gras	foie	433639
-gras	foie	433640
-soy	sauce	433634
-olive	oil	433634
-####382	4.0	433624	433632
-sauce	soy	433632
-tasted	good	433631
-fraiche	creme	433629
-tartar	tuna	433629
-good	pretty	433624
-pretty	good	433624
-cherry	tomatoes	433632
-good	tasted	433631
-soy	sauce	433632
-olive	oil	433632
-####377	3.0	433605	433606
-red	curtains	433606
-####376	4.0	433604	0
-####379	4.0	433609	433613
-####378	2.0	433607	433608
-left	side	433607
-####356	2.0	433485	433487
-experience	dining	433487
-best	sushi	433486
-experience	sushi	433486
-walk	away	433486
-coast	east	433486
-east	coast	433486
-away	walk	433486
-sushi	experience	433486
-notch	top	433487
-spend	money	433486
-sushi	best	433486
-dining	experience	433487
-####357	3.0	433488	433489
-mixed	green	433489
-####358	2.0	433490	433496
-king	crab	433495
-calamari	salad	433495
-tasted	great	433494
-spot	date	433492
-king	spicy	433495
-love	place	433493
-date	great	433492
-great	tasted	433494
-spicy	king	433495
-date	spot	433492
-great	date	433492
-crab	king	433495
-####359	2.0	433497	433513
-vanilla	ice	433504
-ganache	chocolate	433499
-tasting	menu	433508
-decorated	nicely	433512
-boyfriend	ordered	433498
-menu	tasting	433508
-ordered	boyfriend	433498
-####352	2.0	433443	433442
-####353	3.0	433444	433449
-three	ways	433446
-three	way	433446
-write	home	433447
-####354	1.0	433450	433477
-experience	dining	433467
-chef	iron	433471
-daikon	pickled	433470
-area	eating	433467
-iron	chef	433471
-dipping	sauces	433452
-desserts	two	433458
-good	damn	433459
-great	dining	433467
-dessert	person	433459
-good	taste	433475
-bar	sushi	433464
-pickled	daikon	433470
-two	desserts	433458
-fish	dish	433471
-brulee	creme	433458
-brulee	creme	433460
-wagyu	beef	433470
-dipping	sauce	433452
-taste	good	433475
-sushi	bar	433464
-sauces	dipping	433452
-damn	good	433459
-got	friend	433474
-dining	great	433467
-dinner	birthday	433476
-white	fish	433470
-friend	got	433474
-birthday	dinner	433476
-eating	area	433467
-roe	salmon	433470
-dish	fish	433471
-duck	duck	433463
-dining	experience	433467
-####355	4.0	433478	433484
-acquired	taste	433479
-japanese	food	433482
-red	taste	433479
-tuna	sashimi	433484
-ambiance	great	433481
-great	ambiance	433481
-nice	try	433479
-food	japanese	433482
-eat	ambiance	433481
-sashimi	tuna	433484
-####364	3.0	433536	433538
-red	soup	433536
-####365	5.0	433539	433540
-room	dining	433540
-dining	room	433540
-downstairs	bar	433540
-####366	2.0	433541	433545
-make	reservations	433545
-reservations	make	433545
-better	tasted	433543
-experience	different	433542
-different	experience	433542
-tasted	better	433543
-####367	5.0	433546	433547
-side	plus	433546
-plus	side	433546
-####360	1.0	433514	433518
-cake	chocolate	433517
-combination	good	433514
-nice	waitress	433514
-good	combination	433514
-chocolate	cake	433517
-nice	wait	433514
-interesting	combination	433515
-####361	4.0	433519	433523
-wanted	place	433521
-morimoto	chef	433519
-chef	iron	433519
-iron	chef	433519
-bar	sushi	433519
-love	place	433521
-sushi	bar	433519
-chef	morimoto	433519
-####362	2.0	433524	433532
-good	food	433524
-food	good	433524
-high	expectations	433525
-expectations	high	433525
-white	lilly	433531
-####363	3.0	433533	433535
-back	brought	433534
-coming	kept	433533
-brought	back	433534
-kept	coming	433533
-####410	3.0	433808	433817
-super	high	433808
-high	super	433808
-prices	high	433808
-mediocre	food	433808
-beef	carpaccio	433814
-tartar	toro	433811
-main	course	433816
-boyfriend	ordered	433810
-high	prices	433808
-ordered	boyfriend	433810
-carpaccio	beef	433814
-####411	4.0	433818	433822
-soup	noodle	433822
-restaurants	korean	433820
-similar	dish	433820
-ramen	noodle	433822
-korean	restaurant	433820
-noodle	soup	433822
-korean	restaurants	433820
-duck	duck	433821
-noodle	ramen	433822
-####408	4.0	433796	433800
-best	version	433798
-traditional	sushi	433798
-place	good	433797
-california	roll	433799
-downstairs	bar	433797
-crab	roll	433799
-good	place	433797
-####409	5.0	433801	433807
-fixe	menu	433804
-amazingly	good	433807
-ponzu	sauce	433807
-fish	special	433806
-####414	3.0	433832	433842
-sooo	good	433832
-ice	cream	433836
-cream	ice	433836
-white	sesame	433836
-seated	promptly	433841
-ganache	chocolate	433836
-beautiful	people	433841
-definitely	recommended	433839
-cooked	perfectly	433835
-perfectly	cooked	433835
-sesame	black	433836
-sesame	black	433838
-lack	sesame	433838
-cherry	tomatoes	433835
-waygu	beef	433835
-sesame	ice	433836
-saturday	night	433841
-night	saturday	433841
-black	sesame	433838
-good	sooo	433832
-promptly	seated	433841
-####415	4.0	433843	433847
-good	night	433844
-night	good	433844
-sea	urchin	433843
-urchin	sea	433843
-gras	foie	433843
-####412	3.0	433823	433828
-different	story	433827
-beautiful	decor	433825
-japanese	style	433827
-fish	dish	433823
-story	different	433827
-dish	fish	433823
-style	japanese	433827
-awesome	restaurant	433827
-####413	3.0	433829	433831
-####402	4.0	433740	433746
-morimoto	chef	433743
-bar	sushi	433743
-steep	bit	433746
-brulee	creme	433741
-definitely	worth	433746
-steep	price	433746
-sushi	bar	433743
-worth	definitely	433746
-recommend	sitting	433743
-bit	expensive	433744
-expensive	bit	433744
-chef	morimoto	433743
-####403	4.0	433747	433755
-network	food	433751
-food	favorite	433751
-thank	goodness	433753
-ago	years	433752
-food	network	433751
-fish	fresh	433748
-rocks	place	433747
-fresh	fish	433748
-come	back	433752
-goodness	thank	433753
-back	come	433752
-years	ago	433752
-favorite	food	433751
-####400	3.0	433737	0
-####401	3.0	433738	433739
-cheesecake	tofu	433739
-tofu	cheese	433739
-tofu	cheesecake	433739
-####406	5.0	433780	433786
-presented	beautifully	433780
-pieces	sushi	433781
-sushi	pieces	433781
-####407	3.0	433787	433795
-good	old	433790
-lack	cod	433788
-old	good	433790
-cod	black	433788
-good	food	433787
-soy	milk	433788
-enjoy	good	433787
-reasonable	prices	433787
-food	good	433787
-prices	reasonable	433787
-milk	soy	433788
-black	cod	433788
-better	version	433794
-####404	5.0	433756	433758
-free	parking	433757
-saturday	night	433757
-night	saturday	433757
-####405	2.0	433759	433779
-presented	beautifully	433771
-toro	tartare	433769
-toro	tartare	433770
-nyc	restaurant	433760
-tar	toro	433769
-tar	toro	433770
-seated	promptly	433761
-minutes	ago	433761
-prompt	seated	433761
-tartar	toro	433769
-tartar	toro	433770
-tartare	toro	433769
-tartare	toro	433770
-gras	foie	433779
-nice	extremely	433776
-tart	toro	433769
-tart	toro	433770
-promptly	seated	433761
-extremely	nice	433776
-####395	5.0	433708	433718
-good	night	433713
-expected	better	433709
-night	good	433713
-chef	iron	433717
-iron	chef	433717
-back	came	433710
-pretty	excited	433716
-quality	food	433709
-excited	pretty	433716
-bit	disappointed	433718
-came	back	433710
-quality	better	433709
-bill	came	433708
-disappointed	bit	433718
-young	man	433711
-food	quality	433709
-better	quality	433709
-water	glass	433711
-came	bill	433708
-glass	water	433711
-####394	4.0	433699	433707
-sauce	oyster	433704
-morimoto	sashimi	433699
-nice	presentation	433699
-oyster	sauce	433704
-salmon	skin	433706
-mon	skin	433706
-skin	salmon	433706
-japanese	food	433703
-food	japanese	433703
-sashimi	morimoto	433699
-gras	foie	433704
-sashimi	plate	433699
-plate	sashimi	433699
-presentation	nice	433699
-####393	2.0	433691	433698
-bar	sushi	433694
-water	glasses	433696
-seated	immediately	433692
-sushi	bar	433694
-glasses	water	433696
-immediately	seated	433692
-glass	water	433696
-####392	3.0	433687	433690
-experience	dining	433687
-recent	trip	433688
-lovely	restaurant	433687
-wonderful	experience	433688
-experience	wonderful	433688
-dining	experience	433687
-####399	1.0	433730	433736
-wasabi	noodles	433731
-wasabi	noodles	433732
-places	sushi	433733
-lobster	salad	433730
-lobster	salad	433732
-kobe	steak	433736
-sushi	places	433733
-noodles	wasabi	433731
-noodles	wasabi	433732
-sushi	place	433733
-####398	3.0	433727	433729
-tasting	best	433727
-best	tasting	433727
-teriyaki	sauce	433728
-gras	foie	433727
-####397	3.0	433724	433726
-morimoto	chef	433726
-bar	sushi	433726
-sushi	bar	433726
-part	best	433726
-chef	morimoto	433726
-best	part	433726
-####396	5.0	433719	433723
-chef	iron	433723
-iron	chef	433723
-better	japanese	433720
-good	food	433719
-####387	5.0	433661	433664
-tasting	menu	433664
-extra	bowl	433663
-bell	taco	433661
-taco	bell	433661
-menu	tasting	433664
-####386	2.0	433650	433660
-red	sugar	433655
-sugar	powdered	433655
-flank	steak	433650
-powdered	sugar	433655
-####385	2.0	433646	433649
-main	course	433649
-####384	3.0	433641	433645
-japanese	sushi	433644
-sushi	japanese	433644
-snapper	red	433642
-snapper	red	433644
-red	snapper	433642
-red	snapper	433644
-####391	4.0	433682	433686
-solid	service	433684
-####390	5.0	433676	433681
-morimoto	chef	433679
-chef	iron	433679
-iron	chef	433679
-dining	experiences	433679
-japanese	food	433679
-food	japanese	433679
-experiences	dining	433679
-great	food	433679
-food	great	433679
-chef	morimoto	433679
-dining	experience	433679
-####389	3.0	433673	433675
-####388	5.0	433665	433672
-chef	iron	433670
-iron	chef	433670
-tasting	menu	433670
-pleasantly	surprised	433666
-toilet	seat	433666
-thoroughly	impressed	433665
-menu	tasting	433670
-####440	2.0	433959	433964
-culinary	experience	433959
-####441	5.0	433965	433970
-ginger	sauce	433966
-####442	1.0	433971	433990
-better	word	433983
-ball	rice	433984
-morimoto	sashimi	433987
-eel	sauce	433984
-different	sauces	433986
-ice	balls	433984
-sashimi	morimoto	433987
-different	sauce	433986
-sauces	different	433986
-rice	balls	433984
-balls	rice	433984
-####443	3.0	433991	433994
-sauce	spicy	433993
-pizza	tuna	433991
-rock	shrimp	433992
-rock	shrimp	433993
-rock	shrimp	433994
-amount	good	433991
-wasabi	sauce	433993
-enjoy	did	433994
-sauce	wasabi	433993
-spicy	sauce	433993
-tuna	pizza	433991
-good	amount	433991
-did	enjoy	433994
-####444	3.0	433995	433998
-####432	2.0	433938	433939
-king	crab	433939
-red	miso	433939
-half	shell	433939
-japanese	egg	433938
-japanese	eggplant	433938
-shell	half	433939
-crab	king	433939
-bass	sea	433938
-####433	1.0	433940	433944
-place	amazing	433944
-ice	cream	433940
-cream	ice	433940
-walk	away	433943
-cinnamon	apple	433940
-miso	soup	433943
-bento	box	433943
-japanese	place	433943
-place	best	433942
-away	walk	433943
-soup	miso	433943
-amazing	place	433944
-best	restaurant	433942
-place	japanese	433943
-best	place	433942
-teriyaki	beef	433943
-####434	1.0	433945	433946
-####435	4.0	433947	0
-####436	5.0	433948	433949
-rolls	salmon	433949
-mon	rolls	433949
-bento	box	433949
-spicy	salmon	433949
-incredibly	rich	433948
-salmon	rolls	433949
-####437	4.0	433950	0
-####438	3.0	433951	433954
-chef	iron	433952
-iron	chef	433952
-bento	box	433951
-chef	restaurant	433952
-####439	4.0	433955	433958
-king	crab	433955
-best	friend	433957
-broth	miso	433955
-recommend	highly	433957
-highly	recommend	433957
-cant	remember	433955
-cod	black	433955
-big	bowl	433955
-friend	best	433957
-king	spicy	433955
-miso	broth	433955
-black	cod	433955
-bowl	big	433955
-spicy	king	433955
-crab	king	433955
-####425	5.0	433919	433918
-####424	3.0	433907	0
-####427	3.0	433923	433926
-####426	3.0	433920	433922
-dish	came	433922
-tartar	tuna	433920
-came	dish	433922
-####429	4.0	433931	0
-####428	5.0	433927	433930
-came	dishes	433927
-yellow	tail	433929
-low	tail	433929
-dishes	came	433927
-tail	yellow	433929
-####431	3.0	433933	433937
-king	crab	433937
-pizza	tuna	433936
-king	spicy	433937
-spicy	king	433937
-tuna	pizza	433936
-crab	king	433937
-####430	1.0	433932	0
-####417	3.0	433861	433866
-king	crab	433866
-pizza	tuna	433866
-tuna	pizza	433866
-crab	king	433866
-####416	2.0	433848	433860
-amount	good	433858
-selection	good	433851
-fresh	tasted	433850
-good	amount	433858
-good	selection	433851
-####419	4.0	433872	433883
-chinese	food	433872
-restaurant	japanese	433873
-food	chinese	433872
-fusion	asian	433876
-authentic	japanese	433878
-asian	fusion	433876
-done	right	433876
-right	done	433876
-rest	japanese	433873
-bass	sea	433872
-japanese	authentic	433878
-japanese	restaurant	433873
-####418	1.0	433871	433870
-####421	2.0	433886	433890
-good	dessert	433889
-sashimi	salad	433887
-main	course	433887
-pretty	darn	433887
-darn	pretty	433887
-####420	4.0	433884	433885
-stars	food	433885
-stars	service	433885
-####423	3.0	433902	433906
-combo	great	433903
-super	close	433905
-great	combo	433903
-eat	combo	433903
-####422	3.0	433891	433901
-toro	tartare	433900
-tasting	menu	433898
-companion	dining	433901
-tartare	toro	433900
-kobe	beef	433901
-dining	companion	433901
-beef	bowl	433891
-menu	tasting	433898
+####0	4.0	458120	458135
+####1	2.0	458136	458141
+####2	3.0	458142	458147
+####3	2.0	458148	458157
+####4	5.0	458158	458162
+####5	1.0	458163	458174
+####6	2.0	458175	458177
+####7	3.0	458178	458185
+####8	3.0	458186	458191
+####9	5.0	458192	458206
+####10	4.0	458207	458212
+####11	2.0	458213	458220
+####12	4.0	458223	458230
+####13	4.0	458231	458235
+####14	5.0	458236	458237
+####15	3.0	458238	458245
+####17	2.0	458260	458265
+####16	2.0	458246	458259
+####19	4.0	458269	458273
+####18	3.0	458266	458268
+####21	2.0	458279	458298
+####20	3.0	458274	458278
+####23	4.0	458300	458324
+####22	5.0	458299	0
+####25	1.0	458332	458338
+####24	4.0	458325	458331
+####27	4.0	458344	458356
+####26	4.0	458339	458343
+####29	5.0	458363	458366
+####28	3.0	458357	458362
+####31	1.0	458373	458379
+####30	3.0	458367	458372
+####34	4.0	458399	458400
+####35	3.0	458401	458403
+####32	4.0	458380	458394
+####33	4.0	458395	458398
+####38	4.0	458427	458430
+####39	3.0	458431	458436
+####36	2.0	458404	458414
+####37	3.0	458415	458426
+####42	3.0	458450	458471
+####43	4.0	458472	458476
+####40	4.0	458437	458438
+####41	4.0	458439	458449
+####46	3.0	458489	458500
+####47	4.0	458501	458506
+####44	3.0	458477	458481
+####45	4.0	458482	458488
+####51	3.0	458549	458559
+####50	4.0	458537	458548
+####49	5.0	458520	458536
+####48	2.0	458507	458519
+####55	3.0	458601	458612
+####54	5.0	458596	458600
+####53	2.0	458571	458595
+####52	2.0	458560	458570
+####59	1.0	458639	458647
+####58	4.0	458633	458638
+####57	4.0	458616	458632
+####56	4.0	458613	458615
+####63	4.0	458667	458671
+####62	4.0	458664	458666
+####61	3.0	458654	458663
+####60	4.0	458648	458653
+####68	3.0	458715	458730
+####69	4.0	458731	458746
+####70	3.0	458747	458776
+####71	4.0	458777	458784
+####64	2.0	458672	458685
+####65	4.0	458686	458705
+####66	2.0	458706	458713
+####67	4.0	458714	0
+####76	4.0	458819	458834
+####77	4.0	458835	458840
+####78	3.0	458841	458844
+####79	3.0	458845	458860
+####72	4.0	458785	458802
+####73	2.0	458803	458807
+####74	5.0	458808	458815
+####75	4.0	458816	458818
+####85	4.0	458927	458945
+####84	4.0	458916	458926
+####87	1.0	458958	458966
+####86	3.0	458946	458957
+####81	3.0	458880	458888
+####80	4.0	458861	458879
+####83	5.0	458899	458915
+####82	2.0	458889	458898
+####93	4.0	459009	459015
+####92	4.0	459005	459008
+####95	3.0	459027	459041
+####94	3.0	459019	459026
+####89	4.0	458975	458977
+####88	2.0	458967	458974
+####91	2.0	458996	459004
+####90	3.0	458978	458995
+####102	4.0	459077	459086
+####103	4.0	459087	459094
+####100	4.0	459064	459069
+####101	4.0	459070	459076
+####98	3.0	459051	459057
+####99	4.0	459058	459063
+####96	2.0	459042	459047
+####97	4.0	459048	459050
+####110	4.0	459159	459175
+####111	1.0	459176	459185
+####108	4.0	459133	459141
+####109	5.0	459142	459158
+####106	4.0	459114	459122
+####107	4.0	459123	459132
+####104	3.0	459095	459103
+####105	3.0	459104	459113
+####119	5.0	459223	459228
+####118	2.0	459219	459222
+####117	4.0	459214	459218
+####116	2.0	459207	459213
+####115	4.0	459201	459206
+####114	2.0	459198	459200
+####113	4.0	459194	459197
+####112	5.0	459186	459193
+####127	2.0	459301	459307
+####126	4.0	459291	459300
+####125	4.0	459282	459290
+####124	4.0	459277	459281
+####123	3.0	459275	459276
+####122	3.0	459257	459274
+####121	3.0	459235	459249
+####120	2.0	459229	459234
+####137	4.0	459400	459405
+####136	3.0	459394	459399
+####139	3.0	459412	459415
+####138	4.0	459406	459411
+####141	4.0	459437	459451
+####140	3.0	459416	459436
+####143	4.0	459469	459476
+####142	3.0	459452	459468
+####129	4.0	459330	459339
+####128	3.0	459308	459329
+####131	5.0	459353	459359
+####130	4.0	459340	459352
+####133	4.0	459373	459379
+####132	3.0	459360	459372
+####135	3.0	459385	459393
+####134	3.0	459380	459384
+####152	4.0	459542	459546
+####153	4.0	459547	459553
+####154	4.0	459554	459571
+####155	4.0	459572	459586
+####156	3.0	459587	459588
+####157	4.0	459589	459591
+####158	1.0	459592	459599
+####159	3.0	459600	459602
+####144	4.0	459477	459482
+####145	4.0	459483	459491
+####146	4.0	459492	459496
+####147	3.0	459497	459506
+####148	4.0	459507	459511
+####149	2.0	459512	459513
+####150	3.0	459514	459538
+####151	4.0	459539	459541
+####171	3.0	459703	459709
+####170	4.0	459701	459702
+####169	5.0	459698	459700
+####168	3.0	459681	459697
+####175	3.0	459727	459733
+####174	3.0	459720	459726
+####173	2.0	459714	459719
+####172	4.0	459710	459713
+####163	3.0	459618	459620
+####162	2.0	459614	459617
+####161	2.0	459609	459613
+####160	4.0	459603	459608
+####167	5.0	459668	459680
+####166	3.0	459645	459667
+####165	1.0	459641	459644
+####164	3.0	459621	459640
+####186	4.0	459823	459828
+####187	3.0	459829	459831
+####184	3.0	459808	459810
+####185	3.0	459811	459822
+####190	2.0	459858	459860
+####191	3.0	459861	459867
+####188	3.0	459832	459854
+####189	4.0	459855	459857
+####178	4.0	459768	459780
+####179	2.0	459781	459787
+####176	4.0	459734	459742
+####177	1.0	459743	459767
+####182	1.0	459800	459802
+####183	2.0	459803	459807
+####180	3.0	459788	0
+####181	4.0	459789	459799
+####205	1.0	459968	459994
+####207	5.0	459998	460015
+####206	3.0	459995	459997
+####201	2.0	459946	459948
+####200	3.0	459945	459944
+####203	3.0	459954	459967
+####202	3.0	459949	459953
+####197	3.0	459911	459913
+####196	3.0	459904	459910
+####199	2.0	459919	459932
+####198	3.0	459914	459918
+####193	2.0	459883	459885
+####192	3.0	459868	459882
+####195	3.0	459894	459903
+####194	4.0	459886	459893
+####220	4.0	460110	460140
+menu	good	460121
+good	solid	460123
+heirloom	tomato	460124
+rating	star	460114
+rare	medium	460129
+overall	rating	460117
+ago	years	460111
+pretty	packed	460120
+dining	area	460111
+star	rating	460114
+bar	area	460120
+bar	area	460133
+nice	atmosphere	460115
+write	home	460122
+private	dining	460111
+solid	choice	460123
+regular	spot	460112
+new	friends	460138
+location	great	460115
+fries	garlic	460130
+tar	rating	460114
+bit	late	460125
+good	meal	460123
+solid	good	460123
+area	dining	460111
+garlic	fries	460130
+good	menu	460121
+regular	menu	460123
+took	forever	460118
+forever	took	460118
+great	location	460115
+rare	side	460129
+eat	location	460115
+food	order	460119
+order	food	460119
+atmosphere	nice	460115
+friends	new	460138
+years	ago	460111
+spotty	service	460117
+ice	atmosphere	460115
+packed	pretty	460120
+tomato	salad	460124
+area	bar	460133
+area	bar	460120
+####221	3.0	460141	460147
+mac	best	460143
+paying	attention	460147
+hard	way	460146
+best	mac	460143
+tad	bit	460143
+attention	paying	460147
+####222	5.0	460148	460153
+hour	happy	460148
+happy	hour	460148
+friendly	super	460150
+super	friendly	460150
+incredibly	tasty	460152
+####223	3.0	460154	460157
+isn	place	460156
+going	worth	460157
+worth	going	460157
+####216	4.0	460066	460078
+####217	2.0	460095	460094
+####218	3.0	460096	460100
+took	half	460099
+good	food	460096
+good	pretty	460097
+pretty	good	460097
+quality	high	460100
+food	good	460096
+high	quality	460100
+multiple	times	460097
+lunch	experience	460100
+####219	2.0	460101	460109
+pretty	disappointed	460104
+roast	chicken	460103
+came	food	460107
+two	people	460103
+order	people	460103
+food	came	460107
+disappointed	pretty	460104
+overpriced	way	460107
+people	ordered	460103
+pie	pot	460103
+chicken	roast	460103
+pot	pie	460103
+people	two	460103
+####212	4.0	460034	460040
+####213	3.0	460041	460050
+####214	1.0	460051	460060
+####215	4.0	460061	460065
+####208	2.0	460016	460019
+####209	5.0	460020	460022
+####210	4.0	460023	460026
+####211	4.0	460027	460033
+####239	1.0	460276	460283
+words	two	460276
+two	words	460276
+high	pretty	460283
+pretty	high	460283
+food	isn	460277
+isn	food	460277
+noise	level	460283
+####238	2.0	460275	460274
+####237	3.0	460254	460267
+quick	bite	460265
+sandwich	cheese	460260
+sandwich	cheese	460256
+grilled	cheese	460256
+grilled	cheese	460260
+spot	great	460265
+hour	happy	460266
+happy	hour	460266
+hard	bit	460258
+hard	bit	460262
+bite	quick	460265
+bar	menu	460266
+side	salad	460260
+super	thick	460262
+tomato	soup	460260
+great	spot	460265
+super	quick	460263
+sandwich	came	460262
+extra	plates	460264
+looks	menu	460266
+cheese	grilled	460260
+cheese	grilled	460256
+soup	tomato	460260
+crumbs	bread	460259
+salad	side	460260
+decided	finally	460255
+looks	good	460266
+finally	decided	460255
+quick	super	460263
+pretty	tasty	460259
+bit	hard	460258
+bit	hard	460262
+tasty	pretty	460259
+decent	pretty	460254
+eat	hard	460262
+great	cheese	460257
+thick	super	460262
+cheese	sandwich	460256
+cheese	sandwich	460260
+####236	5.0	460245	460253
+nice	presentation	460250
+excellent	service	460245
+potatoes	mashed	460248
+cooked	perfectly	460248
+roast	pot	460248
+thursday	night	460252
+mashed	potatoes	460248
+nice	balance	460251
+excellent	food	460245
+presentation	nice	460250
+come	definitely	460253
+sauce	mustard	460250
+ice	balance	460251
+pot	roast	460248
+perfectly	cooked	460248
+night	thursday	460252
+mustard	sauce	460250
+definitely	come	460253
+balance	nice	460251
+####235	2.0	460230	460244
+giants	game	460230
+cigars	mushroom	460235
+cheese	taste	460243
+cheese	burger	460239
+decent	service	460231
+selection	beer	460233
+duck	confit	460238
+beer	selection	460233
+blue	cheese	460239
+blue	cheese	460241
+blue	cheese	460242
+blue	cheese	460243
+confit	duck	460238
+####234	2.0	460227	460229
+giants	game	460229
+list	wine	460228
+wine	list	460228
+####233	3.0	460221	460226
+quick	bite	460226
+nice	spot	460226
+nice	presentation	460222
+bite	quick	460226
+hanger	steak	460223
+hanger	steak	460224
+presentation	nice	460222
+wasn	sauce	460225
+rare	burger	460226
+good	seasoning	460226
+####232	4.0	460214	460220
+sandwich	cheese	460214
+sandwich	cheese	460216
+calamari	fried	460219
+grilled	cheese	460214
+grilled	cheese	460216
+fried	calamari	460219
+best	grilled	460214
+bread	toasted	460217
+right	amount	460217
+tomato	soup	460215
+cheese	grilled	460214
+cheese	grilled	460216
+toasted	bread	460217
+soup	tomato	460215
+two	people	460215
+fries	garlic	460217
+amount	right	460217
+garlic	fries	460217
+caesar	salad	460219
+melted	cheddar	460217
+people	two	460215
+cheese	sandwich	460214
+cheese	sandwich	460216
+####231	3.0	460211	460213
+cigars	mushroom	460211
+pretty	standard	460212
+standard	fare	460212
+meatball	sandwich	460212
+garlic	aioli	460211
+standard	pretty	460212
+aioli	garlic	460211
+fare	standard	460212
+####230	4.0	460200	460210
+great	people	460200
+grilled	cheese	460205
+hour	happy	460208
+happy	hour	460208
+place	good	460210
+tomato	soup	460205
+definitely	try	460208
+great	food	460200
+absolutely	worth	460209
+love	personally	460207
+looks	menu	460208
+cheese	grilled	460205
+food	great	460200
+full	dinner	460209
+soup	tomato	460205
+personally	love	460207
+try	definitely	460208
+good	place	460210
+looks	great	460208
+dinner	full	460209
+people	great	460200
+worth	absolutely	460209
+perfect	location	460200
+####229	4.0	460188	460199
+american	food	460191
+grilled	cheese	460190
+grilled	cheese	460192
+grilled	cheese	460199
+back	going	460189
+tomato	soup	460193
+perfect	combo	460195
+delicious	place	460188
+san	chicken	460190
+cheese	grilled	460192
+cheese	grilled	460190
+cheese	grilled	460199
+mouth	watering	460197
+soup	tomato	460193
+combo	perfect	460195
+sandwich	chicken	460190
+going	back	460189
+fish	tacos	460190
+bbq	chicken	460190
+fellow	diners	460192
+place	delicious	460188
+chicken	bbq	460190
+chicken	sandwich	460190
+####228	3.0	460183	460187
+night	friday	460186
+friday	night	460186
+eating	people	460186
+nice	environment	460183
+people	eating	460186
+eat	people	460186
+####227	4.0	460177	460182
+tuesday	evening	460178
+place	nice	460182
+cake	crab	460180
+spicy	crab	460180
+nice	place	460182
+crab	cake	460180
+wait	staff	460178
+staff	wait	460178
+enjoy	did	460179
+enjoy	food	460179
+did	enjoy	460179
+####226	3.0	460168	460176
+grilled	cheese	460173
+grilled	cheese	460176
+favorite	spot	460169
+wedge	salad	460173
+grey	earl	460172
+cheese	grilled	460176
+cheese	grilled	460173
+spot	favorite	460169
+fries	garlic	460173
+garlic	fries	460173
+long	island	460172
+earl	grey	460172
+limited	menu	460175
+####225	4.0	460167	0
+####224	3.0	460158	460166
+green	beans	460162
+super	close	460158
+soup	onion	460165
+rich	food	460161
+fast	service	460159
+service	fast	460159
+french	onion	460165
+sauce	spicy	460163
+onion	soup	460165
+soo	good	460162
+good	soo	460162
+bean	green	460162
+pie	pot	460165
+spicy	sauce	460163
+onion	french	460165
+pot	pie	460165
+beans	green	460162
+grab	dinner	460158
+####254	2.0	460389	460392
+sports	bar	460389
+ten	minutes	460390
+minutes	ten	460390
+located	near	460389
+####252	3.0	460368	460375
+hour	happy	460370
+happy	hour	460370
+kick	spicy	460373
+come	back	460370
+spicy	kick	460373
+wing	chicken	460372
+rings	onion	460371
+rings	onion	460372
+different	appetizers	460371
+special	request	460374
+customer	service	460374
+back	come	460370
+delicious	wings	460372
+service	customer	460374
+####253	2.0	460376	460388
+slices	two	460378
+iced	tea	460386
+hanger	steak	460382
+small	portions	460381
+away	blocks	460387
+two	slices	460378
+experience	good	460377
+blocks	away	460387
+food	took	460385
+good	experience	460377
+tea	iced	460386
+took	food	460385
+horrible	service	460384
+####250	3.0	460364	460366
+quality	food	460364
+food	comfort	460365
+huge	fan	460365
+comfort	food	460365
+food	quality	460364
+fan	huge	460365
+####251	3.0	460367	0
+####248	1.0	460348	460357
+great	dining	460357
+place	sucks	460349
+meal	came	460355
+white	table	460350
+dining	great	460357
+came	meal	460355
+sucks	place	460349
+####249	3.0	460358	460363
+people	come	460359
+come	people	460359
+####246	1.0	460335	460343
+given	menu	460338
+hours	four	460341
+entire	place	460341
+four	hours	460341
+negative	reviews	460336
+####247	3.0	460344	460347
+super	duper	460344
+decided	place	460344
+try	place	460344
+duper	super	460344
+place	decided	460344
+####244	3.0	460321	460331
+food	did	460321
+good	food	460322
+did	food	460321
+food	service	460321
+gotta	say	460326
+say	gotta	460326
+bit	different	460323
+duck	confit	460325
+food	good	460322
+confit	duck	460325
+service	food	460321
+different	bit	460323
+####245	4.0	460332	460334
+grilled	cheese	460332
+grilled	cheese	460333
+attentive	waiter	460334
+cheese	grilled	460332
+cheese	grilled	460333
+attentive	wait	460334
+####242	4.0	460308	460315
+date	night	460315
+house	made	460310
+roast	pot	460311
+night	date	460315
+expensive	side	460314
+great	atmosphere	460313
+made	house	460310
+years	new	460308
+years	new	460309
+dinner	menu	460309
+eat	atmosphere	460313
+atmosphere	great	460313
+side	expensive	460314
+pot	roast	460311
+menu	dinner	460309
+new	years	460308
+new	years	460309
+bit	expensive	460314
+expensive	bit	460314
+ate	night	460315
+####243	3.0	460316	460320
+decent	food	460316
+great	place	460316
+average	food	460320
+nice	bar	460320
+isn	place	460318
+forever	take	460318
+going	worth	460316
+worth	going	460316
+francisco	san	460316
+take	forever	460318
+place	great	460316
+####240	2.0	460284	460304
+jus	tasted	460301
+place	bad	460291
+white	bean	460299
+bad	place	460291
+good	friends	460291
+friendly	people	460292
+sour	cream	460303
+people	friendly	460292
+fish	tacos	460299
+fish	tacos	460302
+chicken	skewers	460299
+chicken	skewers	460301
+wasn	food	460288
+friends	good	460291
+outdoor	seating	460288
+seating	outdoor	460288
+####241	3.0	460305	460307
+crowded	gets	460307
+fries	garlic	460306
+excellent	choice	460305
+garlic	fries	460306
+gets	crowded	460307
+quality	cheese	460305
+####275	3.0	460520	460521
+sandwich	cheese	460520
+grilled	cheese	460520
+cheese	grilled	460520
+cheese	sandwich	460520
+####274	3.0	460516	460519
+####272	4.0	460511	460515
+grilled	cheese	460512
+tomato	soup	460512
+nice	atmosphere	460513
+cheese	grilled	460512
+soup	tomato	460512
+atmosphere	nice	460513
+####279	3.0	460554	460561
+decent	food	460558
+grilled	cheese	460559
+fabulous	service	460561
+decent	place	460560
+cheese	grilled	460559
+took	forever	460554
+took	forever	460556
+took	forever	460557
+forever	took	460554
+forever	took	460556
+forever	took	460557
+wasn	service	460554
+took	food	460555
+####278	4.0	460550	460553
+noise	level	460551
+####277	2.0	460528	460549
+quality	food	460533
+back	going	460547
+come	back	460546
+food	service	460531
+food	service	460533
+monday	night	460535
+francisco	san	460543
+going	back	460547
+back	come	460546
+food	quality	460533
+stars	two	460532
+service	food	460531
+service	food	460533
+two	stars	460532
+####276	4.0	460522	460527
+good	overall	460527
+grilled	cheese	460524
+hour	happy	460523
+happy	hour	460523
+overall	good	460527
+cheese	grilled	460524
+area	patio	460522
+good	spot	460527
+patio	area	460522
+spot	good	460527
+####283	3.0	460575	460577
+spot	great	460577
+good	pretty	460576
+great	spot	460577
+pretty	good	460576
+tuna	burger	460576
+nice	weather	460577
+burger	tuna	460576
+####282	4.0	460570	460574
+hour	lunch	460570
+hour	lunch	460571
+side	pricey	460574
+location	great	460574
+pricey	side	460574
+great	location	460574
+salmon	salad	460573
+lunch	hour	460570
+lunch	hour	460571
+####281	4.0	460567	460569
+grilled	cheese	460568
+cheese	grilled	460568
+area	patio	460567
+patio	area	460567
+####280	4.0	460562	460566
+crispy	chicken	460563
+come	back	460566
+roast	chicken	460562
+back	come	460566
+chicken	roast	460562
+####287	5.0	460615	0
+####286	5.0	460604	460614
+music	live	460614
+fries	garlic	460607
+garlic	fries	460607
+love	place	460604
+live	music	460614
+####285	1.0	460594	460603
+quick	dinner	460595
+####284	1.0	460578	460593
+sandwich	turkey	460591
+poor	service	460585
+menu	special	460579
+turkey	sandwich	460591
+take	home	460591
+dinner	special	460591
+special	dinner	460591
+special	menu	460579
+contact	eye	460583
+home	take	460591
+####258	1.0	460405	460406
+hour	happy	460406
+happy	hour	460406
+mediocre	food	460406
+####259	4.0	460407	460411
+giants	game	460407
+giants	game	460411
+special	trip	460411
+came	away	460407
+place	got	460408
+steamed	mussels	460409
+got	place	460408
+come	definitely	460411
+attentive	extremely	460408
+definitely	come	460411
+extremely	attentive	460408
+trip	special	460411
+####256	4.0	460393	460403
+giants	game	460395
+place	good	460400
+place	good	460395
+good	ass	460393
+good	ass	460396
+good	ass	460399
+steamed	mussels	460393
+steamed	mussels	460401
+good	place	460395
+good	place	460400
+staff	friendly	460394
+friendly	staff	460394
+####257	4.0	460404	0
+####262	4.0	460432	460433
+green	beans	460432
+calamari	fried	460432
+fried	calamari	460432
+fried	green	460432
+beans	green	460432
+####263	4.0	460434	460445
+rating	star	460439
+friendly	super	460441
+roast	pot	460434
+star	rating	460439
+wine	selection	460440
+bbq	great	460436
+super	friendly	460441
+tar	rating	460439
+great	bbq	460436
+eat	bbq	460436
+pot	roast	460434
+selection	wine	460440
+real	bbq	460437
+finding	parking	460445
+####260	4.0	460412	460423
+giants	game	460412
+busy	super	460414
+sized	good	460422
+cigars	mushroom	460416
+away	right	460413
+night	friday	460412
+night	friday	460414
+roasted	chicken	460419
+friday	night	460412
+friday	night	460414
+good	sized	460422
+juicy	super	460419
+right	seated	460413
+right	away	460413
+super	busy	460414
+seated	right	460413
+reservation	made	460412
+bell	pepper	460417
+blue	cheese	460421
+seasoned	nicely	460419
+super	juicy	460419
+fried	onion	460417
+nicely	seasoned	460419
+deep	fried	460417
+####261	4.0	460424	460431
+grilled	cheese	460427
+tomato	soup	460427
+good	pretty	460424
+pretty	good	460424
+cheese	grilled	460427
+list	wine	460425
+soup	tomato	460427
+real	actually	460426
+cakes	crab	460427
+wine	list	460425
+actually	pretty	460424
+pretty	actually	460424
+wine	house	460425
+house	wine	460425
+####266	3.0	460466	460488
+delicious	absolutely	460469
+cigars	mushroom	460468
+grilled	cheese	460470
+grilled	cheese	460472
+ears	pig	460468
+better	made	460481
+side	salad	460473
+place	nice	460467
+ice	place	460467
+cheese	grilled	460470
+cheese	grilled	460472
+nice	server	460474
+salad	side	460473
+bit	pricey	460485
+say	least	460478
+special	occasion	460486
+occasion	special	460486
+good	service	460475
+order	dessert	460485
+nice	place	460467
+crispy	pig	460468
+regular	basis	460485
+made	better	460481
+service	good	460475
+least	say	460478
+pricey	bit	460485
+absolutely	delicious	460469
+dessert	order	460485
+pig	crispy	460468
+####267	3.0	460489	460490
+walk	away	460489
+away	walk	460489
+####264	4.0	460446	460462
+decent	size	460448
+cigars	mushroom	460451
+grilled	cheese	460455
+place	nice	460462
+ice	place	460462
+tomato	soup	460457
+great	food	460462
+delicious	food	460447
+cheese	grilled	460455
+soup	tomato	460457
+fries	garlic	460448
+garlic	fries	460448
+right	place	460456
+nice	place	460462
+food	delicious	460447
+right	places	460456
+wasn	service	460460
+decent	pretty	460448
+cheese	sandwich	460455
+####265	2.0	460463	460465
+happy	hour	460463
+fifteen	minutes	460465
+slow	service	460464
+####270	4.0	460495	460504
+giants	game	460495
+great	place	460495
+potatoes	mashed	460501
+potatoe	mashed	460501
+roasted	chicken	460499
+good	food	460496
+roast	pot	460499
+sides	good	460498
+good	sides	460498
+potato	mashed	460501
+perfectly	seasoned	460500
+mashed	potatoes	460501
+high	prices	460497
+pot	mashed	460501
+meal	nice	460504
+pot	roast	460499
+seasoned	perfectly	460500
+place	great	460495
+nice	meal	460504
+####271	3.0	460505	460510
+creative	dishes	460510
+business	lunch	460510
+meatball	sandwich	460509
+entire	table	460509
+melted	cheese	460509
+cheese	melted	460509
+ordered	table	460509
+creative	dish	460510
+table	ordered	460509
+lunch	business	460510
+####268	3.0	460491	0
+####269	4.0	460492	460494
+sandwich	cheese	460492
+grilled	cheese	460492
+empty	stomach	460492
+tomato	soup	460492
+private	dining	460494
+cheese	grilled	460492
+soup	tomato	460492
+room	dining	460494
+dining	room	460494
+cheese	sandwich	460492
+####305	5.0	460729	460733
+bad	experience	460730
+hanger	steak	460731
+roast	pot	460732
+good	pretty	460733
+pretty	good	460733
+good	service	460730
+pot	roast	460732
+service	good	460730
+experience	bad	460730
+####304	4.0	460723	460728
+iced	tea	460727
+good	pretty	460728
+pretty	good	460728
+tea	iced	460727
+####307	4.0	460738	460748
+pudding	bread	460745
+bread	pudding	460745
+####306	5.0	460734	460737
+back	went	460737
+roast	pot	460735
+went	back	460737
+pot	roast	460735
+####309	4.0	460751	460752
+great	atmosphere	460751
+good	drinks	460751
+atmosphere	great	460751
+makes	place	460752
+####308	4.0	460749	460750
+mac	best	460749
+outdoor	patio	460750
+patio	outdoor	460750
+best	macaroni	460749
+####311	4.0	460754	460755
+good	food	460754
+food	good	460754
+nice	evening	460755
+interesting	combination	460754
+####310	4.0	460753	0
+####313	3.0	460766	460775
+giants	game	460770
+extra	mile	460774
+####312	4.0	460756	460765
+place	nice	460763
+ice	place	460763
+went	recently	460756
+waiter	took	460761
+recently	went	460756
+dinner	menu	460758
+special	occasion	460763
+occasion	special	460763
+nice	place	460763
+great	environment	460764
+menu	dinner	460758
+took	waiter	460761
+####315	3.0	460778	460781
+good	food	460779
+place	nice	460778
+ice	place	460778
+did	server	460779
+job	good	460779
+nice	place	460778
+food	good	460779
+good	job	460779
+####314	3.0	460776	460777
+star	two	460776
+back	going	460776
+two	star	460776
+going	back	460776
+####317	4.0	460785	460787
+giants	game	460785
+grilled	cheese	460786
+grilled	cheese	460787
+cheese	grilled	460786
+cheese	grilled	460787
+say	honestly	460787
+honestly	say	460787
+####316	4.0	460782	460784
+great	place	460784
+french	bread	460783
+bread	french	460783
+good	choices	460784
+place	great	460784
+choices	good	460784
+####319	3.0	460795	460798
+place	makes	460795
+makes	place	460795
+####318	4.0	460788	460794
+food	comfort	460793
+soup	onion	460792
+fries	garlic	460791
+french	onion	460792
+francisco	san	460791
+onion	soup	460792
+garlic	fries	460791
+comfort	food	460793
+burger	fan	460791
+onion	french	460792
+####288	4.0	460616	460623
+hit	spot	460619
+spot	hit	460619
+way	perfect	460622
+side	order	460621
+perfect	way	460622
+order	side	460621
+seasoned	nicely	460620
+shoestring	fries	460621
+nicely	seasoned	460620
+####289	2.0	460624	460629
+bus	boy	460625
+####290	3.0	460630	460640
+different	story	460634
+presentation	food	460635
+totally	different	460634
+story	different	460634
+large	selection	460634
+new	friends	460630
+recommend	highly	460637
+highly	recommend	460637
+wine	house	460633
+friends	new	460630
+place	perfect	460638
+food	presentation	460635
+decent	pretty	460631
+selection	large	460634
+perfect	place	460638
+different	totally	460634
+house	wine	460633
+####291	4.0	460641	460645
+mixed	greens	460643
+grilled	cheese	460643
+good	food	460641
+tomato	soup	460643
+good	pretty	460641
+pretty	good	460641
+cheese	grilled	460643
+priced	reasonably	460642
+peak	times	460642
+soup	tomato	460643
+amazing	dessert	460644
+food	good	460641
+easy	pretty	460642
+reasonably	priced	460642
+brittle	peanut	460644
+times	peak	460642
+####292	3.0	460646	460652
+great	place	460646
+eat	place	460646
+dining	experience	460650
+experience	dining	460650
+place	great	460646
+####293	3.0	460653	460660
+hour	happy	460655
+happy	hour	460655
+place	good	460660
+jus	back	460658
+skinny	fries	460656
+good	place	460660
+good	drink	460660
+red	appetizers	460653
+####294	4.0	460661	460668
+giants	game	460662
+grilled	cheese	460664
+ago	years	460661
+tomato	soup	460664
+reasonable	prices	460663
+prices	reasonable	460663
+sick	got	460661
+cheese	grilled	460664
+soup	tomato	460664
+overpriced	way	460666
+got	sick	460661
+years	ago	460661
+####295	1.0	460669	460674
+giants	game	460671
+saturday	night	460672
+night	saturday	460672
+####296	3.0	460675	460679
+better	options	460676
+bomb	pretty	460677
+bar	menu	460676
+good	pretty	460678
+pretty	good	460678
+pretty	looked	460678
+dinner	menu	460676
+looked	pretty	460678
+sliders	pork	460677
+menu	dinner	460676
+pretty	tasty	460679
+pork	sliders	460677
+tasty	pretty	460679
+options	better	460676
+####297	4.0	460680	460685
+####298	4.0	460686	460699
+finally	got	460694
+got	finally	460694
+nice	pretty	460689
+came	food	460696
+tapas	style	460694
+food	came	460696
+pretty	nice	460689
+told	waitress	460698
+large	fairly	460693
+style	tapas	460694
+waitress	told	460698
+fairly	large	460693
+####299	3.0	460700	460703
+great	people	460701
+hour	happy	460700
+happy	hour	460700
+people	great	460701
+eat	people	460701
+####300	4.0	460704	460706
+giants	game	460704
+####301	4.0	460707	460709
+great	place	460707
+eat	place	460707
+nice	weather	460709
+place	great	460707
+####302	4.0	460710	460716
+nice	ambience	460716
+heat	lamps	460714
+heat	lamps	460715
+eat	lamps	460714
+eat	lamps	460715
+####303	3.0	460717	460722
+decent	restaurant	460719
+####343	2.0	460899	460905
+giants	game	460899
+times	good	460899
+good	times	460899
+meal	delicious	460904
+come	back	460905
+back	come	460905
+delicious	meal	460904
+####342	3.0	460896	460898
+####341	4.0	460893	460895
+lunch	menu	460894
+keep	coming	460894
+back	coming	460894
+coming	back	460894
+menu	lunch	460894
+####340	2.0	460892	0
+####339	5.0	460887	460891
+fabulous	place	460887
+best	bbq	460889
+bbq	best	460889
+friendly	service	460890
+great	atmosphere	460890
+atmosphere	great	460890
+####338	4.0	460886	0
+####337	3.0	460884	460885
+bar	area	460885
+area	bar	460885
+####336	3.0	460880	460883
+great	place	460880
+average	food	460881
+friendly	service	460882
+service	friendly	460882
+close	live	460880
+place	great	460880
+live	close	460880
+####351	3.0	460947	460950
+big	fan	460950
+fan	big	460950
+####350	3.0	460938	460946
+seat	outdoor	460938
+sea	outdoor	460938
+tortillas	corn	460942
+come	back	460943
+nice	pretty	460938
+pudding	bread	460943
+door	seating	460938
+interesting	food	460940
+pretty	nice	460938
+fish	tacos	460941
+back	come	460943
+bread	pudding	460943
+outdoor	seating	460938
+seating	outdoor	460938
+####349	3.0	460932	460937
+doesn	place	460937
+outdoor	seating	460935
+seating	outdoor	460935
+####348	3.0	460929	460931
+better	deal	460931
+nearby	restaurant	460931
+deal	better	460931
+####347	3.0	460920	460928
+decent	food	460920
+better	options	460928
+garlic	butter	460924
+potatoes	mashed	460927
+potatoe	mashed	460927
+roasted	chicken	460925
+good	pretty	460927
+good	pretty	460921
+pretty	good	460921
+pretty	good	460927
+potato	mashed	460927
+mashed	potatoes	460927
+surprisingly	good	460923
+good	surprisingly	460923
+steamed	mussels	460923
+pot	mashed	460927
+fries	garlic	460921
+white	wine	460924
+garlic	fries	460921
+butter	garlic	460924
+caesar	salad	460922
+decent	pretty	460920
+options	better	460928
+####346	2.0	460917	460919
+live	right	460918
+####345	3.0	460910	460914
+good	food	460912
+food	good	460912
+####344	3.0	460906	460909
+giants	game	460909
+decent	food	460907
+good	service	460907
+seating	area	460909
+service	good	460907
+area	seating	460909
+####326	3.0	460814	460820
+green	beans	460815
+decent	food	460814
+flank	steak	460818
+flank	steak	460819
+order	friend	460817
+friend	ordered	460817
+ones	better	460816
+bean	green	460815
+better	ones	460816
+end	ordered	460817
+beans	green	460815
+ordered	friend	460817
+####327	2.0	460821	460823
+grilled	cheese	460821
+salad	chicken	460821
+cheese	grilled	460821
+chicken	salad	460821
+meh	food	460822
+####324	4.0	460811	460812
+giants	game	460811
+grilled	cheese	460812
+place	better	460811
+better	place	460811
+cheese	grilled	460812
+####325	2.0	460813	0
+####322	2.0	460805	460807
+great	place	460805
+away	blocks	460807
+point	price	460806
+place	great	460805
+####323	4.0	460808	460810
+grilled	cheese	460810
+spot	great	460808
+tomato	soup	460810
+great	spot	460808
+cheese	grilled	460810
+eat	bite	460808
+soup	tomato	460810
+nice	lunch	460809
+fish	tacos	460810
+eat	spot	460808
+####320	3.0	460799	460803
+####321	1.0	460804	0
+####334	2.0	460859	460870
+end	restaurants	460859
+type	dish	460859
+grilled	fish	460859
+hanger	steak	460865
+roasted	chicken	460859
+roast	pot	460863
+standard	fare	460859
+appetizer	tuna	460859
+tuna	appetizer	460859
+slow	service	460860
+asking	kept	460861
+actually	thought	460865
+thought	actually	460865
+pot	roast	460863
+lacked	flavor	460867
+end	restaurant	460859
+fish	grilled	460859
+fare	standard	460859
+extremely	crowded	460862
+####335	3.0	460871	460879
+party	birthday	460874
+large	parties	460877
+large	parties	460878
+good	food	460878
+saturday	nights	460873
+parties	large	460877
+parties	large	460878
+birthday	party	460874
+part	large	460877
+part	large	460878
+food	good	460878
+priced	moderately	460871
+night	saturday	460873
+####332	3.0	460846	460848
+grilled	cheese	460846
+grilled	cheese	460847
+business	lunch	460846
+good	pretty	460846
+special	fish	460846
+cheese	grilled	460846
+cheese	grilled	460847
+fish	special	460846
+lunch	business	460846
+####333	3.0	460849	460858
+rating	star	460856
+giants	game	460849
+sauce	aioli	460853
+string	beans	460853
+aioli	sauce	460853
+small	size	460855
+calamari	appetizer	460853
+star	rating	460856
+tar	rating	460856
+nice	spice	460855
+nice	selection	460851
+string	fried	460853
+three	star	460856
+size	small	460855
+fried	string	460853
+beans	string	460853
+please	yes	460851
+star	three	460856
+deep	fried	460853
+####330	4.0	460831	460834
+overall	great	460834
+experience	overall	460834
+great	overall	460834
+overall	experience	460834
+####331	3.0	460835	460845
+cigars	mushroom	460841
+good	food	460839
+good	pretty	460839
+pretty	good	460839
+empty	tables	460836
+got	fries	460842
+doesn	restaurant	460843
+####328	3.0	460824	460825
+write	home	460824
+best	seat	460825
+####329	2.0	460826	460830
+####373	3.0	461101	461108
+pulled	pork	461104
+way	right	461107
+food	comfort	461107
+experience	better	461101
+better	experience	461101
+surprisingly	good	461103
+good	surprisingly	461103
+experience	good	461103
+pork	pulled	461104
+right	way	461107
+comfort	food	461107
+good	experience	461103
+standing	room	461107
+####372	3.0	461099	461100
+plus	big	461099
+cookie	sandwich	461100
+sweet	treat	461100
+recommend	highly	461100
+highly	recommend	461100
+treat	sweet	461100
+big	plus	461099
+####375	4.0	461128	461130
+wedge	salad	461129
+roasted	chicken	461129
+good	pretty	461130
+pretty	good	461130
+####374	4.0	461109	461127
+properly	cooked	461115
+stars	four	461126
+banana	split	461120
+fries	french	461124
+chocolate	sauce	461121
+french	fries	461124
+high	price	461115
+price	high	461115
+party	large	461110
+dining	area	461110
+hanger	steak	461113
+cooked	perfectly	461113
+pasta	dish	461125
+wedge	salad	461111
+wedge	salad	461112
+looked	delicious	461124
+delicious	looked	461124
+reviews	star	461123
+dishes	pasta	461125
+private	dining	461110
+large	party	461110
+two	different	461125
+different	two	461125
+pasta	dishes	461125
+ice	cream	461121
+cream	ice	461121
+area	dining	461110
+excellent	choice	461113
+high	rice	461115
+sure	make	461116
+perfectly	cooked	461113
+four	stars	461126
+sauce	chocolate	461121
+blue	cheese	461111
+star	reviews	461123
+split	banana	461120
+make	sure	461116
+dish	pasta	461125
+####369	3.0	461081	461086
+overpriced	bit	461085
+cigars	mushroom	461083
+great	place	461086
+eat	place	461086
+special	lunch	461086
+definitely	try	461083
+try	definitely	461083
+lunch	special	461086
+place	great	461086
+####368	3.0	461075	461080
+mind	coming	461080
+coming	mind	461080
+fries	garlic	461076
+baked	mac	461076
+baked	mac	461077
+back	coming	461080
+garlic	fries	461076
+coming	back	461080
+####371	3.0	461094	461098
+potatoes	mashed	461097
+potatoe	mashed	461097
+roasted	chicken	461098
+roast	pot	461097
+potato	mashed	461097
+mashed	potatoes	461097
+friend	ordered	461098
+took	friend	461094
+spinach	sauteed	461098
+pot	roast	461097
+sauteed	spinach	461098
+ordered	friend	461098
+friend	took	461094
+####370	4.0	461087	461093
+good	solid	461093
+watching	people	461090
+roast	chicken	461089
+solid	good	461093
+mediocre	food	461087
+food	reviews	461087
+solid	food	461093
+chicken	roast	461089
+food	solid	461093
+####381	5.0	461148	461150
+grilled	cheese	461150
+friendly	super	461148
+delicious	food	461148
+cheese	grilled	461150
+location	great	461148
+super	friendly	461148
+great	location	461148
+food	delicious	461148
+friendly	wait	461148
+####380	2.0	461141	461147
+grilled	cheese	461144
+cheese	grilled	461144
+big	fan	461146
+best	part	461144
+selection	beer	461141
+wasn	food	461144
+beer	selection	461141
+food	wasn	461144
+part	best	461144
+fan	big	461146
+####383	4.0	461166	461167
+patio	seating	461166
+####382	4.0	461151	461159
+san	cream	461158
+tasty	food	461153
+made	reservations	461152
+hanger	steak	461154
+food	tasty	461153
+experience	good	461159
+cream	sandwich	461158
+reservations	made	461152
+sandwich	cream	461158
+good	service	461153
+good	experience	461159
+####377	3.0	461132	461133
+great	place	461133
+eat	place	461133
+place	great	461133
+####376	4.0	461131	0
+####379	4.0	461136	461140
+back	going	461140
+guests	town	461137
+going	back	461140
+keep	going	461140
+town	guests	461137
+####378	2.0	461134	461135
+good	bar	461135
+bar	good	461135
+worth	visiting	461134
+better	food	461134
+food	better	461134
+####356	2.0	461010	461012
+satisfying	meal	461012
+####357	3.0	461013	461014
+okay	food	461013
+location	great	461014
+great	location	461014
+eat	location	461014
+####358	2.0	461015	461021
+menu	dessert	461018
+menu	dessert	461019
+back	going	461020
+done	right	461021
+going	back	461020
+good	service	461017
+dessert	menu	461018
+dessert	menu	461019
+service	good	461017
+right	done	461021
+check	came	461018
+came	check	461018
+####359	2.0	461022	461038
+ago	years	461022
+mac	best	461036
+taking	care	461023
+amount	good	461025
+good	pretty	461025
+good	sides	461034
+pretty	good	461025
+ahi	tuna	461032
+good	amount	461025
+mouth	watering	461029
+jose	san	461022
+tuna	ahi	461032
+best	mac	461036
+tar	tuna	461032
+years	ago	461022
+previous	visit	461029
+care	taking	461023
+####352	2.0	460951	460968
+better	tasted	460958
+hanger	steak	460953
+entire	dinner	460961
+jus	cooked	460956
+disappointing	bit	460958
+tasted	better	460958
+chimichurri	sauce	460953
+chimichurri	sauce	460958
+####353	3.0	460972	460974
+####354	1.0	460975	461002
+felt	bad	460999
+hour	happy	460975
+hour	happy	460977
+pulled	pork	460987
+happy	hour	460975
+happy	hour	460977
+early	minutes	460977
+small	two	460988
+tortilla	corn	460989
+plate	small	460988
+mall	plates	460988
+pork	pulled	460987
+cinnamon	sugar	460984
+plates	small	460988
+plates	small	460976
+full	price	460977
+sour	cream	460990
+bad	felt	460999
+sounded	good	460976
+two	small	460988
+small	plates	460976
+small	plates	460988
+walked	away	460979
+####355	4.0	461003	461009
+giants	game	461004
+great	cocktails	461004
+giants	fan	461008
+caesar	salad	461006
+####364	3.0	461062	461065
+away	blocks	461062
+blocks	couple	461062
+blocks	away	461062
+couple	blocks	461062
+####365	5.0	461066	461067
+location	great	461067
+great	location	461067
+eat	location	461067
+####366	2.0	461068	461072
+slow	service	461069
+overpriced	way	461072
+pie	pot	461070
+pie	pot	461071
+pot	pie	461070
+pot	pie	461071
+####367	5.0	461073	461074
+####360	1.0	461039	461043
+grilled	cheese	461039
+grilled	cheese	461040
+side	salad	461041
+tomato	soup	461040
+cheese	grilled	461039
+cheese	grilled	461040
+soup	tomato	461040
+####361	4.0	461044	461048
+yummy	yummy	461045
+giants	game	461044
+grilled	cheese	461046
+food	comfort	461045
+reasonable	prices	461047
+prices	reasonable	461047
+great	atmosphere	461045
+cheese	grilled	461046
+good	drinks	461047
+atmosphere	great	461045
+comfort	food	461045
+####362	2.0	461049	461058
+doesn	place	461057
+star	two	461049
+two	star	461049
+place	doesn	461057
+notch	top	461055
+####363	3.0	461059	461061
+good	tastes	461060
+tastes	good	461060
+good	drink	461061
+####410	3.0	461338	461347
+mind	wait	461339
+waiting	mind	461339
+dont	mind	461339
+mind	waiting	461339
+####411	4.0	461348	461352
+good	food	461348
+reasonable	prices	461350
+prices	reasonable	461350
+location	great	461351
+good	service	461349
+great	location	461351
+eat	location	461351
+food	good	461348
+service	good	461349
+####408	4.0	461326	461330
+sandwich	cheese	461329
+tomato	soup	461329
+crowded	gets	461330
+good	wine	461327
+soup	tomato	461329
+gets	crowded	461330
+wine	good	461327
+nice	food	461327
+cheese	sandwich	461329
+####409	5.0	461331	461337
+recommended	highly	461337
+cigars	mushroom	461334
+service	amazing	461333
+perfect	size	461333
+room	back	461333
+back	room	461333
+highly	recommended	461337
+wine	selection	461335
+good	friends	461336
+selection	wine	461335
+size	perfect	461333
+amazing	service	461333
+friends	good	461336
+####414	3.0	461362	461372
+dinning	room	461367
+good	food	461372
+recommend	definitely	461364
+food	good	461372
+definitely	recommend	461364
+####415	4.0	461373	461377
+giants	game	461373
+francisco	san	461377
+giants	fan	461374
+great	selection	461377
+selection	great	461377
+####412	3.0	461353	461358
+sandwich	cheese	461355
+grilled	cheese	461355
+comes	close	461355
+cheese	grilled	461355
+dinner	menu	461355
+menu	dinner	461355
+close	comes	461355
+cheese	sandwich	461355
+####413	3.0	461359	461361
+hour	happy	461359
+happy	hour	461359
+calamari	appetizer	461361
+####402	4.0	461268	461273
+####403	4.0	461274	461282
+american	food	461279
+back	went	461277
+grilled	cheese	461274
+better	way	461275
+awesome	sauce	461278
+cheese	grilled	461274
+priced	reasonably	461279
+went	back	461277
+soup	tomato	461274
+laid	back	461279
+way	better	461275
+sauce	awesome	461278
+reasonably	priced	461279
+####400	3.0	461264	0
+####401	3.0	461265	461266
+fries	french	461266
+french	fries	461266
+good	bread	461266
+bread	good	461266
+jose	san	461266
+####406	5.0	461309	461316
+hour	happy	461309
+hour	happy	461310
+happy	hour	461309
+happy	hour	461310
+sandwich	pork	461316
+bbq	ribs	461313
+ribs	bbq	461313
+great	atmosphere	461316
+feeling	left	461314
+good	suggestions	461315
+atmosphere	great	461316
+selection	beer	461311
+beer	selection	461311
+bbq	dinner	461312
+pull	pork	461315
+pull	pork	461316
+pork	sandwich	461316
+left	feeling	461314
+####407	3.0	461317	461325
+empty	place	461319
+good	pretty	461325
+pretty	good	461325
+bus	boy	461320
+back	coming	461325
+lousy	service	461324
+wait	staff	461324
+wait	staff	461325
+staff	wait	461324
+staff	wait	461325
+coming	back	461325
+####404	5.0	461283	461286
+best	deal	461283
+good	crowd	461285
+deal	best	461283
+####405	2.0	461287	461308
+grilled	cheese	461288
+grilled	cheese	461306
+tomato	soup	461288
+monk	fish	461296
+lunch	menu	461306
+cheese	grilled	461288
+cheese	grilled	461306
+piece	small	461298
+soup	tomato	461288
+dinner	menu	461306
+bbq	chicken	461295
+menu	dinner	461306
+red	sea	461298
+small	piece	461298
+bass	sea	461298
+chicken	bbq	461295
+menu	lunch	461306
+####395	5.0	461235	461245
+recommended	highly	461239
+full	restaurant	461237
+pulled	pork	461238
+highly	recommended	461239
+eat	choice	461236
+come	back	461244
+pork	pulled	461238
+choice	great	461236
+come	definitely	461244
+great	choice	461236
+sliders	pork	461238
+hot	water	461242
+back	come	461244
+pork	sliders	461238
+definitely	come	461244
+block	away	461235
+water	hot	461242
+####394	4.0	461226	461234
+giants	game	461234
+special	dish	461232
+food	comfort	461229
+grilled	salmon	461228
+head	chef	461232
+small	pretty	461231
+comfort	food	461229
+staff	friendly	461233
+love	place	461226
+friendly	staff	461233
+chef	head	461232
+salmon	grilled	461228
+pretty	small	461231
+####393	2.0	461218	461225
+####392	3.0	461214	461217
+dishes	small	461216
+good	food	461214
+good	pretty	461214
+pretty	good	461214
+small	dishes	461216
+good	service	461215
+small	dish	461216
+ice	good	461215
+food	good	461214
+service	good	461215
+####399	1.0	461257	461263
+food	ordering	461257
+fried	fish	461260
+fatty	pieces	461260
+francisco	san	461258
+ordering	food	461257
+fish	tacos	461261
+fish	fried	461260
+olive	oil	461259
+cobb	salad	461262
+####398	3.0	461254	461256
+great	place	461256
+place	great	461256
+good	fries	461255
+####397	3.0	461251	461253
+atmosphere	good	461251
+good	atmosphere	461251
+####396	5.0	461246	461250
+ago	years	461246
+roast	pot	461247
+list	wine	461247
+wine	list	461247
+good	service	461248
+pot	roast	461247
+service	good	461248
+years	ago	461246
+####387	5.0	461188	461191
+great	place	461188
+excellent	service	461190
+eat	place	461188
+place	great	461188
+####386	2.0	461177	461187
+hate	places	461187
+thin	best	461186
+overpriced	food	461185
+concept	great	461179
+simple	food	461179
+sounds	good	461187
+iced	food	461185
+great	concept	461179
+hate	place	461187
+####385	2.0	461173	461176
+grilled	cheese	461174
+memorable	meal	461176
+place	good	461174
+cheese	grilled	461174
+good	place	461174
+good	work	461174
+cobb	salad	461174
+####384	3.0	461168	461172
+deviled	eggs	461170
+deviled	egg	461170
+####391	4.0	461209	461213
+wedge	salad	461211
+roasted	chicken	461212
+open	table	461209
+mouth	good	461213
+table	open	461209
+blue	cheese	461211
+saturday	night	461209
+night	saturday	461209
+####390	5.0	461203	461208
+party	birthday	461205
+great	food	461207
+food	great	461207
+recommend	highly	461204
+highly	recommend	461204
+birthday	party	461205
+specials	daily	461204
+saturday	night	461205
+night	saturday	461205
+####389	3.0	461200	461202
+calamari	fried	461202
+fried	calamari	461202
+cake	crab	461202
+good	salad	461202
+crab	cake	461202
+####388	5.0	461192	461199
+dining	area	461192
+years	back	461194
+dining	restaurant	461192
+back	coming	461197
+area	dining	461192
+back	years	461194
+coming	back	461197
+####440	2.0	461486	461491
+biggest	problem	461487
+fine	service	461488
+best	dining	461486
+okay	food	461489
+dining	experience	461486
+experience	dining	461486
+dining	best	461486
+####441	5.0	461492	461497
+sandwich	cheese	461494
+grilled	cheese	461494
+draft	beer	461497
+food	bar	461493
+rest	best	461492
+exceptional	service	461496
+cheese	grilled	461494
+list	wine	461497
+short	ribs	461494
+wine	list	461497
+bar	food	461493
+regular	menu	461493
+best	restaurant	461492
+restaurant	best	461492
+cheese	sandwich	461494
+####442	1.0	461513	461517
+hour	lunch	461516
+lunch	hour	461516
+####443	3.0	461518	461521
+half	full	461520
+priced	reasonably	461519
+main	dishes	461518
+selection	nice	461519
+main	courses	461521
+full	half	461520
+nice	selection	461519
+main	dish	461518
+empty	half	461520
+reasonably	priced	461519
+####444	3.0	461522	461525
+grilled	cheese	461524
+eat	lunch	461522
+lunch	great	461522
+cheese	grilled	461524
+spot	lunch	461522
+great	lunch	461522
+lunch	spot	461522
+cobb	salad	461524
+####432	2.0	461467	461468
+finally	got	461468
+got	finally	461468
+ago	weeks	461467
+seated	got	461468
+weeks	ago	461467
+got	seated	461468
+####433	1.0	461469	461471
+bad	service	461471
+stay	away	461471
+terrible	parking	461471
+service	bad	461471
+mediocre	food	461471
+####434	1.0	461472	461473
+back	went	461473
+rude	wait	461472
+went	back	461473
+####435	4.0	461474	0
+####436	5.0	461475	461476
+giants	game	461475
+love	going	461475
+priced	reasonably	461476
+going	love	461475
+staff	friendly	461476
+friendly	staff	461476
+reasonably	priced	461476
+####437	4.0	461477	0
+####438	3.0	461478	461481
+giants	game	461478
+bet	lot	461479
+place	cool	461478
+fries	garlic	461481
+garlic	fries	461481
+cool	place	461478
+better	lot	461479
+lot	better	461479
+####439	4.0	461482	461485
+sunday	past	461482
+past	sunday	461482
+####425	5.0	461437	461448
+cigars	mushroom	461439
+cigars	mushroom	461440
+tasted	good	461445
+away	right	461438
+roasted	chicken	461443
+roasted	chicken	461444
+taste	good	461446
+good	tasted	461445
+right	seated	461438
+right	away	461438
+seated	right	461438
+white	wine	461445
+good	taste	461446
+nice	cozy	461446
+main	course	461442
+seated	got	461438
+got	seated	461438
+####424	3.0	461436	0
+####427	3.0	461452	461455
+stay	away	461454
+stay	away	461455
+####426	3.0	461449	461451
+giants	game	461449
+####429	4.0	461460	0
+####428	5.0	461456	461459
+grilled	cheese	461457
+better	way	461457
+roasted	chicken	461456
+job	great	461458
+cheese	grilled	461457
+way	better	461457
+great	job	461458
+####431	3.0	461462	461466
+grilled	cheese	461464
+tomato	soup	461465
+cheese	grilled	461464
+soup	tomato	461465
+stars	three	461462
+took	forever	461466
+forever	took	461466
+three	stars	461462
+hot	sandwich	461464
+crunchy	crust	461464
+star	three	461462
+####430	1.0	461461	0
+####417	3.0	461391	461396
+grilled	cheese	461394
+great	place	461392
+waiter	kept	461395
+cheese	grilled	461394
+tuna	sandwich	461394
+spot	lunch	461391
+didnt	think	461393
+room	dining	461396
+got	friend	461394
+lunch	spot	461391
+dining	room	461396
+place	great	461392
+friend	got	461394
+looked	awesome	461394
+good	lunch	461391
+####416	2.0	461378	461390
+pudding	bread	461387
+pudding	bread	461389
+read	pudding	461387
+read	pudding	461389
+potato	chips	461382
+fries	garlic	461385
+best	bread	461389
+garlic	fries	461385
+ones	better	461385
+fish	tacos	461380
+chips	potato	461382
+better	ones	461385
+bread	best	461389
+bread	pudding	461387
+bread	pudding	461389
+brea	best	461389
+deep	fried	461382
+####419	4.0	461402	461413
+great	service	461406
+service	great	461406
+drinks	order	461409
+ice	great	461406
+order	drinks	461409
+red	times	461402
+drink	order	461409
+####418	1.0	461397	461401
+neighborhood	restaurant	461397
+back	coming	461398
+coming	back	461398
+####421	2.0	461416	461420
+ago	years	461416
+list	wine	461418
+wine	list	461418
+high	end	461418
+years	ago	461416
+end	high	461418
+end	restaurant	461418
+####420	4.0	461414	461415
+giants	game	461415
+good	food	461414
+good	drinks	461414
+fun	place	461415
+####423	3.0	461432	461435
+piping	hot	461435
+giants	game	461432
+two	desserts	461434
+pudding	bread	461433
+pudding	bread	461434
+nice	way	461435
+desserts	two	461434
+ice	way	461435
+bread	pudding	461433
+bread	pudding	461434
+way	nice	461435
+hot	piping	461435
+####422	3.0	461421	461431
+love	chocolate	461427
+date	dinner	461431
+roast	chicken	461426
+good	pretty	461428
+suggested	friend	461423
+chocolate	love	461427
+pretty	good	461428
+damn	good	461425
+pretty	damn	461425
+pretty	damn	461426
+dinner	date	461431
+experience	good	461428
+damn	pretty	461425
+damn	pretty	461426
+yummy	meal	461421
+ice	cream	461427
+cream	ice	461427
+good	damn	461425
+dinner	chicken	461426
+good	experience	461428
+yummy	pretty	461421
+chicken	roast	461426
+chicken	dinner	461426
+saturday	night	461421
+night	saturday	461421
+pretty	yummy	461421

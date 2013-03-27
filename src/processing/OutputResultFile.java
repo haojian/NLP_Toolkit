@@ -113,4 +113,8 @@ public class OutputResultFile {
 			}
 		}
 	}
+	
+	public static void Varify(){
+		
+	}
 }

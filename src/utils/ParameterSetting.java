@@ -18,15 +18,17 @@ public class ParameterSetting {
 	public static String PATHTOCRAWLEDDATA1 = "resources" + File.separator + "RevTxt" + File.separator + "crawleddata1";
 	public static String PATHTOCRAWLEDDATA2 = "resources" + File.separator + "RevTxt" + File.separator + "crawleddata2";
 	public static String PATHTOCRAWLEDDATA3 = "resources" + File.separator + "RevTxt" + File.separator + "crawleddata3";
+	public static String PATHTOCRAWLEDDATA4 = "resources" + File.separator + "RevTxt" + File.separator + "smalltestset";
+
+
 	public static String PATHTOOUTPUT = "output";
 	public static String PATHTOLOG = "./log.txt";
 	public static String PATHTODEBUG = "./debug.txt";
 	public static String PATHTOSEEDFILE = "./seed.txt";
 	public static String PATHTOITERATIONRESULTDIR = "./Iterations";
-	public static String PATHTOTMPDIR1 = "Sample output for different iteration/03212013/output";
+	public static String PATHTOTMPDIR1 = "Sample output for different iteration/03262013/output";
 	public static String PATHTOTMPDIR2 = "Sample output for different iteration/03212013/crawleddata3";
 	public static String PATHTOEXTRACTIONWITHRATING = "extractions";
-	
 	//REGX String variables
 	public static String REGXWORDPATTERN_V1 = "(.*)";
 	public static String REGXWORDPATTERN_V2 = "([a-z]{3,15})";
