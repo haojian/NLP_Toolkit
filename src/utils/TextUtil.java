@@ -4,7 +4,6 @@ import java.io.UnsupportedEncodingException;
 import java.net.URLDecoder;
 import java.net.URLEncoder;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -13,7 +12,6 @@ import org.apache.commons.math3.stat.descriptive.DescriptiveStatistics;
 import processing.StopwordsFilter;
 
 import data_structure.Attribute;
-import data_structure.Extraction;
 import data_structure.Template;
 import data_structure.Value;
 

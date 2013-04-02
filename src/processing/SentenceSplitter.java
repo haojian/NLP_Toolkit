@@ -11,8 +11,6 @@ import opennlp.tools.sentdetect.SentenceDetector;
 import opennlp.tools.sentdetect.SentenceDetectorME;
 import opennlp.tools.sentdetect.SentenceModel;
 import opennlp.tools.util.InvalidFormatException;
-import utils.IOOperator;
-import utils.ParameterSetting;
 
 public class SentenceSplitter {
 

@@ -97,7 +97,7 @@ public class DBUtil {
 		String postgresClassName = "org.postgresql.Driver";
 		String database = "revtxt";
 		String user = "postgres";
-		String pwd = "P@ssw0rd";
+		String pwd = "multimodal";
 		init(postgresUrl, database, postgresClassName, user, pwd);
 	}
 	

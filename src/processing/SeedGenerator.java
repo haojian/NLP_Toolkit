@@ -2,10 +2,7 @@ package processing;
 
 import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
-import java.util.ArrayList;
-import java.util.Collections;
 import java.util.Comparator;
 import java.util.HashMap;
 import java.util.Map;
@@ -14,10 +11,6 @@ import java.util.TreeMap;
 import utils.IOOperator;
 import utils.ParameterSetting;
 import utils.TextUtil;
-
-import data_structure.Attribute;
-import data_structure.Extraction;
-import data_structure.Value;
 
 public class SeedGenerator {
 	
@@ -167,7 +160,8 @@ class NounCounterComparator implements Comparator<Object> {
         this.theMapToSort = theMapToSort;
     }
 
-    public int compare(Object key1, Object key2) {
+    @Override
+	public int compare(Object key1, Object key2) {
     	Map<String, Integer> val1 = (Map<String, Integer>)theMapToSort.get(key1);
     	Map<String, Integer> val2 = (Map<String, Integer>) theMapToSort.get(key2);
     	int sumA = 0;
@@ -191,7 +185,8 @@ class AdjCounterComparator implements Comparator<Object> {
         this.theMapToSort = theMapToSort;
     }
 
-    public int compare(Object key1, Object key2) {
+    @Override
+	public int compare(Object key1, Object key2) {
     	Integer val1 = (Integer)theMapToSort.get(key1);
     	Integer val2 = (Integer) theMapToSort.get(key2);
     	

@@ -2,26 +2,21 @@ package processing;
 
 import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
-import java.util.TreeMap;
-
 import utils.DataManager;
 import utils.IOOperator;
 import utils.ParameterSetting;
 import utils.TextUtil;
 import utils.Logger;
 
-import data_structure.Attribute;
 import data_structure.Extraction;
 import data_structure.SentenceEntry;
 import data_structure.Template;
-import data_structure.Value;
 
 public class Extraction_bootstrapping {
 	public static Extraction_bootstrapping singleton;
@@ -35,7 +30,7 @@ public class Extraction_bootstrapping {
 	private Map<Extraction, ArrayList<Integer>> extractionMap;
 	private Map<String, Integer> attrList;
 	private Map<String, Integer> valList;
-	//private ArrayList<String> attrList;
+	//private ArrayList<String> attrList;  
 	//private ArrayList<String> valList;
 	
 	private int bootstrapping_cutoff = ParameterSetting.BOOTSTRAPPINGTHRESHOLD;
@@ -48,8 +43,9 @@ public class Extraction_bootstrapping {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		DataManager.getInstance();
 		// TODO Auto-generated method stub
-		for(File input : DataManager.getInstance().getFilesUnderFolder(ParameterSetting.PATHTOCRAWLEDDATA3)){
+		for(File input : DataManager.getFilesUnderFolder(ParameterSetting.PATHTOCRAWLEDDATA3)){
 			if(input.getName().split("_").length != 3)
 				continue;
 			long startTime = System.currentTimeMillis();
@@ -398,7 +394,8 @@ class HashMapValueComparator implements Comparator<Object> {
         this.theMapToSort = theMapToSort;
     }
 
-    public int compare(Object key1, Object key2) {
+    @Override
+	public int compare(Object key1, Object key2) {
     	Integer val1 = (Integer)theMapToSort.get(key1);
     	Integer val2 = (Integer) theMapToSort.get(key2);
     	

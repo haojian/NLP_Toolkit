@@ -1,14 +1,7 @@
 package data_structure;
 
-import java.awt.List;
-import java.io.UnsupportedEncodingException;
-import java.net.URLEncoder;
 import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
 import java.util.regex.Pattern;
-
-import org.apache.commons.collections.map.MultiKeyMap;
 
 import utils.TextUtil;
 
@@ -66,6 +59,7 @@ public class Template {
 	}
 
 	
+	@Override
 	public int hashCode()
 	{
 		if(ifHashed){
@@ -77,6 +71,7 @@ public class Template {
 		}
 	}
 	
+	@Override
 	public boolean equals(Object obj){
 		if(obj == null) return false;
 		if(!this.getClass().equals(obj.getClass())) return false;

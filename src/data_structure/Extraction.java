@@ -1,9 +1,5 @@
 package data_structure;
 
-import java.util.ArrayList;
-
-import utils.TextUtil;
-
 public class Extraction {
 	private Value val;
 	private Attribute attr;
@@ -17,6 +13,12 @@ public class Extraction {
 		this.setVal(new Value(value));
 		this.setAttr(new Attribute(attribute));
 		this.setNumberofoccurances(occurance);
+	}
+	
+	public Extraction(String value, String attribute){
+		this.setVal(new Value(value));
+		this.setAttr(new Attribute(attribute));
+		this.setNumberofoccurances(0);
 	}
 	
 	public Value getVal() {
@@ -48,6 +50,7 @@ public class Extraction {
 		return this.val.get_txt() + "\t" + this.attr.get_txt();
 	}
 	
+	@Override
 	public int hashCode()
 	{
 		if(ifHashed){
@@ -60,6 +63,7 @@ public class Extraction {
 		}		
 	}
 	
+	@Override
 	public boolean equals(Object obj){
 		if(obj == null) return false;
 		if(!this.getClass().equals(obj.getClass())) return false;

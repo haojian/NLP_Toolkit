@@ -1,9 +1,7 @@
 package processing;
 
 import java.io.BufferedReader;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
-import java.io.IOException;
 import java.util.ArrayList;
 
 public class StopwordsFilter {
@@ -16,6 +14,9 @@ public class StopwordsFilter {
 	} 
 	
 	public ArrayList<String> Stopwordlist;
+	public ArrayList<String> bannedAttrlist;
+	public ArrayList<String> bannedVallist;
+
 
 	/**
 	 * @param args
@@ -35,6 +36,22 @@ public class StopwordsFilter {
 					Stopwordlist.add(line);
 				}
 			}
+			
+			csv =  new BufferedReader(new FileReader(utils.ParameterSetting.PATHTOSTOPWORDS));
+			line = "";
+			while((line = csv.readLine()) != null){
+				if(line.length() != 0){
+					bannedAttrlist.add(line);
+				}
+			}
+			
+			csv =  new BufferedReader(new FileReader(utils.ParameterSetting.PATHTOSTOPWORDS));
+			line = "";
+			while((line = csv.readLine()) != null){
+				if(line.length() != 0){
+					bannedVallist.add(line);
+				}
+			}
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -48,6 +65,20 @@ public class StopwordsFilter {
         if (Stopwordlist.contains(tmp))
             return true;
         return false;
+	}
+	
+	public boolean filterExtraction(String input){
+		String[] tmp = input.split(" ");
+		if(tmp.length == 2){
+			if(Stopwordlist.contains(tmp[0]) || Stopwordlist.contains(tmp[1]))
+				return true;
+			if(bannedAttrlist.contains(tmp[1]))
+				return true;
+			if(bannedVallist.contains(tmp[0]))
+				return true;
+			return false;
+		}
+		return true;
 	}
 
 }

@@ -70,7 +70,7 @@ public class SentimentAnalyzer {
 			}
 			Set<String> temp = _temp.keySet();
 			for (Iterator<String> iterator = temp.iterator(); iterator.hasNext();) {
-				String word = (String) iterator.next();
+				String word = iterator.next();
 				Vector<Double> v = _temp.get(word);
 				double score = 0.0;
 				double sum = 0.0;

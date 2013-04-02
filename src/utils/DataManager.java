@@ -1,19 +1,14 @@
 package utils;
 
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.InputStreamReader;
-import java.io.OutputStreamWriter;
 import java.util.ArrayList;
 
 import data_structure.SentenceEntry;
 
-import processing.Extraction_bootstrapping;
 import processing.SentenceSplitter;
 
 public class DataManager {
@@ -111,14 +106,14 @@ public class DataManager {
 			System.out.println(input.getName());
 			ExtractionsToSQL(input);
 		}
-		/*
+		
 		db1.execute("DROP TABLE sentences;");
 		db1.execute("CREATE TABLE sentences ( sent_index bigint, sent_txt text, revindex bigint, revrating numeric, filename text);");// create the table
 		File[] sentlists = getFilesUnderFolder(sentpath);
 		for(File input : sentlists){
 			SentsToSQL(input);
 		}
-		*/
+		
 		db1.rundown();
 
 	}
