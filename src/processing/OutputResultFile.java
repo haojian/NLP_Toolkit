@@ -2,6 +2,7 @@ package processing;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Map.Entry;
@@ -23,8 +24,9 @@ public class OutputResultFile {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		LoadReviewsFromSQL();
-		OutputExtractions();
+		//LoadReviewsFromSQL();
+		//OutputExtractions();
+		clusteNouns();
 	}
 
 	
@@ -112,8 +114,104 @@ public class OutputResultFile {
 		}
 	}
 	
+	private static Map<String, Map<String, Integer>> extractionHash = new HashMap<String, Map<String, Integer>>();
+	private static ArrayList<String> valList,attrList;
+	private static Map<String, ArrayList<String>> clustering = new HashMap<String, ArrayList<String>>();
 	
-	public static void OutputWeka(){
-		
+	public static void clusteNouns(){
+		DBUtil db1 = new DBUtil();
+		Logger.getInstance().getElapseTime(true);
+		String sql = "select * from extractions";
+		ResultSet rs1 = db1.executeQuerySQL(sql);
+		try{
+			while(rs1.next()){
+				int sentIndex = rs1.getInt("sentindex");
+				String attr = rs1.getString("attr");
+				String value = rs1.getString("value");
+				if(extractionHash.containsKey(attr)){
+					if(extractionHash.get(attr).containsKey(value)){
+						extractionHash.get(attr).put(value, extractionHash.get(attr).get(value)+1);
+					}else{
+						extractionHash.get(attr).put(value, 1);
+					}
+				}else{
+					Map<String, Integer> tmp = new HashMap<String, Integer>();
+					tmp.put(value, 1);
+					extractionHash.put(attr, tmp);
+				}
+			}
+		}catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		Logger.getInstance().getElapseTime(true);
+		attrList = new ArrayList<String>();
+		sql = "select DISTINCT attr from extractions";
+		rs1 = db1.executeQuerySQL(sql);
+		try{
+			while(rs1.next()){
+				String attr = rs1.getString("attr");
+				attrList.add(attr);
+			}
+		}catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		valList = new ArrayList<String>();
+		sql = "select DISTINCT value from extractions";
+		rs1 = db1.executeQuerySQL(sql);
+		try{
+			while(rs1.next()){
+				String val = rs1.getString("value");
+				valList.add(val);
+			}
+		}catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		Logger.getInstance().getElapseTime(true);
+		db1.rundown();
+		OutputtoCytoscapeFile("output.csv");
+	}
+	
+	public static void OutputToWekaFile(String path){
+		IOOperator.getInstance().writeToFileUTF8(path, "% ARFF file for the weather data with some numric features \n", true);
+		IOOperator.getInstance().writeToFileUTF8(path, "% \n", true);
+		IOOperator.getInstance().writeToFileUTF8(path, "@relation wordpairs \n", true);
+
+		for(String tmp:valList)
+			IOOperator.getInstance().writeToFileUTF8(path, "@attribute "+ tmp +" numeric\n", true);
+		IOOperator.getInstance().writeToFileUTF8(path, "@DATA \n", true);
+		int i = 0;
+		for(Entry<String, Map<String, Integer>> entry: extractionHash.entrySet()){
+			String content = "";
+			Map<String, Integer> curAdjMap = entry.getValue();
+			int counter = 0;
+			for(String tmp:valList){
+				if(curAdjMap.containsKey(tmp)){
+					content += curAdjMap.get(tmp);
+					counter++;
+				}else
+					content +=0;
+				content += ",";
+			}
+			if(counter <= 5){
+				System.out.println(entry.getKey());
+				continue;
+			}
+			i++;
+			content = content.substring(0, content.length()-1);
+			IOOperator.getInstance().writeToFileUTF8(path, content + "\n", true);
+		}
+		System.out.println(i);
+	}
+	
+	public static void OutputtoCytoscapeFile(String path){
+		for(Entry<String, Map<String, Integer>> entry: extractionHash.entrySet()){
+			Map<String, Integer> curAdjMap = entry.getValue();
+			for(Entry<String, Integer> subEntry : curAdjMap.entrySet()){
+				IOOperator.getInstance().writeToFileUTF8(path, entry.getKey() + "\t" + subEntry.getKey() + "\t" + subEntry.getValue() + "\n", true);
+			}
+		}
 	}
 }

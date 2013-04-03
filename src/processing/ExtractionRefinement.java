@@ -15,7 +15,7 @@ public class ExtractionRefinement {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		
 	}
 	
 	//Map<Attr, Map<Value, Counter>>.
@@ -23,7 +23,7 @@ public class ExtractionRefinement {
 	private static Map<Extraction, Extraction> mappingHash = new HashMap<Extraction, Extraction>();
 	
 	
-	public static void LoadExtractionsFromSQL(){
+	public static void mergeDuplicateExtractionsFromSQL(){
 		DBUtil db1 = new DBUtil();
 		Logger.getInstance().getElapseTime(true);
 		String sql = "select * from extractions";
@@ -56,7 +56,9 @@ public class ExtractionRefinement {
 				String attr = rs1.getString("attr");
 				String value = rs1.getString("value");
 				int original = extractionHash.get(attr).get(value);
-				int reverse = extractionHash.get(value).get(attr);
+				int reverse  = 0;
+				if(extractionHash.containsKey(value) && extractionHash.get(value).containsKey(attr))
+					reverse = extractionHash.get(value).get(attr);
 				if(original<reverse){
 					mappingHash.put(new Extraction(value, attr), new Extraction(attr, value));
 				}
@@ -67,6 +69,14 @@ public class ExtractionRefinement {
 		}
 		System.err.println(mappingHash.size());
 		Logger.getInstance().getElapseTime(true);
+
+		
+		for(Map.Entry<Extraction, Extraction> entry : mappingHash.entrySet()){
+			sql = "UPDATE extractions SET value='" +entry.getKey().getAttr().get_txt()
+					+ "', attr = '" + entry.getKey().getVal().get_txt() + "' WHERE value = '" +
+					entry.getKey().getVal().get_txt() + "' AND attr = '" + entry.getKey().getAttr().get_txt()+"'";
+			System.out.println( db1.executeUpdateSQL(sql));
+		}
 		db1.rundown();
 	}
 	
