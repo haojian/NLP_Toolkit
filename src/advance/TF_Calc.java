@@ -1,5 +1,9 @@
 package advance;
 
+import java.util.Map;
+
+import data_structure.RestaurantEntry;
+
 public class TF_Calc {
 
 	/**
@@ -7,11 +11,21 @@ public class TF_Calc {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		getTopNounsinSingleRestaurant("");
 	}
 	
 	public static void getTopNounsinSingleRestaurant(String s){
-		
+		Map<String, RestaurantEntry> dataHash = DBLoader.getInstance().getDataHash();
+		/*
+		for(Map.Entry<String , RestaurantEntry> entry: dataHash.entrySet()){
+			System.out.println(entry.getKey());
+		}
+		*/
+		if(dataHash.containsKey(s)){
+			
+		}else{
+			System.out.println("unknown restaurant query.");
+		}
 	}
 
 }
