@@ -15,7 +15,7 @@ public class ExtractionRefinement {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		mergeDuplicateExtractionsFromSQL();
 	}
 	
 	//Map<Attr, Map<Value, Counter>>.
@@ -59,7 +59,7 @@ public class ExtractionRefinement {
 				int reverse  = 0;
 				if(extractionHash.containsKey(value) && extractionHash.get(value).containsKey(attr))
 					reverse = extractionHash.get(value).get(attr);
-				if(original<reverse){
+				if(original<=reverse){
 					mappingHash.put(new Extraction(value, attr), new Extraction(attr, value));
 				}
 			}

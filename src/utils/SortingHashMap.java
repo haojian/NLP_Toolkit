@@ -18,15 +18,31 @@ public class SortingHashMap {
 	}
 	
 	public SortingHashMap(){
-		map = new HashMap<String, Integer>();
+		updatemap = new HashMap<String, Integer>();
+		HashMapValueComparator sortingcomp = new HashMapValueComparator(updatemap);
+		sortedmap = new TreeMap<String, Integer>(sortingcomp);
+		lastQuerySize = -1;
 	}
-	private Map<String, Integer> map;
+	private Map<String, Integer> updatemap;
+	private Map<String, Integer> sortedmap;
+	private int lastQuerySize;
 
-	public TreeMap sort(){
-		HashMapValueComparator sortingcomp = new HashMapValueComparator(map);
-		TreeMap sortingMap = new TreeMap(sortingcomp);
-		sortingMap.putAll(map);
-		return sortingMap;
+	public void updateMap(String key, int value){
+		if(updatemap.containsKey(key))
+			updatemap.put(key, updatemap.get(key)+1);
+		else
+			updatemap.put(key, value);
+	}
+	
+	
+	public Map<String, Integer> getSortedMap(){
+		if(sortedmap.size() == lastQuerySize && sortedmap.size() != 0){
+			return sortedmap;
+		}
+		sortedmap.clear();
+		sortedmap.putAll(updatemap);
+		lastQuerySize = sortedmap.size();
+		return sortedmap;
 	}
 }
 

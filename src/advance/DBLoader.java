@@ -2,6 +2,7 @@ package advance;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Map.Entry;
@@ -110,4 +111,26 @@ public class DBLoader {
 	public static void setDataHash(Map<String, RestaurantEntry> dataHash) {
 		DBLoader.dataHash = dataHash;
 	}
+
+	public static ArrayList<String> GetValueList(){
+		ArrayList<String> res = new ArrayList<String>();
+		DBUtil db1 = new DBUtil();
+		Logger.getInstance().getElapseTime(true);
+		String sql = "select DISTINCT value from extractions";
+		ResultSet rs1 = db1.executeQuerySQL(sql);
+			try {
+				while(rs1.next()){
+					String val = rs1.getString("value");
+					res.add(val);
+				}
+				return res;
+			} catch (SQLException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		db1.rundown();
+		return null;
+	}
+
+
 }

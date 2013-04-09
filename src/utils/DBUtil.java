@@ -56,10 +56,7 @@ public class DBUtil {
 
 	static Connection _conn = null;
 
-	static PreparedStatement _stmt_insert_page = null;
-	static PreparedStatement _stmt_insert_event = null;
-	static PreparedStatement _stmt_insert_mouse = null;
-	static PreparedStatement _stmt_insert_content = null;
+
 
 	String _url = "";
 	String _user = "";
@@ -126,22 +123,7 @@ public class DBUtil {
 				createConn();
 				// conn.setAutoCommit(false);
 			}
-			if (_stmt_insert_page == null || ((Connection) _stmt_insert_page).isClosed()) {
-				System.err.println("%creating page preparedstatement...");
-				_stmt_insert_page = _conn.prepareStatement(_sql_insert_page);
-			}
-			if (_stmt_insert_event == null || ((Connection) _stmt_insert_event).isClosed()) {
-				System.err.println("%creating event preparedstatement...");
-				_stmt_insert_event = _conn.prepareStatement(_sql_insert_event);
-			}
-			if (_stmt_insert_mouse == null || ((Connection) _stmt_insert_mouse).isClosed()) {
-				System.err.println("%creating mouse preparedstatement...");
-				_stmt_insert_mouse = _conn.prepareStatement(_sql_insert_mouse);
-			}
-			if (_stmt_insert_content == null || ((Connection) _stmt_insert_content).isClosed()) {
-				System.err.println("%creating content preparedstatement...");
-				_stmt_insert_content = _conn.prepareStatement(_sql_insert_content);
-			}
+			
 			
 		} catch (SQLException ex) {
 			ex.printStackTrace();
@@ -159,9 +141,7 @@ public class DBUtil {
 	public void rundown() {
 		System.out.println("% database rundown.");
 		try {
-			_stmt_insert_page.close();
-			_stmt_insert_event.close();
-			_stmt_insert_content.close();
+			
 			_conn.commit();
 			_conn.close();
 		} catch (SQLException ex) {
@@ -264,34 +244,7 @@ public class DBUtil {
 		+ "vertical "
 		+ ") values (?,?,?,?,?,?,?,?,?,?,?,?)";
 
-	public boolean insertPage(String page_sha1, Long time, String wid, String tab,
-			String type, String url, String ref, String ip, Integer userID, Boolean isSearch, String engine, String vertical) throws UnknownHostException {
-		if (checkIfPageExists(page_sha1))
-			return false;
-		// System.out.println("inserting page..." + id);
-		validateConn();
-		boolean rc = true;
-		try {
-			_stmt_insert_page.setString(1, page_sha1);
-			Timestamp ts = new Timestamp(time);
-			_stmt_insert_page.setTimestamp(2, ts);
-			_stmt_insert_page.setString(3, wid);
-			_stmt_insert_page.setString(4, tab);
-			_stmt_insert_page.setString(5, type);
-			_stmt_insert_page.setString(6, url);
-			_stmt_insert_page.setString(7, ref);			
-			_stmt_insert_page.setString(8, ip);
-			_stmt_insert_page.setInt(9, userID);
-			_stmt_insert_page.setBoolean(10, isSearch);
-			_stmt_insert_page.setString(11, engine);
-			_stmt_insert_page.setString(12, vertical);
-			_stmt_insert_page.execute();
-		} catch (SQLException ex) {
-			rc = false;
-			ex.printStackTrace();
-		}
-		return rc;
-	}
+
 
 	String _sql_insert_event = 
 		"insert into emu_events (" 
@@ -341,103 +294,7 @@ public class DBUtil {
 		return false;
 	}
 	
-	/**
-	 * skip page_id, content_id, 
-	 * 
-	 * @param event_sha1
-	 * @param time
-	 * @param ev
-	 * @param url
-	 * @param ref
-	 * @param ip
-	 * @param content_sha1
-	 * @param cx
-	 * @param cy
-	 * @param x
-	 * @param y
-	 * @param scrlX
-	 * @param scrlY
-	 * @param iw
-	 * @param ih
-	 * @param ow
-	 * @param oh
-	 * @param scrlW
-	 * @param scrlH
-	 * @param dom_path
-	 * @param element_id
-	 * @param is_doc_area
-	 * @param duration
-	 * @param select_text
-	 * @param button
-	 * @return
-	 */
-	public boolean insertEvent(
-			String event_sha1, 
-			Long time, 
-			String ev,			
-			String url, 
-			String ref, 
-			String ip,
-			Integer userID,
-			String content_sha1, 
-			Integer cx,
-			Integer cy, 
-			Integer x, 
-			Integer y, 
-			Integer scrlX, 
-			Integer scrlY,
-			Integer iw, 
-			Integer ih, 
-			Integer ow, 
-			Integer oh, 
-			Integer scrlW,
-			Integer scrlH, 
-			String dom_path, 
-			String targ_id,
-			Boolean is_doc_area, 
-			Integer duration, 
-			String select_text, 
-			String button) {
-		if (checkIfEventExists(event_sha1))
-			return false;
-		// System.out.println("inserting page..." + id);
-		validateConn();
-		boolean rc = true;
-		try {
-			_stmt_insert_event.setString(1, event_sha1);
-			Timestamp ts = new Timestamp(time);
-			_stmt_insert_event.setTimestamp(2, ts);
-			stmtSetString(_stmt_insert_event, 3, ev);
-			stmtSetString(_stmt_insert_event, 4, url);
-			stmtSetString(_stmt_insert_event, 5, ref);
-			stmtSetString(_stmt_insert_event, 6, ip);
-			stmtSetInt(_stmt_insert_event, 7, userID);
-			stmtSetString(_stmt_insert_event, 8, content_sha1);
-			stmtSetInt(_stmt_insert_event, 9, cx);
-			stmtSetInt(_stmt_insert_event, 10, cy);
-			stmtSetInt(_stmt_insert_event, 11, x);
-			stmtSetInt(_stmt_insert_event, 12, y);
-			stmtSetInt(_stmt_insert_event, 13, scrlX);
-			stmtSetInt(_stmt_insert_event, 14, scrlY);
-			stmtSetInt(_stmt_insert_event, 15, iw);
-			stmtSetInt(_stmt_insert_event, 16, ih);
-			stmtSetInt(_stmt_insert_event, 17, ow);
-			stmtSetInt(_stmt_insert_event, 18, oh);
-			stmtSetInt(_stmt_insert_event, 19, scrlW);
-			stmtSetInt(_stmt_insert_event, 20, scrlH);
-			stmtSetString(_stmt_insert_event, 21, targ_id);
-			stmtSetString(_stmt_insert_event, 22, dom_path);
-			stmtSetBoolean(_stmt_insert_event, 23, is_doc_area);
-			stmtSetInt(_stmt_insert_event, 24, duration);			
-			stmtSetString(_stmt_insert_event, 25, select_text);
-			stmtSetString(_stmt_insert_event, 26, button);
-			_stmt_insert_event.execute();
-		} catch (SQLException ex) {
-			rc = false;
-			ex.printStackTrace();
-		}
-		return rc;
-	}
+
 	
 	String _sql_insert_mouse = 
 		"insert into emu_mouses (" 
@@ -477,55 +334,7 @@ public class DBUtil {
 		return false;
 	}
 	
-	public boolean insertMouse(
-			Integer eventID,
-			Long time,
-			String ev,
-			Integer pageID,
-			String ip,
-			Integer userID, 
-			Integer x, 
-			Integer y, 
-			Integer xdist, 
-			Integer ydist,
-			Boolean isSERP,
-			Boolean res_rand,
-			String task,
-			Boolean founded,
-			Boolean has_image,
-			Boolean has_fixation) {
-		if (checkIfMouseExists(eventID))
-			return false;
-		// System.out.println("inserting page..." + id);
-		validateConn();
-		boolean rc = true;
-		try {
-			_stmt_insert_mouse.setInt(1, eventID);
-			Timestamp ts = new Timestamp(time);
-			_stmt_insert_mouse.setTimestamp(2, ts);
-			stmtSetString(_stmt_insert_mouse, 3, ev);
-			stmtSetInt(_stmt_insert_mouse, 4, pageID);
-			stmtSetString(_stmt_insert_mouse, 5, ip);
-			stmtSetInt(_stmt_insert_mouse, 6, userID);
-			stmtSetInt(_stmt_insert_mouse, 7, x);
-			stmtSetInt(_stmt_insert_mouse, 8, y);
-			stmtSetInt(_stmt_insert_mouse, 9, xdist);
-			stmtSetInt(_stmt_insert_mouse, 10, ydist);
-			stmtSetBoolean(_stmt_insert_mouse, 11, isSERP);
-			stmtSetBoolean(_stmt_insert_mouse, 12, res_rand);
-			stmtSetString(_stmt_insert_mouse, 13, task);
-			stmtSetBoolean(_stmt_insert_mouse, 14, founded);
-			stmtSetBoolean(_stmt_insert_mouse, 15, has_image);
-			stmtSetBoolean(_stmt_insert_mouse, 16, has_fixation);		
-			
-			_stmt_insert_mouse.execute();
-		} catch (SQLException ex) {
-			rc = false;
-			ex.printStackTrace();
-		}
-		return rc;
-	}
-	
+
 	public static void stmtSetInt(PreparedStatement stmt, int index, Integer val) throws SQLException {
 		if (val != null) {
 			stmt.setInt(index, val);
@@ -574,26 +383,5 @@ public class DBUtil {
 		return false;
 	}
 
-	public boolean insertContent(String content_sha1, Long time, String url, String data, String type, 
-			int length) {
-		if (checkIfContentExists(content_sha1))
-			return false;
-		// System.out.println("inserting page..." + id);
-		validateConn();
-		boolean rc = true;
-		try {			
-			_stmt_insert_content.setString(1, content_sha1);
-//			Timestamp ts = new Timestamp(time);
-//			_stmt_insert_content.setTimestamp(2, ts);
-//			_stmt_insert_content.setString(3, url);
-			_stmt_insert_content.setString(2, data);
-//			_stmt_insert_content.setString(5, type);
-			_stmt_insert_content.setInt(3, length);
-			_stmt_insert_content.execute();
-		} catch (SQLException ex) {
-			rc = false;
-			ex.printStackTrace();
-		}
-		return rc;
-	}
+
 }

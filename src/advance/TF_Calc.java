@@ -11,7 +11,7 @@ public class TF_Calc {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		getTopNounsinSingleRestaurant("");
+		getTopNounsinSingleRestaurant("Amber India Restaurant_4.0_736");
 	}
 	
 	public static void getTopNounsinSingleRestaurant(String s){
@@ -22,7 +22,8 @@ public class TF_Calc {
 		}
 		*/
 		if(dataHash.containsKey(s)){
-			
+			System.out.println(dataHash.get(s).getTopNounsbyTF(10));
+			System.out.println(dataHash.get(s).getTopKeyPhrasebyTF(10));
 		}else{
 			System.out.println("unknown restaurant query.");
 		}

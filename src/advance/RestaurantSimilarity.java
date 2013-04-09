@@ -1,6 +1,6 @@
 package advance;
 
-public class TFIDF_Calc {
+public class RestaurantSimilarity {
 
 	/**
 	 * @param args
