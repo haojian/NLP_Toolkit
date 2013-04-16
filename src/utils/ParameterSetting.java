@@ -13,8 +13,8 @@ public class ParameterSetting {
 	//path parameters.
 	public static String PATHTOSWN = "resources" + File.separator + "SentiWordNet_3.0.0.txt";
 	public static String PATHTOSTOPWORDS = "resources" + File.separator + "stopwords.txt";
-	public static String PATHTOBANNEDATTR = "resources" + File.separator + "bannedattr.txt";
-	public static String PATHTOBANNEDVAL = "resources" + File.separator + "bannedval.txt";
+	public static String PATHTOBANNEDATTR = "resources" + File.separator + "bannedattrs.txt";
+	public static String PATHTOBANNEDVAL = "resources" + File.separator + "bannedvals.txt";
 	public static String PATHTOPOSTAGGEDDATA = "resources" + File.separator + "RevTxt" + File.separator + "backup";
 	public static String PATHTOCRAWLEDDATA = "resources" + File.separator + "RevTxt" + File.separator + "crawleddata";
 	public static String PATHTOCRAWLEDDATA1 = "resources" + File.separator + "RevTxt" + File.separator + "crawleddata1";

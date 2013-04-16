@@ -28,6 +28,8 @@ public class StopwordsFilter {
 	
 	public StopwordsFilter(){
 		Stopwordlist = new ArrayList<String>();
+		bannedAttrlist = new ArrayList<String>();
+		bannedVallist = new ArrayList<String>();
 		try {
 			BufferedReader csv =  new BufferedReader(new FileReader(utils.ParameterSetting.PATHTOSTOPWORDS));
 			String line = "";
