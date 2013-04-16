@@ -26,7 +26,8 @@ public class OutputResultFile {
 		// TODO Auto-generated method stub
 		//LoadReviewsFromSQL();
 		//OutputExtractions();
-		clusteNouns();
+		//clusteNouns();
+		outputAttribtue();
 	}
 
 	
@@ -213,5 +214,25 @@ public class OutputResultFile {
 				IOOperator.getInstance().writeToFileUTF8(path, entry.getKey() + "\t" + subEntry.getKey() + "\t" + subEntry.getValue() + "\n", true);
 			}
 		}
+	}
+	
+	
+	
+	public static void outputAttribtue(){
+		DBUtil db1 = new DBUtil();
+		Logger.getInstance().getElapseTime(true);
+		String sql = "select DISTINCT attr from extractions";
+		ResultSet rs1 = db1.executeQuerySQL(sql);
+		try{
+			while(rs1.next()){
+				String attr = rs1.getString("attr");
+				IOOperator.getInstance().writeToFileUTF8("nouns", attr + "\n", true);
+			}
+		}catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		db1.rundown();
 	}
 }
