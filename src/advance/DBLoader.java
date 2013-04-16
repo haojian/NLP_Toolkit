@@ -1,5 +1,8 @@
 package advance;
 
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
@@ -7,6 +10,8 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Map.Entry;
 
+import snowballstemmer.SnowballStemmer;
+import snowballstemmer.ext.englishStemmer;
 import utils.DBUtil;
 import utils.Logger;
 import utils.TextUtil;
@@ -21,9 +26,10 @@ public class DBLoader {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		DBLoader.getInstance().getClusterAttribute();
 	}
 
+	static SnowballStemmer stemmer = (SnowballStemmer) new englishStemmer();
 	public static DBLoader singleton;
 	
 	public static DBLoader getInstance(){
@@ -33,6 +39,7 @@ public class DBLoader {
 	}
 	
 	private static Map<String, RestaurantEntry> dataHash;
+	private static Map<String, ArrayList<String>> clusterAttribute;
 	
 	public static void LoadReviewsFromSQL(){
 		DBUtil db1 = new DBUtil();
@@ -73,7 +80,13 @@ public class DBLoader {
 			while(rs1.next()){
 				int sentIndex = rs1.getInt("sentindex");
 				String attr = rs1.getString("attr");
+				stemmer.setCurrent(attr);
+				stemmer.stem();
+				attr = stemmer.getCurrent();
 				String value = rs1.getString("value");
+				stemmer.setCurrent(value);
+				stemmer.stem();
+				value = stemmer.getCurrent();
 				Extraction tmp = new Extraction(value, attr, 0);
 				tmp.setSentIndex(sentIndex);
 				insertIntoHash(tmp, sentIndex);
@@ -100,16 +113,60 @@ public class DBLoader {
 		}
 	}
 
+	public static void LoadClusteringReults(){
+		try {
+			clusterAttribute.put("decor", new ArrayList<String>());
+			BufferedReader tmp = new BufferedReader(new FileReader("clusteringresult/decor.txt"));
+			String line = "";
+			while((line=tmp.readLine())!=null){
+				if(line.length() != 0)
+					clusterAttribute.get("decor").add(line);
+			}
+			
+			clusterAttribute.put("food", new ArrayList<String>());
+			tmp = new BufferedReader(new FileReader("clusteringresult/food.txt"));
+			line = "";
+			while((line=tmp.readLine())!=null){
+				if(line.length() != 0)
+					clusterAttribute.get("food").add(line);
+			}
+			
+			clusterAttribute.put("overall", new ArrayList<String>());
+			tmp = new BufferedReader(new FileReader("clusteringresult/overall.txt"));
+			line = "";
+			while((line=tmp.readLine())!=null){
+				if(line.length() != 0)
+					clusterAttribute.get("overall").add(line);
+			}
+			
+			clusterAttribute.put("price", new ArrayList<String>());
+			tmp = new BufferedReader(new FileReader("clusteringresult/price.txt"));
+			line = "";
+			while((line=tmp.readLine())!=null){
+				if(line.length() != 0)
+					clusterAttribute.get("price").add(line);
+			}
+			
+			clusterAttribute.put("service", new ArrayList<String>());
+			tmp = new BufferedReader(new FileReader("clusteringresult/service.txt"));
+			line = "";
+			while((line=tmp.readLine())!=null){
+				if(line.length() != 0)
+					clusterAttribute.get("service").add(line);
+			}
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		return;
+	}
+	
 	public Map<String, RestaurantEntry> getDataHash() {
 		if(dataHash == null){
 			dataHash = new HashMap<String, RestaurantEntry>();
 			LoadReviewsFromSQL();
 		}
 		return dataHash;
-	}
-
-	public static void setDataHash(Map<String, RestaurantEntry> dataHash) {
-		DBLoader.dataHash = dataHash;
 	}
 
 	public static ArrayList<String> GetValueList(){
@@ -132,5 +189,12 @@ public class DBLoader {
 		return null;
 	}
 
-
+	public Map<String, ArrayList<String>> getClusterAttribute() {
+		if(clusterAttribute == null){
+			clusterAttribute = new HashMap<String, ArrayList<String>>();
+			LoadClusteringReults();
+			//System.out.println(clusterAttribute.get("decor"));
+		}
+		return clusterAttribute;
+	}
 }

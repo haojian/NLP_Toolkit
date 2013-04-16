@@ -37,7 +37,7 @@ public class StopwordsFilter {
 				}
 			}
 			
-			csv =  new BufferedReader(new FileReader(utils.ParameterSetting.PATHTOSTOPWORDS));
+			csv =  new BufferedReader(new FileReader(utils.ParameterSetting.PATHTOBANNEDATTR));
 			line = "";
 			while((line = csv.readLine()) != null){
 				if(line.length() != 0){
@@ -45,7 +45,7 @@ public class StopwordsFilter {
 				}
 			}
 			
-			csv =  new BufferedReader(new FileReader(utils.ParameterSetting.PATHTOSTOPWORDS));
+			csv =  new BufferedReader(new FileReader(utils.ParameterSetting.PATHTOBANNEDVAL));
 			line = "";
 			while((line = csv.readLine()) != null){
 				if(line.length() != 0){
@@ -65,6 +65,18 @@ public class StopwordsFilter {
         if (Stopwordlist.contains(tmp))
             return true;
         return false;
+	}
+	
+	public boolean ifBannedAttr(String attr){
+		if(bannedAttrlist.contains(attr))
+			return true;
+		return false;
+	}
+	
+	public boolean ifBannedVal(String Val){
+		if(bannedVallist.contains(Val))
+			return true;
+		return false;
 	}
 	
 	public boolean filterExtraction(String input){

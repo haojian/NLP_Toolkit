@@ -13,6 +13,8 @@ public class ParameterSetting {
 	//path parameters.
 	public static String PATHTOSWN = "resources" + File.separator + "SentiWordNet_3.0.0.txt";
 	public static String PATHTOSTOPWORDS = "resources" + File.separator + "stopwords.txt";
+	public static String PATHTOBANNEDATTR = "resources" + File.separator + "bannedattr.txt";
+	public static String PATHTOBANNEDVAL = "resources" + File.separator + "bannedval.txt";
 	public static String PATHTOPOSTAGGEDDATA = "resources" + File.separator + "RevTxt" + File.separator + "backup";
 	public static String PATHTOCRAWLEDDATA = "resources" + File.separator + "RevTxt" + File.separator + "crawleddata";
 	public static String PATHTOCRAWLEDDATA1 = "resources" + File.separator + "RevTxt" + File.separator + "crawleddata1";
@@ -29,6 +31,7 @@ public class ParameterSetting {
 	public static String PATHTOTMPDIR1 = "Sample output for different iteration/03262013/output";
 	public static String PATHTOTMPDIR2 = "Sample output for different iteration/03212013/crawleddata3";
 	public static String PATHTOEXTRACTIONWITHRATING = "extractions";
+	public static String PATHTOCLUSTERINGRESULT = "clusteringresult";
 	//REGX String variables
 	public static String REGXWORDPATTERN_V1 = "(.*)";
 	public static String REGXWORDPATTERN_V2 = "([a-z]{3,15})";

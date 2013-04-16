@@ -4,6 +4,10 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
+import processing.StopwordsFilter;
+
+import advance.DBLoader;
+
 import utils.SortingHashMap;
 
 public class RestaurantEntry {
@@ -79,12 +83,56 @@ public class RestaurantEntry {
 		ArrayList<String> phrases = new ArrayList<String>();
 		int i =0;
 		for(Map.Entry<String, Integer> entry:phraseMap.getSortedMap().entrySet()){
-			//System.out.println(entry.getKey() + "\t" + entry.getValue());
 			phrases.add(entry.getKey());
 			i++;
 			if(i>=n)
 				break;
 		}
 		return phrases;
+	}
+	
+	public Map<String, ArrayList<String>> getStructuredPhrasebyTF(int n){
+		if(phraseMap.getSortedMap().size() == 0)
+			loadphraseMap();
+		Map<String, ArrayList<String>> phrases = new HashMap<String, ArrayList<String>>();
+		phrases.put("food", new ArrayList<String>());
+		phrases.put("decor", new ArrayList<String>());
+		phrases.put("overall", new ArrayList<String>());
+		phrases.put("service", new ArrayList<String>());
+		phrases.put("price", new ArrayList<String>());
+		for(Map.Entry<String, Integer> entry:phraseMap.getSortedMap().entrySet()){
+			String[] pair = entry.getKey().split("\t");
+			if(pair.length != 2)
+				continue;
+			String categ = getAttributeCategory(pair[1]);
+			if(!categ.equals("unkown")){
+				if(phrases.get(categ).size() <5 && !StopwordsFilter.getInstance().ifBannedAttr(pair[1]) 
+						&& !StopwordsFilter.getInstance().ifBannedVal(pair[0])){
+					phrases.get(categ).add(entry.getKey());
+				}
+			}
+			if((phrases.get("food").size() + phrases.get("decor").size()+
+					phrases.get("overall").size() + phrases.get("service").size() + 
+					phrases.get("price").size())>25){
+				break;
+			}
+		}
+		return phrases;
+	}
+	
+	
+	public String getAttributeCategory(String attr){
+		Map<String, ArrayList<String>> map = DBLoader.getInstance().getClusterAttribute();
+		if(map.get("food").contains(attr))
+			return "food";
+		else if(map.get("decor").contains(attr))
+			return "decor";
+		else if(map.get("overall").contains(attr))
+			return "overall";
+		else if(map.get("price").contains(attr))
+			return "price";
+		else if(map.get("service").contains(attr))
+			return "service";
+		return "unkown";
 	}
 }
