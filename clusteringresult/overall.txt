@@ -34,7 +34,6 @@ gesture
 fatty
 pasta
 wango
-mayo
 braised
 crumble
 key
@@ -84,7 +83,6 @@ rack
 tots
 smoke
 business
-squid
 battered
 choice
 sample
@@ -147,7 +145,6 @@ fan
 ham
 damn
 hate
-slice
 businessmen
 half
 incredible
@@ -195,7 +192,6 @@ chu
 beignet
 side
 touch
-cod
 tail
 fin
 cozy
@@ -289,7 +285,6 @@ trek
 impressed
 suited
 restaurants
-skewer
 periods
 tooth
 refills
@@ -313,7 +308,6 @@ full
 later
 corkage
 sliders
-meat
 years
 daily
 presses
@@ -331,7 +325,6 @@ told
 neighborhood
 experience
 houses
-skin
 greek
 phil
 gets
@@ -405,7 +398,6 @@ lie
 asian
 based
 mexican
-ice
 problem
 memory
 girlfriend
@@ -427,7 +419,6 @@ type
 loved
 ippudo
 second
-shoulder
 saturday
 happy
 korean
@@ -487,11 +478,9 @@ ends
 lickin
 falls
 soft
-ahi
 lovers
 decently
 ending
-quail
 fusion
 fast
 wrong
@@ -576,7 +565,6 @@ fairly
 making
 busy
 tendon
-currant
 beignets
 dogs
 sand

@@ -28,6 +28,8 @@ worth
 belly
 perfectly
 came
+santa
+barbara
 definitely
 minnie
 fried
@@ -35,6 +37,7 @@ yasuda
 favorite
 ordered
 better
+husband
 palo
 alto
 mashed
@@ -54,3 +57,10 @@ make
 got
 sunday
 sprout
+saturday
+friday
+east
+west
+north
+south
+damn

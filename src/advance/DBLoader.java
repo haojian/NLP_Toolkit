@@ -84,9 +84,6 @@ public class DBLoader {
 				stemmer.stem();
 				attr = stemmer.getCurrent();
 				String value = rs1.getString("value");
-				stemmer.setCurrent(value);
-				stemmer.stem();
-				value = stemmer.getCurrent();
 				Extraction tmp = new Extraction(value, attr, 0);
 				tmp.setSentIndex(sentIndex);
 				insertIntoHash(tmp, sentIndex);

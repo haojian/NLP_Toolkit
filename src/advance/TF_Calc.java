@@ -42,7 +42,7 @@ public class TF_Calc {
 		Map<String, RestaurantEntry> dataHash = DBLoader.getInstance().getDataHash();
 
 		if(dataHash.containsKey(s)){
-			System.out.println(dataHash.get(s).getStructuredPhrasebyTF(10));
+			//System.out.println(dataHash.get(s).getStructuredPhrasebyTF(10));
 			return dataHash.get(s).getStructuredPhrasebyTF(10);
 		}else{
 			System.out.println("unknown restaurant query.");

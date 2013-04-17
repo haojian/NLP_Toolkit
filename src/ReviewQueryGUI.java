@@ -1,5 +1,6 @@
 import java.io.File;
 import java.util.ArrayList;
+import java.util.Map;
 import java.util.Scanner;
 
 import advance.DBLoader;
@@ -62,17 +63,31 @@ public class ReviewQueryGUI {
 		}
 	}
 	
+	public static void errorInput(){
+		System.out.println("error command.");
+		System.out.println("--------------Help Menu-------");
+		System.out.println("0. Load Data.");
+		System.out.println("1. Restaurant Query.");
+		
+		System.out.println("Input your command:");
+		wait_new_command("main_");
+	}
+	
 	public static void processMain(int i){
 		if(i == 1){
 			printRestaurantNameList();
 		}else if(i==0){
 			printLoadDataMenu();
+		}else{
+			errorInput();
 		}
 	}
 	
 	public static void loadData(int i){
 		if(i==0){
 			System.err.println(DBLoader.getInstance().getDataHash().size() + " restaurants loaded..");
+			System.out.println("press anykey to return to main menu.");
+			wait_new_command("back_");
 		}else if (i==1){
 			System.err.println(DBLoader.getInstance().getClusterAttribute().size() + " categories loaded..");
 			System.err.println("food: " + DBLoader.getInstance().getClusterAttribute().get("food").size());
@@ -80,18 +95,24 @@ public class ReviewQueryGUI {
 			System.err.println("overall: " + DBLoader.getInstance().getClusterAttribute().get("overall").size());
 			System.err.println("service: " + DBLoader.getInstance().getClusterAttribute().get("service").size());
 			System.err.println("price: " + DBLoader.getInstance().getClusterAttribute().get("price").size());
+			System.out.println("press anykey to return to main menu.");
+			wait_new_command("back_");
+		}else{
+			errorInput();
 		}
-		System.out.println("press anykey to return to main menu.");
-		wait_new_command("back_");
+
 	}
 	
 	public static void viewRestaurant(int i){
 		System.out.println("--------------Help Menu-------");
-		System.out.println("Query for summarization of " + resturantNames.get(i));
-		System.out.println("0. Print top mentioned attributes.");
-		System.out.println("1. Print top mentioned value-attribute word pairs.");
-		System.out.println("2. Print Summarization based on categories.");
-		output_summary(resturantNames.get(i));
+		System.out.println("Summarization based on categories:");
+		Map<String, ArrayList<String>> rest  = TF_Calc.getstructuredDescinSingleRestaurant(resturantNames.get(i), 10); 
+		for(Map.Entry<String, ArrayList<String>> entry: rest.entrySet()){
+			System.out.println(entry.getKey());
+			System.out.println(entry.getValue());
+		}
+		System.out.println("press anykey to return to main menu.");
+		wait_new_command("back_");
 	}
 	
 	
@@ -106,7 +127,7 @@ public class ReviewQueryGUI {
 	public static void output_summary(String s){
 		//TF_Calc.getTopNounsinSingleRestaurant(s);
 		System.out.println("Press any key to return to the main menu.");
-		wait_new_command("back_");
+		
 	}
 	
 	public static void printRestaurantNameList(){
