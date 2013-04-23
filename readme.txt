@@ -1,6 +1,67 @@
 /**************
-Notes for personal record.
+Notes
 ***************/
+
+/**************
+Usage
+***************/
+1. Open the project in Eclipse.
+2. Update the build path if the code was changed to a new directory.
+3. Copy the resources/en-sent.bin to bin/en-sent.bin
+4. Play with the code.
+
+/**************
+Code architecture
+***************/
+Default package:
+	Command-based interface.
+Advance package:
+	NLP operation based on attribute-value word pair.
+Data structure:
+	Data entries in NLP processing.
+Processing:
+	Low-level NLP operation: bootstrapping extraction, refinement, output, seed generation, sentence splitter, sentiment analysis, stop word filter.
+
+SnowballStemmer:
+	Word Stemmer.
+
+Utils:
+	Basic DB, File IO, Mathematic, Parameter setting utility files.
+	All the file path setting can be find at ParameterSetting.java.
+
+
+
+/**************
+BootStrapping Extractions
+***************/
+Run the code at Extraction_bootstrapping.java.
+Change the path setting if necessary.
+		public static void main(String[] args) {
+		DataManager.getInstance();
+		// TODO Auto-generated method stub
+		for(File input : DataManager.getFilesUnderFolder(ParameterSetting.PATHTOCRAWLEDDATA3)){
+			if(input.getName().split("_").length != 3)
+				continue;
+			long startTime = System.currentTimeMillis();
+			ArrayList<String> tmp =  DataManager.getInstance().getSentencesInFile(input);
+			int size = tmp.size();
+			Extraction_bootstrapping.getInstance().UpdateCorpus(tmp, input.getName());
+			long ellapse = System.currentTimeMillis() - startTime;
+			//System.out.println(input.getName() + " \t " + size + " Execution time: " + ellapse);
+
+			//break;
+		}
+		System.out.println(Extraction_bootstrapping.getInstance().corpus.get(414663).UniqueID+"\t" + Extraction_bootstrapping.getInstance().corpus.get(414663).get_senttxt());
+		Extraction_bootstrapping.getInstance().StartProcess();
+		Extraction_bootstrapping.getInstance().WriteResulttoFile();
+		System.out.println("long wait.....it's finished!....");
+	}
+
+
+/**************
+Attribute Clustering
+***************/
+Attribute Clustering results can be found at /clusteringresults.
 
 
 /********************/
