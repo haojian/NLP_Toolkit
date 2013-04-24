@@ -20,7 +20,7 @@ Advance package:
 Data structure:
 	Data entries in NLP processing.
 Processing:
-	Low-level NLP operation: bootstrapping extraction, refinement, output, seed generation, sentence splitter, sentiment analysis, stop word filter.
+	Low-level NLP operations: bootstrapping extraction, refinement, output, seed generation, sentence splitter, sentiment analysis, stop word filter.
 
 SnowballStemmer:
 	Word Stemmer.
